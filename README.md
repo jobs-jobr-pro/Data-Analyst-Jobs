@@ -1,13 +1,16 @@
 # Data analyst Jobs 2025
 
-Daily updated Data analyst opportunities. Curated by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analysis-jobs) - the AI platform that finds and applies to jobs for you.
+This repository collects curated **Data analyst opportunities in 2025**.  
+Updated daily by [Jobr.pro](https://jobr.pro).
 
----
+Visit [Jobr.pro](https://jobr.pro) — **you choose the job, we handle the paperwork**.  
+Your Human + AI job search platform that helps you find, auto-apply, and track applications effortlessly.
 
 ## Current Openings
 
 | Company | Position | Location | Work Model | Date Posted |
 | ------- | -------- | -------- | ---------- | ----------- |
+
 | **[Meta](https://www.meta.com/)** | **[Supply Chain Data Analyst](https://www.metacareers.com/jobs/1287111623195273/)** | Menlo Park, CA | Fremont, CA | On Site | Sep 11 |
 | **[SALAFIN](https://www.salafin.com/)** | **[Data Analyst (H/F)](https://salafin-1730198328.teamtailor.com/jobs/6439300-data-analyst-h-f)** | Casablanca, Morocco | On Site | Sep 11 |
 | **[ENGIE](https://www.engie.com)** | **[Data Analyst](https://jobs.engie.com/job/Brussel-Data-Analyst-1000/1168329555/)** | Brussel, BE, 1000 | On Site | Sep 11 |
@@ -59,15 +62,12 @@ Daily updated Data analyst opportunities. Curated by [Jobr.pro](https://jobr.pro
 | **[RAKUNA](https://www.rakuna.co)** | **[Business/Data Analyst Intern](https://jobs.smartrecruiters.com/RAKUNA1/744000080974718-business-data-analyst-intern)** | Long Biên, Hà Nội, Vietnam | On Site | Sep 10 |
 | **[Bayer](https://www.bayer.com/)** | **[Master Data Analyst Sr](https://jobs.bayer.com/job/Munro-Master-Data-Analyst-Sr-Buen/1245723901/)** | Munro, Buenos Aires, AR | On Site | Sep 10 |
 
-*Updated daily with fresh opportunities*
-
----
-
 ## About This Repository
 
-This repository tracks current Data analyst positions from companies across different industries. Each listing is verified and updated automatically every 24 hours.
+This repository tracks current Data analyst positions from companies across different industries, updated daily.
 
 **What makes this useful:**
+
 - Fresh Data analyst positions aggregated from multiple job boards
 - Daily updates mean you see opportunities as soon as they're posted
 - Mix of remote, hybrid, and on-site positions from various company sizes
@@ -78,6 +78,7 @@ This repository tracks current Data analyst positions from companies across diff
 **Maximize your applications:** Instead of manually applying to each job, consider using [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analysis-jobs) to automate your applications with personalized cover letters and tracking.
 
 **Stay updated:**
+
 - Star this repository to get updates in your GitHub feed
 - Check back daily for new positions
 - Set up GitHub notifications for this repo
@@ -86,8 +87,8 @@ This repository tracks current Data analyst positions from companies across diff
 
 This repository gets consistent traffic from Data analyst professionals actively job searching. The audience is pre-qualified and specifically interested in Data analyst opportunities.
 
----
-
 This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analysis-jobs). If you find any issues or have suggestions, please contact us at hello@jobr.pro.
+
+---
 
 **Made with ❤️ by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analysis-jobs)**
