@@ -10,7 +10,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Work Model | Date Posted |
 | ------- | -------- | -------- | ---------- | ----------- |
-
 | **[Meta](https://www.meta.com/)** | **[Supply Chain Data Analyst](https://www.metacareers.com/jobs/1287111623195273/)** | Menlo Park, CA | Fremont, CA | On Site | Sep 11 |
 | **[SALAFIN](https://www.salafin.com/)** | **[Data Analyst (H/F)](https://salafin-1730198328.teamtailor.com/jobs/6439300-data-analyst-h-f)** | Casablanca, Morocco | On Site | Sep 11 |
 | **[ENGIE](https://www.engie.com)** | **[Data Analyst](https://jobs.engie.com/job/Brussel-Data-Analyst-1000/1168329555/)** | Brussel, BE, 1000 | On Site | Sep 11 |
