@@ -1,3 +1,4 @@
+<!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
 This repository collects curated **Data analyst opportunities in 2025**.  
@@ -8,9 +9,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ## Current Openings
 
-| Company | Position | Location | Type | Posted |
+| Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-
 | **[DoorLoop](https://www.doorloop.com/)** | **[Senior Customer Experience Data Analyst](https://www.doorloop.com/job-post?job=2A.C5C&_gl=1*w62s6t*_gcl_au*MTg0ODE2Mjc2NC4xNzU1NjE3MzM5*_ga*Njk0MTkwMTk2LjE3NDc3NTc2MTk.*_ga_CSHBWMC49K*czE3NTc2MDA2MDMkbzE2MCRnMSR0MTc1NzYwMDYxMyRqNTAkbDAkaDA.)** | Miami Beach, FL, US | On Site | Sep 11 |
 | **[Carnival Corporation & plc](https://www.carnivalcorp.com/)** | **[People Data Analyst & Dashboard Developer](https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/11137)** | SOUTHAMPTON, HAMPSHIRE, United Kingdom | On Site | Sep 11 |
 | **[University of Tennessee](https://tennessee.edu/)** | **[Data Analyst - Digital Learning at UT - UTK](https://fa-ewlq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/3876)** | Knoxville, TN, United States | On Site | Sep 11 |
@@ -100,3 +100,4 @@ This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_s
 ---
 
 **Made with ❤️ by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analysis-jobs)**
+<!-- prettier-ignore-end -->
