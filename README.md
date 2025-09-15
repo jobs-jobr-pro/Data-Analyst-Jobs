@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Sep 15, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Sep 15, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analysis-jobs).
@@ -13,6 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ClickUp](https://clickup.com/)** | **[GTM Data Analyst](https://clickup.com/careers/5644225004?gh_jid=5644225004)** | India | Remote | Sep 15 |
+| **[Insight Enterprises, Inc.](https://www.insight.com/)** | **[Client Master Data Analyst](https://jobsearch.insight.com/job/Pasig-Client-Master-Data-Analyst/1325993100/)** | Pasig, PH | On Site | Sep 15 |
+| **[AppsFlyer](https://www.appsflyer.com/)** | **[Business Data Analyst](https://careers.appsflyer.com/jobs/position/8168593002?gh_jid=8168593002)** | Herzliya | On Site | Sep 14 |
+| **[FINN](https://www.finn.com)** | **[Senior Data Analyst - Growth (m/f/x)](https://jobs.lever.co/finn/3c3fa927-1f5c-461d-869a-46dba25065d5)** | Munich, Germany | On Site | Sep 14 |
+| **[Yassir](https://yassir.com)** | **[Global Data analyst](https://jobs.lever.co/Yassir/d9f09f42-7121-4d71-bdca-0ef1aec06af6)** | Algiers, Algeria | On Site | Sep 14 |
+| **[Medical Home Network](https://www.medicalhomenetwork.org/)** | **[Senior Healthcare Data Analyst](https://jobs.lever.co/mhnchicago/130d5dee-10ad-470f-906d-d09beafc2ba1)** | Remote | Remote | Sep 14 |
+| **[Zencastr](https://zencastr.com/)** | **[Data Analyst](https://jobs.ashbyhq.com/zencastr/1e328089-f189-4172-8f90-e902037a099a)** | San Francisco Office | Remote | Sep 13 |
 | **[UT Southwestern Medical Center](https://www.utsouthwestern.edu/)** | **[Senior Daepartment Data Analyst, Graduate School Dean's Office](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=893558)** | Texas-Dallas-5323 Harry Hines Blvd | On Site | Sep 13 |
 | **[Bertelsmann](https://www.bertelsmann.com/)** | **[Field Data Analyst](https://jobsearch.createyourowncareer.com/ARVATO/job/East-Midlands-Gateway-Field-Data-Analyst-LEC-DE74-2BB/1247074001/)** | East Midlands Gateway, LEC, GB, DE74 2BB | On Site | Sep 13 |
 | **[Create Music Group](https://createmusicgroup.com/)** | **[Senior Data Analyst](https://ats.rippling.com/createmusicgroup/jobs/c0fe2e67-761e-42f1-adc7-33646aeda0b1)** | Remote (Vancouver, British Columbia, CA) | Remote | Sep 13 |
@@ -56,17 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Front](https://front.com/)** | **[Senior Product Data Analyst](https://jobs.ashbyhq.com/frontcareers/df57779a-61a4-4546-95f8-e9d276039525)** | Paris, France | On Site | Sep 12 |
 | **[Axians Portugal](https://www.axians.pt/)** | **[Data Analyst](https://axianspt.catsone.com/careers/69209-General/jobs/16726506-Data-Analyst)** | Lisboa, Lisbon | On Site | Sep 12 |
 | **[Sainsbury's](https://www.sainsburys.co.uk/)** | **[Lead Data Analyst – Finance BI](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/400018577)** | London, London, United Kingdom | On Site | Sep 12 |
-| **[Vonage](https://www.vonage.com/)** | **[Senior Data Analyst](https://job-boards.greenhouse.io/vonage/jobs/8148811002)** | Bangalore, India | On Site | Sep 12 |
-| **[CD PROJEKT RED](https://www.cdprojekt.com/)** | **[Senior Data Analyst, Performance and Quality](https://jobs.smartrecruiters.com/CDPROJEKTRED/744000081596890-senior-data-analyst-performance-and-quality)** | Warsaw, Masovian Voivodeship, Poland | On Site | Sep 12 |
-| **[Pulselive](https://pulselive.com/)** | **[Data Analyst (Contract)](https://jobs.ashbyhq.com/pulselive/156ed161-28d6-4e74-85ca-c7abecbf3f1e)** | London, Kennington | On Site | Sep 12 |
-| **[Rexel](https://www.rexel.com/)** | **[Senior Data Analyst](https://jobs.smartrecruiters.com/REXEL1/744000081588095-senior-data-analyst-)** | Paris, IDF, France | On Site | Sep 12 |
-| **[zooplus SE](https://careers.zooplus.com)** | **[(Senior) Digital Marketing Channels Data Analyst with SQL (all genders)](https://jobs.smartrecruiters.com/ZooplusSE/744000081586631--senior-digital-marketing-channels-data-analyst-with-sql-all-genders-)** | Krakow, Poland | On Site | Sep 12 |
-| **[zooplus SE](https://careers.zooplus.com)** | **[(Senior) Marketing Data Analyst with SQL (all genders)](https://jobs.smartrecruiters.com/ZooplusSE/744000081586596--senior-marketing-data-analyst-with-sql-all-genders-)** | Madrid, MD, Spain | On Site | Sep 12 |
-| **[LittleLives](https://www.littlelives.com/)** | **[Data Analyst / Data Scientist](https://littlelives-talent.freshteam.com/jobs/2I0ZghqrWRGr/data-analyst-data-scientist)** | Hanoi, Hanoi, Viet Nam | On Site | Sep 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 47 companies | Avg salary: 133k  
+**Current Stats:** 50 jobs | 28% remote | 48 companies | Avg salary: 134k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
