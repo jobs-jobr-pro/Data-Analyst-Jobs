@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Sep 16, 2025 at 13:49 UTC</small></sub>
+<sub><small>Last updated: Sep 16, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analysis-jobs).
@@ -13,6 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[UDrive](https://udrive.ae/)** | **[Billing Executive and Data Analyst](https://udrive.freshteam.com/jobs/6M_Hrvgkg3ZL/billing-executive-and-data-analyst)** | Dubai, United Arab Emirates | On Site | Sep 16 |
+| **[Worley](https://www.worley.com/)** | **[Field Survey Data Analyst I](https://worleyparsons.taleo.net/careersection/ext/jobdetail.ftl?job=BAY015R)** | USA-TX-Baytown | On Site | Sep 16 |
+| **[Feathersoft](https://www.feathersoft.com/)** | **[Junior Data Analyst](https://feathersoft.zohorecruit.com/jobs/Careers/325266000022419155)** | Infopark-Kochi, India | On Site | Sep 16 |
+| **[Wizikey](https://www.wizikey.com)** | **[Data Analyst (Onsite Role 8 AM- 5 PM)](https://jobs.smartrecruiters.com/Wizikey/744000082219146-data-analyst-onsite-role-8-am-5-pm-)** | Gurugram, HR, India | On Site | Sep 16 |
+| **[Ubisoft](https://www.ubisoft.com/)** | **[Data Analyst - Game Business Performance](https://jobs.smartrecruiters.com/Ubisoft2/744000082214765-data-analyst-game-business-performance)** | Saint-Mandé, IDF, France | On Site | Sep 16 |
+| **[RTE](https://www.rte-france.com/)** | **[Data Analyst Lignes Aériennes F/H](https://jobs.smartrecruiters.com/RTE1/744000082204264-data-analyst-lignes-aeriennes-f-h)** | Paris, IDF, France | On Site | Sep 16 |
+| **[Natixis in Portugal](https://www.natixis.com)** | **[Data Analyst (French Speaker) \| BPCE-SI](https://jobs.smartrecruiters.com/NatixisInPortugal/744000082197865-data-analyst-french-speaker-bpce-si)** | Porto, Porto, Portugal | On Site | Sep 16 |
+| **[Paysend](https://paysend.com/)** | **[Treasury Data Analyst](https://paysend.teamtailor.com/jobs/6457471-treasury-data-analyst)** | London, United Kingdom | On Site | Sep 16 |
 | **[Nexans](https://www.nexans.com/)** | **[Apprenti.e Process & Data Analyst](https://career.nexans.com/job/Courbevoie-Apprenti_e-Process-&-Data-Analyst-92400/1325776457/)** | Courbevoie, FR, 92400 | On Site | Sep 16 |
 | **[TechX](https://www.techxcorp.com/)** | **[Data Analyst](https://careers.techxcorp.com/jobs/6457309-data-analyst)** | Cầu Giấy, Vietnam | On Site | Sep 16 |
 | **[Computas](https://computas.com/)** | **[Data Analyst - EDG Steward](https://careersro.computas.com/jobs/6457098-data-analyst-edg-steward)** | București, Romania | On Site | Sep 16 |
@@ -20,23 +28,32 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Alaan](https://www.alaan.com/)** | **[Fraud & Risk Data Analyst](https://ats.rippling.com/alaan-careers/jobs/7eb0b9ad-3269-4475-94ef-5b5d1a93377a)** | Bengaluru, India | On Site | Sep 16 |
 | **[Ubisoft](https://www.ubisoft.com/)** | **[Senior Game Data Analyst – Ubisoft Paris Mobile (F/H/NB)](https://jobs.smartrecruiters.com/Ubisoft2/744000082168258-senior-game-data-analyst-ubisoft-paris-mobile-f-h-nb-)** | Paris, IDF, France | On Site | Sep 16 |
 | **[Truecaller](https://www.truecaller.com/)** | **[Senior Data Analyst](https://job-boards.greenhouse.io/truecaller/jobs/7253457)** | Stockholm, Sweden | On Site | Sep 16 |
+| **[Virtuos](https://www.virtuosgames.com/)** | **[Data Analyst](https://fa-exhj-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/1462)** | Singapore | On Site | Sep 16 |
 | **[Sia](https://www.sia-partners.com)** | **[Senior Data Analyst](https://jobs.smartrecruiters.com/Sia/744000082155025-senior-data-analyst)** | Mumbai, Maharashtra, India | On Site | Sep 16 |
 | **[Ironclad](https://ironcladapp.com/)** | **[Data Analyst II - G&A](https://jobs.ashbyhq.com/ironcladhq/25f3e3bb-b43b-44a2-b9ce-af53b4b87f41)** | San Francisco | Remote | Sep 16 |
 | **[Avery Dennison](https://www.averydennison.com/)** | **[Data Analyst - Production Planning](https://jobs.smartrecruiters.com/AveryDennison/744000082147205-data-analyst-production-planning)** | Nhà Bè, Hồ Chí Minh, Vietnam | On Site | Sep 16 |
 | **[Avery Dennison](https://www.averydennison.com/)** | **[Data Analyst](https://jobs.smartrecruiters.com/AveryDennison/744000082146860-data-analyst)** | Nhà Bè, Hồ Chí Minh, Vietnam | On Site | Sep 16 |
 | **[Sertis](https://www.sertiscorp.com/)** | **[Data Analyst/Business Intelligence](https://job-boards.greenhouse.io/sertis/jobs/8128275002)** | Bangkok, Bangkok Metropolis, Thailand | On Site | Sep 16 |
+| **[onsemi](https://www.onsemi.com/)** | **[Summer 2026 - Internal Audit Data Analyst Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/2503668)** | Scottsdale, AZ, United States | On Site | Sep 16 |
 | **[Addepar](https://addepar.com/)** | **[Investment Data Analyst](https://job-boards.greenhouse.io/addepar1/jobs/8170389002)** | Salt Lake City, UT | On Site | Sep 16 |
-| **[S&P Global](https://www.spglobal.com/)** | **[Data Analyst, Mandarin Translations](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Internal/job/MY---PENANG-38-JALAN-SULTAN-AHMAD-SHAH---LOTS-302-701--901/Data-Analyst--Vietnamese-Translations_301408-1)** | MY - PENANG 38 JALAN SULTAN AHMAD SHAH - LOTS 3.02 7.01 & 9.01, Malaysia | On Site | Sep 16 |
-| **[Gartner](https://www.gartner.com/)** | **[Data Analyst](https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Gurgaon/Data-Analyst_103374)** | Gurgaon - Cyber Park, India | On Site | Sep 16 |
-| **[S&P Global](https://www.spglobal.com/)** | **[Data Analyst](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Internal/job/Noida-Uttarpradesh/Data-Analyst_317141)** | IN - NOIDA CANDOR TECHSPACE SECTOR 62, India | On Site | Sep 16 |
+| **[ANZ Banking Group Limited](https://www.anz.com.au/)** | **[Financial Crime Data Analyst (Fraud) - Suncorp Bank](https://careers.anz.com/job/Brisbane-Financial-Crime-Data-Analyst-%28Fraud%29-Suncorp-Bank/1247108866/)** | Brisbane, AU | On Site | Sep 16 |
+| **[Houst](https://www.houst.com)** | **[Data Analyst](https://apply.workable.com/j/11BB1A9885/apply)** | London, England, United Kingdom | On Site | Sep 16 |
 | **[Gartner](https://www.gartner.com/)** | **[Data Analyst (SQL, Excel, JIRA)](https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Gurgaon/Data-Analyst--SQL--Excel--JIRA-_100988)** | Gurgaon - Cyber Park, India | On Site | Sep 16 |
+| **[S&P Global](https://www.spglobal.com/)** | **[Data Analyst](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Internal/job/Noida-Uttarpradesh/Data-Analyst_317141)** | IN - NOIDA CANDOR TECHSPACE SECTOR 62, India | On Site | Sep 16 |
+| **[Gartner](https://www.gartner.com/)** | **[Data Analyst](https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Gurgaon/Data-Analyst_103374)** | Gurgaon - Cyber Park, India | On Site | Sep 16 |
+| **[Intact](https://www.intactfc.com/)** | **[Data Analyst II (Temporary 12 months)](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/Data-Analyst-II--Temporary-12-months-_R147778)** | Toronto, 700 University Avenue, Canada | On Site | Sep 16 |
+| **[S&P Global](https://www.spglobal.com/)** | **[Data Analyst, Mandarin Translations](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Internal/job/MY---PENANG-38-JALAN-SULTAN-AHMAD-SHAH---LOTS-302-701--901/Data-Analyst--Vietnamese-Translations_301408-1)** | MY - PENANG 38 JALAN SULTAN AHMAD SHAH - LOTS 3.02 7.01 & 9.01, Malaysia | On Site | Sep 16 |
+| **[Ingersoll Rand](https://www.irco.com/)** | **[Data Analyst - SCM](https://careers.irco.com/job/Chennai-Data-Analyst-SCM-TN-603-002/1326421100/)** | Chennai, TN, IN, 603 002 | On Site | Sep 16 |
+| **[LotusFlare](https://lotusflare.com)** | **[Data Analyst](https://lotusflareinc.applytojob.com/apply/Qi7eDUp5aV/Data-Analyst)** | Pune | On Site | Sep 16 |
+| **[Sanofi](https://www.sanofi.com/)** | **[Global Meetings & Events Data Analyst](https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Global-Meetings---Events-Data-Analyst_R2821533-1)** | Hyderabad, India | On Site | Sep 16 |
+| **[PwC](https://www.pwc.com/)** | **[IN_ Senior Associate _ Web Data Analyst _Data & Analytics_Advisory_Noida](https://pwc.wd3.myworkdayjobs.com/en-US/NonPublic_Postings/job/Noida/IN-Manager--Java-Full-Stack-Developer-with-Azure-Platform--Data---Analytics-Advisory-Hyderabad_642744WD)** | Noida, India | On Site | Sep 16 |
+| **[QuidelOrtho](https://www.quidelortho.com/)** | **[Customer Data Analyst](https://orthoclinical.wd1.myworkdayjobs.com/en-US/Search/job/US---NY---Rochester/Customer-Data-Analyst_R0015647)** | US - NY - Rochester - CNP - 100, United States | On Site | Sep 16 |
 | **[Ventia](https://www.ventia.com)** | **[Data Analyst - Business Performance](https://jobs.ventia.com/job/Cremorne-Data-Analyst-Business-Performance-QLD-3121/1326423200/)** | Cremorne, QLD, AU, 3121 | On Site | Sep 16 |
 | **[NTT DATA](https://nttdata.com)** | **[Business Consulting- Business Analyst with Data analyst ,Wealth Management](https://careers-inc.nttdata.com/job/Pune-Business-Consulting-Business-Analyst-with-Data-analyst-%2CWealth-Management-MH/1326427400/)** | Pune, MH, IN | On Site | Sep 16 |
-| **[Houst](https://www.houst.com)** | **[Data Analyst](https://apply.workable.com/j/11BB1A9885/apply)** | London, England, United Kingdom | On Site | Sep 16 |
+| **[BBVA](https://www.bbva.com/)** | **[Tax Data Analyst - Temporal por seis meses](https://bbva.wd3.myworkdayjobs.com/en-US/BBVA/job/1054-Retiro-Capital-Federal/Tax-Data-Analyst---Temporal-por-tres-meses_JR00082284)** | TORRE BBVA, Argentina | On Site | Sep 16 |
 | **[Kraft Heinz](https://www.kraftheinzcompany.com/)** | **[Data Analyst Intern](https://heinz.wd1.myworkdayjobs.com/en-US/KraftHeinz_Careers_UR/job/Amsterdam/Data-Analyst-Intern_R-96423)** | Amsterdam, Netherlands | On Site | Sep 16 |
-| **[ANZ Banking Group Limited](https://www.anz.com.au/)** | **[Financial Crime Data Analyst (Fraud) - Suncorp Bank](https://careers.anz.com/job/Brisbane-Financial-Crime-Data-Analyst-%28Fraud%29-Suncorp-Bank/1247108866/)** | Brisbane, AU | On Site | Sep 16 |
-| **[Ingersoll Rand](https://www.irco.com/)** | **[Data Analyst - SCM](https://careers.irco.com/job/Chennai-Data-Analyst-SCM-TN-603-002/1326421100/)** | Chennai, TN, IN, 603 002 | On Site | Sep 16 |
-| **[PwC](https://www.pwc.com/)** | **[IN_ Senior Associate _ Web Data Analyst _Data & Analytics_Advisory_Noida](https://pwc.wd3.myworkdayjobs.com/en-US/NonPublic_Postings/job/Noida/IN-Manager--Java-Full-Stack-Developer-with-Azure-Platform--Data---Analytics-Advisory-Hyderabad_642744WD)** | Noida, India | On Site | Sep 16 |
+| **[MANGO](https://www.mango.com/)** | **[INTERN DATA ANALYST - CUSTOMER EXPERIENCE](https://mango.wd3.myworkdayjobs.com/en-US/Mango_Work_Your_Passion/job/Palau-solit-i-Plegamans-Catalonia-Spain/INTERN-DATA-ANALYST---CUSTOMER-EXPERIENCE_JR125127)** | Palau-solità i Plegamans, Catalonia, Spain | On Site | Sep 16 |
+| **[Citizens](https://www.citizensbank.com/)** | **[Private Bank, Principal Data Analyst](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/41711)** | Johnston, RI, United States | On Site | Sep 15 |
 | **[The One 23 Group](https://theone23group.com/)** | **[Defense Data Analyst](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3577179)** | Columbus, Ohio | On Site | Sep 15 |
 | **[Everly Health, Inc.](https://www.everlyhealth.com/)** | **[Senior Data Analyst - Client Facing](https://jobs.lever.co/everlywell/239b0e54-5e5b-4501-bc54-607770e61203)** | Austin, TX | On Site | Sep 15 |
 | **[Beyond Finance](https://www.beyondfinance.com/)** | **[Senior Data Analyst](https://job-boards.greenhouse.io/beyondfinance/jobs/7252170)** | Chicago | On Site | Sep 15 |
@@ -46,27 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Veeam Software](https://www.veeam.com/)** | **[Data Analyst (fixed term)](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4672845101)** | Bucharest, Romania | On Site | Sep 15 |
 | **[Natixis in Portugal](https://www.natixis.com)** | **[Data Analyst (French Speaker) - CRM](https://jobs.smartrecruiters.com/NatixisInPortugal/744000082067735-data-analyst-french-speaker-crm)** | Lisbon, Lisbon District, Portugal | On Site | Sep 15 |
 | **[Buy Box Experts](https://www.buyboxexperts.com)** | **[Data Analyst](https://jobs.lever.co/buyboxexperts/362198df-f048-4105-a32a-3cc4bc3bcd4d)** | Islamabad | On Site | Sep 15 |
-| **[ECS](https://ecstech.com/)** | **[Data Analyst](https://myjobs.adp.com/cdmdsjobs/cx/job-details?reqId=5001150040906)** | Fairfax, VA, United States | On Site | Sep 15 |
-| **[FireArc](https://fire-arc.com/)** | **[Marketing Data Analyst](https://fire-arc.com/careers/co/firearc/00.D58/marketing-data-analyst/all/?t=1757878857618)** | Herzliya, Tel Aviv District, IL | On Site | Sep 15 |
-| **[Cyera](https://www.cyera.io/)** | **[Data Analyst](https://www.comeet.com/jobs/cyera/17.008/data-analyst/2C.75D)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Sep 15 |
-| **[AbbVie](https://www.abbvie.com/)** | **[Senior Master Data Analyst](https://jobs.smartrecruiters.com/AbbVie/3743990009471782-senior-master-data-analyst)** | North Chicago, IL, United States | Remote | Sep 15 |
-| **[Hostinger](https://www.hostinger.com/)** | **[Data Analyst (Marketing)](https://jobs.lever.co/hostinger/e6aeef43-ee2e-4b2b-8419-1cac38276a96)** | Vilnius | On Site | Sep 15 |
-| **[MittLogik](https://www.mittlogik.se/)** | **[Data Analyst](https://careers.mittlogik.se/jobs/6452651-data-analyst)** | Malmö, Sweden | On Site | Sep 15 |
-| **[TQG](https://www.tqg.de/)** | **[(Senior) Data Analyst (gn)](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/4674080101)** | Hamburg | On Site | Sep 15 |
-| **[Cybernetic Controls Limited](https://www.cybernetic-controls.com/)** | **[SRB27 Data Analyst - Regulatory Intelligence](https://cybernetic-controls.pinpointhq.com/en/postings/5f2f5f3a-a586-489f-ac76-1da28315fb68)** | Remote (Asia) | Remote | Sep 15 |
-| **[Flink](https://goflink.com)** | **[Logistics Data Analyst (m/f/d)](https://jobs.smartrecruiters.com/Flink3/744000081993590-logistics-data-analyst-m-f-d-)** | Berlin, BE, Germany | On Site | Sep 15 |
-| **[Everience Benelux](https://www.everience.com)** | **[Data Analyst - 5 ans d'expérience – Bilingue anglais - E-commerce & Retail – H/F](https://jobs.smartrecruiters.com/EVERIENCE/744000081992765-data-analyst-5-ans-d-experience-bilingue-anglais-e-commerce-retail-h-f)** | Marcq-en-Barœul, Hauts-de-France, France | On Site | Sep 15 |
-| **[Lagardère Travel Retail](https://www.lagardere-tr.uk/)** | **[Commercial Data Analyst](https://lagarderetravelretail.talosats-careers.com/job/765600)** | Victoria, United Kingdom | On Site | Sep 15 |
-| **[Playtech](https://www.playtech.com/)** | **[Data Analyst](https://jobs.smartrecruiters.com/Playtech/744000081985065-data-analyst)** | Sofia, Bulgaria | On Site | Sep 15 |
-| **[zooplus SE](https://careers.zooplus.com)** | **[(Senior) Marketing Data Analyst with SQL (all genders)](https://jobs.smartrecruiters.com/ZooplusSE/744000081974381--senior-marketing-data-analyst-with-sql-all-genders-)** | München, BY, Germany | On Site | Sep 15 |
-| **[TripAdvisor](https://www.tripadvisor.com/)** | **[Operations Business Data Analyst - TheFork](https://job-boards.greenhouse.io/tripadvisor/jobs/7250484)** | Barcelona | On Site | Sep 15 |
-| **[The Fork](https://careers.thefork.com/)** | **[Operations Business Data Analyst](https://job-boards.greenhouse.io/thefork/jobs/7250483)** | Barcelona | On Site | Sep 15 |
-| **[Coupang](https://www.coupang.com/)** | **[Staff Data Analyst](https://boards.greenhouse.io/coupanginternal/jobs/7115121?gh_jid=7115121)** | Shanghai, China | On Site | Sep 15 |
-| **[Ebury](https://ebury.com/)** | **[Data Analyst Intern](https://job-boards.eu.greenhouse.io/ebury/jobs/4671543101)** | Madrid | On Site | Sep 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 47 companies | Avg salary: 125k  
+**Current Stats:** 50 jobs | 2% remote | 45 companies | Avg salary: 128k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
