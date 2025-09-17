@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Sep 16, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 17, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analysis-jobs).
@@ -38,35 +38,35 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sertis](https://www.sertiscorp.com/)** | **[Data Analyst/Business Intelligence](https://job-boards.greenhouse.io/sertis/jobs/8128275002)** | Bangkok, Bangkok Metropolis, Thailand | On Site | Sep 16 |
 | **[onsemi](https://www.onsemi.com/)** | **[Summer 2026 - Internal Audit Data Analyst Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/2503668)** | Scottsdale, AZ, United States | On Site | Sep 16 |
 | **[Addepar](https://addepar.com/)** | **[Investment Data Analyst](https://job-boards.greenhouse.io/addepar1/jobs/8170389002)** | Salt Lake City, UT | On Site | Sep 16 |
-| **[S&P Global](https://www.spglobal.com/)** | **[Data Analyst, Mandarin Translations](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Internal/job/MY---PENANG-38-JALAN-SULTAN-AHMAD-SHAH---LOTS-302-701--901/Data-Analyst--Vietnamese-Translations_301408-1)** | MY - PENANG 38 JALAN SULTAN AHMAD SHAH - LOTS 3.02 7.01 & 9.01, Malaysia | On Site | Sep 16 |
-| **[Gartner](https://www.gartner.com/)** | **[Data Analyst](https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Gurgaon/Data-Analyst_103374)** | Gurgaon - Cyber Park, India | On Site | Sep 16 |
-| **[Houst](https://www.houst.com)** | **[Data Analyst](https://apply.workable.com/j/11BB1A9885/apply)** | London, England, United Kingdom | On Site | Sep 16 |
-| **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst II Healthcare Analytics](https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-FL/Data-Analyst-II--Healthcare-Analytics-_1589234)** | Remote-FL, United States | Remote | Sep 16 |
-| **[Electrolux Group](https://www.electroluxgroup.com/)** | **[Procurement Data Analyst - Steel](https://electrolux.wd3.myworkdayjobs.com/en-US/ElectroluxCareerSite/job/Santa-Lucia-di-Piave/Procurement-Data-Analyst---Steel_JR72308)** | IT-SLD-001, Italy | On Site | Sep 16 |
-| **[Frost](https://www.frostbank.com/)** | **[Risk Management Data Analyst II](https://frostbank.wd5.myworkdayjobs.com/en-US/External/job/San-Antonio-TX---One-Frost/Risk-Management-Data-Analyst-II_R251724)** | San Antonio, TX - One Frost, United States | On Site | Sep 16 |
 | **[Gartner](https://www.gartner.com/)** | **[Data Analyst (SQL, Excel, JIRA)](https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Gurgaon/Data-Analyst--SQL--Excel--JIRA-_100988)** | Gurgaon - Cyber Park, India | On Site | Sep 16 |
+| **[Electrolux Group](https://www.electroluxgroup.com/)** | **[Procurement Data Analyst - Steel](https://electrolux.wd3.myworkdayjobs.com/en-US/ElectroluxCareerSite/job/Santa-Lucia-di-Piave/Procurement-Data-Analyst---Steel_JR72308)** | IT-SLD-001, Italy | On Site | Sep 16 |
+| **[Gartner](https://www.gartner.com/)** | **[Data Analyst](https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Gurgaon/Data-Analyst_103374)** | Gurgaon - Cyber Park, India | On Site | Sep 16 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Data Analyst](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Internal/job/Noida-Uttarpradesh/Data-Analyst_317141)** | IN - NOIDA CANDOR TECHSPACE SECTOR 62, India | On Site | Sep 16 |
-| **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Oncology Data Analyst, part-time](https://aah.wd5.myworkdayjobs.com/en-US/External/job/Atrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC/Oncology-Data-Analyst--part-time_R161807-1)** | Atrium Health Wake Forest Baptist - Medical Center Blvd, Winston Salem, NC, United States | On Site | Sep 16 |
+| **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst II Healthcare Analytics](https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-FL/Data-Analyst-II--Healthcare-Analytics-_1589234)** | Remote-FL, United States | Remote | Sep 16 |
+| **[Stanley Black & Decker](https://www.stanleyblackanddecker.com/)** | **[Sr. Data Analyst](https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Medelln-Antioquia-Colombia/Sr-Data-Analyst_REQ-1000041693)** | Medellin COL - Poblado Carrera Ave, Colombia | On Site | Sep 16 |
+| **[S&P Global](https://www.spglobal.com/)** | **[Data Analyst, Mandarin Translations](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Internal/job/MY---PENANG-38-JALAN-SULTAN-AHMAD-SHAH---LOTS-302-701--901/Data-Analyst--Vietnamese-Translations_301408-1)** | MY - PENANG 38 JALAN SULTAN AHMAD SHAH - LOTS 3.02 7.01 & 9.01, Malaysia | On Site | Sep 16 |
+| **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst I Healthcare Analytics](https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-FL/Data-Analyst-I-Healthcare-Analytics_1581646-1)** | Remote-FL, United States | Remote | Sep 16 |
+| **[LotusFlare](https://lotusflare.com)** | **[Data Analyst](https://lotusflareinc.applytojob.com/apply/Qi7eDUp5aV/Data-Analyst)** | Pune | On Site | Sep 16 |
 | **[Sanofi](https://www.sanofi.com/)** | **[Global Meetings & Events Data Analyst](https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Global-Meetings---Events-Data-Analyst_R2821533-1)** | Hyderabad, India | On Site | Sep 16 |
 | **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst III](https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-NC/Data-Analyst-III_1589645)** | Remote-NC, United States | Remote | Sep 16 |
-| **[Ventia](https://www.ventia.com)** | **[Data Analyst - Business Performance](https://jobs.ventia.com/job/Cremorne-Data-Analyst-Business-Performance-QLD-3121/1326423200/)** | Cremorne, QLD, AU, 3121 | On Site | Sep 16 |
+| **[Frost](https://www.frostbank.com/)** | **[Risk Management Data Analyst II](https://frostbank.wd5.myworkdayjobs.com/en-US/External/job/San-Antonio-TX---One-Frost/Risk-Management-Data-Analyst-II_R251724)** | San Antonio, TX - One Frost, United States | On Site | Sep 16 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lead Data Analyst](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Lead-Data-Analyst_10130493)** | USA - CA - 2450 Broadway, United States | On Site | Sep 16 |
 | **[Ingersoll Rand](https://www.irco.com/)** | **[Data Analyst - SCM](https://careers.irco.com/job/Chennai-Data-Analyst-SCM-TN-603-002/1326421100/)** | Chennai, TN, IN, 603 002 | On Site | Sep 16 |
-| **[PwC](https://www.pwc.com/)** | **[IN_ Senior Associate _ Web Data Analyst _Data & Analytics_Advisory_Noida](https://pwc.wd3.myworkdayjobs.com/en-US/NonPublic_Postings/job/Noida/IN-Manager--Java-Full-Stack-Developer-with-Azure-Platform--Data---Analytics-Advisory-Hyderabad_642744WD)** | Noida, India | On Site | Sep 16 |
-| **[ANZ Banking Group Limited](https://www.anz.com.au/)** | **[Financial Crime Data Analyst (Fraud) - Suncorp Bank](https://careers.anz.com/job/Brisbane-Financial-Crime-Data-Analyst-%28Fraud%29-Suncorp-Bank/1247108866/)** | Brisbane, AU | On Site | Sep 16 |
-| **[Nissan Motor Corporation](https://www.nissan-global.com/)** | **[Sr. Data Analyst](https://alliance.wd3.myworkdayjobs.com/en-US/NissanPrivateExternal/job/Franklin-Tennessee---United-States-of-America/Sr-Data-Analyst_R00195447-2)** | Franklin, Tennessee - United States of America | On Site | Sep 16 |
-| **[LotusFlare](https://lotusflare.com)** | **[Data Analyst](https://lotusflareinc.applytojob.com/apply/Qi7eDUp5aV/Data-Analyst)** | Pune | On Site | Sep 16 |
-| **[BBVA](https://www.bbva.com/)** | **[Tax Data Analyst - Temporal por seis meses](https://bbva.wd3.myworkdayjobs.com/en-US/BBVA/job/1054-Retiro-Capital-Federal/Tax-Data-Analyst---Temporal-por-tres-meses_JR00082284)** | TORRE BBVA, Argentina | On Site | Sep 16 |
-| **[Intact](https://www.intactfc.com/)** | **[Data Analyst II (Temporary 12 months)](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/Data-Analyst-II--Temporary-12-months-_R147778)** | Toronto, 700 University Avenue, Canada | On Site | Sep 16 |
-| **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst I Healthcare Analytics](https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-FL/Data-Analyst-I-Healthcare-Analytics_1581646-1)** | Remote-FL, United States | Remote | Sep 16 |
-| **[QuidelOrtho](https://www.quidelortho.com/)** | **[Customer Data Analyst](https://orthoclinical.wd1.myworkdayjobs.com/en-US/Search/job/US---NY---Rochester/Customer-Data-Analyst_R0015647)** | US - NY - Rochester - CNP - 100, United States | On Site | Sep 16 |
-| **[Eli Lilly and Company](https://www.lilly.com/)** | **[Alternance 24 mois – Associé(e) Data Analyst – F/H](https://lilly.wd5.myworkdayjobs.com/en-US/CMP/job/France-Neuilly-Sur-Seine/Alternance-24-mois---Associ-e--Data-Analyst---F-H_R-84732-1)** | FR: Paris, France | On Site | Sep 16 |
-| **[NTT DATA](https://nttdata.com)** | **[Business Consulting- Business Analyst with Data analyst ,Wealth Management](https://careers-inc.nttdata.com/job/Pune-Business-Consulting-Business-Analyst-with-Data-analyst-%2CWealth-Management-MH/1326427400/)** | Pune, MH, IN | On Site | Sep 16 |
+| **[Santander](https://www.santander.com/)** | **[Data Analyst of CLM Quality Control](https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Boadilla-del-Monte/Data-Analyst-of-CLM-Quality-Control_Req1480636-1)** | Dehesa P2, Spain | On Site | Sep 16 |
+| **[Houst](https://www.houst.com)** | **[Data Analyst](https://apply.workable.com/j/11BB1A9885/apply)** | London, England, United Kingdom | On Site | Sep 16 |
+| **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Oncology Data Analyst, part-time](https://aah.wd5.myworkdayjobs.com/en-US/External/job/Atrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC/Oncology-Data-Analyst--part-time_R161807-1)** | Atrium Health Wake Forest Baptist - Medical Center Blvd, Winston Salem, NC, United States | On Site | Sep 16 |
 | **[MANGO](https://www.mango.com/)** | **[INTERN DATA ANALYST - CUSTOMER EXPERIENCE](https://mango.wd3.myworkdayjobs.com/en-US/Mango_Work_Your_Passion/job/Palau-solit-i-Plegamans-Catalonia-Spain/INTERN-DATA-ANALYST---CUSTOMER-EXPERIENCE_JR125127)** | Palau-solità i Plegamans, Catalonia, Spain | On Site | Sep 16 |
+| **[Intact](https://www.intactfc.com/)** | **[Data Analyst II (Temporary 12 months)](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/Data-Analyst-II--Temporary-12-months-_R147778)** | Toronto, 700 University Avenue, Canada | On Site | Sep 16 |
+| **[QuidelOrtho](https://www.quidelortho.com/)** | **[Customer Data Analyst](https://orthoclinical.wd1.myworkdayjobs.com/en-US/Search/job/US---NY---Rochester/Customer-Data-Analyst_R0015647)** | US - NY - Rochester - CNP - 100, United States | On Site | Sep 16 |
+| **[BBVA](https://www.bbva.com/)** | **[Tax Data Analyst - Temporal por seis meses](https://bbva.wd3.myworkdayjobs.com/en-US/BBVA/job/1054-Retiro-Capital-Federal/Tax-Data-Analyst---Temporal-por-tres-meses_JR00082284)** | TORRE BBVA, Argentina | On Site | Sep 16 |
+| **[Vanguard](https://www.vanguard.com/)** | **[Investment Data Analyst, Senior Associate](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Dublin-Ireland/Investment-Data-Analyst--Senior-Associate_170559-2)** | IRL - Ireland | On Site | Sep 16 |
+| **[Kraft Heinz](https://www.kraftheinzcompany.com/)** | **[Data Analyst Intern](https://heinz.wd1.myworkdayjobs.com/en-US/KraftHeinz_Careers_UR/job/Amsterdam/Data-Analyst-Intern_R-96423)** | Amsterdam, Netherlands | On Site | Sep 16 |
+| **[ANZ Banking Group Limited](https://www.anz.com.au/)** | **[Financial Crime Data Analyst (Fraud) - Suncorp Bank](https://careers.anz.com/job/Brisbane-Financial-Crime-Data-Analyst-%28Fraud%29-Suncorp-Bank/1247108866/)** | Brisbane, AU | On Site | Sep 16 |
 | **[Citizens](https://www.citizensbank.com/)** | **[Private Bank, Principal Data Analyst](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/41711)** | Johnston, RI, United States | On Site | Sep 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 44 companies | Avg salary: 106k  
+**Current Stats:** 50 jobs | 8% remote | 44 companies | Avg salary: 116k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
