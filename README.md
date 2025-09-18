@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Sep 17, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 18, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analysis-jobs).
@@ -27,23 +27,28 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TechX](https://www.techxcorp.com/)** | **[Data Analyst - Hanoi](https://careers.techxcorp.com/jobs/6461981-data-analyst-hanoi)** | Cầu Giấy, Vietnam | On Site | Sep 17 |
 | **[IDC](https://www.idc.com/)** | **[Data Analyst - Consumer Devices (Korean Speaker)](https://idccareers-apac-idg.icims.com/jobs/6210/data-analyst---consumer-devices-%28korean-speaker%29/job?in_iframe=1)** | Kuala Lumpur, Malaysia | On Site | Sep 17 |
 | **[Tri-Cities Communtiy Health](https://mytcch.org/)** | **[Sr. Data Analyst](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3580719)** | Pasco, WA, US | On Site | Sep 17 |
-| **[Allianz](https://www.allianz.com/)** | **[Sales Data Analyst](https://internal-careers.allianz.com/job/Paris-Sales-Data-Analyst-92-92800/1207152901/)** | Paris, 92, FR, 92800 | On Site | Sep 17 |
+| **[Allianz](https://www.allianz.com/)** | **[Sales Data Analyst](https://internal-careers.allianz.com/job/Paris-Sales-Data-Analyst-92-92800/1207152801/)** | Paris, 92, FR, 92800 | On Site | Sep 17 |
 | **[Victoria University of Wellington](https://www.wgtn.ac.nz)** | **[Data Analyst](https://ejye.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/1008407)** | Kelburn, Wellington, New Zealand | On Site | Sep 17 |
-| **[FedEx](https://www.fedex.com/)** | **[Data Analyst- Senior](https://fedex.wd1.myworkdayjobs.com/en-US/FXE-MEISA-External/job/FXE-MEISAINDBOMHQBOMHQMumbai/Data-Analyst--Senior_RC739813)** | FXE-MEISA/IND/BOMHQ/BOMHQ/Mumbai, India | On Site | Sep 17 |
-| **[FedEx](https://www.fedex.com/)** | **[Data Analyst - Senior II](https://fedex.wd1.myworkdayjobs.com/en-US/FXE-MEISA-External/job/FXE-MEISAINDBOMHQBOMHQMumbai/Data-Analyst---Senior-II_RC743765)** | FXE-MEISA/IND/BOMHQ/BOMHQ/Mumbai, India | On Site | Sep 17 |
-| **[UBS](https://www.ubs.com/)** | **[Data Analyst (Technical)](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=330308)** | Mumbai, Pune, India | On Site | Sep 17 |
-| **[YouLend](https://youlend.com/)** | **[Capital Market Data Analyst](https://apply.workable.com/j/A339ABC0AD/apply)** | Holborn, England, United Kingdom | On Site | Sep 17 |
-| **[MMDSmart Ltd](https://www.mmdsmart.com)** | **[Data Analyst](https://apply.workable.com/j/7CBAEA562C/apply)** | Poland - Remote | Remote | Sep 17 |
-| **[Barclays](https://home.barclays/)** | **[Data Analyst](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Data-Analyst_JR-0000072039)** | Gera Commerzone SEZ, Pune, India | On Site | Sep 17 |
-| **[Travelers](https://www.travelers.com/)** | **[Senior Consultant, Data Analyst](https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Senior-Consultant--Data-Analyst_R-46814)** | Hartford - Tower, United States | On Site | Sep 17 |
 | **[Sanofi](https://www.sanofi.com/)** | **[Data Analyst](https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Budapest/Data-Analyst_R2822484)** | Budapest, Hungary | On Site | Sep 17 |
-| **[Thales](https://www.thalesgroup.com/)** | **[STAGE - Data Analyst - F/H](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Moirans/STAGE---Data-Analyst---F-H_R0301713-1)** | Moirans Pommarin 460, France | On Site | Sep 17 |
+| **[Barry-Wehmiller](https://www.barrywehmiller.com/)** | **[HRIS Data Analyst](https://barrywehmiller.wd1.myworkdayjobs.com/en-US/BWCareers/job/Clayton-MO-USA-8020-Forsyth/HRIS-Data-Analyst_R019159)** | Clayton, MO USA (8020 Forsyth), United States | On Site | Sep 17 |
+| **[UBS](https://www.ubs.com/)** | **[Data Analyst (Technical)](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=330308)** | Mumbai, Pune, India | On Site | Sep 17 |
 | **[PVH Corp.](https://www.pvh.com/)** | **[Data Analyst Direct to Consumer](https://pvh.wd1.myworkdayjobs.com/en-US/PVH_Careers/job/Houthavens/Data-Analyst-Direct-to-Consumer_R54506-1)** | Houthavens, Netherlands | On Site | Sep 17 |
 | **[Allstate](https://www.allstate.com/)** | **[Fraud Data Analyst Lead Consultant](https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---IL-Remote/Fraud-Data-Analyst-Lead-Consultant_R21442-1)** | USA - IL (Remote), United States | Remote | Sep 17 |
-| **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst III Healthcare Analytics](https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-MO/Data-Analyst-III--Healthcare-Analytics-_1598364-1)** | Remote-MO, United States | Remote | Sep 17 |
+| **[MMDSmart Ltd](https://www.mmdsmart.com)** | **[Data Analyst](https://apply.workable.com/j/7CBAEA562C/apply)** | Poland - Remote | Remote | Sep 17 |
 | **[Chubb Fire & Security Group](https://chubbfs.com/)** | **[Apprentissage - Data analyst F/H](https://chubbfiresecurity.wd3.myworkdayjobs.com/en-US/chubbfs/job/BATIMENT-LE-START-450-ALLEE-DES-HETRES-69760-LIMONEST/Apprentissage---Data-analyst-F-H_JR40002754)** | BATIMENT LE START 450 ALLEE DES HETRES 69760 LIMONEST, France | On Site | Sep 17 |
+| **[Thales](https://www.thalesgroup.com/)** | **[STAGE - Data Analyst - F/H](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Moirans/STAGE---Data-Analyst---F-H_R0301713-1)** | Moirans Pommarin 460, France | On Site | Sep 17 |
+| **[Swinerton](https://swinerton.com/)** | **[Data Analyst - Construction](https://swinerton.wd1.myworkdayjobs.com/en-US/Swinerton_External_Career/job/Arvada-CO/Data-Analyst---Construction_J15397)** | Arvada CO, United States | On Site | Sep 17 |
 | **[Commonwealth Bank of Australia](https://www.commbank.com.au/)** | **[Senior Technical Data Analyst](https://cba.wd3.myworkdayjobs.com/en-US/Private_Ad/job/Sydney-CBD-Area/Senior-Technical-Data-Analyst_REQ245220)** | Eveleigh, NSW - 5-7 Central Ave, Australia | On Site | Sep 17 |
+| **[Marsh McLennan](https://www.marshmclennan.com/)** | **[Senior Data Analyst](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Sao-Paulo---EZTowers/Senior-Data-Analyst_R_313389)** | Sao Paulo - EZTowers, Brazil | On Site | Sep 17 |
+| **[FedEx](https://www.fedex.com/)** | **[Data Analyst- Senior](https://fedex.wd1.myworkdayjobs.com/en-US/FXE-MEISA-External/job/FXE-MEISAINDBOMHQBOMHQMumbai/Data-Analyst--Senior_RC739813)** | FXE-MEISA/IND/BOMHQ/BOMHQ/Mumbai, India | On Site | Sep 17 |
+| **[Travelers](https://www.travelers.com/)** | **[Senior Consultant, Data Analyst](https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Senior-Consultant--Data-Analyst_R-46814)** | Hartford - Tower, United States | On Site | Sep 17 |
+| **[FedEx](https://www.fedex.com/)** | **[Data Analyst - Senior II](https://fedex.wd1.myworkdayjobs.com/en-US/FXE-MEISA-External/job/FXE-MEISAINDBOMHQBOMHQMumbai/Data-Analyst---Senior-II_RC743765)** | FXE-MEISA/IND/BOMHQ/BOMHQ/Mumbai, India | On Site | Sep 17 |
+| **[Commonwealth Bank](https://www.commbank.com.au/)** | **[Senior Technical Data Analyst](https://cba.wd3.myworkdayjobs.com/en-US/CommBank_Careers/job/Sydney-CBD-Area/Senior-Technical-Data-Analyst_REQ245220-1)** | Eveleigh, NSW - 5-7 Central Ave, Australia | On Site | Sep 17 |
+| **[Barclays](https://home.barclays/)** | **[Data Analyst](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Data-Analyst_JR-0000072039)** | Gera Commerzone SEZ, Pune, India | On Site | Sep 17 |
 | **[Neste](https://www.neste.com/)** | **[Process Data Analyst](https://jobs.neste.com/job/Espoo-Process-Data-Analyst/1326839500/)** | Espoo, FI | On Site | Sep 17 |
+| **[YouLend](https://youlend.com/)** | **[Capital Market Data Analyst](https://apply.workable.com/j/A339ABC0AD/apply)** | Holborn, England, United Kingdom | On Site | Sep 17 |
+| **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst III Healthcare Analytics](https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-MO/Data-Analyst-III--Healthcare-Analytics-_1598364-1)** | Remote-MO, United States | Remote | Sep 17 |
+| **[KION Group](https://www.kiongroup.com/)** | **[Senior Data Analyst](https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup/job/Grand-Rapids-MI-United-States/Senior-Data-Analyst_JR-0081021-1)** | Grand Rapids, MI, United States, United States | On Site | Sep 17 |
 | **[Willdan](https://www.willdan.com/)** | **[Data Analyst](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=02161b08-cb15-42c3-bce4-f772c36f668c&jobId=553144)** | 61 Broadway NYC, NY, New York, NY, US | On Site | Sep 16 |
 | **[Rippling](https://www.rippling.com/)** | **[Senior Fraud Data Analyst](https://ats.rippling.com/rippling/jobs/1b86074b-5fe9-4147-b58c-7dd9fa3516b5)** | Hybrid (New York, New York, US); Hybrid (San Francisco, California, US) | On Site | Sep 16 |
 | **[The Exploration Company](https://www.exploration.space/)** | **[Propulsion Data Analyst](https://jobs.ashbyhq.com/the-exploration-company/84f48e9a-4f8d-478d-a245-c26f74c3bdd1)** | Bordeaux, France | On Site | Sep 16 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Talkspace](https://www.talkspace.com/)** | **[Data Analyst](https://www.talkspace.com/careers/job?gh_jid=5651830004)** | New York, NY (Remote) | Remote | Sep 16 |
 | **[Hunter Communications](https://hunterfiber.com/)** | **[Data Analyst](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3569873)** | Remote Worker - Must Reside in Oregon | Remote | Sep 16 |
 | **[Link Group](https://www.linkgroup.com/)** | **[Fixed-term Operational Oversight Administrator - Data Analyst](https://hcmn.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/12942)** | United Kingdom | On Site | Sep 16 |
-| **[Excella](https://www.excella.com/)** | **[Data Analyst](https://job-boards.greenhouse.io/excella/jobs/4609330005)** | Arlington, Virginia, United States | On Site | Sep 16 |
-| **[Digital Federal Credit Union](https://www.dcu.org)** | **[Data Analyst PXD (HR), Full-Time, Hybrid Marlborough MA](https://recruiting.ultipro.com/DIG1003/JobBoard/8e592530-e09c-05ec-52d5-b3fff26a2844/OpportunityDetail?opportunityId=44d40f9a-fea9-42cc-93c4-279410d3971f)** | Marlborough, Massachusetts, United States | On Site | Sep 16 |
-| **[Crunchtime](https://www.crunchtime.com/)** | **[Data Analyst](https://www.crunchtime.com/open-positions?gh_jid=4429771004)** | Atlanta, Boston, Louisville, Remote US | Remote | Sep 16 |
-| **[Experian](https://www.experian.com/)** | **[Data Analyst](https://jobs.smartrecruiters.com/Experian/744000082295303-data-analyst)** | Hyderabad, TS, India | On Site | Sep 16 |
-| **[BTSE](https://www.btse.com)** | **[Marketing Data Analyst](https://jobs.lever.co/BTSE/d01e0ded-ae98-42c5-87c6-648eb6474100)** | Taipei | On Site | Sep 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 46 companies | Avg salary: 138k  
+**Current Stats:** 50 jobs | 18% remote | 46 companies | Avg salary: 138k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
