@@ -1,18 +1,19 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Sep 19, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Sep 19, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
-Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analysis-jobs).
+Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
 
-Visit [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analysis-jobs) — **you choose the job, we handle the paperwork**.  
+Visit [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs) — **you choose the job, we handle the paperwork**.  
 Your Human + AI job search platform that helps you find, auto-apply, and track applications effortlessly.
 
 ## Current Openings
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[KPMG Bulgaria](https://kpmg.com/bg/en/home.html)** | **[Financial Data Analyst](https://kpmg-bulgaria.talentlyft.com/o/9fwagN)** | Anywhere, Bulgaria (Remote) | Remote | Sep 19 |
 | **[Getinz](https://www.getinz.com/)** | **[Marketing Data Analyst - GGS - BLR](https://getinz-people.freshteam.com/jobs/fiyCGY6d5ST1/marketing-data-analyst-ggs-blr)** | Karnataka, Bengaluru, India | On Site | Sep 19 |
 | **[Australia Post](https://auspost.com.au/)** | **[Data Analyst](https://jobs.auspost.com.au/en_GB/careers/JobDetail/Australia-Data-Analyst/29245)** | Melbourne Support Centre | On Site | Sep 19 |
 | **[TikTok](https://www.tiktok.com/)** | **[Data Analyst - Integrated Marketing Communications Graduate (Global Business Marketing) - 2026 Start (BS/MS)](https://lifeattiktok.com/search/7551441310278191368)** | Singapore, Singapore | On Site | Sep 19 |
@@ -29,17 +30,24 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PrimeSource Building Products, Inc.](https://www.primesourcebp.com/)** | **[Procurement & SIOP Data Analyst](https://myjobs.adp.com/primesourceexternalcareers/cx/job-details?reqId=5001151222700)** | Irving, TX | On Site | Sep 19 |
 | **[The University of Hong Kong](https://www.hku.hk/)** | **[Research Assistant I/II (holding the functional title of Data Analyst) (several posts)](https://careers.pageuppeople.com/932/cw/en/job/533184)** | Hong Kong | On Site | Sep 19 |
 | **[DP World](https://www.dpworld.com/)** | **[Logistics Data Analyst Intern](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/20491)** | Charlotte, NC, United States | On Site | Sep 19 |
-| **[GE Vernova](https://www.gevernova.com/)** | **[Sr Data Analyst - BI & Reporting](https://gevernova.wd5.myworkdayjobs.com/en-US/Only_Confidential_Executive_Recruiting/job/Hyderabad/Sr-Data-Analyst---BI---Reporting_R5019247-1)** | Hyderabad, India | On Site | Sep 19 |
+| **[FedEx](https://www.fedex.com/)** | **[Data Analyst (Associate/Analyt/Senior)](https://fedex.wd1.myworkdayjobs.com/en-US/FXE-MEISA-External/job/FXE-MEISAINDBOMHQBOMHQMumbai/Data-Analyst--Associate-Analyt-Senior-_RC760762)** | FXE-MEISA/IND/BOMHQ/BOMHQ/Mumbai, India | On Site | Sep 19 |
+| **[Apex Group](https://www.apexgroup.com/)** | **[Data Analyst / Power BI](https://theapexgroup.wd3.myworkdayjobs.com/en-US/apexgroupcareers/job/Mumbai/Data-Analyst---Power-BI_JR-0014338)** | Mumbai, Evergreen Ind Estate, India | On Site | Sep 19 |
+| **[FNBO](https://www.fnbo.com/)** | **[Sr. Data Analyst, Commercial Credit (hybrid onsite Omaha, NE)](https://firstnational.wd12.myworkdayjobs.com/en-US/fnbocareers/job/Omaha---FN-Tower/Sr-Data-Analyst--Commercial-Credit--hybrid-onsite-Omaha--NE-_R-20251300)** | Omaha - FN Tower, United States | On Site | Sep 19 |
+| **[HP](https://www.hp.com/)** | **[Data Analyst Intern](https://hp.wd5.myworkdayjobs.com/en-US/EXTEU-AC-CareerSite/job/Heredia-Heredia-Costa-Rica/Data-Analyst-Intern_3154491)** | AFZ02 - Heredia, CR -Building 2 (AFZ02), Costa Rica | On Site | Sep 19 |
+| **[DigiOutsource](https://www.digioutsource.com/)** | **[Data Analyst](https://myhcm.wd3.myworkdayjobs.com/en-US/digioutsource/job/Cape-Town/Data-Analyst_JR11469)** | Cape Town, South Africa | On Site | Sep 19 |
+| **[Stem, Inc.](https://www.stem.com/)** | **[Data Analyst](https://stem.wd12.myworkdayjobs.com/en-US/StemInc/job/Delhi-NCR-India/Data-Analyst_R908-1)** | India Office | On Site | Sep 19 |
+| **[GE Vernova](https://www.gevernova.com/)** | **[Sr Data Analyst - BI & Reporting](https://gevernova.wd5.myworkdayjobs.com/en-US/Vernova_ExternalSite/job/Hyderabad/Sr-Data-Analyst---BI---Reporting_R5019247-2)** | Hyderabad, India | On Site | Sep 19 |
+| **[Reserve Bank of Australia](https://www.rba.gov.au/)** | **[Lead Data Analyst](https://rba.wd105.myworkdayjobs.com/en-US/RBA_Careers/job/Sydney/Lead-Data-Analyst_JR3541)** | Head Office, Australia | On Site | Sep 19 |
+| **[IG Group](https://www.iggroup.com/)** | **[Senior Data Analyst - KYC and Client Onboarding](https://ig.wd103.myworkdayjobs.com/en-US/EXT_IG/job/Krakw---Poland/Senior-Data-Analyst---KYC-and-Client-Onboarding_R_15392)** | Kraków - Poland | On Site | Sep 19 |
+| **[ICAP Employment Solutions](https://icapemploymentsolutions.com/)** | **[Junior data analyst](https://apply.workable.com/j/3F946E20F6/apply)** | Moschato, Attica, Greece | On Site | Sep 19 |
+| **[Stem, Inc.](https://www.stem.com/)** | **[Program Operations Analyst (Data Analyst)](https://stem.wd12.myworkdayjobs.com/en-US/StemInc/job/Delhi-NCR-India/Associate-Program-Operations-Analyst_R903-1)** | India Office | On Site | Sep 19 |
+| **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst II Healthcare Analytics](https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-FL/Data-Analyst-II-Healthcare-Analytics_1598403-1)** | Remote-FL, United States | Remote | Sep 19 |
 | **[Nacre Capital](https://nacrecapital.com/)** | **[Data Analyst Team Lead](https://apply.workable.com/j/ECD7875BE2/apply)** | Portugal - Remote | Remote | Sep 19 |
 | **[Lytegen](https://lytegen.com)** | **[Data Analyst (Fresher)](https://apply.workable.com/j/35A38B3759/apply)** | Sahibzada Ajit Singh Nagar, Punjab, India | On Site | Sep 19 |
-| **[ICAP Employment Solutions](https://icapemploymentsolutions.com/)** | **[Junior data analyst](https://apply.workable.com/j/3F946E20F6/apply)** | Moschato, Attica, Greece | On Site | Sep 19 |
 | **[Brown & Brown](https://www.bbinsurance.com/)** | **[Junior Data Analyst](https://bbinsurance.wd1.myworkdayjobs.com/en-US/Careers_Europe/job/London-England-United-Kingdom/Junior-Data-Analyst_R25_0000003152)** | 52 Lime Street, The Scalpel - 18th Floor, London, England, EC3M 7AF, United Kingdom | On Site | Sep 19 |
-| **[S&P Global](https://www.spglobal.com/)** | **[Lead Data Analyst](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Internal/job/Banglore-Karnatak/Lead-Data-Analyst_319715)** | IN - BANGALORE PRIMECO UNION CITY, India | On Site | Sep 19 |
+| **[S&P Global](https://www.spglobal.com/)** | **[Data Analyst](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Internal/job/Hyderabad-Telangana/Data-Analyst_318280)** | IN - HYDERABAD SKYVIEW, India | On Site | Sep 19 |
 | **[Barclays](https://home.barclays/)** | **[Senior Data Analyst/Data Architect - VP](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/115-South-Jefferson-Rd-Campus-Whippany/Senior-Data-Analyst-Data-Engineer---VP_JR-0000054195)** | 115 South Jefferson Rd Campus, Whippany, United States | On Site | Sep 19 |
-| **[Apex Group](https://www.apexgroup.com/)** | **[Data Analyst / Power BI](https://theapexgroup.wd3.myworkdayjobs.com/en-US/apexgroupcareers/job/Mumbai/Data-Analyst---Power-BI_JR-0014338)** | Mumbai, Evergreen Ind Estate, India | On Site | Sep 19 |
-| **[S&P Global](https://www.spglobal.com/)** | **[Data Analyst](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Internal/job/IN---BANGALORE-PRIMECO-UNION-CITY/Data-Analyst_317867)** | IN - BANGALORE PRIMECO UNION CITY, India | On Site | Sep 19 |
-| **[DigiOutsource](https://www.digioutsource.com/)** | **[Data Analyst](https://myhcm.wd3.myworkdayjobs.com/en-US/digioutsource/job/Cape-Town/Data-Analyst_JR11469)** | Cape Town, South Africa | On Site | Sep 19 |
-| **[FedEx](https://www.fedex.com/)** | **[Data Analyst (Associate/Analyt/Senior)](https://fedex.wd1.myworkdayjobs.com/en-US/FXE-MEISA-External/job/FXE-MEISAINDBOMHQBOMHQMumbai/Data-Analyst--Associate-Analyt-Senior-_RC760762)** | FXE-MEISA/IND/BOMHQ/BOMHQ/Mumbai, India | On Site | Sep 19 |
+| **[S&P Global](https://www.spglobal.com/)** | **[Lead Data Analyst](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Internal/job/Banglore-Karnatak/Lead-Data-Analyst_319715)** | IN - BANGALORE PRIMECO UNION CITY, India | On Site | Sep 19 |
 | **[Anaplan](https://www.anaplan.com/)** | **[FinOps Data Analyst](https://job-boards.greenhouse.io/anaplan/jobs/8174379002)** | Remote-Manchester, United Kingdom | Remote | Sep 18 |
 | **[Zynga](https://www.zynga.com/)** | **[Senior Data Analyst - Words with Friends](https://job-boards.greenhouse.io/zyngacareers/jobs/5651885004)** | Austin, TX; Bay Area, CA; Toronto, Canada | On Site | Sep 18 |
 | **[1-800 Contacts](https://www.1800contacts.com/)** | **[Data Analyst, Operations](https://job-boards.greenhouse.io/1800contacts/jobs/7235564)** | Draper, UT (Hybrid) | On Site | Sep 18 |
@@ -55,18 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AUTO1 Group](https://www.auto1-group.com)** | **[Senior Data Analyst (f/m/x)](https://jobs.smartrecruiters.com/Auto1/744000082752131-senior-data-analyst-f-m-x-)** | Paris, IDF, France | On Site | Sep 18 |
 | **[eClerx](https://eclerx.com/)** | **[Reference Data Analyst](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/79812)** | Zurich, Switzerland | On Site | Sep 18 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job- 24652\] Data Analyst, Brazil](https://jobs.lever.co/ciandt/1b8b752e-c45d-4094-b1f2-23ee8ab0834f)** | Brazil | On Site | Sep 18 |
-| **[Claritev](https://www.multiplan.us/)** | **[Healthcare Data Analyst](https://myjobs.adp.com/claritevcareers/cx/job-details?reqId=5001148133406)** | Work From Home, United States | Remote | Sep 18 |
-| **[Conservice](https://www.conservice.com/)** | **[ESG Sr. Data Analyst](https://myjobs.adp.com/conservicecareers/cx/job-details?reqId=5001147643606)** | United States | On Site | Sep 18 |
-| **[State of Arizona](https://az.gov/)** | **[Data Analyst Intermediate](https://careers.pageuppeople.com/1045/cw/en-us/job/535984)** | REMOTE OPTIONS, PHOENIX | Remote | Sep 18 |
-| **[Doximity](https://www.doximity.com/)** | **[Data Analyst](https://workat.doximity.com/positions/?gh_jid=6738818)** | San Francisco, CA or Remote (U.S.) | Remote | Sep 18 |
-| **[Expeditors](https://www.expeditors.com/)** | **[Account Management Data Analyst](https://jobs.smartrecruiters.com/Expeditors/744000082699326-account-management-data-analyst)** | Hanahan, SC, United States | On Site | Sep 18 |
-| **[Turner & Townsend](https://www.turnerandtownsend.com)** | **[Cost Data Analyst - Senior Cost Manager](https://jobs.smartrecruiters.com/TurnerTownsend/744000082689793-cost-data-analyst-senior-cost-manager)** | UK wide, United Kingdom | On Site | Sep 18 |
-| **[Patronus Group](https://www.patronus-group.com/)** | **[BI & Data Analyst (m/f/d) - Berlin](https://careers.patronus-group.com/jobs/6472737-bi-data-analyst-m-f-d-berlin)** | Berlin, Germany | On Site | Sep 18 |
-| **[Fanatics](https://www.fanaticsinc.com/)** | **[Trading, Data Analyst I](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/24798)** | Denver, CO, Estados Unidos | On Site | Sep 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 46 companies | Avg salary: 142k  
+**Current Stats:** 50 jobs | 16% remote | 45 companies | Avg salary: 144k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
@@ -85,7 +85,7 @@ This repository tracks current Data analyst positions from companies across diff
 
 ## For Job Seekers
 
-**Maximize your applications:** Instead of manually applying to each job, consider using [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analysis-jobs) to automate your applications with personalized cover letters and tracking.
+**Maximize your applications:** Instead of manually applying to each job, consider using [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs) to automate your applications with personalized cover letters and tracking.
 
 **Stay updated:**
 
@@ -97,7 +97,7 @@ This repository tracks current Data analyst positions from companies across diff
 
 This repository gets consistent traffic from Data analyst professionals actively job searching. The audience is pre-qualified and specifically interested in Data analyst opportunities.
 
-This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analysis-jobs). If you find any issues or have suggestions, please contact us at hello@jobr.pro.
+This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs). If you find any issues or have suggestions, please contact us at hello@jobr.pro.
 
 ## Related Job Repositories
 
@@ -110,5 +110,5 @@ Looking for other opportunities? Check out these related job repositories:
 
 ---
 
-**Made with ❤️ by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analysis-jobs)**
+**Made with ❤️ by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)**
 <!-- prettier-ignore-end -->
