@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Sep 19, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Sep 19, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analysis-jobs).
@@ -13,13 +13,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Delivery Hero](https://www.deliveryhero.com)** | **[Sr Data Analyst](https://jobs.smartrecruiters.com/DeliveryHero/744000082789985-sr-data-analyst)** | Buenos Aires, Argentina | On Site | Sep 18 |
+| **[AUTO1 Group](https://www.auto1-group.com)** | **[Senior Data Analyst (f/m/x)](https://jobs.smartrecruiters.com/Auto1/744000082752131-senior-data-analyst-f-m-x-)** | Paris, IDF, France | On Site | Sep 18 |
 | **[Claritev](https://www.multiplan.us/)** | **[Healthcare Data Analyst](https://myjobs.adp.com/claritevcareers/cx/job-details?reqId=5001148133406)** | Work From Home, United States | Remote | Sep 18 |
 | **[Conservice](https://www.conservice.com/)** | **[ESG Sr. Data Analyst](https://myjobs.adp.com/conservicecareers/cx/job-details?reqId=5001147643606)** | United States | On Site | Sep 18 |
+| **[Expeditors](https://www.expeditors.com/)** | **[Account Management Data Analyst](https://jobs.smartrecruiters.com/Expeditors/744000082699326-account-management-data-analyst)** | Hanahan, SC, United States | On Site | Sep 18 |
+| **[Turner & Townsend](https://www.turnerandtownsend.com)** | **[Cost Data Analyst - Senior Cost Manager](https://jobs.smartrecruiters.com/TurnerTownsend/744000082689793-cost-data-analyst-senior-cost-manager)** | UK wide, United Kingdom | On Site | Sep 18 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Business Intelligence & Extract, Transform and Load (ETL) Data Analyst Lead - Contractor](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=250006NV)** | United States-Massachusetts-Boston-25 Staniford Street | On Site | Sep 18 |
-| **[Delivery Hero](https://www.deliveryhero.com)** | **[Sr Data Analyst](https://jobs.smartrecruiters.com/DeliveryHero/744000082658040-sr-data-analyst)** | Buenos Aires, Argentina | On Site | Sep 18 |
+| **[Ubisoft](https://www.ubisoft.com/)** | **[Data Analyst - Game Business Performance (H/F/NB)](https://jobs.smartrecruiters.com/Ubisoft2/744000082679496-data-analyst-game-business-performance-h-f-nb-)** | Saint-Mandé, IDF, France | On Site | Sep 18 |
+| **[Renesas Electronics](https://www.renesas.com)** | **[Senior Data Analyst](https://jobs.smartrecruiters.com/RenesasElectronics/744000082673203-senior-data-analyst)** | Bengaluru, KA, India | On Site | Sep 18 |
 | **[TikTok](https://www.tiktok.com/)** | **[HR Data Analyst - TikTok&RD Mid-platform - San Jose](https://lifeattiktok.com/search/7521989957533567239)** | San Jose, California, United States | On Site | Sep 18 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Business Analyst Data / Data Analyst F/H](https://jobs.smartrecruiters.com/Devoteam/744000082658205-business-analyst-data-data-analyst-f-h)** | Lyon, Auvergne-Rhône-Alpes, France | On Site | Sep 18 |
-| **[Renesas Electronics](https://www.renesas.com)** | **[Senior Data Analyst](https://jobs.smartrecruiters.com/RenesasElectronics/744000082649595-senior-data-analyst)** | Bengaluru, KA, India | On Site | Sep 18 |
 | **[Google](https://www.google.com/)** | **[Financial Data Analyst, AI Transformation Program, Core Finance](https://www.google.com/about/careers/applications/jobs/results/143682861856105158-financial-data-analyst-ai-transformation-program-core-finance)** | Chicago, IL, USA | On Site | Sep 18 |
 | **[The University of Edinburgh](https://www.ed.ac.uk/)** | **[Data Analyst in Health Data Science and Innovation](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/13117)** | Edinburgh - BioQuarter, Midlothian, United Kingdom | On Site | Sep 18 |
 | **[Sandisk](https://www.sandisk.com/)** | **[Senior Engineer, Industrial Engineering (Data Analyst with Tableau/PowerBI, Python, Oracle PL/SQL Skillset)](https://jobs.smartrecruiters.com/Sandisk/744000082631661-senior-engineer-industrial-engineering-data-analyst-with-tableau-powerbi-python-oracle-pl-sql-skillset-)** | Bengaluru, KA, India | On Site | Sep 18 |
@@ -41,32 +45,28 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Axi](https://www.axi.com/)** | **[Data Analyst](https://job-boards.greenhouse.io/axicorpfinancialservicesptyltd/jobs/4894590007)** | Malaysia | On Site | Sep 18 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Onchain Data Analyst & Researcher](https://www.coinbase.com/careers/positions/6863656?gh_jid=6863656)** | Remote - USA | Remote | Sep 18 |
 | **[FMC Corporation](https://www.fmc.com/)** | **[Finance Master Data Analyst](https://fmc.wd12.myworkdayjobs.com/en-US/FMC/job/Manila-Philippines/Finance-Master-Data-Analyst--Mandarin-Speaker-_R-753)** | PHL - Manila, Philippines | On Site | Sep 18 |
-| **[Wilhelmsen group](https://www.wilhelmsen.com/)** | **[Business Data Analyst](https://wilhelmsen.wd3.myworkdayjobs.com/en-US/Wilhelmsen/job/Lysaker/Business-Data-Analyst_JOBREQ_11053)** | Lysaker - Strandv. 20, Norway | On Site | Sep 18 |
-| **[Cardinal Health](https://cardinalhealth.com/)** | **[Data Analyst - Supply Chain](https://cardinalhealth.wd1.myworkdayjobs.com/en-US/EXT/job/OH-Ohio-Work-from-Home/Data-Analyst---Supply-Chain_20165943)** | OH-Ohio-Work from Home, United States | Remote | Sep 18 |
-| **[ING](https://www.ing.com/)** | **[Finance Data Analyst](https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Sydney/Finance-Data-Analyst_REQ-10102191-1)** | Sydney, Australia | On Site | Sep 18 |
-| **[WEX](https://www.wexinc.com/)** | **[Growth Data Analyst](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/Portland-ME/Growth-Data-Analyst_R18442)** | Global Headquarters, United States | On Site | Sep 18 |
-| **[Fidelity Investments](https://www.fidelity.com/)** | **[Product Data Analyst, Stock Plan Services](https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Westlake-TX/Product-Data-Analyst--Stock-Plan-Services_2115750-1)** | One Destiny Way, Westlake TX, United States | On Site | Sep 18 |
-| **[Clarivate](https://www.clarivate.com/)** | **[Healthcare Research & Data Analyst](https://clarivate.wd3.myworkdayjobs.com/en-US/Clarivate_Careers/job/IND---Bangalore-DRG/Healthcare-Research---Data-Analyst_JREQ133765-1)** | R131-Bangalore, India | On Site | Sep 18 |
+| **[RSM](https://rsmus.com/)** | **[Finance Data Analyst 2](https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Bengaluru/Finance-Data-Analyst-2_JR115581)** | IND-KA-Bengaluru-3rd Floor, Rosewood Block J (Wing-B), India | On Site | Sep 18 |
+| **[KeyBank](https://www.key.com/)** | **[Sr. Data Analyst](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/127-Public-Square-Cleveland-OH/Sr-Data-Analyst_R-34087)** | 127 Public Square, Cleveland, OH, United States | On Site | Sep 18 |
+| **[World Fuel Services](https://www.wfscorp.com/)** | **[Energy Data Analyst](https://wfscorp.wd5.myworkdayjobs.com/en-US/wfscareers/job/BUDAPEST-HU/Energy-Data-Analyst_R21835)** | BUDAPEST, HU, Hungary | On Site | Sep 18 |
+| **[RSM](https://rsmus.com/)** | **[Finance Data Analyst 1](https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Bengaluru/Finance-Data-Analyst-1_JR115578)** | IND-KA-Bengaluru-3rd Floor, Rosewood Block J (Wing-B), India | On Site | Sep 18 |
+| **[World Fuel Services](https://www.wfscorp.com/)** | **[Senior Energy Data Analyst](https://wfscorp.wd5.myworkdayjobs.com/en-US/wfscareers/job/BUDAPEST-HU/Senior-Energy-Data-Analyst_R21836)** | BUDAPEST, HU, Hungary | On Site | Sep 18 |
 | **[Randstad](https://www.randstad.com/)** | **[Senior Data Analyst](https://randstadgroepnl.wd3.myworkdayjobs.com/en-US/Werken-bij-Randstad-NV/job/Diemen/Senior-Data-Analyst_R-33208)** | Diemen, Diemermere \[TTG-0099\], Netherlands | On Site | Sep 18 |
 | **[Leidos](https://www.leidos.com/)** | **[Data Analyst](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Data-Analyst_R-00164845)** | 5799 Huntsville AL, United States | On Site | Sep 18 |
-| **[KeyBank](https://www.key.com/)** | **[Sr. Data Analyst](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/127-Public-Square-Cleveland-OH/Sr-Data-Analyst_R-34087)** | 127 Public Square, Cleveland, OH, United States | On Site | Sep 18 |
+| **[WEX](https://www.wexinc.com/)** | **[Growth Data Analyst](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/Portland-ME/Growth-Data-Analyst_R18442)** | Global Headquarters, United States | On Site | Sep 18 |
 | **[NKG Stockler](https://www.nkg.net/)** | **[Data Analyst](https://nkg.wd103.myworkdayjobs.com/en-US/nkg/job/Data-Analyst_JR101938-1)** | Ho Chi Minh City - NKG Commercial Services, Vietnam | On Site | Sep 18 |
+| **[ING](https://www.ing.com/)** | **[Finance Data Analyst](https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/Sydney/Finance-Data-Analyst_REQ-10102191-1)** | Sydney, Australia | On Site | Sep 18 |
 | **[Rockwell Automation](https://www.rockwellautomation.com/)** | **[ISC Data Analyst](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Bengaluru-India/ISC-Data-Analyst_R25-3023)** | India Bengaluru | On Site | Sep 18 |
 | **[Booksy](https://booksy.com/)** | **[Data Analyst](https://apply.workable.com/j/4641516D9F/apply)** | Poland - Remote | Remote | Sep 18 |
-| **[Elsevier](https://www.elsevier.com/)** | **[1124-CH-243 - Data Analyst II](https://relx.wd3.myworkdayjobs.com/en-US/ElsevierJobs/job/Chennai/XMLNAME-1124-CH-243---Data-Analyst-III_R91337)** | India-Chennai (Ascendas Tech park) | On Site | Sep 18 |
-| **[Rabobank](https://www.rabobank.com/)** | **[Transactional Data Analyst/Administrator](https://rabobank.wd3.myworkdayjobs.com/en-US/jobs/job/Hamilton-NZ---Hood-Street/Transactional-Data-Analyst-Administrator_JR_00130270)** | Hamilton (NZ) - Hood Street, New Zealand | On Site | Sep 18 |
-| **[Neumann Kaffee Gruppe](https://www.nkg.coffee/)** | **[Data Analyst](https://nkg.wd103.myworkdayjobs.com/en-US/nkg-linkedin/job/Data-Analyst_JR101938)** | Ho Chi Minh City - NKG Commercial Services, Vietnam | On Site | Sep 18 |
+| **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Business Data Analyst, PEOPLE App](https://meredith.wd5.myworkdayjobs.com/en-US/EXT/job/New-York-NY---225-Liberty-Street/Business-Data-Analyst--PEOPLE-App_JR14893)** | New York- NY 225 Liberty, United States | On Site | Sep 18 |
 | **[Springer Nature Group](https://group.springernature.com/)** | **[Data Analyst, Automation & Analysis](https://springernature.wd3.myworkdayjobs.com/en-US/SpringerNatureCareers/job/Pune/Data-Analyst--Automation---Analysis_JR103581)** | Pune \[SNTPS Kharadi\], India | On Site | Sep 18 |
-| **[Novibet](https://www.novibet.com)** | **[Data Analyst](https://apply.workable.com/j/8078E6F89A/apply)** | Kifisia, Attica, Greece | On Site | Sep 18 |
-| **[RSM](https://rsmus.com/)** | **[Finance Data Analyst 2](https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Bengaluru/Finance-Data-Analyst-2_JR115581)** | IND-KA-Bengaluru-3rd Floor, Rosewood Block J (Wing-B), India | On Site | Sep 18 |
-| **[RSM](https://rsmus.com/)** | **[Finance Data Analyst 1](https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Bengaluru/Finance-Data-Analyst-1_JR115578)** | IND-KA-Bengaluru-3rd Floor, Rosewood Block J (Wing-B), India | On Site | Sep 18 |
-| **[S&P Global](https://www.spglobal.com/)** | **[Lead Data Analyst](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Internal/job/Hyderabad-Telangana/Lead-Data-Analyst_318278)** | IN - HYDERABAD SKYVIEW, India | On Site | Sep 18 |
-| **[Chewy](https://www.chewy.com/)** | **[Accounting and Data Analyst](https://careers.chewy.com/us/en/job/7252498?gh_jid=7252498)** | Plantation, FL | On Site | Sep 17 |
-| **[Karat](https://karat.com/)** | **[Data Analyst (Q4 2025 Contractor)](https://job-boards.greenhouse.io/karat/jobs/8174192002)** | Remote (United States) | Remote | Sep 17 |
+| **[ERM](https://www.erm.com/)** | **[Modelling & Data Analyst- India GDC (Gurugram)](https://erm.wd3.myworkdayjobs.com/en-US/ERM_Careers/job/New-Delhi-India/Modelling---Data-Analyst--India-GDC--Gurugram-_R00026642)** | New Delhi, India | On Site | Sep 18 |
+| **[Wood Mackenzie](https://www.woodmac.com/)** | **[Data Analyst](https://woodmac.wd3.myworkdayjobs.com/en-US/woodmaccareers/job/Madrid-ES/Data-Analyst_JR1734)** | ES-Madrid-Office, Spain | On Site | Sep 18 |
+| **[Clarivate](https://www.clarivate.com/)** | **[Healthcare Research & Data Analyst](https://clarivate.wd3.myworkdayjobs.com/en-US/Clarivate_Careers/job/IND---Bangalore-DRG/Healthcare-Research---Data-Analyst_JREQ133765-1)** | R131-Bangalore, India | On Site | Sep 18 |
+| **[Wilhelmsen group](https://www.wilhelmsen.com/)** | **[Business Data Analyst](https://wilhelmsen.wd3.myworkdayjobs.com/en-US/Wilhelmsen/job/Lysaker/Business-Data-Analyst_JOBREQ_11053)** | Lysaker - Strandv. 20, Norway | On Site | Sep 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 48 companies | Avg salary: 110k  
+**Current Stats:** 50 jobs | 10% remote | 47 companies | Avg salary: 110k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
