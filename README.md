@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Sep 20, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Sep 20, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -24,6 +24,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[R+L Carriers](https://www.rlcarriers.com/)** | **[Data Analyst](https://erhk.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/35712)** | Ocala, FL, United States | On Site | Sep 19 |
 | **[Welbe Health](https://welbehealth.com/)** | **[Senior Data Analyst](https://job-boards.greenhouse.io/welbehealth/jobs/8108988002)** | Remote, USA | Remote | Sep 19 |
 | **[AbsoluteCare](https://www.absolutecare.com)** | **[Senior Data Analyst](https://absolutecare.workgr8.com/jobs/2471/senior-data-analyst)** | United States | On Site | Sep 19 |
+| **[World Wide Technology](https://www.wwt.com/)** | **[Data Analyst Marketing](https://myjobs.adp.com/wwtexternalcareersite/cx/job-details?reqId=5001151742100)** | Costa Rica | On Site | Sep 19 |
 | **[NirYu](https://www.nir-yu.com/)** | **[Data Analyst - subscription-based e-commerce](https://niryu.teamtailor.com/jobs/6481197-data-analyst-subscription-based-e-commerce)** | Remote, Mexico | Remote | Sep 19 |
 | **[Compass](https://www.compass.com)** | **[Senior Data Analyst](https://www.compass.com/careers?gh_jid=7263508)** | San Francisco | On Site | Sep 19 |
 | **[Stone](https://www.stone.com.br/)** | **[Data Analyst Pleno](https://job-boards.greenhouse.io/stone/jobs/7420276003)** | Remoto | Remote | Sep 19 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[WPP](https://www.wpp.com/)** | **[Data Analyst](https://job-boards.greenhouse.io/wpp/jobs/8118492002)** | Chennai, Tamil Nadu, India | On Site | Sep 19 |
 | **[Healthengine](https://healthengine.com.au)** | **[Data Analyst](https://jobs.smartrecruiters.com/HEALTHENGINE1/744000082852871-data-analyst)** | Perth, WA, Australia | On Site | Sep 19 |
 | **[OLIVER+](https://www.oliverplus.agency/)** | **[Senior Data Analyst](https://job-boards.greenhouse.io/oliverplus/jobs/7261974)** | India (Remote) | Remote | Sep 19 |
-| **[Generix Group](https://www.generixgroup.com)** | **[Senior Data Analyst](https://jobs.smartrecruiters.com/GenerixGroup/744000082847995-senior-data-analyst-)** | Cluj-Napoca, CJ, Romania | On Site | Sep 19 |
 
 ---
 
