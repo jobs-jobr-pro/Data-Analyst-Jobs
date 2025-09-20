@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Sep 20, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Sep 20, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,11 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Vaillant Group](https://www.vaillant-group.com)** | **[(Senior) HR Data Analyst](https://jobs.vaillant-group.com/job/Drogenbos-%28Senior%29-HR-Data-Analyst-1620/1249601701/)** | Drogenbos, BE, 1620 | On Site | Sep 20 |
 | **[AcuityMD](https://www.acuitymd.com/)** | **[Data Analyst](https://acuitymd.com/job?gh_jid=5655723004)** | Boston or Remote | Remote | Sep 19 |
 | **[Capital Rx](https://capitalrx.com/)** | **[Network Pricing Data Analyst](https://job-boards.greenhouse.io/capitalrx/jobs/4928438008)** | Remote | Remote | Sep 19 |
 | **[Cloudflare, Inc.](https://www.cloudflare.com/)** | **[Sr. Website Data Analyst](https://boards.greenhouse.io/cloudflare/jobs/7260763?gh_jid=7260763)** | Hybrid | On Site | Sep 19 |
 | **[Calendly](https://calendly.com/)** | **[Senior Data Analyst, Product](https://job-boards.greenhouse.io/calendly/jobs/8163001002)** | Remote | Remote | Sep 19 |
 | **[Welbe Health](https://welbehealth.com/)** | **[Senior Data Analyst](https://job-boards.greenhouse.io/welbehealth/jobs/8108988002)** | Remote, USA | Remote | Sep 19 |
+| **[AbsoluteCare](https://www.absolutecare.com)** | **[Senior Data Analyst](https://absolutecare.workgr8.com/jobs/2471/senior-data-analyst)** | United States | On Site | Sep 19 |
+| **[NirYu](https://www.nir-yu.com/)** | **[Data Analyst - subscription-based e-commerce](https://niryu.teamtailor.com/jobs/6481197-data-analyst-subscription-based-e-commerce)** | Remote, Mexico | Remote | Sep 19 |
 | **[Compass](https://www.compass.com)** | **[Senior Data Analyst](https://www.compass.com/careers?gh_jid=7263508)** | San Francisco | On Site | Sep 19 |
 | **[Stone](https://www.stone.com.br/)** | **[Data Analyst Pleno](https://job-boards.greenhouse.io/stone/jobs/7420276003)** | Remoto | Remote | Sep 19 |
 | **[Museum of Science](https://www.mos.org/)** | **[Data Analyst](https://job-boards.greenhouse.io/themuseumofscience/jobs/4927381008)** | Boston, MA | On Site | Sep 19 |
@@ -44,6 +47,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[HR People Data Analyst - TikTok RD Mid-Platform - San Jose](https://lifeattiktok.com/search/7551268459087841554)** | San Jose, California, United States | On Site | Sep 19 |
 | **[Coface](https://www.coface.com)** | **[Senior Data Analyst](https://jobs.smartrecruiters.com/Coface/744000082911314-senior-data-analyst)** | București, București, Romania | On Site | Sep 19 |
 | **[City of New York](https://www.nyc.gov)** | **[Lead OMB Data Analyst](https://jobs.smartrecruiters.com/CityOfNewYork/3743990009545516-lead-omb-data-analyst)** | New York City, NY, United States | On Site | Sep 19 |
+| **[Virginia Tech](https://www.vt.edu/)** | **[Part Time Research Data Analyst](https://careers.pageuppeople.com/968/cw/en-us/job/534210)** | Washington, DC | On Site | Sep 19 |
 | **[Inbank](https://inbank.ee/)** | **[Product Data Analyst](https://job-boards.eu.greenhouse.io/inbank/jobs/4677951101)** | Tallinn, Harju, Estonia | On Site | Sep 19 |
 | **[Veikkaus Oy](https://www.veikkaus.fi/)** | **[Business Data Analyst](https://fa-exdl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/400)** | Finland | On Site | Sep 19 |
 | **[IMT](https://www.imt.fr/)** | **[Analyste Données – Data Analyst (H/F) – CDI](https://institutminestelecom.recruitee.com/o/analyste-donnees-data-analyst-hf-cdi)** | Albi, Occitanie, France | On Site | Sep 19 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Coupang](https://www.coupang.jobs/)** | **[\[L6-1\] Staff Data Analyst (Retail SCM-A)](https://www.coupang.jobs/en/jobs/?gh_jid=7250455)** | Seoul, South Korea | On Site | Sep 19 |
 | **[Splash, Inc.](https://www.splashsports.com)** | **[Junior Data Analyst](https://betterpool.breezy.hr/p/cc8ea4e0147b-junior-data-analyst)** | Denver, CO / CA, US / MA, US / NY, US / TX, US-%LABEL POSITION TYPE REMOTE WITHIN% | Remote | Sep 19 |
 | **[GT Ecom](https://gtecombv.com/)** | **[Customer Service Data Analyst](https://go.gtecombv.com/jobs/6475004-customer-service-data-analyst)** | Fully Remote | Remote | Sep 19 |
-| **[PrimeSource Building Products, Inc.](https://www.primesourcebp.com/)** | **[Procurement & SIOP Data Analyst](https://myjobs.adp.com/primesourceexternalcareers/cx/job-details?reqId=5001151222700)** | Irving, TX | On Site | Sep 19 |
-| **[The University of Hong Kong](https://www.hku.hk/)** | **[Research Assistant I/II (holding the functional title of Data Analyst) (several posts)](https://careers.pageuppeople.com/932/cw/en/job/533184)** | Hong Kong | On Site | Sep 19 |
-| **[DP World](https://www.dpworld.com/)** | **[Logistics Data Analyst Intern](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/20491)** | Charlotte, NC, United States | On Site | Sep 19 |
-| **[GE Vernova](https://www.gevernova.com/)** | **[Sr Data Analyst - BI & Reporting](https://gevernova.wd5.myworkdayjobs.com/en-US/Only_Confidential_Executive_Recruiting/job/Hyderabad/Sr-Data-Analyst---BI---Reporting_R5019247-1)** | Hyderabad, India | On Site | Sep 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 48 companies | Avg salary: 105k  
+**Current Stats:** 50 jobs | 28% remote | 48 companies | Avg salary: 105k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
