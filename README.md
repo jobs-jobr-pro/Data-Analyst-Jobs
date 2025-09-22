@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Sep 22, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Sep 22, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,24 +13,38 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Sia](https://www.sia-partners.com)** | **[Consultant(e) Senior Data Analyst](https://jobs.smartrecruiters.com/Sia/744000083202152-consultant-e-senior-data-analyst)** | Paris, IDF, France | On Site | Sep 22 |
+| **[Sia](https://www.sia-partners.com)** | **[Consultant(e) Data Analyst](https://jobs.smartrecruiters.com/Sia/744000083203875-consultant-e-data-analyst)** | Paris, IDF, France | On Site | Sep 22 |
 | **[Marriott International](https://www.marriott.com/)** | **[Data Analyst](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/25153631)** | Barcelona, Spain | On Site | Sep 22 |
+| **[Coherent Corp.](https://www.coherent.com/)** | **[Technician 1, Quality, Data Analyst](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/2008061)** | Dong Nai, Vietnam | On Site | Sep 22 |
+| **[Enpal B.V.](https://www.enpal.de)** | **[Data Analyst & Marketing BI Intern (sede Milano)](https://jobs.smartrecruiters.com/EnpalBV/744000083184105-data-analyst-marketing-bi-intern-sede-milano-)** | Milan, Lombardy, Italy | On Site | Sep 22 |
+| **[ArcelorMittal](https://corporate.arcelormittal.com/)** | **[Cost Controller & Data Analyst](https://emfg.fa.em4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/31575)** | Dąbrowa Górnicza, Woj. Śląskie, Poland | On Site | Sep 22 |
+| **[Arcadis](https://www.arcadis.com/)** | **[Risk Procurement - Supplier Data Analyst](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/34177)** | Makati, Metro Manila, Philippines | On Site | Sep 22 |
 | **[Jumbo Interactive](https://www.jumbointeractive.com/)** | **[Data Analyst](https://careers.jumbointeractive.com/jobs/6483168-data-analyst)** | Milton, Australia | On Site | Sep 22 |
 | **[OKX](https://www.okx.com/)** | **[Senior Data Analyst, Institutional Data](https://job-boards.greenhouse.io/okx/jobs/7450416003)** | Hong Kong, Hong Kong SAR | On Site | Sep 22 |
-| **[G-able](https://g-able.com/)** | **[Data Analyst](https://gable.wd3.myworkdayjobs.com/en-US/Careers/job/TH-BKK-GABLE-Head-Office/Data-Analyst_JR100276)** | TH BKK GABLE (Head Office), Thailand | On Site | Sep 22 |
-| **[JLL](https://www.jll.com/)** | **[Senior Data Analyst](https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Singapore/Senior-Support-Analyst_REQ446613)** | SGP-CORP Singapore-PLQ | On Site | Sep 22 |
-| **[Sonepar](https://www.sonepar.com)** | **[Data Analyst / Business Intelligence Engineer (m/w/d) Logistik,](https://career.sonepar.com/job/Holzwickede-Data-Analyst-Business-Intelligence-Engineer-%28mwd%29-Logistik%2C-59439/1249896901/)** | Holzwickede, DE, 59439 | On Site | Sep 22 |
 | **[Uni Systems](https://www.unisystems.com)** | **[Data Analyst](https://apply.workable.com/j/D8536DDC40/apply)** | Braine-l'Alleud, Wallonia, Belgium | On Site | Sep 22 |
+| **[Barclays](https://home.barclays/)** | **[BA4 - Data Analyst](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Candor-TechSpace-Noida/AVP---Data-Analyst_JR-0000058522-1)** | Candor TechSpace, Noida, India | On Site | Sep 22 |
+| **[State Street](https://www.statestreet.com/)** | **[Onboarding Data Analyst - Assistant Vice President](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Hyderabad-India/Onboarding-Data-Analyst---Assistant-Vice-President_R-773966-1)** | Hyderabad, India | On Site | Sep 22 |
+| **[Carglass](https://www.carglass.de/)** | **[Chef de Projet Data Analyst - Salesforce H/F](https://belron.wd3.myworkdayjobs.com/en-US/broadbean_external/job/COURBEVOIE/Chef-de-Projet-Data-Analyst---Salesforce-H-F_JR59469-2)** | FR - CARGLASS SERVICES, France | On Site | Sep 22 |
+| **[JLL](https://www.jll.com/)** | **[Senior Data Analyst](https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Singapore/Senior-Support-Analyst_REQ446613)** | SGP-CORP Singapore-PLQ | On Site | Sep 22 |
+| **[Avis Budget Group](https://www.avisbudgetgroup.com/)** | **[Data Analyst](https://avisbudget.wd1.myworkdayjobs.com/en-US/ABG_Careers/job/Avis-Budget-House-HQ/Data-Analyst_R0179051)** | GBR - Bracknell - Park Road - ABS (37.5 Hours per week), United Kingdom | On Site | Sep 22 |
+| **[Sonepar](https://www.sonepar.com)** | **[Data Analyst / Business Intelligence Engineer (m/w/d) Logistik,](https://career.sonepar.com/job/Holzwickede-Data-Analyst-Business-Intelligence-Engineer-%28mwd%29-Logistik%2C-59439/1249896901/)** | Holzwickede, DE, 59439 | On Site | Sep 22 |
+| **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst I Healthcare Analytics](https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-MO/Data-Analyst-I--Healthcare-Analytics-_1579763)** | Remote-MO, United States | Remote | Sep 22 |
+| **[G-able](https://g-able.com/)** | **[Data Analyst](https://gable.wd3.myworkdayjobs.com/en-US/Careers/job/TH-BKK-GABLE-Head-Office/Data-Analyst_JR100276)** | TH BKK GABLE (Head Office), Thailand | On Site | Sep 22 |
 | **[Morgan Stanley](https://www.morganstanley.com/)** | **[Marketing Data Analyst, Client Segments, Associate, Wealth Management](https://ms.wd5.myworkdayjobs.com/en-US/private/job/Mumbai-India/Marketing-Data-Analyst--Client-Segments--Associate--Wealth-Management_PT-JR018394)** | COMMERZ III, OBEROI GARDEN CITY, India | On Site | Sep 22 |
+| **[Axiom Software Solutions Limited](https://www.axiomsoftwaresolutions.com/)** | **[ACPM - Data Analyst for Reconciliations](https://apply.workable.com/j/59EAABA482/apply)** | Málaga, Andalusia, Spain | On Site | Sep 21 |
 | **[SUNY Downstate Health Sciences University](https://www.downstate.edu/)** | **[Data Analyst, Transplant Surgery](https://careers.pageuppeople.com/977/cw/en-us/job/496959)** | Brooklyn, NY | On Site | Sep 21 |
 | **[VML](https://www.vml.com/)** | **[CRM Data Analyst](https://www.vml.com/careers/job/7555272002?gh_jid=7555272002)** | Cape Town, Western Cape, South Africa; Johannesburg, Gauteng, South Africa | On Site | Sep 21 |
+| **[Cyera](https://www.cyera.io/)** | **[Data Analyst Team Lead](https://www.comeet.com/jobs/cyera/17.008/data-analyst-team-lead/B7.A58)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Sep 21 |
 | **[Bluevine](https://www.bluevine.com/)** | **[Senior Data Analyst](https://job-boards.greenhouse.io/bluevineisrael/jobs/7450377003)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Sep 21 |
 | **[MSCI](https://www.msci.com/)** | **[Market Data Analyst - Sr. Associate](https://globalcareers-msci.icims.com/jobs/2221/market-data-analyst---sr.-associate/job?in_iframe=1)** | Monterrey, NLE, Mexico | On Site | Sep 21 |
+| **[Finubit](https://finubit.com/)** | **[BI & Data Analyst](https://www.comeet.com/jobs/finubit/A9.002/bi--data-analyst/08.D59)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Sep 21 |
 | **[Octopus Energy](https://octopus.energy/)** | **[Operations Data Analyst](https://jobs.lever.co/octoenergy/9fd6ea0e-7a8c-4157-9eb8-b15be3d32b81)** | Ascoli Piceno (IT) | On Site | Sep 21 |
 | **[MPOWERHealth](https://mpowerhealth.com/)** | **[Data Analyst](https://careers-mpowerpractice.icims.com/jobs/2375/data-analyst/job?in_iframe=1)** | Addison, TX, United States | On Site | Sep 21 |
 | **[GoTo Group](https://www.gotocompany.com/)** | **[Senior Data Analyst](https://jobs.lever.co/GoToGroup/29ad0186-9042-43cb-a421-cf061ea7058b)** | Jakarta | On Site | Sep 21 |
 | **[Binance](https://www.binance.com/)** | **[Senior Data Analyst (Artificial Intelligence)](https://jobs.lever.co/binance/74b46a59-997b-4e73-8002-a0ced88ebafb)** | South East Asia | Remote | Sep 21 |
-| **[IRIUM](https://www.irium.es/)** | **[DATA ANALYST CON INGLÉS (HÍBRIDO)](https://iriumspain.applytojob.com/apply/2zwiqS1sOf/DATA-ANALYST-CON-INGLS-HBRIDO)** | Madrid, Madrid | On Site | Sep 21 |
 | **[HII](https://hii.com/)** | **[Data Analyst 4 - 25558](https://jobs.hii-tsd.com/job/Arlington%2C-VA-Data-Analyst-4-25558-Remo/1328000800/)** | Arlington, VA, Remote, United States | Remote | Sep 21 |
+| **[IRIUM](https://www.irium.es/)** | **[DATA ANALYST CON INGLÉS (HÍBRIDO)](https://iriumspain.applytojob.com/apply/2zwiqS1sOf/DATA-ANALYST-CON-INGLS-HBRIDO)** | Madrid, Madrid | On Site | Sep 21 |
 | **[Fisher & Paykel Healthcare](https://www.fphcare.com/)** | **[Associate Data Analyst - Quality, Safety & Regulatory](https://careers.fphcare.com/job/East-Tamaki-Associate-Data-Analyst-Quality%2C-Safety-&-Regulatory-2013/1327653966/)** | East Tamaki, NZ, 2013 | On Site | Sep 21 |
 | **[SearchLabs](https://searchlabs.ca/)** | **[Data Analyst](https://searchlabs.zohorecruit.com/jobs/Careers/630029000022758292)** | Canada | On Site | Sep 20 |
 | **[Motional](https://motional.com/)** | **[Data Analyst, AV Performance Analysis](https://motional.com/open-positions/?gh_jid=7443232003#/7443232003)** | Las Vegas, Nevada, United States | On Site | Sep 20 |
@@ -49,24 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NirYu](https://www.nir-yu.com/)** | **[Data Analyst - subscription-based e-commerce](https://niryu.teamtailor.com/jobs/6481197-data-analyst-subscription-based-e-commerce)** | Remote, Mexico | Remote | Sep 19 |
 | **[Compass](https://www.compass.com)** | **[Senior Data Analyst](https://www.compass.com/careers?gh_jid=7263508)** | San Francisco | On Site | Sep 19 |
 | **[Stone](https://www.stone.com.br/)** | **[Data Analyst Pleno](https://job-boards.greenhouse.io/stone/jobs/7420276003)** | Remoto | Remote | Sep 19 |
-| **[Museum of Science](https://www.mos.org/)** | **[Data Analyst](https://job-boards.greenhouse.io/themuseumofscience/jobs/4927381008)** | Boston, MA | On Site | Sep 19 |
-| **[Lendable](https://www.lendable.co.uk/)** | **[Finance Data Analyst](https://jobs.ashbyhq.com/lendable/3922d2a5-5c90-4806-92af-3cf1386297e0)** | London | Remote | Sep 19 |
-| **[Motive](https://gomotive.com/)** | **[Data Analyst II](https://job-boards.greenhouse.io/gomotive/jobs/8152919002)** | Pakistan - Remote | Remote | Sep 19 |
-| **[KPMG Bulgaria](https://kpmg.com/bg/en/home.html)** | **[Financial Data Analyst](https://kpmg-bulgaria.talentlyft.com/o/9fwagN)** | Anywhere, Bulgaria (Remote) | Remote | Sep 19 |
-| **[MongoDB](https://www.mongodb.com/)** | **[Senior Data Analyst II](https://www.mongodb.com/careers/job/?gh_jid=7252435)** | Dublin | On Site | Sep 19 |
-| **[CityFibre](https://www.cityfibre.com)** | **[Field Data Analyst](https://jobs.smartrecruiters.com/CityFibre/744000082970708-field-data-analyst)** | Milton Keynes, England, United Kingdom | On Site | Sep 19 |
-| **[Voloridge Investment Management](https://voloridge.com)** | **[Health Data Analyst Intern 2026](https://voloridge-investment-management.hiringthing.com/job/958206/health-data-analyst-intern-2026)** | JUPITER, FL, US | On Site | Sep 19 |
-| **[Wise](https://wise.com)** | **[Senior Data Analyst - AML Risk Intelligence](https://jobs.smartrecruiters.com/Wise/744000082945094-senior-data-analyst-aml-risk-intelligence)** | London, United Kingdom | On Site | Sep 19 |
-| **[Artefact](https://www.artefact.com/)** | **[Senior Data Analyst](https://job-boards.greenhouse.io/artefactjobs/jobs/8177447002)** | 9th arrondissement of Paris, 75009, Paris, France | On Site | Sep 19 |
-| **[Casebook PBC](https://www.casebook.net)** | **[Data Analyst (Revenue Operations)](https://jobs.smartrecruiters.com/CasebookPBC/744000082940415-data-analyst-revenue-operations-)** | Remote, United States | Remote | Sep 19 |
-| **[EOS France](https://recrutement.eos-france.com)** | **[Stage de 6 mois - Data Analyst H/F](https://jobs.smartrecruiters.com/EOSFrance/744000082933612-stage-de-6-mois-data-analyst-h-f)** | Paris, IDF, France | On Site | Sep 19 |
-| **[trivago](https://www.trivago.com/)** | **[Data Analyst - Marketing Intelligence](https://careers.trivago.com/job/r8174480002?gh_jid=8174480002)** | Düsseldorf | On Site | Sep 19 |
-| **[Vinted](https://vinted.com/)** | **[Decision Scientist (Data Analyst), Vinted](https://careers.vinted.com/jobs/4558710101?gh_jid=4558710101)** | Amsterdam, Netherlands | On Site | Sep 19 |
-| **[Utility Warehouse](https://uw.co.uk)** | **[Business Data Analyst - Business Intelligence (9-month FTC)](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000082932635-business-data-analyst-business-intelligence-9-month-ftc-)** | London, England, United Kingdom | On Site | Sep 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 50 companies | Avg salary: 117k  
+**Current Stats:** 50 jobs | 18% remote | 49 companies | Avg salary: 123k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
