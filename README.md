@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Sep 22, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Sep 22, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,15 +13,25 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Marriott International](https://www.marriott.com/)** | **[Data Analyst](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/25153631)** | Barcelona, Spain | On Site | Sep 22 |
+| **[Jumbo Interactive](https://www.jumbointeractive.com/)** | **[Data Analyst](https://careers.jumbointeractive.com/jobs/6483168-data-analyst)** | Milton, Australia | On Site | Sep 22 |
 | **[OKX](https://www.okx.com/)** | **[Senior Data Analyst, Institutional Data](https://job-boards.greenhouse.io/okx/jobs/7450416003)** | Hong Kong, Hong Kong SAR | On Site | Sep 22 |
+| **[G-able](https://g-able.com/)** | **[Data Analyst](https://gable.wd3.myworkdayjobs.com/en-US/Careers/job/TH-BKK-GABLE-Head-Office/Data-Analyst_JR100276)** | TH BKK GABLE (Head Office), Thailand | On Site | Sep 22 |
+| **[JLL](https://www.jll.com/)** | **[Senior Data Analyst](https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Singapore/Senior-Support-Analyst_REQ446613)** | SGP-CORP Singapore-PLQ | On Site | Sep 22 |
+| **[Sonepar](https://www.sonepar.com)** | **[Data Analyst / Business Intelligence Engineer (m/w/d) Logistik,](https://career.sonepar.com/job/Holzwickede-Data-Analyst-Business-Intelligence-Engineer-%28mwd%29-Logistik%2C-59439/1249896901/)** | Holzwickede, DE, 59439 | On Site | Sep 22 |
+| **[Uni Systems](https://www.unisystems.com)** | **[Data Analyst](https://apply.workable.com/j/D8536DDC40/apply)** | Braine-l'Alleud, Wallonia, Belgium | On Site | Sep 22 |
+| **[Morgan Stanley](https://www.morganstanley.com/)** | **[Marketing Data Analyst, Client Segments, Associate, Wealth Management](https://ms.wd5.myworkdayjobs.com/en-US/private/job/Mumbai-India/Marketing-Data-Analyst--Client-Segments--Associate--Wealth-Management_PT-JR018394)** | COMMERZ III, OBEROI GARDEN CITY, India | On Site | Sep 22 |
+| **[SUNY Downstate Health Sciences University](https://www.downstate.edu/)** | **[Data Analyst, Transplant Surgery](https://careers.pageuppeople.com/977/cw/en-us/job/496959)** | Brooklyn, NY | On Site | Sep 21 |
 | **[VML](https://www.vml.com/)** | **[CRM Data Analyst](https://www.vml.com/careers/job/7555272002?gh_jid=7555272002)** | Cape Town, Western Cape, South Africa; Johannesburg, Gauteng, South Africa | On Site | Sep 21 |
 | **[Bluevine](https://www.bluevine.com/)** | **[Senior Data Analyst](https://job-boards.greenhouse.io/bluevineisrael/jobs/7450377003)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | Sep 21 |
+| **[MSCI](https://www.msci.com/)** | **[Market Data Analyst - Sr. Associate](https://globalcareers-msci.icims.com/jobs/2221/market-data-analyst---sr.-associate/job?in_iframe=1)** | Monterrey, NLE, Mexico | On Site | Sep 21 |
 | **[Octopus Energy](https://octopus.energy/)** | **[Operations Data Analyst](https://jobs.lever.co/octoenergy/9fd6ea0e-7a8c-4157-9eb8-b15be3d32b81)** | Ascoli Piceno (IT) | On Site | Sep 21 |
 | **[MPOWERHealth](https://mpowerhealth.com/)** | **[Data Analyst](https://careers-mpowerpractice.icims.com/jobs/2375/data-analyst/job?in_iframe=1)** | Addison, TX, United States | On Site | Sep 21 |
 | **[GoTo Group](https://www.gotocompany.com/)** | **[Senior Data Analyst](https://jobs.lever.co/GoToGroup/29ad0186-9042-43cb-a421-cf061ea7058b)** | Jakarta | On Site | Sep 21 |
 | **[Binance](https://www.binance.com/)** | **[Senior Data Analyst (Artificial Intelligence)](https://jobs.lever.co/binance/74b46a59-997b-4e73-8002-a0ced88ebafb)** | South East Asia | Remote | Sep 21 |
-| **[Fisher & Paykel Healthcare](https://www.fphcare.com/)** | **[Associate Data Analyst - Quality, Safety & Regulatory](https://careers.fphcare.com/job/East-Tamaki-Associate-Data-Analyst-Quality%2C-Safety-&-Regulatory-2013/1327653966/)** | East Tamaki, NZ, 2013 | On Site | Sep 21 |
+| **[IRIUM](https://www.irium.es/)** | **[DATA ANALYST CON INGLÉS (HÍBRIDO)](https://iriumspain.applytojob.com/apply/2zwiqS1sOf/DATA-ANALYST-CON-INGLS-HBRIDO)** | Madrid, Madrid | On Site | Sep 21 |
 | **[HII](https://hii.com/)** | **[Data Analyst 4 - 25558](https://jobs.hii-tsd.com/job/Arlington%2C-VA-Data-Analyst-4-25558-Remo/1328000800/)** | Arlington, VA, Remote, United States | Remote | Sep 21 |
+| **[Fisher & Paykel Healthcare](https://www.fphcare.com/)** | **[Associate Data Analyst - Quality, Safety & Regulatory](https://careers.fphcare.com/job/East-Tamaki-Associate-Data-Analyst-Quality%2C-Safety-&-Regulatory-2013/1327653966/)** | East Tamaki, NZ, 2013 | On Site | Sep 21 |
 | **[SearchLabs](https://searchlabs.ca/)** | **[Data Analyst](https://searchlabs.zohorecruit.com/jobs/Careers/630029000022758292)** | Canada | On Site | Sep 20 |
 | **[Motional](https://motional.com/)** | **[Data Analyst, AV Performance Analysis](https://motional.com/open-positions/?gh_jid=7443232003#/7443232003)** | Las Vegas, Nevada, United States | On Site | Sep 20 |
 | **[Bloomberg](https://www.bloomberg.com/)** | **[Data Analyst - Company Financials Industry, Spanish & Portuguese Speaker](https://bloomberg.avature.net/careers/JobDetail/Data-Analyst-Company-Financials-Industry-Spanish-Portuguese-Speaker/14622)** | Sao Paulo | On Site | Sep 20 |
@@ -53,20 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[trivago](https://www.trivago.com/)** | **[Data Analyst - Marketing Intelligence](https://careers.trivago.com/job/r8174480002?gh_jid=8174480002)** | Düsseldorf | On Site | Sep 19 |
 | **[Vinted](https://vinted.com/)** | **[Decision Scientist (Data Analyst), Vinted](https://careers.vinted.com/jobs/4558710101?gh_jid=4558710101)** | Amsterdam, Netherlands | On Site | Sep 19 |
 | **[Utility Warehouse](https://uw.co.uk)** | **[Business Data Analyst - Business Intelligence (9-month FTC)](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000082932635-business-data-analyst-business-intelligence-9-month-ftc-)** | London, England, United Kingdom | On Site | Sep 19 |
-| **[Coface](https://www.coface.com)** | **[Stage - Data Analyst Direction Commerciale (H/F)](https://jobs.smartrecruiters.com/Coface/744000082931755-stage-data-analyst-direction-commerciale-h-f-)** | Bois-Colombes, IDF, France | On Site | Sep 19 |
-| **[Unico](https://unico.io/)** | **[Data Analyst Specialist \[Portugal\]](https://jobs.lever.co/unico/156ecfcb-d82b-45ad-8485-130e9b7f6b16)** | Lisboa | On Site | Sep 19 |
-| **[Getinz](https://www.getinz.com/)** | **[Marketing Data Analyst - GGS - BLR](https://getinz-people.freshteam.com/jobs/fiyCGY6d5ST1/marketing-data-analyst-ggs-blr)** | Karnataka, Bengaluru, India | On Site | Sep 19 |
-| **[Evolution](https://www.evolution.com)** | **[HR Data Analyst](https://jobs.smartrecruiters.com/Evolution/744000082920296-hr-data-analyst)** | Tbilisi, Tbilisi, Georgia | On Site | Sep 19 |
-| **[CarOnSale](https://www.caronsale.com/)** | **[Junior Data Analyst (f/m/x)](https://job-boards.eu.greenhouse.io/caronsale/jobs/4678059101)** | Berlin, Germany | On Site | Sep 19 |
-| **[HousingAnywhere Group](https://housinganywhere.com/)** | **[Senior Data Analyst](https://job-boards.greenhouse.io/housinganywhere/jobs/7439202003)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Sep 19 |
-| **[Australia Post](https://auspost.com.au/)** | **[Data Analyst](https://jobs.auspost.com.au/en_GB/careers/JobDetail/Australia-Data-Analyst/29245)** | Melbourne Support Centre | On Site | Sep 19 |
-| **[TikTok](https://www.tiktok.com/)** | **[Data Analyst - Integrated Marketing Communications Graduate (Global Business Marketing) - 2026 Start (BS/MS)](https://lifeattiktok.com/search/7551441310278191368)** | Singapore, Singapore | On Site | Sep 19 |
-| **[TikTok](https://www.tiktok.com/)** | **[HR People Data Analyst - TikTok RD Mid-Platform - San Jose](https://lifeattiktok.com/search/7551268459087841554)** | San Jose, California, United States | On Site | Sep 19 |
-| **[Coface](https://www.coface.com)** | **[Senior Data Analyst](https://jobs.smartrecruiters.com/Coface/744000082911314-senior-data-analyst)** | București, București, Romania | On Site | Sep 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 48 companies | Avg salary: 114k  
+**Current Stats:** 50 jobs | 24% remote | 50 companies | Avg salary: 117k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
