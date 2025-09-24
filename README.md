@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Sep 23, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 24, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -41,32 +41,32 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TELUS](https://www.telus.com)** | **[Sr. Data Analyst, Customer Lifecycle & Retention](https://careers.telus.com/job/Toronto-Sr_-Data-Analyst%2C-Customer-Lifecycle-&-Retention-ON-M5J-2V5/593334617/)** | Toronto, ON, CA, M5J 2V5 | On Site | Sep 23 |
 | **[Election Systems & Software](https://www.essvote.com/)** | **[Business Data Analyst](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3593043)** | Omaha, NE, US | On Site | Sep 23 |
 | **[MTM](https://www.mtm-inc.net/)** | **[Data Analyst II](https://mtminc.wd1.myworkdayjobs.com/en-US/MTM_External/job/MD---Hyattsville/Data-Analyst-II_REQ12718)** | MD - Hyattsville, United States | On Site | Sep 23 |
-| **[Barclays](https://home.barclays/)** | **[Senior Data Analyst/Data Architect - VP](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/115-South-Jefferson-Rd-Campus-Whippany/Senior-Data-Analyst-Data-Engineer---VP_JR-0000054195)** | 115 South Jefferson Rd Campus, Whippany, United States | On Site | Sep 23 |
-| **[Worldpay](https://www.worldpay.com/)** | **[Data Analyst (Pricing)](https://worldpay.wd5.myworkdayjobs.com/en-US/Worldpay_External_Careers_Site/job/GBR-LNDN-25-Walbrook-FL56/Data-Analyst--Pricing-_JR0607406-1)** | GBR LNDN 25 Walbrook FL5&6, United Kingdom | On Site | Sep 23 |
-| **[Clarivate](https://www.clarivate.com/)** | **[Healthcare Research & Data Analyst (Editorial)](https://clarivate.wd3.myworkdayjobs.com/en-US/Clarivate_Careers/job/Canada---Toronto/Healthcare-Research---Data-Analyst--Editorial-_JREQ133342-1)** | R93-Toronto, Canada | On Site | Sep 23 |
 | **[Johnson & Johnson](https://www.jnj.com/)** | **[Data Analyst](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Pune-Maharashtra-India/Data-Analyst_R-030161)** | IN017 Pune, India | On Site | Sep 23 |
+| **[Clarivate](https://www.clarivate.com/)** | **[Senior Healthcare Research & Data Analyst](https://clarivate.wd3.myworkdayjobs.com/en-US/Clarivate_Careers/job/IND---Bangalore-DRG/Senior-Healthcare-Research---Data-Analyst_JREQ133876)** | R131-Bangalore, India | On Site | Sep 23 |
+| **[SimCorp](https://www.simcorp.com/)** | **[Lead Financial Data Analyst](https://simcorp.wd3.myworkdayjobs.com/en-US/SimCorp_Jobs/job/Noida/Lead-Financial-Data-Analyst_R-210046)** | Noida, India | On Site | Sep 23 |
+| **[Aptiv](https://www.aptiv.com/)** | **[Data Analyst - Governance, Risk and Compliance](https://aptiv.wd5.myworkdayjobs.com/en-US/APTIV_CAREERS/job/Krakow-Poland/Data-Analyst---Governance--Risk-and-Compliance_J000686855)** | POL Krakow - Eng, Poland | On Site | Sep 23 |
+| **[Circle K](https://www.circlek.com/)** | **[Lead Data Analyst](https://circlek.wd3.myworkdayjobs.com/en-US/CircleKStoreJobs/job/Support-Office-India/Lead-Data-Analyst_R505461)** | Support Office India | On Site | Sep 23 |
+| **[Convatec](https://www.convatecgroup.com/)** | **[Corporate Complaints Data Analyst](https://convatec.wd1.myworkdayjobs.com/en-US/ConvaTec/job/FLD-London-Remote-Workers/Corporate-Complaints-Data-Analyst_JR00016889-1)** | FLD-London Remote Workers, United Kingdom | Remote | Sep 23 |
+| **[Volton Hellenic Energy SA](https://volton.gr/)** | **[BI & Data Analyst](https://apply.workable.com/j/8803DA1FA3/apply)** | Athens, Attica, Greece | On Site | Sep 23 |
+| **[Barclays](https://home.barclays/)** | **[Senior Data Analyst/Data Engineer - AVP](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/115-South-Jefferson-Rd-Campus-Whippany/Senior-Data-Analyst-Data-Engineer---AVP_JR-0000054160)** | 115 South Jefferson Rd Campus, Whippany, United States | On Site | Sep 23 |
+| **[Clarivate](https://www.clarivate.com/)** | **[Healthcare Research & Data Analyst (Editorial)](https://clarivate.wd3.myworkdayjobs.com/en-US/Clarivate_Careers/job/Canada---Toronto/Healthcare-Research---Data-Analyst--Editorial-_JREQ133342-1)** | R93-Toronto, Canada | On Site | Sep 23 |
+| **[Solventum](https://www.solventum.com/)** | **[CHK Customer Data Analyst](https://healthcare.wd1.myworkdayjobs.com/en-US/Search/job/CN-Shanghai/CHK-Customer-Data-Analyst_R01124197)** | CN, Shanghai, China | On Site | Sep 23 |
+| **[Worldpay](https://www.worldpay.com/)** | **[Data Analyst (Pricing)](https://worldpay.wd5.myworkdayjobs.com/en-US/Worldpay_External_Careers_Site/job/GBR-LNDN-25-Walbrook-FL56/Data-Analyst--Pricing-_JR0607406-1)** | GBR LNDN 25 Walbrook FL5&6, United Kingdom | On Site | Sep 23 |
 | **[Rakuten Asia Pte Ltd](https://global.rakuten.com/)** | **[Senior Data Analyst](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAsia/job/Singapore/Senior-Data-Analyst--AMD_1029019)** | Crimson House Singapore | On Site | Sep 23 |
+| **[Absa Group](https://www.absa.africa/)** | **[Senior Internal Audit MI Data Analyst](https://absa.wd3.myworkdayjobs.com/en-US/ABSAcareersite/job/Johannesburg/Senior-Internal-Audit-MI-Data-Analyst_R-15979667)** | Absa Towers West, South Africa | On Site | Sep 23 |
+| **[Dedalus](https://www.dedalus.com/)** | **[Data Analyst](https://dedalus.wd3.myworkdayjobs.com/en-US/External/job/EGY---Cairo/Data-Analyst_JR106685)** | EGY - Cairo, Egypt | On Site | Sep 23 |
+| **[Rockwell Automation](https://www.rockwellautomation.com/)** | **[ISC Data Analyst](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Bengaluru-India/ISC-Data-Analyst_R25-3023)** | India Bengaluru | On Site | Sep 23 |
+| **[Morgan Stanley](https://www.morganstanley.com/)** | **[Marketing Data Analyst, Client Segments, Associate, Wealth Management](https://ms.wd5.myworkdayjobs.com/en-US/private/job/Mumbai-India/Marketing-Data-Analyst--Client-Segments--Associate--Wealth-Management_PT-JR018387)** | COMMERZ III, OBEROI GARDEN CITY, India | On Site | Sep 23 |
 | **[ChristianaCare](https://christianacare.org/)** | **[Data Analyst](https://christianacare.wd5.myworkdayjobs.com/en-US/CCHS/job/Wilmington-DE/Data-Analyst_JR80658)** | Avenue North, United States | On Site | Sep 23 |
 | **[Continental Resources, Inc.](https://www.continentalresources.com/)** | **[Production Operations Data Analyst](https://clr.wd5.myworkdayjobs.com/en-US/CLR_Careers/job/Oklahoma-City-OK/Production-Operations-Data-Analyst_R02379)** | Oklahoma City, OK, United States | On Site | Sep 23 |
 | **[Centene Corporation](https://www.centene.com/)** | **[Healthcare Analytics Data Analyst II](https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-MO/Healthcare-Analytics-Data-Analyst-II_1592921-1)** | Remote-MO, United States | Remote | Sep 23 |
+| **[Barclays](https://home.barclays/)** | **[Senior Data Analyst/Data Architect - VP](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/115-South-Jefferson-Rd-Campus-Whippany/Senior-Data-Analyst-Data-Engineer---VP_JR-0000054195)** | 115 South Jefferson Rd Campus, Whippany, United States | On Site | Sep 23 |
 | **[Autodesk](https://www.autodesk.com/)** | **[Intern, Platform Data Analyst](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Toronto-ON-CAN/Intern--Platform-Data-Analyst_25WD91667-1)** | AMER - Canada - Ontario - Toronto - University Ave | On Site | Sep 23 |
-| **[Clarivate](https://www.clarivate.com/)** | **[Senior Healthcare Research & Data Analyst](https://clarivate.wd3.myworkdayjobs.com/en-US/Clarivate_Careers/job/IND---Bangalore-DRG/Senior-Healthcare-Research---Data-Analyst_JREQ133876)** | R131-Bangalore, India | On Site | Sep 23 |
-| **[Solventum](https://www.solventum.com/)** | **[CHK Customer Data Analyst](https://healthcare.wd1.myworkdayjobs.com/en-US/Search/job/CN-Shanghai/CHK-Customer-Data-Analyst_R01124197)** | CN, Shanghai, China | On Site | Sep 23 |
-| **[Morgan Stanley](https://www.morganstanley.com/)** | **[Marketing Data Analyst, Client Segments, Associate, Wealth Management](https://ms.wd5.myworkdayjobs.com/en-US/private/job/Mumbai-India/Marketing-Data-Analyst--Client-Segments--Associate--Wealth-Management_PT-JR018387)** | COMMERZ III, OBEROI GARDEN CITY, India | On Site | Sep 23 |
-| **[Barclays](https://home.barclays/)** | **[Senior Data Analyst/Data Engineer - AVP](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/115-South-Jefferson-Rd-Campus-Whippany/Senior-Data-Analyst-Data-Engineer---AVP_JR-0000054160)** | 115 South Jefferson Rd Campus, Whippany, United States | On Site | Sep 23 |
-| **[Convatec](https://www.convatecgroup.com/)** | **[Corporate Complaints Data Analyst](https://convatec.wd1.myworkdayjobs.com/en-US/ConvaTec/job/FLD-London-Remote-Workers/Corporate-Complaints-Data-Analyst_JR00016889-1)** | FLD-London Remote Workers, United Kingdom | Remote | Sep 23 |
-| **[Volton Hellenic Energy SA](https://volton.gr/)** | **[BI & Data Analyst](https://apply.workable.com/j/8803DA1FA3/apply)** | Athens, Attica, Greece | On Site | Sep 23 |
-| **[SimCorp](https://www.simcorp.com/)** | **[Lead Financial Data Analyst](https://simcorp.wd3.myworkdayjobs.com/en-US/SimCorp_Jobs/job/Noida/Lead-Financial-Data-Analyst_R-210046)** | Noida, India | On Site | Sep 23 |
-| **[Rockwell Automation](https://www.rockwellautomation.com/)** | **[ISC Data Analyst](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Bengaluru-India/ISC-Data-Analyst_R25-3023)** | India Bengaluru | On Site | Sep 23 |
-| **[Circle K](https://www.circlek.com/)** | **[Lead Data Analyst](https://circlek.wd3.myworkdayjobs.com/en-US/CircleKStoreJobs/job/Support-Office-India/Lead-Data-Analyst_R505461)** | Support Office India | On Site | Sep 23 |
 | **[Ruby Labs](https://rubylabs.com/)** | **[Senior Data Analyst](https://jobs.ashbyhq.com/ruby-labs/c3439ef2-7690-413f-8894-df63a3649dd1)** | Remote \| Ukraine | Remote | Sep 22 |
-| **[Qube Research & Technologies](https://www.qube-rt.com/)** | **[Internship or Graduate - Business Data Analyst](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8106023002)** | London | On Site | Sep 22 |
-| **[Qube Research & Technologies](https://www.qube-rt.com/)** | **[Quantitative Data Analyst](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/7111448002)** | Mumbai | On Site | Sep 22 |
-| **[Samsara](https://www.samsara.com/)** | **[Data Analyst - Remote Candada](https://www.samsara.com/company/careers/roles/7266675?gh_jid=7266675)** | Remote - Toronto | Remote | Sep 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 46 companies | Avg salary: 118k  
+**Current Stats:** 50 jobs | 10% remote | 47 companies | Avg salary: 118k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
