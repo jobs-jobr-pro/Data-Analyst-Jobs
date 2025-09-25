@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Sep 25, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Sep 25, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -31,15 +31,21 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Coinhako](https://www.coinhako.com/)** | **[Senior Data Analyst](https://jobs.ashbyhq.com/coinhako/f21824e0-4d0a-4957-b279-4ac6cc89faef)** | Singapore | On Site | Sep 25 |
 | **[Payoneer](https://www.payoneer.com)** | **[Senior Ops Data Analyst](https://www.payoneer.com/careers/position/6725374/?gh_jid=6725374)** | Shanghai, China | On Site | Sep 25 |
 | **[Monks](https://www.monks.com/)** | **[Senior Media Data Analyst](https://www.monks.com/careers/5541645004/job?gh_jid=5541645004)** | Noida | On Site | Sep 25 |
-| **[LFB](https://www.groupe-lfb.com/)** | **[Data Analyst RH (Analyste données sociales)](https://lfb.wd3.myworkdayjobs.com/en-US/LFB_External_Careers/job/Les-Ulis-le-de-France/Data-Analyst-RH--Analyste-donnes-sociales-_R8503)** | Ulis, France | On Site | Sep 25 |
-| **[Kody](https://kody.com)** | **[Data Analyst (Looker & Self-Service BI Advocate) - HK](https://apply.workable.com/j/07A298C8C6/apply)** | Hong Kong, Hong Kong, Hong Kong | On Site | Sep 25 |
-| **[USAA](https://www.usaa.com/)** | **[Data Analyst Intern - P&C](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Data-Analyst-Intern---P-C_R0112707)** | San Antonio Home Office I, United States | On Site | Sep 25 |
-| **[Vodafone](https://www.vodafone.com)** | **[Test Data Analyst](https://opportunities.vodafone.com/job/Pune-Test-Data-Analyst/1251251001/)** | Pune, IN | On Site | Sep 25 |
-| **[Bank of America](https://www.bankofamerica.com/)** | **[Senior Data Analyst](https://ghr.wd1.myworkdayjobs.com/en-US/US-EMPLSV/job/Charlotte/Senior-Data-Analyst_25039636)** | Charlotte, United States | On Site | Sep 25 |
-| **[Sanofi](https://www.sanofi.com/)** | **[Senior RWE Data Analyst](https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Senior-RWE-Data-Analyst_R2799179)** | Hyderabad, India | On Site | Sep 25 |
 | **[Apex Group](https://www.apexgroup.com/)** | **[Data Analyst / Power BI](https://theapexgroup.wd3.myworkdayjobs.com/en-US/apexgroupcareers/job/Mumbai/Data-Analyst---Power-BI_JR-0014339)** | Mumbai, Evergreen Ind Estate, India | On Site | Sep 25 |
+| **[USAA](https://www.usaa.com/)** | **[Data Analyst Intern - P&C](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Data-Analyst-Intern---P-C_R0112707)** | San Antonio Home Office I, United States | On Site | Sep 25 |
+| **[Hong Leong Bank Berhad](https://www.hlb.com.my/)** | **[Contractor - (Data Analyst)](https://hlb.wd3.myworkdayjobs.com/en-US/HLBCareers/job/HLT-Hong-Leong-Tower/Contractor----Data-Analyst-_JR0000022067)** | HLT-Hong Leong Tower, Malaysia | On Site | Sep 25 |
+| **[Sanofi](https://www.sanofi.com/)** | **[Senior RWE Data Analyst](https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Hyderabad/Senior-RWE-Data-Analyst_R2799179)** | Hyderabad, India | On Site | Sep 25 |
+| **[Incora](https://www.incora.com/)** | **[Data Analyst](https://incora.wd5.myworkdayjobs.com/en-US/Incora/job/Derby-United-Kingdom/Data-Analyst_JR104189-2)** | Derby, Longbridge Ln, GBR, United Kingdom | On Site | Sep 25 |
+| **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst III](https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-NH/Data-Analyst-III_1585811)** | Remote-NH, United States | Remote | Sep 25 |
+| **[Bank of America](https://www.bankofamerica.com/)** | **[Senior Data Analyst](https://ghr.wd1.myworkdayjobs.com/en-US/US-EMPLSV/job/Charlotte/Senior-Data-Analyst_25039636)** | Charlotte, United States | On Site | Sep 25 |
+| **[Vodafone](https://www.vodafone.com)** | **[Test Data Analyst](https://opportunities.vodafone.com/job/Pune-Test-Data-Analyst/1251251001/)** | Pune, IN | On Site | Sep 25 |
 | **[Kody](https://kody.com)** | **[Data Analyst (Looker & Self-Service BI Advocate)](https://apply.workable.com/j/D04A91340A/apply)** | Shenzhen, Guangdong Province, China | On Site | Sep 25 |
+| **[Kody](https://kody.com)** | **[Data Analyst (Looker & Self-Service BI Advocate) - HK](https://apply.workable.com/j/07A298C8C6/apply)** | Hong Kong, Hong Kong, Hong Kong | On Site | Sep 25 |
+| **[Essity](https://www.essity.com/)** | **[Supplier Master Data Analyst (M/F/D)](https://essity.wd3.myworkdayjobs.com/en-US/Job_opportunities/job/Lisbon-Portugal/Supplier-Master-Data-Analyst--M-F-D-_Essity255464)** | Lisbon, Portugal | On Site | Sep 25 |
+| **[AmerisourceBergen](https://www.amerisourcebergen.com/)** | **[Data Analyst](https://myhrabc.wd5.myworkdayjobs.com/en-US/Global/job/Heredia-Costa-Rica/Data-Analyst_R2517922)** | LATAM - Costa Rica - Heredia - C. Dominguenos | On Site | Sep 25 |
+| **[LFB](https://www.groupe-lfb.com/)** | **[Data Analyst RH (Analyste données sociales)](https://lfb.wd3.myworkdayjobs.com/en-US/LFB_External_Careers/job/Les-Ulis-le-de-France/Data-Analyst-RH--Analyste-donnes-sociales-_R8503)** | Ulis, France | On Site | Sep 25 |
 | **[FedEx](https://www.fedex.com/)** | **[Data Analyst - Senior](https://fedex.wd1.myworkdayjobs.com/en-US/FXE-MEISA-External/job/FXE-MEISAINDBOMHQBOMHQMumbai/Data-Analyst---Senior_RC735415)** | FXE-MEISA/IND/BOMHQ/BOMHQ/Mumbai, India | On Site | Sep 25 |
+| **[GE HealthCare](https://www.gehealthcare.com/)** | **[Tax Audit Data Analyst](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/HUN02-01-Budapest-Vaci-Greens-C/Tax-Audit-Data-Analyst_R4029128-1)** | HUN02-01-Budapest-Vaci Greens C, Hungary | On Site | Sep 25 |
 | **[Brigit](https://www.hellobrigit.com/)** | **[Data Analyst, Product](https://jobs.ashbyhq.com/brigit/f6bb8dc9-ffbb-4c38-8e19-2332bea468d9)** | New York City (Hybrid) | On Site | Sep 24 |
 | **[GeneDx](https://genedx.com/)** | **[Senior Healthcare Data Analyst](https://genedx.com/careers/openings?gh_jid=4590777005)** | Remote | Remote | Sep 24 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Data Analyst - Commercial Marketing Data & Analytics](https://jobs.careers.microsoft.com/global/en/job/1881921/)** | Redmond, Washington, United States | On Site | Sep 24 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[MAZARS](https://www.forvismazars.com/)** | **[Consultant Sénior Data Analyst (H/F)](https://jobs.smartrecruiters.com/MAZARS/744000083702285-consultant-senior-data-analyst-h-f-)** | Levallois-Perret, IDF, France | On Site | Sep 24 |
 | **[GoDaddy](https://godaddy.com)** | **[Senior Data Analyst](https://careers.godaddy/jobs?gh_jid=6646404003)** | India | Remote | Sep 24 |
 | **[Selina Finance](https://www.selinafinance.co.uk/)** | **[Data Analyst](https://selinafinance.recruitee.com/o/data-analyst-1)** | London, England, United Kingdom | On Site | Sep 24 |
-| **[Marktine Technology Solutions Pvt Ltd](https://marktine.com/)** | **[Data Analyst(Tableau Developer)](https://marktine.zohorecruit.com/jobs/Careers/634479000000586127)** | Remote | Remote | Sep 24 |
-| **[Marktine Technology Solutions Pvt Ltd](https://marktine.com/)** | **[Process Developer– Data Analyst](https://marktine.zohorecruit.com/jobs/Careers/634479000003789693)** | Remote | Remote | Sep 24 |
-| **[NielsenIQ](https://nielseniq.com)** | **[NIQ Early Career Program: Stage – Data Analyst - Équipe Digital Purchases F/H](https://jobs.smartrecruiters.com/NielsenIQ/744000083696275-niq-early-career-program-stage-data-analyst-equipe-digital-purchases-f-h)** | Paris, 75C, France | On Site | Sep 24 |
-| **[Central Securities Clearing System Plc](https://www.cscs.ng/)** | **[Data Analyst](https://cscs.zohorecruit.com/jobs/Careers/766915000000641019)** | Lagos, Nigeria | On Site | Sep 24 |
-| **[MyOperator](https://myoperator.com/)** | **[Data Analyst Manager](https://myoperator-careers.zohorecruit.com/jobs/Careers/326654000049444442)** | Remote | Remote | Sep 24 |
-| **[MigrationIT](https://www.migrationit.com/)** | **[Data Analyst](https://migrationit.zohorecruit.com/jobs/Careers/586058000013931323)** | Cairo, Egypt | On Site | Sep 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 46 companies | Avg salary: 118k  
+**Current Stats:** 50 jobs | 14% remote | 47 companies | Avg salary: 111k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
