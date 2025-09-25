@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Sep 25, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Sep 25, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -16,10 +16,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Coinhako](https://www.coinhako.com/)** | **[Senior Data Analyst](https://jobs.ashbyhq.com/coinhako/f21824e0-4d0a-4957-b279-4ac6cc89faef)** | Singapore | On Site | Sep 25 |
 | **[Payoneer](https://www.payoneer.com)** | **[Senior Ops Data Analyst](https://www.payoneer.com/careers/position/6725374/?gh_jid=6725374)** | Shanghai, China | On Site | Sep 25 |
 | **[Monks](https://www.monks.com/)** | **[Senior Media Data Analyst](https://www.monks.com/careers/5541645004/job?gh_jid=5541645004)** | Noida | On Site | Sep 25 |
-| **[Bank of America](https://www.bankofamerica.com/)** | **[Senior Data Analyst](https://ghr.wd1.myworkdayjobs.com/en-US/US-EMPLSV/job/Charlotte/Senior-Data-Analyst_25039636)** | Charlotte, United States | On Site | Sep 25 |
 | **[Vodafone](https://www.vodafone.com)** | **[Test Data Analyst](https://opportunities.vodafone.com/job/Pune-Test-Data-Analyst/1251251001/)** | Pune, IN | On Site | Sep 25 |
+| **[Bank of America](https://www.bankofamerica.com/)** | **[Senior Data Analyst](https://ghr.wd1.myworkdayjobs.com/en-US/US-EMPLSV/job/Charlotte/Senior-Data-Analyst_25039636)** | Charlotte, United States | On Site | Sep 25 |
 | **[Brigit](https://www.hellobrigit.com/)** | **[Data Analyst, Product](https://jobs.ashbyhq.com/brigit/f6bb8dc9-ffbb-4c38-8e19-2332bea468d9)** | New York City (Hybrid) | On Site | Sep 24 |
 | **[GeneDx](https://genedx.com/)** | **[Senior Healthcare Data Analyst](https://genedx.com/careers/openings?gh_jid=4590777005)** | Remote | Remote | Sep 24 |
+| **[Microsoft](https://www.microsoft.com/)** | **[Data Analyst - Commercial Marketing Data & Analytics](https://jobs.careers.microsoft.com/global/en/job/1881921/)** | Redmond, Washington, United States | On Site | Sep 24 |
 | **[Tombras](https://tombras.com/)** | **[Data Analyst](https://jobs.lever.co/tombras/ae68d6d3-64df-43b7-8fb6-ded3621e5c08)** | Knoxville, TN | On Site | Sep 24 |
 | **[Abnormal Security](https://abnormalsecurity.com/)** | **[Data Analyst 2 - Detection Efficacy](https://abnormal.ai/careers/jobs/6942549003?gh_jid=6942549003)** | Remote - USA | Remote | Sep 24 |
 | **[Hello Heart](https://www.helloheart.com/)** | **[Senior Business Data Analyst](https://www.helloheart.com/about/careers?gh_jid=8175653002)** | Remote US | Remote | Sep 24 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Nord Security](https://nordsecurity.com/)** | **[Data Analyst \| Senior](https://jobs.lever.co/nordsec/949373dd-cc16-4041-bedf-25b752b58c57)** | Warsaw | On Site | Sep 24 |
 | **[ALU](https://www.alueducation.com/)** | **[Salesforce Data Analyst, Senior Associate](https://job-boards.greenhouse.io/alu/jobs/7058469)** | Rwanda, Mauritius | On Site | Sep 24 |
 | **[OKX](https://www.okx.com/)** | **[Senior Data Analyst](https://job-boards.greenhouse.io/okx/jobs/7453377003)** | London, England, United Kingdom | On Site | Sep 24 |
-| **[Veeva Systems](https://www.veeva.com/)** | **[Senior Data Analyst](https://jobs.lever.co/veeva/9829505e-d7db-4f73-be0a-754ca1299c2e)** | North Macedonia - Skopje | On Site | Sep 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 46 companies | Avg salary: 115k  
+**Current Stats:** 50 jobs | 18% remote | 46 companies | Avg salary: 127k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
