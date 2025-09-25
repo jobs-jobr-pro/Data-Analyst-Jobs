@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Sep 24, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 25, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -40,33 +40,33 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bank of China (Hong Kong)](https://www.bochk.com/)** | **[Data Analyst (MIS) / Deputy Data Analyst (MIS) / Assistant Data Analyst (MIS)](https://careers.pageuppeople.com/798/cw/en/job/499763)** | Hong Kong | On Site | Sep 24 |
 | **[Rexford Industrial](https://www.rexfordindustrial.com/)** | **[Data Analyst – ESG/Sustainability](https://job-boards.greenhouse.io/rexfordindustrial/jobs/5656887004)** | Los Angeles, CA-Hybrid | On Site | Sep 24 |
 | **[The Leading Niche](https://theleadingniche.com/)** | **[Business/Data Analyst - US Customs and Border Patrol](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3596815)** | Washington, DC, US | On Site | Sep 24 |
-| **[EY](https://www.ey.com)** | **[Data Analyst](https://careers.ey.com/ey/job/Sydney-Data-Analyst-NSW-2000/1250825101/)** | Sydney, NSW, AU, 2000 | On Site | Sep 24 |
-| **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst II](https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-TX/Data-Analyst-II_1590389)** | Remote-TX, United States | Remote | Sep 24 |
-| **[IG Group](https://www.iggroup.com/)** | **[Marketing Data Analyst](https://ig.wd103.myworkdayjobs.com/en-US/EXT_IG/job/Cannon-Street-London/Marketing-Data-Analyst_R_15380-1)** | Cannon Street, London, United Kingdom | On Site | Sep 24 |
-| **[Reputation](https://www.reputation.com/)** | **[JIRA Administrator and Data Analyst](https://reputation.wd1.myworkdayjobs.com/en-US/External/job/Hyderabad-India-Hybrid/JIRA-Administrator-and-Data-Analyst_JR101553)** | Hyderabad Office, India | On Site | Sep 24 |
-| **[CDW](https://www.cdw.com/)** | **[Sr. Data Analyst](https://cdw.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago--Adams---IL/Sr-Data-Analyst_R25_00003042)** | Chicago / Adams - IL, United States | On Site | Sep 24 |
-| **[S&P Global](https://www.spglobal.com/)** | **[Lead Data Analyst](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Banglore-Karnatak/Lead-Data-Analyst_319477)** | IN - BANGALORE PRIMECO UNION CITY, India | On Site | Sep 24 |
-| **[Fortrea](https://www.fortrea.com/)** | **[Apprentice - Asst Clinical Data Analyst](https://fortrea.wd1.myworkdayjobs.com/en-US/Fortrea/job/Bangalore/Apprentice---Asst-Clinical-Data-Analyst_255050)** | Bangalore, India | On Site | Sep 24 |
-| **[Oxy](https://www.oxy.com/)** | **[HES&S Data Analyst](https://oxy.wd5.myworkdayjobs.com/en-US/Corporate/job/Dallas-Texas/HES-S-Data-Analyst_JR104875-1)** | Dallas, United States | On Site | Sep 24 |
+| **[Dell Technologies](https://www.delltechnologies.com/)** | **[Content Intelligence Data Analyst](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Warszawa-Poland/Content-Intelligence-Data-Analyst_R276206)** | Warszawa, Poland | On Site | Sep 24 |
+| **[AIG](https://www.aig.com/)** | **[Business Data Analyst](https://aig.wd1.myworkdayjobs.com/en-US/aig/job/London/Business-Data-Analyst_JR2503821)** | 58 Fenchurch Street, London, GBR, United Kingdom | On Site | Sep 24 |
+| **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Data Analyst](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Mumbai-India/Data-Analyst_R-148218)** | Plant and Business Unit Head Office - Mumbai, India | On Site | Sep 24 |
 | **[RMIT University](https://www.rmit.edu.au)** | **[Research Asistant (Data Analyst)](https://rmit.wd3.myworkdayjobs.com/en-US/RMIT_Jobs/job/Melbourne/Research-Asistant--Data-Analyst-_JR42875)** | City Campus, Australia | On Site | Sep 24 |
-| **[CluneTech](https://www.clunetech.com/)** | **[Marketing Data Analyst](https://apply.workable.com/j/5089737989/apply)** | Varna, Varna, Bulgaria | On Site | Sep 24 |
+| **[JLL](https://www.jll.com/)** | **[Space Data Analyst](https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Warsaw-POL/Space-Data-Analyst_REQ444050)** | POL-CLIENT Warsaw-Topaz Building-Cisco, Poland | On Site | Sep 24 |
+| **[EY](https://www.ey.com)** | **[Data Analyst](https://careers.ey.com/ey/job/Sydney-Data-Analyst-NSW-2000/1250825101/)** | Sydney, NSW, AU, 2000 | On Site | Sep 24 |
+| **[Deutsche Bank](https://www.db.com/)** | **[Reference Data Analyst, NCT](https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Bangalore-Velankani-Tech-Park/Reference-Data-Analyst--NCT_R0400975)** | Bangalore, Velankani Tech Park, India | On Site | Sep 24 |
+| **[Guidehouse](https://www.guidehouse.com/)** | **[Lead Data Analyst](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/IN---Chennai/Lead-Data-Analyst_31932-1)** | GH Office: Chennai, India (TRIL) | On Site | Sep 24 |
 | **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst II Healthcare Analytics](https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-FL/Data-Analyst-II--Healthcare-Analytics-_1589234)** | Remote-FL, United States | Remote | Sep 24 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Data Analyst](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Banglore-Karnatak/Data-Analyst_319474-1)** | IN - BANGALORE PRIMECO UNION CITY, India | On Site | Sep 24 |
-| **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Data Analyst](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Mumbai-India/Data-Analyst_R-148218)** | Plant and Business Unit Head Office - Mumbai, India | On Site | Sep 24 |
-| **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[Infrastructure Program Data Analyst](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Stuttgart-Baden-Wurttemberg/Infrastructure-Program-Data-Analyst_R0226806)** | DEU, Stuttgart (Kurmarker Strasse), Germany | On Site | Sep 24 |
+| **[S&P Global](https://www.spglobal.com/)** | **[Lead Data Analyst](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Internal/job/Banglore-Karnatak/Lead-Data-Analyst_319477-2)** | IN - BANGALORE PRIMECO UNION CITY, India | On Site | Sep 24 |
+| **[Reputation](https://www.reputation.com/)** | **[JIRA Administrator and Data Analyst](https://reputation.wd1.myworkdayjobs.com/en-US/External/job/Hyderabad-India-Hybrid/JIRA-Administrator-and-Data-Analyst_JR101553)** | Hyderabad Office, India | On Site | Sep 24 |
+| **[Oxy](https://www.oxy.com/)** | **[HES&S Data Analyst](https://oxy.wd5.myworkdayjobs.com/en-US/Corporate/job/Dallas-Texas/HES-S-Data-Analyst_JR104875-1)** | Dallas, United States | On Site | Sep 24 |
+| **[Team Global Express](https://teamglobalexp.com/)** | **[Data Analyst](https://agreenspace.wd3.myworkdayjobs.com/en-US/Global_Express_Career_Site/job/Auckland-Auckland/Data-Analyst_R68022)** | Auckland Tamaki, New Zealand | On Site | Sep 24 |
+| **[Fortrea](https://www.fortrea.com/)** | **[Apprentice - Asst Clinical Data Analyst](https://fortrea.wd1.myworkdayjobs.com/en-US/Fortrea/job/Bangalore/Apprentice---Asst-Clinical-Data-Analyst_255050)** | Bangalore, India | On Site | Sep 24 |
+| **[CDW](https://www.cdw.com/)** | **[Sr. Data Analyst](https://cdw.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago--Adams---IL/Sr-Data-Analyst_R25_00003042)** | Chicago / Adams - IL, United States | On Site | Sep 24 |
+| **[IG Group](https://www.iggroup.com/)** | **[Marketing Data Analyst](https://ig.wd103.myworkdayjobs.com/en-US/EXT_IG/job/Cannon-Street-London/Marketing-Data-Analyst_R_15380-1)** | Cannon Street, London, United Kingdom | On Site | Sep 24 |
+| **[CluneTech](https://www.clunetech.com/)** | **[Marketing Data Analyst](https://apply.workable.com/j/5089737989/apply)** | Varna, Varna, Bulgaria | On Site | Sep 24 |
 | **[Chevron](https://www.chevron.com/)** | **[Data Analyst](https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Makati-City-Chevron-6750-Office/Data-Analyst_R000064522)** | Makati City Chevron 6750 Office, Philippines | On Site | Sep 24 |
-| **[RSM](https://rsmus.com/)** | **[Microsoft Reporting and Data Analyst 1](https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Gurugram/Microsoft-Reporting-and-Data-Analyst-1_JR115194)** | IND-HR-Gurugram-HQ27-The Headquarters, India | On Site | Sep 24 |
+| **[Comcast](https://corporate.comcast.com/)** | **[Senior Data Analyst - Europe](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/Great-Britain---London-1-St-Giles-High-St/Senior-Data-Analyst---Europe_R420954)** | Great Britain - London, 1 St Giles High St, United Kingdom | On Site | Sep 24 |
 | **[Supermom Business](https://welovesupermom.com)** | **[Data Analyst Intern (6 months) - Singapore Based](https://apply.workable.com/j/D7D2F91139/apply)** | Singapore, Singapore, Singapore | On Site | Sep 24 |
-| **[Dell Technologies](https://www.delltechnologies.com/)** | **[Content Intelligence Data Analyst](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Warszawa-Poland/Content-Intelligence-Data-Analyst_R276206)** | Warszawa, Poland | On Site | Sep 24 |
-| **[Eversource Energy](https://www.eversource.com/)** | **[Data Analyst (GIS) Project Coordination (Hybrid Schedule)](https://eversource.wd1.myworkdayjobs.com/en-US/ExternalSite/job/Hartford-CT/Data-Analyst--Project-Coordination--Hybrid-Schedule-_R-028479)** | Hartford, CT, United States | On Site | Sep 24 |
-| **[Clarivate](https://www.clarivate.com/)** | **[Healthcare Research & Data Analyst](https://clarivate.wd3.myworkdayjobs.com/en-US/Clarivate_Careers/job/IND---Bangalore-DRG/Healthcare-Research---Data-Analyst_JREQ133901)** | R131-Bangalore, India | On Site | Sep 24 |
-| **[State Street](https://www.statestreet.com/)** | **[Alpha Data Services – Data Analyst, Assistant Vice President](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/London-England/Alpha-Data-Services---Data-Analyst--Assistant-Vice-President_R-778304-1)** | London, England, United Kingdom | On Site | Sep 24 |
+| **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[Infrastructure Program Data Analyst](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Stuttgart-Baden-Wurttemberg/Infrastructure-Program-Data-Analyst_R0226806)** | DEU, Stuttgart (Kurmarker Strasse), Germany | On Site | Sep 24 |
 | **[Karat](https://karat.com/)** | **[Data Analyst (Q4 2025 Contractor)](https://job-boards.greenhouse.io/karat/jobs/8174192002)** | Remote (United States) | Remote | Sep 23 |
-| **[Komodo Health](https://www.komodohealth.com/)** | **[Senior Research Data Analyst, HEOR/RWE](https://job-boards.greenhouse.io/komodohealth/jobs/7975049002)** | United States | Remote | Sep 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 45 companies | Avg salary: 124k  
+**Current Stats:** 50 jobs | 12% remote | 46 companies | Avg salary: 124k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
