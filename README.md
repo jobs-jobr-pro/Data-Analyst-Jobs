@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Sep 27, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Sep 27, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,28 +13,35 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[American Express](https://www.americanexpress.com/)** | **[Data Analyst](https://axp.taleo.net/careersection/rp/jobdetail.ftl?job=25017931)** | US-Arizona-Phoenix | On Site | Sep 27 |
+| **[WorldLink US](https://worldlink-us.com/)** | **[Sr. Marketing Data Analyst](https://worldlink-us.zohorecruit.com/jobs/Careers/682152000050663602)** | Englewood Cliffs, United States | On Site | Sep 27 |
+| **[TotalEnergies](https://totalenergies.com/)** | **[Data Analyst débutant & Développement digital de l'audit Compagnie H/F](https://jobs.totalenergies.com/en_US/careers/JobDetail/Data-Analyst-d-butant-D-veloppement-digital-de-l-audit-Compagnie-H-F/70998)** | PLD-TOUR MICHELET(FRA), PARIS LA DEFENSE, France | On Site | Sep 27 |
 | **[Gartner](https://www.gartner.com/)** | **[Sr Data Analyst (SQL, Excel, JIRA)](https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Gurgaon/Sr-Data-Analyst--SQL--Excel--JIRA-_101543)** | Gurgaon - Cyber Park, India | On Site | Sep 27 |
 | **[Gartner](https://www.gartner.com/)** | **[Sr Data Analyst](https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Gurgaon/Sr-Data-Analyst_103952)** | Gurgaon - Cyber Park, India | On Site | Sep 27 |
-| **[Coalition](https://www.coalitioninc.com/)** | **[Senior Data Analyst](https://www.coalitioninc.com/job-posting?gh_jid=4613290005)** | Any location, Canada | On Site | Sep 26 |
+| **[Coalition](https://www.coalitioninc.com/)** | **[Senior Data Analyst](https://www.coalitioninc.com/job-posting?gh_jid=4613245005)** | Any location, United States | On Site | Sep 26 |
 | **[Doximity](https://www.doximity.com/)** | **[Data Analyst, Business Intelligence](https://workat.doximity.com/positions/?gh_jid=7273971)** | San Francisco, CA or Remote (U.S.) | Remote | Sep 26 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Customer Experience Data Analyst](https://jobs.careers.microsoft.com/global/en/job/1884223/)** | Redmond, Washington, United States | On Site | Sep 26 |
-| **[Groupama](https://www.groupama.com/)** | **[Data Analyst Qlik Sense-CDD 6 mois H/F](https://offres.groupama-gan-recrute.com/Pages/Offre/detailoffre.aspx?idOffre=61364&idOrigine=478&LCID=1036&offerReference=2025-61364)** | France, Ile-de-France, HAUTS-DE-SEINE (92) | On Site | Sep 26 |
 | **[Groupama](https://www.groupama.com/)** | **[Data Analyst SAS/Qlik-CDD 6 mois H/F](https://offres.groupama-gan-recrute.com/Pages/Offre/detailoffre.aspx?idOffre=61356&idOrigine=478&LCID=1036&offerReference=2025-61356)** | France, Ile-de-France, HAUTS-DE-SEINE (92) | On Site | Sep 26 |
+| **[Groupama](https://www.groupama.com/)** | **[Data Analyst Qlik Sense-CDD 6 mois H/F](https://offres.groupama-gan-recrute.com/Pages/Offre/detailoffre.aspx?idOffre=61364&idOrigine=478&LCID=1036&offerReference=2025-61364)** | France, Ile-de-France, HAUTS-DE-SEINE (92) | On Site | Sep 26 |
 | **[The Clearing, Inc.](https://theclearing.com/)** | **[Senior Data Analyst - Active Top Secret Clearance Required](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3605011)** | Washington, DC, US | On Site | Sep 26 |
 | **[Emerson](https://www.emerson.com/)** | **[Data Analyst Co-Op](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/25026848)** | Marshalltown, IA, United States | On Site | Sep 26 |
 | **[Public Storage](https://www.publicstorage.com/)** | **[Revenue Data Analyst - (Plano, TX)](https://jobs.smartrecruiters.com/PublicStorage/744000084293182-revenue-data-analyst-plano-tx-)** | Plano, TX, United States | On Site | Sep 26 |
 | **[Metrolinx](https://www.metrolinx.com/)** | **[Performance Data Analyst (12 Month Contract)](https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/114320)** | Canada | On Site | Sep 26 |
 | **[ZayZoon](https://www.zayzoon.com/)** | **[Senior Data Analyst](https://jobs.ashbyhq.com/zayzoon/56db23ba-0110-4c59-bc2d-cc833863168a)** | Calgary | Remote | Sep 26 |
 | **[Seaspan ULC](https://www.seaspan.com/)** | **[Quality Data Analyst II](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/7934)** | North Vancouver, BC, Canada | On Site | Sep 26 |
+| **[EXL](https://www.exlservice.com/)** | **[Data Analyst - Senior Manager in Medical Health Claims](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/4913)** | United States | On Site | Sep 26 |
 | **[Abnormal Security](https://abnormalsecurity.com/)** | **[Data Analyst 2 - R&D Engine](https://abnormal.ai/careers/jobs/7479626003?gh_jid=7479626003)** | Remote - Canada | Remote | Sep 26 |
 | **[Mortenson](https://www.mortenson.com/)** | **[Associate HR Data Analyst](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/19840)** | Minneapolis, MN, United States | On Site | Sep 26 |
+| **[EXL](https://www.exlservice.com/)** | **[Assistant Manager-Data Management and Analytics-Data Ops/Data Analyst](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/4786)** | Chennai, Tamil Nadu, India | On Site | Sep 26 |
 | **[SPS](https://www.spsglobal.com/)** | **[Service Delivery Data Analyst](https://job-boards.greenhouse.io/spsnorthamerica/jobs/4935517008)** | U.S. Remote | Remote | Sep 26 |
 | **[Heico Corporation](https://heico.com/)** | **[Data Analyst](https://myjobs.adp.com/heico/cx/job-details?reqId=5001152876806)** | Peachtree City, GA, United States | Remote | Sep 26 |
 | **[Rituals](https://www.rituals.co.th/)** | **[Retail Data Analyst](https://jobs.smartrecruiters.com/Rituals1/744000084263704-retail-data-analyst)** | Amsterdam, NH, Netherlands | On Site | Sep 26 |
 | **[Veolia](https://www.veolia.com/)** | **[Data Analyst Pôle France Sud F/H](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000084261979-data-analyst-pole-france-sud-f-h)** | Chasse-sur-Rhône, Auvergne-Rhône-Alpes, France | On Site | Sep 26 |
 | **[emnify](https://www.emnify.com/)** | **[Staff Data Analyst (m/f/d)](https://www.emnify-jobs.com/emnify/?gh_jid=4682066101)** | Berlin, Germany, Germany Remote | Remote | Sep 26 |
 | **[Watershed](https://watershed.com)** | **[Data analyst](https://jobs.ashbyhq.com/watershed/8c34a824-a1aa-41fc-8685-fe4029a4de86)** | Mexico City | On Site | Sep 26 |
+| **[Sainsbury's](https://www.sainsburys.co.uk/)** | **[Associate Analyst - Data Analyst / SQL](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/400013761)** | London, London, United Kingdom | On Site | Sep 26 |
 | **[Squarespace](https://www.squarespace.com/)** | **[Data Analyst, Performance & Strategic Analytics](http://www.squarespace.com/about/careers?gh_jid=7269032)** | New York City | On Site | Sep 26 |
+| **[EXL](https://www.exlservice.com/)** | **[Lead Assistant Manager-Data Management and Analytics-Data Ops/Data Analyst](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/4878)** | India | On Site | Sep 26 |
 | **[New York Family Dentistry](https://newyorkfamilydentistry.com/)** | **[Data Analyst](https://careers.newyorkfamilydentistry.com/jobs/6521683-data-analyst)** | Zone, Philippines | On Site | Sep 26 |
 | **[Pride Mobility Products Corp.](https://www.pridemobility.com/)** | **[Manufacturing Data Analyst](https://recruiting.ultipro.com/PRI1023PMPC/JobBoard/dfafc2d9-d71d-42e8-810a-be81d9719fbb/OpportunityDetail?opportunityId=213b0d67-8f3d-437e-a95d-d48e09c9828a)** | Duryea, Pennsylvania, United States | On Site | Sep 26 |
 | **[SHEIN](https://shein.com/)** | **[Data Analyst I](https://fa-exjq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/USA91260626)** | United States | On Site | Sep 26 |
@@ -56,17 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Nagarro](https://www.nagarro.com)** | **[Data Analyst - Power BI and Azure](https://jobs.smartrecruiters.com/Nagarro1/744000084180366-data-analyst-power-bi-and-azure)** | Remote, Romania | Remote | Sep 26 |
 | **[Scopely](https://www.scopely.com/)** | **[Senior Data Analyst](https://job-boards.greenhouse.io/scopely/jobs/4921663008)** | ES - Barcelona, Spain; IL - Tel Aviv, Israel | On Site | Sep 26 |
 | **[Artemed SE](https://www.artemed.de)** | **[Personalcontroller – Data Analyst (m/w/d)](https://jobs.smartrecruiters.com/ArtemedSE/744000084166450-personalcontroller-data-analyst-m-w-d-)** | deutschlandweit, Germany | Remote | Sep 26 |
-| **[IHG](https://www.ihg.com/)** | **[Global Data Analyst – Safety](https://fa-evax-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/151020)** | United Kingdom | On Site | Sep 26 |
-| **[Bosch Group](https://www.bosch.com)** | **[Master Data Analyst with German](https://jobs.smartrecruiters.com/BoschGroup/744000084156625-master-data-analyst-with-german)** | Timișoara, TM, Romania | On Site | Sep 26 |
-| **[Mollie](https://mollie.com)** | **[Data Analyst](https://jobs.ashbyhq.com/mollie/e5564141-7c53-4ed6-ac2a-9a371c260421)** | Lisbon | On Site | Sep 26 |
-| **[Wise](https://wise.com)** | **[Senior Marketing Data Analyst](https://jobs.smartrecruiters.com/Wise/744000084153562-senior-marketing-data-analyst)** | London, United Kingdom | On Site | Sep 26 |
-| **[Wise](https://wise.com)** | **[Senior Marketing Data Analyst - Paid Channels](https://jobs.smartrecruiters.com/Wise/744000084153915-senior-marketing-data-analyst-paid-channels)** | London, United Kingdom | On Site | Sep 26 |
-| **[Convera](https://convera.com/)** | **[Data Analyst Associate](https://job-boards.eu.greenhouse.io/convera/jobs/4664774101)** | London | On Site | Sep 26 |
-| **[ClickUp](https://clickup.com/)** | **[GTM Data Analyst](https://clickup.com/careers/5644225004?gh_jid=5644225004)** | India | Remote | Sep 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 45 companies | Avg salary: 108k  
+**Current Stats:** 50 jobs | 18% remote | 44 companies | Avg salary: 112k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
