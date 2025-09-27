@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Sep 26, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 27, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -29,27 +29,33 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Renesas Electronics](https://www.renesas.com)** | **[Sr. Staff HR Data Analyst](https://jobs.smartrecruiters.com/RenesasElectronics/744000084138120-sr-staff-hr-data-analyst-)** | Singapore, Singapore, Singapore | On Site | Sep 26 |
 | **[WPP](https://www.wpp.com/)** | **[Data Analyst](https://job-boards.greenhouse.io/wpp/jobs/8181713002)** | Gurgaon, Haryana, India | On Site | Sep 26 |
 | **[The Clearing, Inc.](https://theclearing.com/)** | **[Data Analyst - Active Top Secret Clearance Required](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3602973)** | Washington, DC, US | On Site | Sep 26 |
-| **[Rakuten](https://corp.rakuten.co.jp/)** | **[Data Analyst – Data Intelligence Department, Rakuten Bank, Ltd.](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenInc/job/Tokyo-Japan/Data-Analyst---Data-Intelligence-Department--Rakuten-Bank--Ltd_1025921-80)** | NBF Shinagawa Tower, Japan | On Site | Sep 26 |
-| **[diconium](https://diconium.com/)** | **[Data Analyst](https://diconium.wd3.myworkdayjobs.com/en-US/diconium/job/Porto/Data-Analyst_JR100490)** | Porto, Portugal | On Site | Sep 26 |
-| **[Walmart](https://www.walmart.com/)** | **[Senior Data Analyst](https://walmart.wd5.myworkdayjobs.com/en-US/Non-WorkdayInternal/job/Bentonville-AR/Senior-Data-Analyst_R-2277743)** | (USA) Bentonville Global Tech AR BENTONVILLE Home Office, United States | On Site | Sep 26 |
-| **[GCash](https://www.gcash.com/)** | **[Data Analyst Lead (Lending)](https://globe.wd3.myworkdayjobs.com/en-US/Mynt/job/NCR---WGC/Data-Analyst-Lead--Lending-_R0000018371)** | NCR - WGC, Philippines | On Site | Sep 26 |
-| **[TSC](https://tsc.com/)** | **[Data Analyst](https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Huntsville-AL-Discovery/Data-Analyst_JR2207)** | Huntsville, AL Discovery, United States | On Site | Sep 26 |
-| **[Iron Mountain](https://www.ironmountain.com/)** | **[Data Analyst](https://ironmountain.wd5.myworkdayjobs.com/en-US/iron-mountain-jobs/job/ROU--Ploiesti--DN-72-Sos-Ploiesti-Targoviste-Km-8-Crangul-lui-Bot-jud-Prahova-107027/Data-Analyst--DOC_J0090575-1)** | ROU Cluj Building C Liberty Technology Park, Romania | Remote | Sep 26 |
-| **[Adevinta](https://adevinta.com/)** | **[SENIOR DATA ANALYST](https://marketplaces.wd3.myworkdayjobs.com/en-US/External_Careers/job/Paris/SENIOR-DATA-ANALYST_JR009836)** | Paris FSM, France | On Site | Sep 26 |
-| **[EzyPay](https://www.ezypay.com/)** | **[Financial Data Analyst](https://apply.workable.com/j/53FA589A60/apply)** | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia | On Site | Sep 26 |
 | **[Barclays](https://home.barclays/)** | **[Fraud Technical Data Analyst](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Fraud-Technical-Data-Analyst_JR-0000059262-1)** | Northampton, Barclays Campus, Pavilion Drive, United Kingdom | On Site | Sep 26 |
+| **[EzyPay](https://www.ezypay.com/)** | **[Financial Data Analyst](https://apply.workable.com/j/53FA589A60/apply)** | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia | On Site | Sep 26 |
 | **[Virtua Health](https://www.virtua.org/)** | **[Senior Cyber Data Analyst](https://virtua.wd1.myworkdayjobs.com/en-US/Virtua_Health_External_Career_Site/job/100-Remote/Senior-Cyber-Data-Analyst_R1056412-1)** | 100% Remote, United States | Remote | Sep 26 |
-| **[Cushman & Wakefield](https://www.cushmanwakefield.com/)** | **[Data Analyst (6-month Fixed Term Contract)](https://cw.wd1.myworkdayjobs.com/en-US/External/job/Taguig-Philippines/Data-Analyst--6-month-Fixed-Term-Contract-_R289289)** | Taguig, Philippines | On Site | Sep 26 |
-| **[Zurich Insurance](https://www.zurich.com)** | **[Data Analyst im Technical Underwriting (fluent in German) (m/w/d)](https://www.careers.zurich.com/job/K%C3%B6ln-Data-Analyst-im-Technical-Underwriting-%28fluent-in-German%29-%28mwd%29/1327872757/)** | Köln, DE | On Site | Sep 26 |
-| **[TSC](https://tsc.com/)** | **[Junior Data Analyst](https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Huntsville-AL-Discovery/Junior-Data-Analyst_JR2206)** | Huntsville, AL Discovery, United States | On Site | Sep 26 |
+| **[Iron Mountain](https://www.ironmountain.com/)** | **[Data Analyst](https://ironmountain.wd5.myworkdayjobs.com/en-US/iron-mountain-jobs/job/ROU--Ploiesti--DN-72-Sos-Ploiesti-Targoviste-Km-8-Crangul-lui-Bot-jud-Prahova-107027/Data-Analyst--DOC_J0090575-1)** | ROU Cluj Building C Liberty Technology Park, Romania | Remote | Sep 26 |
+| **[Institutional Shareholder Services](https://www.issgovernance.com/)** | **[Junior Data Analyst - Ballot Ingestion](https://issgovernance.wd1.myworkdayjobs.com/en-US/ISScareers/job/Makati-City-Philippines/Junior-Data-Analyst---Ballot-Ingestion_JR_8191)** | Manila, Philippines | On Site | Sep 26 |
 | **[Unilever](https://www.unilever.com/)** | **[Operation & Sales Data Analyst (UFS India)](https://unilever.wd3.myworkdayjobs.com/en-US/Unilever_Experienced_Professionals/job/Mumbai-HO/Operation---Sales-Data-Analyst--UFS-India-_R-1166293)** | Mumbai HO, India | On Site | Sep 26 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Data Analyst](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Data-Analyst_RQ207785)** | USA DC Home Office (DCHOME), United States | On Site | Sep 26 |
+| **[diconium](https://diconium.com/)** | **[Data Analyst](https://diconium.wd3.myworkdayjobs.com/en-US/diconium/job/Porto/Data-Analyst_JR100490)** | Porto, Portugal | On Site | Sep 26 |
+| **[AirAsia](https://www.airasia.com/)** | **[Lead Data Analyst](https://airasia.wd3.myworkdayjobs.com/en-US/careers/job/Kuala-Lumpur---RedQ/Lead-Data-Analyst_JR0032291)** | Kuala Lumpur - RedQ, Malaysia | On Site | Sep 26 |
 | **[NatWest Group](https://www.natwestgroup.com/)** | **[Data Analyst](https://rbs.wd3.myworkdayjobs.com/en-US/RBS/job/Bengaluru/Data-Analyst_R-00265722-1)** | Bengaluru, India | On Site | Sep 26 |
 | **[Bank of America](https://www.bankofamerica.com/)** | **[Senior Data Analyst](https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Charlotte/Senior-Data-Analyst_25039773-2)** | Charlotte, United States | On Site | Sep 26 |
+| **[TSC](https://tsc.com/)** | **[Junior Data Analyst](https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Huntsville-AL-Discovery/Junior-Data-Analyst_JR2206)** | Huntsville, AL Discovery, United States | On Site | Sep 26 |
+| **[Rakuten](https://corp.rakuten.co.jp/)** | **[Data Analyst – Data Intelligence Department, Rakuten Bank, Ltd.](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenInc/job/Tokyo-Japan/Data-Analyst---Data-Intelligence-Department--Rakuten-Bank--Ltd_1025921-80)** | NBF Shinagawa Tower, Japan | On Site | Sep 26 |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com/)** | **[Data Analyst (6-month Fixed Term Contract)](https://cw.wd1.myworkdayjobs.com/en-US/External/job/Taguig-Philippines/Data-Analyst--6-month-Fixed-Term-Contract-_R289289)** | Taguig, Philippines | On Site | Sep 26 |
+| **[Walmart](https://www.walmart.com/)** | **[Senior Data Analyst](https://walmart.wd5.myworkdayjobs.com/en-US/Non-WorkdayInternal/job/Bentonville-AR/Senior-Data-Analyst_R-2277743)** | (USA) Bentonville Global Tech AR BENTONVILLE Home Office, United States | On Site | Sep 26 |
+| **[GCash](https://www.gcash.com/)** | **[Data Analyst Lead (Lending)](https://globe.wd3.myworkdayjobs.com/en-US/Mynt/job/NCR---WGC/Data-Analyst-Lead--Lending-_R0000018371)** | NCR - WGC, Philippines | On Site | Sep 26 |
+| **[Vanguard](https://www.vanguard.com/)** | **[Data Analyst, Specialist](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Data-Analyst--Specialist_170231-1)** | USA - Horizon, United States | On Site | Sep 26 |
+| **[Zurich Insurance](https://www.zurich.com)** | **[Data Analyst im Technical Underwriting (fluent in German) (m/w/d)](https://www.careers.zurich.com/job/K%C3%B6ln-Data-Analyst-im-Technical-Underwriting-%28fluent-in-German%29-%28mwd%29/1327872757/)** | Köln, DE | On Site | Sep 26 |
+| **[Baker Hughes](https://www.bakerhughes.com/)** | **[Data Analyst](https://bakerhughes.wd5.myworkdayjobs.com/en-US/BakerHughes/job/IT-BA-BARI-STRADA-PROVINCIALE-PER-MODUGNO-10C613/Data-Analyst_R153450)** | IT-BA-BARI-STRADA PROVINCIALE PER MODUGNO 10+C613, Italy | On Site | Sep 26 |
+| **[Vanguard](https://www.vanguard.com/)** | **[Data Analyst, Specialist (Marketing Analytics)](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Data-Analyst--Specialist--Marketing-Analytics-_170437)** | Malvern, PA, United States | On Site | Sep 26 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Data Analyst](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Data-Analyst_RQ207785)** | USA DC Home Office (DCHOME), United States | On Site | Sep 26 |
+| **[Zelis](https://www.zelis.com/)** | **[Healthcare Data Analyst](https://zelis.wd1.myworkdayjobs.com/en-US/ZelisCareers/job/US-TX-Plano/Healthcare-Data-Analyst_JR108581)** | US TX Plano, United States | On Site | Sep 26 |
+| **[Adevinta](https://adevinta.com/)** | **[SENIOR DATA ANALYST](https://marketplaces.wd3.myworkdayjobs.com/en-US/External_Careers/job/Paris/SENIOR-DATA-ANALYST_JR009836)** | Paris FSM, France | On Site | Sep 26 |
+| **[TSC](https://tsc.com/)** | **[Data Analyst](https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Huntsville-AL-Discovery/Data-Analyst_JR2207)** | Huntsville, AL Discovery, United States | On Site | Sep 26 |
 | **[Ibility](https://www.ibility.io/)** | **[Health Care Data Analyst](https://jobs.lever.co/ibility/f983a518-c76a-4cc1-9f14-5dc6e247e1b4)** | Washington DC | Remote | Sep 25 |
 | **[NinjaTrader](https://ninjatrader.com/)** | **[Data Analyst](https://job-boards.greenhouse.io/ninjatrader/jobs/4603854006)** | Chicago, IL | On Site | Sep 25 |
 | **[AffiniPay](https://www.affinipay.com/)** | **[Data Analyst, Level 4](https://www.8am.com/openings/?gh_jid=4603136006)** | Remote - US and Canada | Remote | Sep 25 |
-| **[MongoDB](https://www.mongodb.com/)** | **[Senior Data Analyst](https://www.mongodb.com/careers/job/?gh_jid=7273910)** | United States | On Site | Sep 25 |
+| **[MongoDB](https://www.mongodb.com/)** | **[Senior Data Analyst](https://www.mongodb.com/careers/job/?gh_jid=7273912)** | Mexico; Ontario | On Site | Sep 25 |
 | **[Intuitive](https://www.intuitive.com)** | **[RAQA Data Analyst 2](https://jobs.smartrecruiters.com/Intuitive/744000083990083-raqa-data-analyst-2)** | San Francisco, CA, United States | On Site | Sep 25 |
 | **[Staples](https://www.staples.com/)** | **[Data Analyst III - Digital Analytics](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/52698)** | Framingham, MA, United States | On Site | Sep 25 |
 | **[Staples](https://www.staples.com/)** | **[Data Analyst II - Digital Analytics](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/52697)** | Framingham, MA, United States | On Site | Sep 25 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[CIB Global Research Data Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210671331)** | New York, NY, United States | On Site | Sep 25 |
 | **[Extend](https://www.extend.com/)** | **[Data Analyst II - Finance Analytics](https://job-boards.greenhouse.io/extend/jobs/5659212004)** | Remote, US | Remote | Sep 25 |
 | **[Capital Rx](https://capitalrx.com/)** | **[Network Pricing Data Analyst](https://job-boards.greenhouse.io/capitalrx/jobs/4928438008)** | Remote | Remote | Sep 25 |
-| **[Coinbase](https://www.coinbase.com/)** | **[Onchain Data Analyst & Researcher](https://www.coinbase.com/careers/positions/6863656?gh_jid=6863656)** | Remote - USA | Remote | Sep 25 |
-| **[AbbVie](https://www.abbvie.com/)** | **[SAP-Master Data Analyst (Clerk)](https://jobs.smartrecruiters.com/AbbVie/3743990009633141-sap-master-data-analyst-clerk-)** | Heredia, H, Costa Rica | On Site | Sep 25 |
-| **[Twilio](https://www.twilio.com/)** | **[Senior Data Analyst](https://job-boards.greenhouse.io/twilio/jobs/7269274)** | Remote - Colombia | Remote | Sep 25 |
-| **[City of Philadelphia](https://www.phila.gov/)** | **[Utility Data Analyst](https://jobs.smartrecruiters.com/CityofPhiladelphia/744000083941727-utility-data-analyst)** | Philadelphia, PA, United States | On Site | Sep 25 |
-| **[Vestiaire Collective](https://www.vestiairecollective.com/)** | **[Commercial Data Analyst intern - JANUARY 2026](https://jobs.lever.co/vestiairecollective/17f8a292-ee73-4d97-aa16-1542305902cd)** | Paris | On Site | Sep 25 |
-| **[MUBI](https://mubi.com/)** | **[Data Analyst](https://jobs.ashbyhq.com/mubi/fb626269-6490-47cc-8fc8-68ecb8e92ac3)** | London | Remote | Sep 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 48 companies | Avg salary: 114k  
+**Current Stats:** 50 jobs | 18% remote | 47 companies | Avg salary: 105k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
