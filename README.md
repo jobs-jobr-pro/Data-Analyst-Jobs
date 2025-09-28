@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Sep 27, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 28, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -18,11 +18,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TotalEnergies](https://totalenergies.com/)** | **[Data Analyst débutant & Développement digital de l'audit Compagnie H/F](https://jobs.totalenergies.com/en_US/careers/JobDetail/Data-Analyst-d-butant-D-veloppement-digital-de-l-audit-Compagnie-H-F/70998)** | PLD-TOUR MICHELET(FRA), PARIS LA DEFENSE, France | On Site | Sep 27 |
 | **[Gartner](https://www.gartner.com/)** | **[Sr Data Analyst (SQL, Excel, JIRA)](https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Gurgaon/Sr-Data-Analyst--SQL--Excel--JIRA-_101543)** | Gurgaon - Cyber Park, India | On Site | Sep 27 |
 | **[Gartner](https://www.gartner.com/)** | **[Sr Data Analyst](https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Gurgaon/Sr-Data-Analyst_103952)** | Gurgaon - Cyber Park, India | On Site | Sep 27 |
-| **[Coalition](https://www.coalitioninc.com/)** | **[Senior Data Analyst](https://www.coalitioninc.com/job-posting?gh_jid=4613245005)** | Any location, United States | On Site | Sep 26 |
+| **[Coalition](https://www.coalitioninc.com/)** | **[Senior Data Analyst](https://www.coalitioninc.com/job-posting?gh_jid=4613290005)** | Any location, Canada | On Site | Sep 26 |
 | **[Doximity](https://www.doximity.com/)** | **[Data Analyst, Business Intelligence](https://workat.doximity.com/positions/?gh_jid=7273971)** | San Francisco, CA or Remote (U.S.) | Remote | Sep 26 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Customer Experience Data Analyst](https://jobs.careers.microsoft.com/global/en/job/1884223/)** | Redmond, Washington, United States | On Site | Sep 26 |
-| **[Groupama](https://www.groupama.com/)** | **[Data Analyst SAS/Qlik-CDD 6 mois H/F](https://offres.groupama-gan-recrute.com/Pages/Offre/detailoffre.aspx?idOffre=61356&idOrigine=478&LCID=1036&offerReference=2025-61356)** | France, Ile-de-France, HAUTS-DE-SEINE (92) | On Site | Sep 26 |
 | **[Groupama](https://www.groupama.com/)** | **[Data Analyst Qlik Sense-CDD 6 mois H/F](https://offres.groupama-gan-recrute.com/Pages/Offre/detailoffre.aspx?idOffre=61364&idOrigine=478&LCID=1036&offerReference=2025-61364)** | France, Ile-de-France, HAUTS-DE-SEINE (92) | On Site | Sep 26 |
+| **[Groupama](https://www.groupama.com/)** | **[Data Analyst SAS/Qlik-CDD 6 mois H/F](https://offres.groupama-gan-recrute.com/Pages/Offre/detailoffre.aspx?idOffre=61356&idOrigine=478&LCID=1036&offerReference=2025-61356)** | France, Ile-de-France, HAUTS-DE-SEINE (92) | On Site | Sep 26 |
 | **[The Clearing, Inc.](https://theclearing.com/)** | **[Senior Data Analyst - Active Top Secret Clearance Required](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3605011)** | Washington, DC, US | On Site | Sep 26 |
 | **[Emerson](https://www.emerson.com/)** | **[Data Analyst Co-Op](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/25026848)** | Marshalltown, IA, United States | On Site | Sep 26 |
 | **[Public Storage](https://www.publicstorage.com/)** | **[Revenue Data Analyst - (Plano, TX)](https://jobs.smartrecruiters.com/PublicStorage/744000084293182-revenue-data-analyst-plano-tx-)** | Plano, TX, United States | On Site | Sep 26 |
@@ -66,7 +66,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 44 companies | Avg salary: 112k  
+**Current Stats:** 50 jobs | 18% remote | 44 companies | Avg salary: 107k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
