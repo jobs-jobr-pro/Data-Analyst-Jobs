@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Sep 28, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 29, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -20,11 +20,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TotalEnergies](https://totalenergies.com/)** | **[Data Analyst débutant & Développement digital de l'audit Compagnie H/F](https://jobr.pro/job/28875641/data-analyst-debutant-developpement-digital-de-laudit-compagnie-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | PLD-TOUR MICHELET(FRA), PARIS LA DEFENSE, France | On Site | Sep 27 |
 | **[Gartner](https://www.gartner.com/)** | **[Sr Data Analyst (SQL, Excel, JIRA)](https://jobr.pro/job/28836581/sr-data-analyst-sql-excel-jira?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Gurgaon - Cyber Park, India | On Site | Sep 27 |
 | **[Gartner](https://www.gartner.com/)** | **[Sr Data Analyst](https://jobr.pro/job/28836582/sr-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Gurgaon - Cyber Park, India | On Site | Sep 27 |
-| **[Coalition](https://www.coalitioninc.com/)** | **[Senior Data Analyst](https://jobr.pro/job/28836963/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Any location, United States | On Site | Sep 26 |
+| **[Coalition](https://www.coalitioninc.com/)** | **[Senior Data Analyst](https://jobr.pro/job/28836961/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Any location, Canada | On Site | Sep 26 |
 | **[Doximity](https://www.doximity.com/)** | **[Data Analyst, Business Intelligence](https://jobr.pro/job/28847018/data-analyst-business-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco, CA or Remote (U.S.) | Remote | Sep 26 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Customer Experience Data Analyst](https://jobr.pro/job/28871770/customer-experience-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Redmond, Washington, United States | On Site | Sep 26 |
-| **[Groupama](https://www.groupama.com/)** | **[Data Analyst Qlik Sense-CDD 6 mois H/F](https://jobr.pro/job/28842265/data-analyst-qlik-sense-cdd-6-mois-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | France, Ile-de-France, HAUTS-DE-SEINE (92) | On Site | Sep 26 |
 | **[Groupama](https://www.groupama.com/)** | **[Data Analyst SAS/Qlik-CDD 6 mois H/F](https://jobr.pro/job/28842273/data-analyst-sasqlik-cdd-6-mois-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | France, Ile-de-France, HAUTS-DE-SEINE (92) | On Site | Sep 26 |
+| **[Groupama](https://www.groupama.com/)** | **[Data Analyst Qlik Sense-CDD 6 mois H/F](https://jobr.pro/job/28842265/data-analyst-qlik-sense-cdd-6-mois-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | France, Ile-de-France, HAUTS-DE-SEINE (92) | On Site | Sep 26 |
 | **[The Clearing, Inc.](https://theclearing.com/)** | **[Senior Data Analyst - Active Top Secret Clearance Required](https://jobr.pro/job/28865184/senior-data-analyst-active-top-secret-clearance-required?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Washington, DC, US | On Site | Sep 26 |
 | **[Emerson](https://www.emerson.com/)** | **[Data Analyst Co-Op](https://jobr.pro/job/28872595/data-analyst-co-op?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Marshalltown, IA, United States | On Site | Sep 26 |
 | **[Public Storage](https://www.publicstorage.com/)** | **[Revenue Data Analyst - (Plano, TX)](https://jobr.pro/job/28832440/revenue-data-analyst-plano-tx?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Plano, TX, United States | On Site | Sep 26 |
@@ -66,7 +66,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 44 companies | Avg salary: 112k  
+**Current Stats:** 50 jobs | 16% remote | 44 companies | Avg salary: 107k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
