@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Sep 29, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Sep 29, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -18,8 +18,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[American Express](https://www.americanexpress.com/)** | **[Data Analyst](https://jobr.pro/job/28879641/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US-Arizona-Phoenix | On Site | Sep 27 |
 | **[WorldLink US](https://worldlink-us.com/)** | **[Sr. Marketing Data Analyst](https://jobr.pro/job/28876763/sr-marketing-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Englewood Cliffs, United States | On Site | Sep 27 |
 | **[TotalEnergies](https://totalenergies.com/)** | **[Data Analyst débutant & Développement digital de l'audit Compagnie H/F](https://jobr.pro/job/28875641/data-analyst-debutant-developpement-digital-de-laudit-compagnie-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | PLD-TOUR MICHELET(FRA), PARIS LA DEFENSE, France | On Site | Sep 27 |
-| **[Gartner](https://www.gartner.com/)** | **[Sr Data Analyst (SQL, Excel, JIRA)](https://jobr.pro/job/28836581/sr-data-analyst-sql-excel-jira?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Gurgaon - Cyber Park, India | On Site | Sep 27 |
 | **[Gartner](https://www.gartner.com/)** | **[Sr Data Analyst](https://jobr.pro/job/28836582/sr-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Gurgaon - Cyber Park, India | On Site | Sep 27 |
+| **[Gartner](https://www.gartner.com/)** | **[Sr Data Analyst (SQL, Excel, JIRA)](https://jobr.pro/job/28836581/sr-data-analyst-sql-excel-jira?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Gurgaon - Cyber Park, India | On Site | Sep 27 |
 | **[Coalition](https://www.coalitioninc.com/)** | **[Senior Data Analyst](https://jobr.pro/job/28836961/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Any location, Canada | On Site | Sep 26 |
 | **[Doximity](https://www.doximity.com/)** | **[Data Analyst, Business Intelligence](https://jobr.pro/job/28847018/data-analyst-business-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco, CA or Remote (U.S.) | Remote | Sep 26 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Customer Experience Data Analyst](https://jobr.pro/job/28871770/customer-experience-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Redmond, Washington, United States | On Site | Sep 26 |
