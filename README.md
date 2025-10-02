@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Oct 02, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 02, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,7 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[MedTrainer](https://www.medtrainer.com)** | **[Data Analyst - Learning (Mexico)](https://jobr.pro/job/29175619/data-analyst-learning-mexico?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Las Vegas, NV, United States | On Site | Oct 01 |
 | **[Nike](https://www.nike.com/)** | **[Data Analyst 5](https://jobr.pro/job/29157350/data-analyst-5?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Beaverton, OR, US | On Site | Oct 01 |
+| **[Wise](https://wise.com)** | **[Senior Data Analyst - People Analytics](https://jobr.pro/job/29175635/senior-data-analyst-people-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tallinn, Estonia | On Site | Oct 01 |
+| **[Experian](https://www.experian.com/)** | **[Senior Data Analyst](https://jobr.pro/job/29175640/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Sofia , Bulgaria | On Site | Oct 01 |
 | **[Infor](https://www.infor.com/)** | **[Data Analyst, Supervisor - Sales Operations](https://jobr.pro/job/29143008/data-analyst-supervisor-sales-operations?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | On-site, Remote Location, India | Remote | Oct 01 |
 | **[ASSYST](https://www.assyst.net/)** | **[IT Business Data Analyst](https://jobr.pro/job/29156852/it-business-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Austin, TX | On Site | Oct 01 |
 | **[UNDP](https://www.undp.org/)** | **[Blockchain Communications and Data Analyst (Short-term)](https://jobr.pro/job/29134413/blockchain-communications-and-data-analyst-short-term?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Istanbul, Türkiye | On Site | Oct 01 |
@@ -55,18 +58,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[S&P Global](https://www.spglobal.com/)** | **[Lead Data Analyst](https://jobr.pro/job/29129781/lead-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IN - BANGALORE PRIMECO UNION CITY, India | On Site | Oct 01 |
 | **[Mercari, Inc.](https://www.mercari.com/)** | **[Senior Data Analyst - Fintech](https://jobr.pro/job/29132822/senior-data-analyst-fintech?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Minato City, Tokyo, Japan | On Site | Oct 01 |
 | **[PerkinElmer](https://www.perkinelmer.com/)** | **[Data Analyst](https://jobr.pro/job/29153497/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Johor, Malaysia | On Site | Oct 01 |
+| **[Netsmart](https://www.ntst.com/)** | **[Data Analyst- Consulting Operations (Onsite- Overland Park, KS)](https://jobr.pro/job/29174965/data-analyst-consulting-operations-onsite-overland-park-ks?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Overland Park, KS, United States | On Site | Oct 01 |
+| **[MSD](https://www.msd.com/)** | **[Senior Network Data Analyst – Network Capacity Planning](https://jobr.pro/job/29176211/senior-network-data-analyst-network-capacity-planning?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | SGP - Singapore - Singapore (MYP Centre WeWork) | On Site | Oct 01 |
 | **[Vanguard](https://www.vanguard.com/)** | **[Data Analyst, Specialist (Digital Analytics)](https://jobr.pro/job/29172129/data-analyst-specialist-digital-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | USA - Majestic, United States | On Site | Oct 01 |
 | **[Guidehouse](https://www.guidehouse.com/)** | **[Senior Data Analyst](https://jobr.pro/job/29172993/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | GH Office: Chennai, India (Keppel) | On Site | Oct 01 |
 | **[CoStar Group](https://www.costargroup.com/)** | **[Homes.com - Data Analyst II](https://jobr.pro/job/29172575/homescom-data-analyst-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US-VA Arlington, United States | On Site | Oct 01 |
-| **[Samsung Electronics](https://www.samsung.com/)** | **[Data analyst marketing junior, Saint-Ouen, 93 (H/F) – Stage](https://jobr.pro/job/29173847/data-analyst-marketing-junior-saint-ouen-93-hf-stage?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | 6 rue Fructidor, Saint-Ouen, France | On Site | Oct 01 |
-| **[RELEX Solutions](https://www.relexsolutions.com/careers/)** | **[Data Analyst / Business Analyst - RELEX North America](https://jobr.pro/job/29104166/data-analyst-business-analyst-relex-north-america?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Atlanta, GA, United States | On Site | Sep 30 |
-| **[BILL](https://www.bill.com/)** | **[Senior Product Data Analyst](https://jobr.pro/job/29096508/senior-product-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Jose, California, United States | Remote | Sep 30 |
-| **[NEORIS](https://www.neoris.com)** | **[Data Analyst](https://jobr.pro/job/29093184/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Colombia | On Site | Sep 30 |
-| **[ServiceNow](https://www.servicenow.com)** | **[Senior FinOps Data Analyst](https://jobr.pro/job/29106560/senior-finops-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kirkland, Washington, United States | On Site | Sep 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 45 companies | Avg salary: 148k  
+**Current Stats:** 50 jobs | 12% remote | 45 companies | Avg salary: 116k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
