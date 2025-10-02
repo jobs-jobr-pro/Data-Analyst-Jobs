@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Oct 02, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 02, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -36,6 +36,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Booksy](https://booksy.com/)** | **[Senior Data Analyst](https://jobr.pro/job/29233901/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York, New York, United States - Remote | Remote | Oct 02 |
 | **[Neumann Kaffee Gruppe](https://www.nkg.coffee/)** | **[Data Analyst](https://jobr.pro/job/29221969/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Ho Chi Minh City - NKG Commercial Services, Vietnam | On Site | Oct 02 |
 | **[Boots](https://www.boots.com/)** | **[Assistant Data Analyst](https://jobr.pro/job/29240274/assistant-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Store Service Centre, Nottingham, Nottingham, Recruitment Service Centre (D94), Thane Road, UK | On Site | Oct 02 |
+| **[CrowdStrike](https://www.crowdstrike.com/)** | **[Sr. Data Analyst - Data Science (Remote)](https://jobr.pro/job/29254488/sr-data-analyst-data-science-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | USA CA Remote, United States | Remote | Oct 02 |
+| **[LSEG](https://www.lseg.com/)** | **[Fixed Income Data Analyst](https://jobr.pro/job/29254449/fixed-income-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Buffalo - Fountain Plaza, United States | On Site | Oct 02 |
+| **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst II](https://jobr.pro/job/29253779/data-analyst-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-FL, United States | Remote | Oct 02 |
+| **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst IV Healthcare Analytics](https://jobr.pro/job/29253758/data-analyst-iv-healthcare-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-MO, United States | Remote | Oct 02 |
+| **[LEGO Group](https://www.lego.com/)** | **[Data Analyst (1 year contract)](https://jobr.pro/job/29256972/data-analyst-1-year-contract?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Singapore Hub | On Site | Oct 02 |
+| **[Bank of America](https://www.bankofamerica.com/)** | **[CFO - Senior Data Analyst](https://jobr.pro/job/29258075/cfo-senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Charlotte, United States | On Site | Oct 02 |
 | **[CDW](https://www.cdw.com/)** | **[Data Analyst](https://jobr.pro/job/29246420/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Cape Town - South Africa | On Site | Oct 02 |
 | **[Sanofi](https://www.sanofi.com/)** | **[Tech Enterprise Delivery Data Analyst](https://jobr.pro/job/29240902/tech-enterprise-delivery-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Barcelona, Spain | On Site | Oct 02 |
 | **[Sanofi](https://www.sanofi.com/)** | **[RWE Data Analyst Expert](https://jobr.pro/job/29240795/rwe-data-analyst-expert?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Budapest, Hungary | On Site | Oct 02 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Flatiron Health](https://flatiron.com/)** | **[Senior Real World Evidence Data Analyst](https://jobr.pro/job/29181862/senior-real-world-evidence-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Durham hub | On Site | Oct 01 |
 | **[Splash Financial](https://www.splashfinancial.com/)** | **[Senior Operations Data Analyst](https://jobr.pro/job/29187588/senior-operations-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote | Remote | Oct 01 |
 | **[Horace Mann](https://www.horacemann.com/)** | **[Sr Data Analyst](https://jobr.pro/job/29183551/sr-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Springfield, IL | On Site | Oct 01 |
-| **[Hims & Hers](https://www.hims.com/)** | **[Lead Data Analyst, Operations, Quality](https://jobr.pro/job/29189803/lead-data-analyst-operations-quality?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US Remote | Remote | Oct 01 |
-| **[Techstars](https://www.techstars.com/)** | **[Valuation & Investment Data Analyst](https://jobr.pro/job/29190427/valuation-investment-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Boulder, Colorado, United States | On Site | Oct 01 |
-| **[Fulcrum](https://fulcrum.rocks/)** | **[Data Analyst/ Big Data Consultant](https://jobr.pro/job/29182638/data-analyst-big-data-consultant?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote job | Remote | Oct 01 |
-| **[League Inc.](https://league.com/)** | **[Data Analyst - Toronto, ON](https://jobr.pro/job/29199832/data-analyst-toronto-on?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toronto, Ontario | On Site | Oct 01 |
-| **[Nike](https://www.nike.com/)** | **[Data Analyst 5](https://jobr.pro/job/29157350/data-analyst-5?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Beaverton, OR, US | On Site | Oct 01 |
-| **[Norm Ai](https://www.norm.ai/)** | **[Data Analyst](https://jobr.pro/job/29190863/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York City | Remote | Oct 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 48 companies | Avg salary: 137k  
+**Current Stats:** 50 jobs | 24% remote | 47 companies | Avg salary: 133k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
