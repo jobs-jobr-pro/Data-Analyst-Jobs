@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Oct 02, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 03, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -48,6 +48,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[U.S. Bank](https://www.usbank.com/)** | **[Data Analyst](https://jobr.pro/job/29231607/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Warsaw, Poland | On Site | Oct 02 |
 | **[Carry1st](https://www.carry1st.com/)** | **[Data Analyst - E-Commerce/FinTech](https://jobr.pro/job/29231394/data-analyst-e-commercefintech?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | South Africa - Remote | Remote | Oct 02 |
 | **[Julius Blum GmbH](https://www.blum.com/)** | **[Data Analyst Finance (m/w/d)](https://jobr.pro/job/29235288/data-analyst-finance-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Höchst, Austria | On Site | Oct 02 |
+| **[RBC](https://www.rbc.com/)** | **[Senior Data Analyst - Pricing and Reference Data](https://jobr.pro/job/29261827/senior-data-analyst-pricing-and-reference-data?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | 100 BISHOPSGATE:LONDON, United Kingdom | On Site | Oct 02 |
+| **[Guidehouse](https://www.guidehouse.com/)** | **[Regulatory Data Analyst](https://jobr.pro/job/29263524/regulatory-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Home Office: Silver Spring, MD, United States | On Site | Oct 02 |
+| **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[Data Analyst, Senior](https://jobr.pro/job/29264284/data-analyst-senior?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Arlington - 1801 S Bell (INDG), United States | On Site | Oct 02 |
+| **[Marsh McLennan](https://www.marshmclennan.com/)** | **[Data Analyst Trainee](https://jobr.pro/job/29262075/data-analyst-trainee?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Lisbon - Antonio, Portugal | Remote | Oct 02 |
+| **[Citi](https://www.citigroup.com/)** | **[Business Data Analyst](https://jobr.pro/job/29262006/business-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | PROSTA 36, Poland | On Site | Oct 02 |
+| **[Nelnet](https://nelnetinc.com/)** | **[Data Analyst I - Consumer Loan Analytics](https://jobr.pro/job/29263322/data-analyst-i-consumer-loan-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Lincoln - Nelnet Center, United States | On Site | Oct 02 |
 | **[Stripe](https://stripe.com/en-ch)** | **[Data Analyst, Intern (Master's degree)](https://jobr.pro/job/29190801/data-analyst-intern-masters-degree?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toronto, Ontario, Canada | On Site | Oct 01 |
 | **[AttainX](https://attainx.com/)** | **[Data Analyst](https://jobr.pro/job/29203451/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | MD Remote 24 - 915 Silver Spring Avenue, Silver Spring, MD 20910, Silver Spring, MD, US | Remote | Oct 01 |
 | **[Vimeo, Inc.](https://vimeo.com/)** | **[Sr. Data Analyst, Marketing](https://jobr.pro/job/29180731/sr-data-analyst-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York, NY or US - Remote | Remote | Oct 01 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SMX](https://www.smxtech.com/)** | **[Data Analyst (4506)](https://jobr.pro/job/29185988/data-analyst-4506?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Huntsville, AL | On Site | Oct 01 |
 | **[Choctaw Nation of Oklahoma](https://www.choctawnation.com/)** | **[Data Analyst 2-IT Enterprise Info Management](https://jobr.pro/job/29233045/data-analyst-2-it-enterprise-info-management?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Durant, OK, United States | On Site | Oct 01 |
 | **[Dadosfera](https://dadosfera.ai/)** | **[Senior Data Analyst (Analista de Dados Sênior)](https://jobr.pro/job/29210440/senior-data-analyst-analista-de-dados-senior?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote (Brazil) | Remote | Oct 01 |
-| **[SimplePractice](https://www.simplepractice.com/)** | **[Senior Data Analyst, Churn & Customer Success](https://jobr.pro/job/29188195/senior-data-analyst-churn-customer-success?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - United States | Remote | Oct 01 |
-| **[SMX](https://www.smxtech.com/)** | **[Senior Data Analyst (4408)](https://jobr.pro/job/29186005/senior-data-analyst-4408?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Dahlgren, VA | On Site | Oct 01 |
-| **[Qualified Health](https://qualifiedhealth.com/)** | **[Senior Healthcare Data Analyst - Clinical Data Mapping & Quality](https://jobr.pro/job/29192228/senior-healthcare-data-analyst-clinical-data-mapping-quality?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Palo Alto, CA | On Site | Oct 01 |
-| **[Flatiron Health](https://flatiron.com/)** | **[Senior Real World Evidence Data Analyst](https://jobr.pro/job/29181862/senior-real-world-evidence-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Durham hub | On Site | Oct 01 |
-| **[Splash Financial](https://www.splashfinancial.com/)** | **[Senior Operations Data Analyst](https://jobr.pro/job/29187588/senior-operations-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote | Remote | Oct 01 |
-| **[Horace Mann](https://www.horacemann.com/)** | **[Sr Data Analyst](https://jobr.pro/job/29183551/sr-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Springfield, IL | On Site | Oct 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 47 companies | Avg salary: 133k  
+**Current Stats:** 50 jobs | 22% remote | 48 companies | Avg salary: 119k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
