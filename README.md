@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Oct 04, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 04, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Meta](https://www.meta.com/)** | **[Global Operations Data Analyst](https://jobr.pro/job/29389635/global-operations-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Dublin, Ireland \| London, UK | On Site | Oct 04 |
+| **[Meta](https://www.meta.com/)** | **[Data Analyst](https://jobr.pro/job/29389407/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Austin, TX \| New York, NY | On Site | Oct 04 |
+| **[Colgate-Palmolive](https://www.colgatepalmolive.com/)** | **[CS&L Data Analyst Co-Op](https://jobr.pro/job/29372788/csl-data-analyst-co-op?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Overland Park, KS, US | On Site | Oct 04 |
 | **[AEG](https://www.aegworldwide.com/)** | **[Data Analyst](https://jobr.pro/job/29368082/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Los Angeles, CA | On Site | Oct 04 |
 | **[TabaPay](https://tabapay.com/)** | **[Data Analyst](https://jobr.pro/job/29368469/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Palo Alto, CA | On Site | Oct 03 |
 | **[Good Party](https://goodparty.org/)** | **[Data Analyst](https://jobr.pro/job/29359814/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote (United States) | Remote | Oct 03 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[University of Louisville](https://louisville.edu/)** | **[Budget and Data Analyst V](https://jobr.pro/job/29306438/budget-and-data-analyst-v?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Belknap Campus, United States | On Site | Oct 03 |
 | **[NTT DATA](https://nttdata.com)** | **[Data Analyst](https://jobr.pro/job/29295493/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bengaluru, KA, IN | On Site | Oct 03 |
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[Data Analyst](https://jobr.pro/job/29345564/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London - 22 Bishopsgate, United Kingdom | On Site | Oct 03 |
-| **[Fidelity Investments](https://www.fidelity.com/)** | **[Senior IT Data Analyst](https://jobr.pro/job/29345456/senior-it-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Parkmore East Business Park, Galway Ireland | On Site | Oct 03 |
-| **[Centene Corporation](https://www.centene.com/)** | **[Healthcare Reporting Data Analyst III](https://jobr.pro/job/29336034/healthcare-reporting-data-analyst-iii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-MO, United States | Remote | Oct 03 |
-| **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst III Healthcare Analytics](https://jobr.pro/job/29336022/data-analyst-iii-healthcare-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-NY, United States | Remote | Oct 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 47 companies | Avg salary: 124k  
+**Current Stats:** 50 jobs | 8% remote | 47 companies | Avg salary: 123k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
