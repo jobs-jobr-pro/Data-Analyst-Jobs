@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Oct 06, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 07, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -51,6 +51,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pinnacle](https://pinnaclereliability.com/)** | **[Reliability Data Analyst- Intern (Mechanical)](https://jobr.pro/job/29436493/reliability-data-analyst-intern-mechanical?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hyderabad, IND (Office), India | On Site | Oct 06 |
 | **[Pinnacle](https://pinnaclereliability.com/)** | **[Reliability Data Analyst- Intern (Chemical)](https://jobr.pro/job/29436492/reliability-data-analyst-intern-chemical?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hyderabad, IND (Office), India | On Site | Oct 06 |
 | **[GAIN](https://www.thisisgain.com)** | **[GAIN Customer Science - Data Analyst](https://jobr.pro/job/29438799/gain-customer-science-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London, England, United Kingdom | On Site | Oct 06 |
+| **[Maersk](https://www.maersk.com/)** | **[CX Data Analyst – Continuous Improvement](https://jobr.pro/job/29463766/cx-data-analyst-continuous-improvement?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | BRSSZ12 - Santos - Avenida Ana Costa, 228, Brazil | On Site | Oct 06 |
+| **[Envista](https://www.envistaco.com/)** | **[Data Analyst](https://jobr.pro/job/29462602/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | CRI - San Jose - Multiple OpCo, Costa Rica | On Site | Oct 06 |
 | **[JLL](https://www.jll.com/)** | **[Space Data Analyst](https://jobr.pro/job/29440036/space-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IND-CLIENT Bengaluru-SAP - EPIP, Bangalore, India | On Site | Oct 06 |
 | **[UBS](https://www.ubs.com/)** | **[Client Regulatory Data Analyst](https://jobr.pro/job/29439940/client-regulatory-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kraków, Poland | On Site | Oct 06 |
 | **[UBS](https://www.ubs.com/)** | **[Client Regulatory Data Analyst (Temporary Role - 12 Months)](https://jobr.pro/job/29439915/client-regulatory-data-analyst-temporary-role-12-months?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kraków, Poland | On Site | Oct 06 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Leidos](https://www.leidos.com/)** | **[Insider Threat Program Data Analyst](https://jobr.pro/job/29460595/insider-threat-program-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | 6597 Washington DC, United States | On Site | Oct 06 |
 | **[Vantage Data Centers](https://www.vantage-dc.com/)** | **[Data Analyst, People Analytics, NA](https://jobr.pro/job/29460006/data-analyst-people-analytics-na?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | VA11, United States | On Site | Oct 06 |
 | **[Nasdaq](https://www.nasdaq.com/)** | **[Data Analyst Specialist in Trade Surveillance Operations](https://jobr.pro/job/29459290/data-analyst-specialist-in-trade-surveillance-operations?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Vilnius, Lithuania | On Site | Oct 06 |
-| **[Medal](https://medal.tv/)** | **[Senior/Lead Data Analyst](https://jobr.pro/job/29418158/seniorlead-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York City | On Site | Oct 05 |
-| **[Soft Space](https://www.softspace.com.my/)** | **[Data Analyst](https://jobr.pro/job/29453034/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kuala Lumpur, Malaysia | On Site | Oct 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 45 companies | Avg salary: 119k  
+**Current Stats:** 50 jobs | 10% remote | 45 companies | Avg salary: 99k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
