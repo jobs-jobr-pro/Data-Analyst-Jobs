@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Oct 07, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 08, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -60,9 +60,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Boston Scientific](https://www.bostonscientific.com/)** | **[Data Analyst & Business Development Intern](https://jobr.pro/job/29500422/data-analyst-business-development-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kerkrade, NL | On Site | Oct 07 |
 | **[Johnson & Johnson](https://www.jnj.com/)** | **[Integration and Data Analyst- M/F/D](https://jobr.pro/job/29532405/integration-and-data-analyst-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | DE002 Robert Koch Strasse, Germany | On Site | Oct 07 |
 | **[Regal Rexnord](https://www.regalrexnord.com/)** | **[Data Analyst II](https://jobr.pro/job/29532816/data-analyst-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Manila, Philippines | On Site | Oct 07 |
+| **[PwC](https://www.pwc.com/)** | **[Data analyst \| Deals (M&A) \| CDI \| H/F](https://jobr.pro/job/29547821/data-analyst-deals-ma-cdi-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris - Crystal Park, France | On Site | Oct 07 |
 | **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst III](https://jobr.pro/job/29548931/data-analyst-iii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-KS, United States | Remote | Oct 07 |
 | **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst II Healthcare Analytics](https://jobr.pro/job/29548817/data-analyst-ii-healthcare-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-MO, United States | Remote | Oct 07 |
-| **[PwC](https://www.pwc.com/)** | **[Data analyst \| Deals (M&A) \| CDI \| H/F](https://jobr.pro/job/29547821/data-analyst-deals-ma-cdi-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris - Crystal Park, France | On Site | Oct 07 |
 
 ---
 
