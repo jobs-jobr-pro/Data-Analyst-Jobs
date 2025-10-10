@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Oct 09, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 10, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -47,26 +47,26 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Roy Hill](https://www.royhill.com.au)** | **[Data Analyst](https://jobr.pro/job/29842716/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Perth, WA, AU | On Site | Oct 09 |
 | **[Optimiza](https://optimiza.me/)** | **[Data Analyst](https://jobr.pro/job/29874122/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Amman, Amman Governorate, Jordan | On Site | Oct 09 |
 | **[Regal Rexnord](https://www.regalrexnord.com/)** | **[Data Analyst II](https://jobr.pro/job/29872196/data-analyst-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Manila, Philippines | On Site | Oct 09 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Python Data Analyst](https://jobr.pro/job/29895574/python-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | USA LA Home Office (LAHOME), United States | On Site | Oct 09 |
-| **[Johnson & Johnson](https://www.jnj.com/)** | **[Senior Associate, QS Data Analyst](https://jobr.pro/job/29871749/senior-associate-qs-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US350 FL Tampa - 4301 Boy Scout Blvd, United States | On Site | Oct 09 |
-| **[UBS](https://www.ubs.com/)** | **[Data Analyst (Technical)](https://jobr.pro/job/29865782/data-analyst-technical?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mumbai, Pune, India | On Site | Oct 09 |
-| **[Kantar](https://www.kantar.com/)** | **[Data Analyst](https://jobr.pro/job/29870318/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Copenhagen, Raadhuspladsen, Denmark | On Site | Oct 09 |
-| **[Thales](https://www.thalesgroup.com/)** | **[STAGE - Data Analyst & Développement IA H/F](https://jobr.pro/job/29892145/stage-data-analyst-developpement-ia-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toulouse Basso Cambo, France | On Site | Oct 09 |
-| **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst III Healthcare Analytics](https://jobr.pro/job/29886062/data-analyst-iii-healthcare-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-MO, United States | Remote | Oct 09 |
 | **[IG Group](https://www.iggroup.com/)** | **[Marketing Data Analyst (6 months fixed term contract)](https://jobr.pro/job/29894457/marketing-data-analyst-6-months-fixed-term-contract?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kraków - Poland | On Site | Oct 09 |
 | **[Mary Washington Healthcare](https://www.marywashingtonhealthcare.com/)** | **[Data Analyst, Cardiac Cath Lab - PRN](https://jobr.pro/job/29885885/data-analyst-cardiac-cath-lab-prn?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mary Washington Hospital, United States | On Site | Oct 09 |
 | **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Data Analyst](https://jobr.pro/job/29892638/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | NYP/Weill Cornell Medical Center, United States | On Site | Oct 09 |
 | **[Asda](https://www.asda.com/)** | **[Data Analyst](https://jobr.pro/job/29892605/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Asda House, United Kingdom | On Site | Oct 09 |
+| **[Thales](https://www.thalesgroup.com/)** | **[STAGE - Data Analyst & Développement IA H/F](https://jobr.pro/job/29892145/stage-data-analyst-developpement-ia-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toulouse Basso Cambo, France | On Site | Oct 09 |
+| **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst III Healthcare Analytics](https://jobr.pro/job/29886062/data-analyst-iii-healthcare-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-MO, United States | Remote | Oct 09 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Python Data Analyst](https://jobr.pro/job/29895574/python-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | USA LA Home Office (LAHOME), United States | On Site | Oct 09 |
+| **[Huron](https://www.huronconsultinggroup.com/)** | **[Data Analyst Associate](https://jobr.pro/job/29895729/data-analyst-associate?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bangalore India - South 3rd Floor | On Site | Oct 09 |
+| **[Johnson & Johnson](https://www.jnj.com/)** | **[Senior Associate, QS Data Analyst](https://jobr.pro/job/29871749/senior-associate-qs-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US350 FL Tampa - 4301 Boy Scout Blvd, United States | On Site | Oct 09 |
+| **[UBS](https://www.ubs.com/)** | **[Data Analyst (Technical)](https://jobr.pro/job/29865782/data-analyst-technical?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mumbai, Pune, India | On Site | Oct 09 |
+| **[Kantar](https://www.kantar.com/)** | **[Data Analyst](https://jobr.pro/job/29870318/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Copenhagen, Raadhuspladsen, Denmark | On Site | Oct 09 |
 | **[Thales](https://www.thalesgroup.com/)** | **[STAGE Data Analyst – Veille brevets concurrentielle et stratégique F/H](https://jobr.pro/job/29892221/stage-data-analyst-veille-brevets-concurrentielle-et-strategique-fh?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Campus Thales Bordeaux, France | On Site | Oct 09 |
 | **[Assurant](https://www.assurant.com/)** | **[Sr. Business Unit Data Analyst](https://jobr.pro/job/29893311/sr-business-unit-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Buenos Aires (Butty), Argentina | On Site | Oct 09 |
 | **[Nasdaq](https://www.nasdaq.com/)** | **[Data Analyst - Marketing](https://jobr.pro/job/29893105/data-analyst-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Manila, Philippines | On Site | Oct 09 |
-| **[Huron](https://www.huronconsultinggroup.com/)** | **[Data Analyst Associate](https://jobr.pro/job/29895729/data-analyst-associate?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bangalore India - South 3rd Floor | On Site | Oct 09 |
-| **[Sure](https://www.sureapp.com/)** | **[Data Analyst](https://jobr.pro/job/29815807/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote | Remote | Oct 08 |
-| **[Jam City, Inc.](https://www.jamcity.com/)** | **[Data Analyst](https://jobr.pro/job/29819327/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Culver City, CA | On Site | Oct 08 |
+| **[Cardinal Health](https://cardinalhealth.com/)** | **[Data Analyst - Supply Chain](https://jobr.pro/job/29898165/data-analyst-supply-chain?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US-Nationwide-FIELD, United States | On Site | Oct 09 |
+| **[Marsh McLennan](https://www.marshmclennan.com/)** | **[Senior Manager - Information Governance Data Analyst](https://jobr.pro/job/29896480/senior-manager-information-governance-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Gurugram - DLF Building, India | Remote | Oct 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 48 companies | Avg salary: 126k  
+**Current Stats:** 50 jobs | 12% remote | 48 companies | Avg salary: 125k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
