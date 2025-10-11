@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Oct 11, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 11, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ServiceNow](https://www.servicenow.com)** | **[Senior Data Analyst](https://jobr.pro/job/29993544/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Santa Clara, California, United States | On Site | Oct 10 |
+| **[Devoteam](https://www.devoteam.com/)** | **[Distributed Cloud \| Data Analyst](https://jobr.pro/job/29993501/distributed-cloud-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Lisboa, Lisboa, Portugal | On Site | Oct 10 |
 | **[ADP](https://www.adp.com/)** | **[Senior Data Analyst](https://jobr.pro/job/29974656/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Barcelona, ESP-CT, Spain | On Site | Oct 10 |
 | **[Bouygues Telecom](https://www.bouyguestelecom.fr/)** | **[Data analyst F/H](https://jobr.pro/job/29981281/data-analyst-fh?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | France | On Site | Oct 10 |
 | **[ScalableOS](https://scalableos.com/)** | **[Data Analyst](https://jobr.pro/job/29956903/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote | Remote | Oct 10 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Alfa Laval](https://www.alfalaval.com/)** | **[CRM & Commercial Data analyst H/F/N](https://jobr.pro/job/29988561/crm-commercial-data-analyst-hfn?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Saint-Priest (Sales Co), France | On Site | Oct 10 |
 | **[The Cigna Group](https://www.thecignagroup.com/)** | **[Data Analyst (Human Resource)](https://jobr.pro/job/29990927/data-analyst-human-resource?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IND Bengaluru, India | On Site | Oct 10 |
 | **[Guidehouse](https://www.guidehouse.com/)** | **[Data Analyst](https://jobr.pro/job/29989665/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Client Office: Norfolk, VA, United States | On Site | Oct 10 |
-| **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst IV](https://jobr.pro/job/29972833/data-analyst-iv?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-MO, United States | Remote | Oct 10 |
-| **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst IV Medical Economics](https://jobr.pro/job/29972830/data-analyst-iv-medical-economics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-MO, United States | Remote | Oct 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 47 companies | Avg salary: 152k  
+**Current Stats:** 50 jobs | 8% remote | 48 companies | Avg salary: 160k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
