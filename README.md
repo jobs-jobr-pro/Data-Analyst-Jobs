@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Oct 10, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 11, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -56,17 +56,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[KingMakers](https://kingmakers.com/)** | **[Data Analyst](https://jobr.pro/job/29955236/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Cape Town, Western Cape, South Africa | On Site | Oct 10 |
 | **[HP](https://www.hp.com/)** | **[Marketing Data Analyst](https://jobr.pro/job/29981620/marketing-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | BCN07 - HP Sant Cugat Catalana Park (BCN07), Spain | On Site | Oct 10 |
 | **[RSM](https://rsmus.com/)** | **[Finance Data Analyst](https://jobr.pro/job/29971844/finance-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IND-KA-Bengaluru-3rd Floor, Rosewood Block J (Wing-B), India | On Site | Oct 10 |
+| **[Lonza](https://www.lonza.com/)** | **[Internship Global Master Data Analyst 80-100% (m/f/d)](https://jobr.pro/job/29991734/internship-global-master-data-analyst-80-100-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | CH - Visp, Switzerland | On Site | Oct 10 |
+| **[CoStar Group](https://www.costargroup.com/)** | **[Associate HR Data Analyst](https://jobr.pro/job/29988640/associate-hr-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US-VA Arlington, United States | On Site | Oct 10 |
+| **[Alfa Laval](https://www.alfalaval.com/)** | **[CRM & Commercial Data analyst H/F/N](https://jobr.pro/job/29988561/crm-commercial-data-analyst-hfn?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Saint-Priest (Sales Co), France | On Site | Oct 10 |
+| **[The Cigna Group](https://www.thecignagroup.com/)** | **[Data Analyst (Human Resource)](https://jobr.pro/job/29990927/data-analyst-human-resource?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IND Bengaluru, India | On Site | Oct 10 |
+| **[Guidehouse](https://www.guidehouse.com/)** | **[Data Analyst](https://jobr.pro/job/29989665/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Client Office: Norfolk, VA, United States | On Site | Oct 10 |
 | **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst IV](https://jobr.pro/job/29972833/data-analyst-iv?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-MO, United States | Remote | Oct 10 |
 | **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst IV Medical Economics](https://jobr.pro/job/29972830/data-analyst-iv-medical-economics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-MO, United States | Remote | Oct 10 |
-| **[Pierre Fabre Group](https://www.pierre-fabre.com/)** | **[Data analyst - Stage - H/F](https://jobr.pro/job/29985375/data-analyst-stage-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | France - Lavaur - Les Cauquillous | On Site | Oct 10 |
-| **[NatWest Group](https://www.natwestgroup.com/)** | **[Risk Market Data Analyst](https://jobr.pro/job/29979706/risk-market-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Gurugram, India | On Site | Oct 10 |
-| **[Microsoft](https://www.microsoft.com/)** | **[Senior Data Analyst](https://jobr.pro/job/29945684/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Redmond, Washington, United States | On Site | Oct 09 |
-| **[Turner & Townsend](https://www.turnerandtownsend.com)** | **[On Site - Data Analyst - Construction Projects, Mexico](https://jobr.pro/job/29899927/on-site-data-analyst-construction-projects-mexico?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mexico City, CDMX, Mexico | On Site | Oct 09 |
-| **[Life360](https://www.life360.com/)** | **[Senior Data Analyst, Finance](https://jobr.pro/job/29917039/senior-data-analyst-finance?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote, USA; Remote, Canada | Remote | Oct 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 47 companies | Avg salary: 138k  
+**Current Stats:** 50 jobs | 12% remote | 47 companies | Avg salary: 152k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
