@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Oct 15, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 15, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -14,7 +14,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Conservice](https://www.conservice.com/)** | **[ESG Data Analyst](https://jobr.pro/job/30203911/esg-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United States | On Site | Oct 14 |
+| **[Alter Solutions](https://www.alter-solutions.com/)** | **[Data Analyst – Power BI / GCP](https://jobr.pro/job/30211903/data-analyst-power-bi-gcp?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Lille, FRANCE, France | On Site | Oct 14 |
 | **[TriNet](https://www.trinet.com/)** | **[Lead Data Analyst](https://jobr.pro/job/30194676/lead-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Atlanta, GA, United States | On Site | Oct 14 |
+| **[Turner & Townsend](https://www.turnerandtownsend.com)** | **[D365 - Data Analyst](https://jobr.pro/job/30211917/d365-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Milan, Lombardy, Italy | On Site | Oct 14 |
+| **[Ubisoft](https://www.ubisoft.com/)** | **[Senior Data Analyst](https://jobr.pro/job/30211920/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Montreal, QC, Canada | On Site | Oct 14 |
 | **[Genpact](https://www.genpact.com/)** | **[Management Trainee, UAT Data Analyst & Tester!](https://jobr.pro/job/30187451/management-trainee-uat-data-analyst-tester?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | India-Noida | On Site | Oct 14 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov/)** | **[TCEQ - Data Analyst IV](https://jobr.pro/job/30187279/tceq-data-analyst-iv?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Texas-Austin | On Site | Oct 14 |
 | **[Scottish Government](https://www.gov.scot/)** | **[Data Analyst](https://jobr.pro/job/30187820/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Galashiels, United Kingdom | On Site | Oct 14 |
@@ -60,9 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AB InBev Growth Group](https://www.ab-inbev.com/)** | **[Senior Data Analyst](https://jobr.pro/job/30142130/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Campinas, Brazil | On Site | Oct 13 |
 | **[Heritage Auctions](https://www.ha.com/)** | **[Data Analyst](https://jobr.pro/job/30167555/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Dallas, TX, US | On Site | Oct 13 |
 | **[SNH Capital Partners](https://www.snhcapitalpartners.com/)** | **[BI Developer & Data Analyst](https://jobr.pro/job/30139601/bi-developer-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Austin, Texas, United States | On Site | Oct 13 |
-| **[dLocal](https://www.dlocal.com/)** | **[Data Analyst - Payment Optimization](https://jobr.pro/job/30142092/data-analyst-payment-optimization?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Montevideo (Hybrid) | On Site | Oct 13 |
-| **[Interactive Brokers](https://www.interactivebrokers.com/)** | **[Senior Data Analyst - Compliance](https://jobr.pro/job/30138223/senior-data-analyst-compliance?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Greenwich, CT | On Site | Oct 13 |
-| **[ATPCO](https://www.atpco.net)** | **[Marketing Data Analyst Intern ( Spring start Date)](https://jobr.pro/job/30133537/marketing-data-analyst-intern-spring-start-date?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Herndon, VA, United States | On Site | Oct 13 |
 
 ---
 
