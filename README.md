@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Oct 16, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 16, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Huntsman Corporation](https://www.huntsman.com/)** | **[Procurement Data Analyst](https://jobr.pro/job/30318113/procurement-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Malaysia - Kuala Lumpur | On Site | Oct 16 |
 | **[SolarEdge](https://www.solaredge.com/)** | **[Service Data Analyst](https://jobr.pro/job/30274839/service-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Herzliya, Tel Aviv District, IL | On Site | Oct 15 |
 | **[Capgemini](https://www.capgemini.com/)** | **[Data Analyst](https://jobr.pro/job/30263111/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US-WA-Seattle | On Site | Oct 15 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Supply Chain Data Analyst (Data Analytics)](https://jobr.pro/job/30258397/supply-chain-data-analyst-data-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Arlington/Rosslyn, Virginia, United States; Washington, District of Columbia, United States | On Site | Oct 15 |
@@ -45,6 +46,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst III Healthcare Analytics](https://jobr.pro/job/30284311/data-analyst-iii-healthcare-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-MO, United States | Remote | Oct 15 |
 | **[Parsons Corporation](https://www.parsons.com/)** | **[Missile Defense System Engineering Operations Data Analyst](https://jobr.pro/job/30260423/missile-defense-system-engineering-operations-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | USA AL Redstone Arsenal (5224 Martin Rd), United States | On Site | Oct 15 |
 | **[FedEx](https://www.fedex.com/)** | **[Data Analyst - Senior](https://jobr.pro/job/30276602/data-analyst-senior?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | FXE-MEISA/IND/BOMHQ/BOMHQ/Mumbai, India | On Site | Oct 15 |
+| **[PNC](https://www.pnc.com/)** | **[Data Analyst Sr (Big Data/Hadoop)](https://jobr.pro/job/30309324/data-analyst-sr-big-datahadoop?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Two PNC Plaza (PA374), United States | On Site | Oct 15 |
+| **[Cardinal Health](https://cardinalhealth.com/)** | **[Senior Data Analyst](https://jobr.pro/job/30310809/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US-Nationwide-FIELD, United States | Remote | Oct 15 |
 | **[Texas Capital](https://www.texascapitalbank.com/)** | **[Data Analyst](https://jobr.pro/job/30304793/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | North Dallas Campus, United States | On Site | Oct 15 |
 | **[Scottish Rite for Children](https://scottishriteforchildren.org/)** | **[Data Analyst Lead](https://jobr.pro/job/30302449/data-analyst-lead?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Dallas - Hospital, United States | On Site | Oct 15 |
 | **[Link Logistics](https://www.linklogistics.com/)** | **[Data Analyst](https://jobr.pro/job/30302785/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - PA, United States | Remote | Oct 15 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TriNet](https://www.trinet.com/)** | **[Lead Data Analyst](https://jobr.pro/job/30194676/lead-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Atlanta, GA, United States | On Site | Oct 14 |
 | **[Turner & Townsend](https://www.turnerandtownsend.com)** | **[D365 - Data Analyst – F&O Module](https://jobr.pro/job/30230245/d365-data-analyst-fo-module?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Stockholm, Stockholm County, Sweden | On Site | Oct 14 |
 | **[Turner & Townsend](https://www.turnerandtownsend.com)** | **[D365 - Data Analyst](https://jobr.pro/job/30211917/d365-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Milan, Lombardy, Italy | On Site | Oct 14 |
-| **[Odilo](https://www.odilo.us)** | **[Data Analyst Specialist - BI Engineer](https://jobr.pro/job/30253817/data-analyst-specialist-bi-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Madrid, Spain | On Site | Oct 14 |
-| **[Ubisoft](https://www.ubisoft.com/)** | **[Senior Data Analyst](https://jobr.pro/job/30211920/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Montreal, QC, Canada | On Site | Oct 14 |
-| **[Genpact](https://www.genpact.com/)** | **[Management Trainee, UAT Data Analyst & Tester!](https://jobr.pro/job/30187451/management-trainee-uat-data-analyst-tester?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | India-Noida | On Site | Oct 14 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 45 companies | Avg salary: 124k  
+**Current Stats:** 50 jobs | 14% remote | 45 companies | Avg salary: 126k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
