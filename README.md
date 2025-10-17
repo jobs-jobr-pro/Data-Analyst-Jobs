@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Oct 16, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 17, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -47,6 +47,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Moog Inc.](https://www.moog.com/)** | **[Data Analyst Supply Chain Management](https://jobr.pro/job/30406078/data-analyst-supply-chain-management?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bangalore MCIPL, India | On Site | Oct 16 |
 | **[Integrity Marketing Group](https://integrity.com/)** | **[Technical Data Analyst](https://jobr.pro/job/30405526/technical-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | BRI - Urbandale, IA, United States | On Site | Oct 16 |
 | **[TC Energy](https://www.tcenergy.com/)** | **[Supply Chain Master Data Analyst](https://jobr.pro/job/30405002/supply-chain-master-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Calgary Head Office, Canada | On Site | Oct 16 |
+| **[NTT DATA](https://hello.global.ntt/)** | **[Talent Acquisition Data Analyst](https://jobr.pro/job/30406979/talent-acquisition-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Romania, Bucharest | On Site | Oct 16 |
 | **[SumUp](https://sumup.com/)** | **[Data Analyst](https://jobr.pro/job/30319153/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Brazil | On Site | Oct 15 |
 | **[Highnote](https://highnote.com/)** | **[Data Analyst](https://jobr.pro/job/30320313/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco | On Site | Oct 15 |
 | **[VML](https://www.vml.com/)** | **[Senior CRM Data Analyst](https://jobr.pro/job/30338826/senior-crm-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London, England, United Kingdom | On Site | Oct 15 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Acrisure](https://www.acrisure.com/)** | **[Data Analyst, Digital Transformation](https://jobr.pro/job/30327355/data-analyst-digital-transformation?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Austin, TX | On Site | Oct 15 |
 | **[SolarEdge](https://www.solaredge.com/)** | **[Service Data Analyst](https://jobr.pro/job/30274839/service-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Herzliya, Tel Aviv District, IL | On Site | Oct 15 |
 | **[Indie Campers](https://indiecampers.com/)** | **[Senior Data Analyst](https://jobr.pro/job/30335858/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Lisbon | On Site | Oct 15 |
-| **[Altium](https://www.altium.com/)** | **[Data Analyst - Customer Service](https://jobr.pro/job/30320070/data-analyst-customer-service?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 15 |
 
 ---
 
