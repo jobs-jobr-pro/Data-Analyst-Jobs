@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Oct 17, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 18, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -40,6 +40,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AIG](https://www.aig.com/)** | **[テックマークジャパン株式会社 シニアデータアナリスト Senior Data Analyst](https://jobr.pro/job/30440278/-senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | 3-2-1 Kinshi - Arca East, Sumida-ku, Tokyo, JPN, Japan | On Site | Oct 17 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Data Analyst Senior](https://jobr.pro/job/30489285/data-analyst-senior?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | USA NJ Egg Harbor Township - 600 Aviation Research Blvd (NJS014), United States | On Site | Oct 17 |
 | **[Saint Luke’s Health System](https://www.saintlukeskc.org/)** | **[Population Health Data Analyst](https://jobr.pro/job/30478807/population-health-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | System Offices \| 901 E 104 St \| Kansas City \| MO, United States | On Site | Oct 17 |
+| **[GEICO](https://www.geico.com/)** | **[Data Analyst II, CCR Reporting](https://jobr.pro/job/30488970/data-analyst-ii-ccr-reporting?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | MD Chevy Chase (Office) - JPS, United States | On Site | Oct 17 |
 | **[Traveloka](https://www.traveloka.com/)** | **[Data Analyst](https://jobr.pro/job/30487564/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Singapore - Local Office | On Site | Oct 17 |
 | **[Traveloka](https://www.traveloka.com/)** | **[Senior Data Analyst](https://jobr.pro/job/30487561/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Singapore - Local Office | On Site | Oct 17 |
 | **[IG Group](https://www.iggroup.com/)** | **[Marketing Data Analyst](https://jobr.pro/job/30487826/marketing-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Cannon Street, London, United Kingdom | On Site | Oct 17 |
@@ -49,7 +50,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[LSEG](https://www.lseg.com/)** | **[Data Analyst](https://jobr.pro/job/30479188/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | POL-Gdynia-3T Office Park, Tower C, Poland | On Site | Oct 17 |
 | **[SS&C Technologies](https://www.ssctech.com/)** | **[P3 - PA25DBOQ4MI001 (Sr. Specialist Data Analyst)](https://jobr.pro/job/30487957/p3-pa25dboq4mi001-sr-specialist-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mumbai, India | On Site | Oct 17 |
 | **[Clarivate](https://www.clarivate.com/)** | **[Healthcare Research & Data Analyst](https://jobr.pro/job/30479929/healthcare-research-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | R131-Bangalore, India | On Site | Oct 17 |
-| **[GEICO](https://www.geico.com/)** | **[Data Analyst II, CCR Reporting](https://jobr.pro/job/30488970/data-analyst-ii-ccr-reporting?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | MD Chevy Chase (Office) - JPS, United States | On Site | Oct 17 |
+| **[Pfizer](https://www.pfizer.com/)** | **[Manager - Supply Chain Data Analyst](https://jobr.pro/job/30490501/manager-supply-chain-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IND - Chennai Office, India | On Site | Oct 17 |
+| **[Citi](https://www.citigroup.com/)** | **[Market Operational Risk Business Data Analyst](https://jobr.pro/job/30490453/market-operational-risk-business-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | 60 SYDENHAM ROAD, TITANIC QUARTER BLOCKS A, B, C GATEWAY OFFICES BELFAST, United Kingdom | On Site | Oct 17 |
 | **[Mobilityware](https://www.mobilityware.com/)** | **[Data Analyst II](https://jobr.pro/job/30418310/data-analyst-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Irvine, CA | On Site | Oct 16 |
 | **[yourtown](https://www.yourtown.com.au/)** | **[Data Analyst](https://jobr.pro/job/30447895/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | QLD, Milton | On Site | Oct 16 |
 | **[ENTEGRA](https://www.entegrasolutions.com/)** | **[Data Analyst Trainee - Pipeline In-Line Inspection](https://jobr.pro/job/30448549/data-analyst-trainee-pipeline-in-line-inspection?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Indianapolis, IN, US | On Site | Oct 16 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Geotab](https://www.geotab.com/)** | **[Data Analyst](https://jobr.pro/job/30422743/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Krakow, Poland - Poland | On Site | Oct 16 |
 | **[Tort Experts](https://www.tortexperts.com/)** | **[Data Analyst](https://jobr.pro/job/30443508/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote (Argentina); Remote (Bolivia, Plurinational State of); Remote (Brazil); Remote (Chile); Remote (Colombia); Remote (Costa Rica); Remote (Ecuador); Remote (Mexico); Remote (Paraguay); Remote (Peru); Remote (Uruguay); Remote (Venezuela, Bolivarian Republic of) | Remote | Oct 16 |
 | **[Labelium](https://www.labelium.com)** | **[Consultant Data Analyst Senior (H-F)](https://jobr.pro/job/30410869/consultant-data-analyst-senior-h-f?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris, IDF, France | On Site | Oct 16 |
-| **[Incode](https://incode.com/)** | **[Data Analyst](https://jobr.pro/job/30418154/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mexico | On Site | Oct 16 |
-| **[Co-operators](https://www.cooperators.ca/)** | **[Data Analyst](https://jobr.pro/job/30425882/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Guelph, Ontario, Canada; Mississauga, Ontario, Canada; Montreal, Quebec, Canada; Burlington, Ontario, Canada; Calgary, Alberta, Canada; Laval, Quebec, Canada; Moncton, New Brunswick, Canada; Quebec, Quebec, Canada; Regina, Saskatchewan, Canada; Toronto, Ontario, Canada | On Site | Oct 16 |
 
 ---
 
