@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Oct 19, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 19, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Wix](https://www.wix.com/)** | **[Compensation & Data Analyst](https://jobr.pro/job/30556587/compensation-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv, Israel | On Site | Oct 19 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Data Analyst](https://jobr.pro/job/30533719/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Houston, Texas, United States | On Site | Oct 18 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Junior - Data Analyst Banking Solutions](https://jobr.pro/job/30533414/junior-data-analyst-banking-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Milano | On Site | Oct 18 |
 | **[Ørsted](https://www.orsted.com)** | **[Senior Data Analyst](https://jobr.pro/job/30514303/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Warsaw, PL | On Site | Oct 18 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Utility Warehouse](https://uw.co.uk)** | **[Data Analyst - Business Intelligence (9-month FTC)](https://jobr.pro/job/30495307/data-analyst-business-intelligence-9-month-ftc?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London, England, United Kingdom | On Site | Oct 17 |
 | **[Infor](https://www.infor.com/)** | **[Data Analyst, Associate](https://jobr.pro/job/30458775/data-analyst-associate?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hyderabad, Telangana, India | On Site | Oct 17 |
 | **[Intigriti](https://intigriti.com/)** | **[Senior Data Analyst](https://jobr.pro/job/30516951/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London | On Site | Oct 17 |
-| **[Agile Lab](https://www.agilelab.it/)** | **[Data Analyst II (On site - Rome)](https://jobr.pro/job/30529195/data-analyst-ii-on-site-rome?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Rome, Italy | On Site | Oct 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 46 companies | Avg salary: 131k  
+**Current Stats:** 50 jobs | 24% remote | 46 companies | Avg salary: 136k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
