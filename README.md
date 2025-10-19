@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Oct 19, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 19, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -18,9 +18,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Ørsted](https://www.orsted.com)** | **[Senior Data Analyst](https://jobr.pro/job/30514303/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Warsaw, PL | On Site | Oct 18 |
 | **[Payoneer](https://www.payoneer.com)** | **[Ops Data Analyst](https://jobr.pro/job/30509214/ops-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York, US | On Site | Oct 18 |
 | **[Double E Group](https://www.ee-co.com/)** | **[Sales Data Analyst](https://jobr.pro/job/30527095/sales-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | West Bridgewater, MA, US | On Site | Oct 18 |
+| **[Marsh McLennan](https://www.marshmclennan.com/)** | **[Audit Data Analyst](https://jobr.pro/job/30553791/audit-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York - 1166, United States | Remote | Oct 18 |
 | **[Allianz](https://www.allianz.com/)** | **[Senior People Data Analyst](https://jobr.pro/job/30516590/senior-people-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | BARCELONA, B, ES, 08005 | On Site | Oct 18 |
 | **[Dell Technologies](https://www.delltechnologies.com/)** | **[2026 Campus Cost and Data analyst](https://jobr.pro/job/30543760/2026-campus-cost-and-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Shanghai, China | On Site | Oct 18 |
-| **[Marsh McLennan](https://www.marshmclennan.com/)** | **[Audit Data Analyst](https://jobr.pro/job/30553791/audit-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York - 1166, United States | Remote | Oct 18 |
 | **[Study.com](https://study.com/)** | **[Business Data Analyst - College Lesson Editor (Contract)](https://jobr.pro/job/30499962/business-data-analyst-college-lesson-editor-contract?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote India | Remote | Oct 17 |
 | **[Genius Sports](https://geniussports.com/)** | **[Digital Marketing Data Analyst](https://jobr.pro/job/30501355/digital-marketing-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Medellín, Antioquia, Colombia | On Site | Oct 17 |
 | **[Cribl](https://cribl.io/)** | **[Senior Data Analyst](https://jobr.pro/job/30502453/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - United States | Remote | Oct 17 |
