@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Oct 20, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 20, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,7 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[Wix](https://www.wix.com/)** | **[Compensation & Data Analyst](https://jobr.pro/job/30556587/compensation-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv, Israel | On Site | Oct 19 |
+| **[Wix](https://www.wix.com/)** | **[Compensation & Data Analyst](https://jobr.pro/job/30556990/compensation-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv, Israel | On Site | Oct 19 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Data Analyst](https://jobr.pro/job/30533719/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Houston, Texas, United States | On Site | Oct 18 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Junior - Data Analyst Banking Solutions](https://jobr.pro/job/30533414/junior-data-analyst-banking-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Milano | On Site | Oct 18 |
 | **[Ørsted](https://www.orsted.com)** | **[Senior Data Analyst](https://jobr.pro/job/30514303/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Warsaw, PL | On Site | Oct 18 |
