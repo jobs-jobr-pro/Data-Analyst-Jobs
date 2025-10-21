@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Oct 21, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 21, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -58,11 +58,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Vanderlande](https://www.vanderlande.com/)** | **[Data Analyst – Pricing (Sales Engineering)](https://jobr.pro/job/30611825/data-analyst-pricing-sales-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Veghel, Netherlands | On Site | Oct 20 |
 | **[AIA](https://www.aia.com/)** | **[Data Analyst](https://jobr.pro/job/30611003/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | PH - AIA PH Head Office, Philippines | On Site | Oct 20 |
 | **[Boeing](https://www.boeing.com/)** | **[Digital Information Systems & Data Analyst (Mid-Level or Senior)](https://jobr.pro/job/30612733/digital-information-systems-data-analyst-mid-level-or-senior?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | USA - Seattle, WA, United States | On Site | Oct 20 |
+| **[CAE](https://www.cae.com/)** | **[C-GM-155- Methods & Data Analyst Intern](https://jobr.pro/job/30613193/c-gm-155-methods-data-analyst-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Montreal - 8585 Cote-De-Liesse, QC, Canada | On Site | Oct 20 |
 | **[Soft Space](https://www.softspace.com.my/)** | **[Data Analyst](https://jobr.pro/job/30601352/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kuala Lumpur, Malaysia | On Site | Oct 19 |
 | **[GeoEdge](https://www.geoedge.com/)** | **[Customer Success Data Analyst (Student Position)](https://jobr.pro/job/30585638/customer-success-data-analyst-student-position?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 19 |
 | **[Wix](https://www.wix.com/)** | **[Compensation & Data Analyst](https://jobr.pro/job/30562029/compensation-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv, Israel | On Site | Oct 19 |
 | **[goFLUENT](https://www.gofluent.com/)** | **[Sr. Data Analyst](https://jobr.pro/job/30575086/sr-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Manila, NCR, Philippines | On Site | Oct 19 |
-| **[AppsFlyer](https://www.appsflyer.com/)** | **[Product Data Analyst](https://jobr.pro/job/30557291/product-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Herzliya | On Site | Oct 19 |
 
 ---
 
