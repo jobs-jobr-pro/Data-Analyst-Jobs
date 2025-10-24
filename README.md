@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Oct 24, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 24, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,8 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Delivery Hero](https://www.deliveryhero.com)** | **[Sr Data Analyst](https://jobr.pro/job/30890942/sr-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Buenos Aires, Argentina | On Site | Oct 23 |
 | **[West Star Aviation](https://www.weststaraviation.com/)** | **[Data Analyst](https://jobr.pro/job/30874330/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | East Alton, IL, United States | On Site | Oct 23 |
 | **[PetIQ](https://petiq.com/)** | **[Healthcare Data Analyst](https://jobr.pro/job/30871557/healthcare-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Work From Home, United States | Remote | Oct 23 |
+| **[Inetum](https://www.inetum.com)** | **[Data Analyst H/F](https://jobr.pro/job/30890952/data-analyst-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Grenoble, Auvergne-Rhône-Alpes, France | On Site | Oct 23 |
+| **[Gameloft](https://www.gameloft.com)** | **[\[Disney Dreamlight Valley\] Analyste de données junior - Junior Data Analyst](https://jobr.pro/job/30890953/disney-dreamlight-valley-analyste-de-donnees-junior-junior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Montreal, QC, Canada | On Site | Oct 23 |
 | **[Paymentology](https://www.paymentology.com/)** | **[Senior Revenue Data Analyst - Europe](https://jobr.pro/job/30865529/senior-revenue-data-analyst-europe?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Athens, Athens, GR | On Site | Oct 23 |
 | **[Aidoc](https://www.aidoc.com/)** | **[Data Analyst](https://jobr.pro/job/30864743/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 23 |
 | **[Cashflo](https://www.cashflo.io/)** | **[Data Analyst - Operations Executive](https://jobr.pro/job/30861575/data-analyst-operations-executive?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mumbai, India | On Site | Oct 23 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[IG Group](https://www.iggroup.com/)** | **[Senior Data Analyst (Marketing)](https://jobr.pro/job/30883890/senior-data-analyst-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Cannon Street, London, United Kingdom | On Site | Oct 23 |
 | **[Penn State University](https://psu.edu/)** | **[Institutional Data Analyst](https://jobr.pro/job/30883318/institutional-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Penn State University Park, United States | On Site | Oct 23 |
 | **[Razer](https://www.razer.com/)** | **[Senior Data Analyst](https://jobr.pro/job/30884578/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bangsar South, Malaysia | On Site | Oct 23 |
-| **[QuadReal Property Group](https://www.quadreal.com/)** | **[Data Analyst Lead](https://jobr.pro/job/30871682/data-analyst-lead?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toronto, Canada | On Site | Oct 23 |
-| **[Axon](https://www.axon.com/)** | **[Senior Revenue Systems & Data Analyst](https://jobr.pro/job/30822695/senior-revenue-systems-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Amsterdam, North Holland, Netherlands | On Site | Oct 22 |
-| **[Samsara](https://www.samsara.com/)** | **[Data Analyst, Revenue Operations - Remote Canada](https://jobr.pro/job/30806701/data-analyst-revenue-operations-remote-canada?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - Canada | Remote | Oct 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 42 companies | Avg salary: 109k  
+**Current Stats:** 50 jobs | 16% remote | 42 companies | Avg salary: 109k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
