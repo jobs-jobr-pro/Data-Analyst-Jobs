@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Oct 23, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 24, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -49,6 +49,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[Data Analyst](https://jobr.pro/job/30884791/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | 1 Merchant Place, 1 Fredman Drive, Sandton, Johannesburg, 2196, South Africa | On Site | Oct 23 |
 | **[Barclays](https://home.barclays/)** | **[Data Analyst](https://jobr.pro/job/30866715/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Oct 23 |
 | **[Payplug](https://www.payplug.com)** | **[Fraud & Chargebacks Data Analyst](https://jobr.pro/job/30858698/fraud-chargebacks-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris, Île-de-France, France | On Site | Oct 23 |
+| **[Johnson Controls](https://www.johnsoncontrols.com/)** | **[Senior Data Analyst](https://jobr.pro/job/30884197/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Johnson Controls India COEE1 | On Site | Oct 23 |
+| **[ING](https://www.ing.com/)** | **[Junior Data Analyst - Mortgages](https://jobr.pro/job/30890139/junior-data-analyst-mortgages?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | ACT (Amsterdam - Acanthus), Netherlands | On Site | Oct 23 |
+| **[Morningstar](https://www.morningstar.com/)** | **[Data Analyst](https://jobr.pro/job/30889674/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mumbai, India | On Site | Oct 23 |
 | **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst II Healthcare Analytics](https://jobr.pro/job/30873270/data-analyst-ii-healthcare-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-MO, United States | Remote | Oct 23 |
 | **[Centene Corporation](https://www.centene.com/)** | **[Pharmacy Data Analyst Intern (Undergraduate - Summer 2026)](https://jobr.pro/job/30873159/pharmacy-data-analyst-intern-undergraduate-summer-2026?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-TX, United States | Remote | Oct 23 |
 | **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst III](https://jobr.pro/job/30873141/data-analyst-iii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-KS, United States | Remote | Oct 23 |
@@ -58,15 +61,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Penn State University](https://psu.edu/)** | **[Institutional Data Analyst](https://jobr.pro/job/30883318/institutional-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Penn State University Park, United States | On Site | Oct 23 |
 | **[Razer](https://www.razer.com/)** | **[Senior Data Analyst](https://jobr.pro/job/30884578/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bangsar South, Malaysia | On Site | Oct 23 |
 | **[QuadReal Property Group](https://www.quadreal.com/)** | **[Data Analyst Lead](https://jobr.pro/job/30871682/data-analyst-lead?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toronto, Canada | On Site | Oct 23 |
-| **[Johnson Controls](https://www.johnsoncontrols.com/)** | **[Senior Data Analyst](https://jobr.pro/job/30884197/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Johnson Controls India COEE1 | On Site | Oct 23 |
 | **[Axon](https://www.axon.com/)** | **[Senior Revenue Systems & Data Analyst](https://jobr.pro/job/30822695/senior-revenue-systems-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Amsterdam, North Holland, Netherlands | On Site | Oct 22 |
 | **[Samsara](https://www.samsara.com/)** | **[Data Analyst, Revenue Operations - Remote Canada](https://jobr.pro/job/30806701/data-analyst-revenue-operations-remote-canada?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - Canada | Remote | Oct 22 |
-| **[Experian](https://www.experian.com/)** | **[Data Analyst Senior](https://jobr.pro/job/30802453/data-analyst-senior?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Santiago, SANTIAGO, Chile | On Site | Oct 22 |
-| **[Centivo](https://centivo.com/)** | **[Senior Claims Data Analyst](https://jobr.pro/job/30813029/senior-claims-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote | Remote | Oct 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 42 companies | Avg salary: 109k  
+**Current Stats:** 50 jobs | 18% remote | 42 companies | Avg salary: 109k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
