@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Oct 24, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 24, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,8 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Digital Masters](https://digital-masters.de/)** | **[Data Analyst (d/m/w)](https://jobr.pro/job/30923776/data-analyst-dmw?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hamburg | On Site | Oct 24 |
 | **[SGS](https://sgs.com)** | **[Data Analyst/ Administration Clerk (Back Office - Hybrid) - H&N Pharma/Food](https://jobr.pro/job/30905181/data-analyst-administration-clerk-back-office-hybrid-hn-pharmafood?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Muntinlupa, Philippines | On Site | Oct 24 |
 | **[Coupang](https://www.coupang.com/)** | **[Senior Data Analyst (Customer-Centric Planning)](https://jobr.pro/job/30900455/senior-data-analyst-customer-centric-planning?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Taipei, Taiwan | On Site | Oct 24 |
+| **[Nestlé](https://www.nestle.com/)** | **[Packaging Data Analyst](https://jobr.pro/job/30918036/packaging-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Meycauayan, PH, 3020 | On Site | Oct 24 |
+| **[Chevron](https://www.chevron.com/)** | **[Data Analyst (Azure)](https://jobr.pro/job/30935691/data-analyst-azure?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Makati City Chevron 6750 Office, Philippines | On Site | Oct 24 |
+| **[Rockwell Automation](https://www.rockwellautomation.com/)** | **[Data Analyst](https://jobr.pro/job/30924881/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | India Pune (Mississippi Building) | On Site | Oct 24 |
 | **[Omada Health](https://www.omadahealth.com/)** | **[Senior Data Analyst, Clinical Quality and Product](https://jobr.pro/job/30898783/senior-data-analyst-clinical-quality-and-product?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote, USA | Remote | Oct 23 |
 | **[Screenverse](https://www.screenversemedia.com/)** | **[QA Data Analyst](https://jobr.pro/job/30903206/qa-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | USA - Remote | Remote | Oct 23 |
 | **[Woodard Curran](https://www.woodardcurran.com/)** | **[Environmental Data Analyst – New Jersey](https://jobr.pro/job/30900361/environmental-data-analyst-new-jersey?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Virtual | Remote | Oct 23 |
@@ -23,9 +27,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Delivery Hero](https://www.deliveryhero.com)** | **[Sr Data Analyst](https://jobr.pro/job/30890942/sr-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Buenos Aires, Argentina | On Site | Oct 23 |
 | **[West Star Aviation](https://www.weststaraviation.com/)** | **[Data Analyst](https://jobr.pro/job/30874330/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | East Alton, IL, United States | On Site | Oct 23 |
 | **[PetIQ](https://petiq.com/)** | **[Healthcare Data Analyst](https://jobr.pro/job/30871557/healthcare-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Work From Home, United States | Remote | Oct 23 |
+| **[Launchmetrics](https://www.launchmetrics.com)** | **[Data Analyst Intern](https://jobr.pro/job/30934012/data-analyst-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris, France | On Site | Oct 23 |
 | **[Adyen](https://www.adyen.com/)** | **[Financial Data Analyst](https://jobr.pro/job/30905421/financial-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Amsterdam | On Site | Oct 23 |
 | **[Cloudflare, Inc.](https://www.cloudflare.com/)** | **[Data Analyst](https://jobr.pro/job/30895887/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | In-Office | On Site | Oct 23 |
 | **[Freed](https://www.getfreed.ai/)** | **[Product Data Analyst](https://jobr.pro/job/30901567/product-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco | Remote | Oct 23 |
+| **[Imagemaker](https://www.imagemaker.com/)** | **[Data Analyst - Remoto](https://jobr.pro/job/30913626/data-analyst-remoto?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Chile | Remote | Oct 23 |
 | **[Inetum](https://www.inetum.com)** | **[Data Analyst H/F](https://jobr.pro/job/30890952/data-analyst-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Grenoble, Auvergne-Rhône-Alpes, France | On Site | Oct 23 |
 | **[Gameloft](https://www.gameloft.com)** | **[\[Disney Dreamlight Valley\] Analyste de données junior - Junior Data Analyst](https://jobr.pro/job/30890953/disney-dreamlight-valley-analyste-de-donnees-junior-junior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Montreal, QC, Canada | On Site | Oct 23 |
 | **[Paymentology](https://www.paymentology.com/)** | **[Senior Revenue Data Analyst - Europe](https://jobr.pro/job/30865529/senior-revenue-data-analyst-europe?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Athens, Athens, GR | On Site | Oct 23 |
@@ -37,8 +43,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Relay Technologies](https://www.relaytech.co/)** | **[Graduate Data Analyst](https://jobr.pro/job/30903149/graduate-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London - Hybrid | On Site | Oct 23 |
 | **[BWG Foods](https://www.bwg.ie/)** | **[Junior Data Analyst](https://jobr.pro/job/30897422/junior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Dublin, Leinster, Ireland | On Site | Oct 23 |
 | **[Cashflo](https://www.cashflo.io/)** | **[Data Analyst - Operations Executive](https://jobr.pro/job/30861575/data-analyst-operations-executive?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mumbai, India | On Site | Oct 23 |
+| **[Meet5](https://www.meet5.com/)** | **[(Senior) Data Analyst at Meet5 (m/f/d)](https://jobr.pro/job/30933660/senior-data-analyst-at-meet5-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Frankfurt am Main, Germany | On Site | Oct 23 |
 | **[Encora](https://www.encora.com/)** | **[Data Analyst](https://jobr.pro/job/30898090/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | North Macedonia; Romania | On Site | Oct 23 |
+| **[Microsoft](https://www.microsoft.com/)** | **[Data Analyst II](https://jobr.pro/job/30934540/data-analyst-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Redmond, Washington, United States | On Site | Oct 23 |
+| **[St. Olaf College](https://wp.stolaf.edu/)** | **[Student Community Research and Data Analyst](https://jobr.pro/job/30931035/student-community-research-and-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Northfield, MN, United States | On Site | Oct 23 |
 | **[Amentum](https://www.amentum.com/)** | **[Data Analyst (ATDL)](https://jobr.pro/job/30856832/data-analyst-atdl?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United States-Michigan-Livonia-20313-DETO-06 | On Site | Oct 23 |
+| **[Agile Lab](https://www.agilelab.it/)** | **[Data Analyst I (On Site - Rome)](https://jobr.pro/job/30932408/data-analyst-i-on-site-rome?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Rome, Italy | On Site | Oct 23 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job 25375\] Data Analyst SR (Business Intelligence)](https://jobr.pro/job/30898555/job-25375-data-analyst-sr-business-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Brazil | On Site | Oct 23 |
 | **[Gympass](https://www.gympass.com/)** | **[Data Analyst Senior Specialist - Growth](https://jobr.pro/job/30895837/data-analyst-senior-specialist-growth?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Brazil (São Paulo - Hybrid) | On Site | Oct 23 |
 | **[TikTok](https://www.tiktok.com/)** | **[Data Analyst Project Intern (TikTok Shop-User Product) - 2025 Start (BS/MS)](https://jobr.pro/job/30848708/data-analyst-project-intern-tiktok-shop-user-product-2025-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London, England, United Kingdom | On Site | Oct 23 |
@@ -53,20 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bayer](https://www.bayer.com/)** | **[Junior Data Analyst/Consumer Data](https://jobr.pro/job/30830265/junior-data-analystconsumer-data?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Warszawa, Mazowieckie, PL | On Site | Oct 23 |
 | **[Bayer](https://www.bayer.com/)** | **[Data Analyst/Consumer Data](https://jobr.pro/job/30830262/data-analystconsumer-data?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Warszawa, Mazowieckie, PL | On Site | Oct 23 |
 | **[Bouygues Telecom](https://www.bouyguestelecom.fr/)** | **[Data analyst et automatisation F/H](https://jobr.pro/job/30882331/data-analyst-et-automatisation-fh?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | France, Ile-de-France | On Site | Oct 23 |
-| **[Ebury](https://ebury.com/)** | **[Associate Data Analyst](https://jobr.pro/job/30900652/associate-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Madrid | On Site | Oct 23 |
-| **[General Dynamics Ordnance and Tactical Systems](https://www.gd-ots.com/)** | **[Business Data Analyst II](https://jobr.pro/job/30912756/business-data-analyst-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | St Petersburg, FL, United States | On Site | Oct 23 |
-| **[Sia](https://www.sia-partners.com)** | **[Data Analyst](https://jobr.pro/job/30850815/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Maastricht, Netherlands | On Site | Oct 23 |
-| **[Bondora](https://bondora.com/)** | **[Business Data Analyst](https://jobr.pro/job/30900039/business-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tallinn, Harju, Estonia; Tartu, Tartu, Estonia | On Site | Oct 23 |
-| **[Kroll](https://www.kroll.com/)** | **[Senior Data Analyst](https://jobr.pro/job/30850866/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Manila, Philippines | On Site | Oct 23 |
-| **[Kroll](https://www.kroll.com/)** | **[Senior Data Analyst, Kroll Restructuring Administration L3](https://jobr.pro/job/30850864/senior-data-analyst-kroll-restructuring-administration-l3?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Manila, Philippines | On Site | Oct 23 |
-| **[Veolia](https://www.veolia.com/)** | **[Data Analyst Energetico](https://jobr.pro/job/30823750/data-analyst-energetico?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Milano, Lombardia, Italy | On Site | Oct 23 |
-| **[Avery Dennison](https://www.averydennison.com/)** | **[Data Analyst](https://jobr.pro/job/30815123/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Nhà Bè, Thành phố Hồ Chí Minh, Vietnam | On Site | Oct 23 |
-| **[Ollion](https://ollion.com/)** | **[Data Analyst – BI & Visualization Specialist](https://jobr.pro/job/30824947/data-analyst-bi-visualization-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Singapore, Singapore | On Site | Oct 23 |
-| **[Bosch Group](https://www.bosch.com)** | **[\[SO\] Senior Data Analyst](https://jobr.pro/job/30822809/so-senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Ho Chi Minh city, Vietnam | On Site | Oct 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 46 companies | Avg salary: 106k  
+**Current Stats:** 50 jobs | 20% remote | 47 companies | Avg salary: 120k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
