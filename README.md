@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Oct 24, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 25, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -41,14 +41,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Molkerei Gropper GmbH & Co. KG](https://www.gropper.de/)** | **[Data Analyst (m/w/d)](https://jobr.pro/job/30946711/data-analyst-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bissingen, Bayern, DE | On Site | Oct 24 |
 | **[Magenta Telekom](https://www.magenta.at/)** | **[Data Analyst (f/m/d) - B2B](https://jobr.pro/job/30948238/data-analyst-fmd-b2b?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Vienna, Austria | On Site | Oct 24 |
 | **[Truist](https://www.truist.com/)** | **[Capital Markets Business Data Analyst III](https://jobr.pro/job/30972352/capital-markets-business-data-analyst-iii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Atlanta GA - 303 Peachtree Street - Truist Plaza, United States | On Site | Oct 24 |
-| **[Clarivate](https://www.clarivate.com/)** | **[Associate Healthcare Research & Data Analyst](https://jobr.pro/job/30962004/associate-healthcare-research-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | R131-Bangalore, India | On Site | Oct 24 |
 | **[Capri Sun Group](https://www.capri-sun.com/)** | **[Data Analyst Sales & CRM](https://jobr.pro/job/30958063/data-analyst-sales-crm?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris, France | On Site | Oct 24 |
+| **[Clarivate](https://www.clarivate.com/)** | **[Associate Healthcare Research & Data Analyst](https://jobr.pro/job/30962004/associate-healthcare-research-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | R131-Bangalore, India | On Site | Oct 24 |
 | **[Huron](https://www.huronconsultinggroup.com/)** | **[Data Analyst Associate](https://jobr.pro/job/30973398/data-analyst-associate?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bangalore India - South 3rd Floor | On Site | Oct 24 |
 | **[Fielmann Group](https://www.fielmann-group.com/)** | **[Data Analyst - Category Management (w/m/d)](https://jobr.pro/job/30966104/data-analyst-category-management-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | 0002/0626/0668 Hamburg Fuhlsbüttler Straße (DEU), Germany | On Site | Oct 24 |
 | **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst III](https://jobr.pro/job/30959750/data-analyst-iii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-IL, United States | Remote | Oct 24 |
 | **[Kering](https://www.kering.com/)** | **[KERING Finance Data Analyst-D&A](https://jobr.pro/job/30969296/kering-finance-data-analyst-da?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Menara Symphony - Petaling Jaya, Malaysia | On Site | Oct 24 |
 | **[ICF](https://www.icf.com/)** | **[Business Intelligence and Data Analyst (Remote - US)](https://jobr.pro/job/30971206/business-intelligence-and-data-analyst-remote-us?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Nationwide Remote Office (US99), United States | Remote | Oct 24 |
 | **[Parexel](https://www.parexel.com/)** | **[Senior Clinical Data Analyst (Home-based) - South Africa, Poland, UK, Hungary, Czechia, France, Spain or Italy - FSP](https://jobr.pro/job/30964471/senior-clinical-data-analyst-home-based-south-africa-poland-uk-hungary-czechia-france-spain-or-italy-fsp?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | South Africa-Bloemfontein-Remote | Remote | Oct 24 |
+| **[Citi](https://www.citigroup.com/)** | **[Business Data Analyst - C11](https://jobr.pro/job/30974250/business-data-analyst-c11?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | GRZYBOWSKA 60, Poland | On Site | Oct 24 |
+| **[Morningstar](https://www.morningstar.com/)** | **[Data Analyst Intern](https://jobr.pro/job/30978265/data-analyst-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Madrid, Spain | On Site | Oct 24 |
+| **[Stride, Inc.](https://www.stridelearning.com/)** | **[School Data Analyst](https://jobr.pro/job/30978661/school-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US - TX - Remote, United States | Remote | Oct 24 |
 | **[Omada Health](https://www.omadahealth.com/)** | **[Senior Data Analyst, Clinical Quality and Product](https://jobr.pro/job/30898783/senior-data-analyst-clinical-quality-and-product?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote, USA | Remote | Oct 23 |
 | **[Screenverse](https://www.screenversemedia.com/)** | **[QA Data Analyst](https://jobr.pro/job/30903206/qa-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | USA - Remote | Remote | Oct 23 |
 | **[Woodard Curran](https://www.woodardcurran.com/)** | **[Environmental Data Analyst – New Jersey](https://jobr.pro/job/30900361/environmental-data-analyst-new-jersey?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Virtual | Remote | Oct 23 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PetIQ](https://petiq.com/)** | **[Healthcare Data Analyst](https://jobr.pro/job/30871557/healthcare-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Work From Home, United States | Remote | Oct 23 |
 | **[Launchmetrics](https://www.launchmetrics.com)** | **[Data Analyst Intern](https://jobr.pro/job/30934012/data-analyst-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris, France | On Site | Oct 23 |
 | **[Adyen](https://www.adyen.com/)** | **[Financial Data Analyst](https://jobr.pro/job/30905421/financial-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Amsterdam | On Site | Oct 23 |
-| **[Cloudflare, Inc.](https://www.cloudflare.com/)** | **[Data Analyst](https://jobr.pro/job/30895887/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | In-Office | On Site | Oct 23 |
-| **[Freed](https://www.getfreed.ai/)** | **[Product Data Analyst](https://jobr.pro/job/30901567/product-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco | Remote | Oct 23 |
-| **[Imagemaker](https://www.imagemaker.com/)** | **[Data Analyst - Remoto](https://jobr.pro/job/30913626/data-analyst-remoto?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Chile | Remote | Oct 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 30% remote | 47 companies | Avg salary: 113k  
+**Current Stats:** 50 jobs | 28% remote | 47 companies | Avg salary: 113k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
