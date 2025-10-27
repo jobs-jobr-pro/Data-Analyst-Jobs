@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Oct 27, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 27, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Ollion](https://ollion.com/)** | **[Data Analyst – BI & Visualization Specialist](https://jobr.pro/job/31043320/data-analyst-bi-visualization-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Singapore, Singapore | On Site | Oct 26 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov/)** | **[Data Quality Analyst (Data Analyst IV)](https://jobr.pro/job/31023412/data-quality-analyst-data-analyst-iv?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Texas-Austin | On Site | Oct 25 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Supply Chain Risk Management & Data Analyst](https://jobr.pro/job/31020218/supply-chain-risk-management-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Arlington/Rosslyn, Virginia, United States; Washington, District of Columbia, United States | On Site | Oct 25 |
 | **[Software Mind](https://softwaremind.com)** | **[\[GFA\] Business Data Analyst (Fixed-Term, 6-Month Contract)](https://jobr.pro/job/30992110/gfa-business-data-analyst-fixed-term-6-month-contract?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kraków, Lesser Poland Voivodeship, Poland | On Site | Oct 25 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Digital Masters](https://digital-masters.de/)** | **[Data Analyst (d/m/w)](https://jobr.pro/job/30923776/data-analyst-dmw?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hamburg | On Site | Oct 24 |
 | **[Vinted](https://vinted.com/)** | **[Decision Scientist (Data Analyst), Vinted](https://jobr.pro/job/30987118/decision-scientist-data-analyst-vinted?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Amsterdam, Netherlands | On Site | Oct 24 |
 | **[SGS](https://sgs.com)** | **[Data Analyst/ Administration Clerk (Germany H&N Food)](https://jobr.pro/job/30938478/data-analyst-administration-clerk-germany-hn-food?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Muntinlupa, Philippines | On Site | Oct 24 |
-| **[SGS](https://sgs.com)** | **[Data Analyst/ Administration Clerk (Germany H&N Pharma)](https://jobr.pro/job/30938479/data-analyst-administration-clerk-germany-hn-pharma?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Muntinlupa, Philippines | On Site | Oct 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 45 companies | Avg salary: 118k  
+**Current Stats:** 50 jobs | 14% remote | 46 companies | Avg salary: 118k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
