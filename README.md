@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Nov 01, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 01, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Xiaomi](https://www.xiaomi.com/)** | **[Senior Data Analyst](https://jobr.pro/job/31520555/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | 新加坡 | On Site | Nov 01 |
 | **[Softgic](https://softgic.co/)** | **[Senior Data Analyst 1395](https://jobr.pro/job/31496127/senior-data-analyst-1395?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote | Remote | Nov 01 |
 | **[Meta](https://www.meta.com/)** | **[Data Analyst, Global Operations](https://jobr.pro/job/31490104/data-analyst-global-operations?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Austin, TX \| New York, NY | On Site | Nov 01 |
 | **[nybl](https://nybl.ai/)** | **[Data Analyst / Data Scientist (Remote)](https://jobr.pro/job/31501127/data-analyst-data-scientist-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Dubai, Dubai, United Arab Emirates | Remote | Nov 01 |
@@ -29,6 +30,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Keller Postman](https://www.kellerpostman.com/)** | **[Data Analyst - Personal Injury](https://jobr.pro/job/31469165/data-analyst-personal-injury?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote | Remote | Oct 31 |
 | **[Guardian Australia](https://www.theguardian.com/)** | **[Senior Data Analyst](https://jobr.pro/job/31501738/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York, New York, United States | On Site | Oct 31 |
 | **[Zynga](https://www.zynga.com/)** | **[Senior Data Analyst - Slots](https://jobr.pro/job/31467433/senior-data-analyst-slots?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Austin, TX; Bay Area, CA; Toronto, Canada | On Site | Oct 31 |
+| **[Félix](https://www.felixpago.com/)** | **[Data Analyst- Fraud](https://jobr.pro/job/31510150/data-analyst-fraud?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Uruguay | On Site | Oct 31 |
 | **[SimplePractice](https://www.simplepractice.com/)** | **[Business Intelligence Data Analyst (Mexico City - Hybrid)](https://jobr.pro/job/31473873/business-intelligence-data-analyst-mexico-city-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mexico City, Mexico | On Site | Oct 31 |
 | **[小米科技](https://www.mi.com/)** | **[data analyst intern](https://jobr.pro/job/31449079/data-analyst-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | 新加坡 | On Site | Oct 31 |
 | **[Talkdesk](https://www.talkdesk.com/)** | **[Data Analyst](https://jobr.pro/job/31462483/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Porto | On Site | Oct 31 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Yemen Kuwait Bank](https://yk-bank.com)** | **[Data Analyst (SQL, Power BI)](https://jobr.pro/job/31422192/data-analyst-sql-power-bi?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Sana'a, Yemen | On Site | Oct 31 |
 | **[Capgemini](https://www.capgemini.com/)** | **[Data Analyst/Data Engineer (Databricks)](https://jobr.pro/job/31421644/data-analystdata-engineer-databricks?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US-WA-Seattle | On Site | Oct 31 |
 | **[Fiverr](https://www.fiverr.com)** | **[Data Analyst, Performance - Temporary](https://jobr.pro/job/31429107/data-analyst-performance-temporary?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 31 |
-| **[University of North Texas System](https://www.untsystem.edu/)** | **[Senior Data Analyst - Reporting](https://jobr.pro/job/31486845/senior-data-analyst-reporting?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Denton | On Site | Oct 31 |
-| **[Xometry](https://www.xometry.com/)** | **[Product Data Analyst](https://jobr.pro/job/31460828/product-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kazakhstan | Remote | Oct 31 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 46 companies | Avg salary: 126k  
+**Current Stats:** 50 jobs | 24% remote | 47 companies | Avg salary: 131k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
