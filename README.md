@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Nov 03, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 03, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -15,6 +15,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Ollion](https://ollion.com/)** | **[Data Analyst – BI & Visualization Specialist](https://jobr.pro/job/31540447/data-analyst-bi-visualization-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Singapore, Singapore | On Site | Nov 03 |
 | **[Turner & Townsend](https://www.turnerandtownsend.com)** | **[Construction Cost Data Analyst](https://jobr.pro/job/31541679/construction-cost-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Seattle, WA, United States | On Site | Nov 03 |
+| **[Milestone Technologies, Inc.](https://milestone.tech/)** | **[Data Analyst/BI Developer](https://jobr.pro/job/31546421/data-analystbi-developer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote, IN | Remote | Nov 03 |
+| **[Rockwell Automation](https://www.rockwellautomation.com/)** | **[Data Analyst](https://jobr.pro/job/31545898/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | India Pune (Mississippi Building) | On Site | Nov 03 |
 | **[Cielo Projects](https://www.cielotalent.com/)** | **[Product- Data Analyst (Manufacturing, Remote)](https://jobr.pro/job/31540090/product-data-analyst-manufacturing-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Cary, NC, United States | Remote | Nov 02 |
 | **[Amar Bank](https://amarbank.co.id/)** | **[Senior Marketing Data Analyst](https://jobr.pro/job/31536607/senior-marketing-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Jakarta | On Site | Nov 02 |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Senior Data Analyst](https://jobr.pro/job/31520555/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | 新加坡 | On Site | Nov 01 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bitfinex](https://www.bitfinex.com/)** | **[Jr Data Analyst (Growth) 100% Remote EUR (4)](https://jobr.pro/job/31460378/jr-data-analyst-growth-100-remote-eur-4?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote job | Remote | Oct 31 |
 | **[Bitfinex](https://www.bitfinex.com/)** | **[Jr Data Analyst (Growth) 100% Remote EUR (3)](https://jobr.pro/job/31460379/jr-data-analyst-growth-100-remote-eur-3?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote job | Remote | Oct 31 |
 | **[Bitfinex](https://www.bitfinex.com/)** | **[Jr Data Analyst (Growth) 100% Remote EUR (2)](https://jobr.pro/job/31460380/jr-data-analyst-growth-100-remote-eur-2?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote job | Remote | Oct 31 |
-| **[Plymouth Rock Assurance](https://www.plymouthrock.com/)** | **[Customer Service Data Analyst](https://jobr.pro/job/31440902/customer-service-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Woodbridge, NJ, United States | On Site | Oct 31 |
-| **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov/)** | **[GLO - Data Governance Lead (Data Analyst V)](https://jobr.pro/job/31422980/glo-data-governance-lead-data-analyst-v?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Texas-Austin | On Site | Oct 31 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 47 companies | Avg salary: 131k  
+**Current Stats:** 50 jobs | 28% remote | 47 companies | Avg salary: 137k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
