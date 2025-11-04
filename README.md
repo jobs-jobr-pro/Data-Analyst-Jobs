@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Nov 03, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 04, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -45,28 +45,28 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Fiserv](https://www.fiserv.com/)** | **[Senior Data Analyst](https://jobr.pro/job/31571073/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Alpharetta, Georgia, United States | On Site | Nov 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Data Analyst](https://jobr.pro/job/31586481/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | USA - CA - 2450 Broadway, United States | On Site | Nov 03 |
 | **[Thales](https://www.thalesgroup.com/)** | **[Schedule & Business Data Analyst Manager](https://jobr.pro/job/31576909/schedule-business-data-analyst-manager?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Meudon, France | On Site | Nov 03 |
+| **[IDEXX](https://www.idexx.com/)** | **[Senior Data Analyst](https://jobr.pro/job/31589709/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US-United States-Virtual, United States | Remote | Nov 03 |
+| **[IDEXX](https://www.idexx.com/)** | **[Data Analyst II](https://jobr.pro/job/31589705/data-analyst-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US-ME-Westbrook ID, United States | On Site | Nov 03 |
+| **[ING](https://www.ing.com/)** | **[Chapter Lead Data Analyst](https://jobr.pro/job/31592064/chapter-lead-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | ACT (Amsterdam - Acanthus), Netherlands | On Site | Nov 03 |
+| **[State Street](https://www.statestreet.com/)** | **[Product Owner / Business Data Analyst - Senior Manager](https://jobr.pro/job/31581581/product-owner-business-data-analyst-senior-manager?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hyderabad, India | On Site | Nov 03 |
+| **[Maersk](https://www.maersk.com/)** | **[Operations Data Analyst](https://jobr.pro/job/31588750/operations-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | MATNG05 - Tangier - TMPC - gare maritime Secteur 7, Morocco | On Site | Nov 03 |
+| **[Linklaters](https://www.linklaters.com/)** | **[BDM Data Analyst](https://jobr.pro/job/31590121/bdm-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Warsaw, Poland | On Site | Nov 03 |
+| **[Fifth Third Bank](https://www.53.com/)** | **[Credit Risk Data Analyst - CRA](https://jobr.pro/job/31591949/credit-risk-data-analyst-cra?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Madisonville Office Building, United States | On Site | Nov 03 |
 | **[Avis Budget Group](https://www.avisbudgetgroup.com/)** | **[Purchasing Data Analyst](https://jobr.pro/job/31577176/purchasing-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | ESP - Madrid - Av Manoteras 32, Spain | On Site | Nov 03 |
 | **[abrdn](https://www.abrdn.com/)** | **[Lead Data Analyst](https://jobr.pro/job/31581223/lead-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Edinburgh, United Kingdom | On Site | Nov 03 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Power BI Developer and Data Analyst](https://jobr.pro/job/31579808/power-bi-developer-and-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bangalore, Karnataka, India | On Site | Nov 03 |
 | **[Institutional Shareholder Services](https://www.issgovernance.com/)** | **[Junior Data Analyst - Governance Data (Open to New Graduates)](https://jobr.pro/job/31585382/junior-data-analyst-governance-data-open-to-new-graduates?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Manila, Philippines | On Site | Nov 03 |
 | **[Parexel](https://www.parexel.com/)** | **[Clinical Data Analyst I](https://jobr.pro/job/31574248/clinical-data-analyst-i?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Malaysia-Petaling Jaya | On Site | Nov 03 |
-| **[State Street](https://www.statestreet.com/)** | **[Product Owner / Business Data Analyst - Senior Manager](https://jobr.pro/job/31581581/product-owner-business-data-analyst-senior-manager?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hyderabad, India | On Site | Nov 03 |
 | **[Dabble](https://www.dabble.com.au/)** | **[Racing Data Analyst](https://jobr.pro/job/31553561/racing-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Albury, Australia | On Site | Nov 02 |
 | **[Gear Inc](https://www.gearinc.com)** | **[Real-time Data Analyst](https://jobr.pro/job/31556645/real-time-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Da Nang, Da Nang, Vietnam | On Site | Nov 02 |
 | **[Siam Piwat](https://www.siampiwat.com/)** | **[Data Analyst](https://jobr.pro/job/31552056/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bangkok, Bangkok, Thailand | On Site | Nov 02 |
 | **[Lili](https://lili.co/)** | **[Data Analyst](https://jobr.pro/job/31563834/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 02 |
 | **[Cielo Projects](https://www.cielotalent.com/)** | **[Product- Data Analyst (Manufacturing, Remote)](https://jobr.pro/job/31540090/product-data-analyst-manufacturing-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Cary, NC, United States | Remote | Nov 02 |
 | **[Amar Bank](https://amarbank.co.id/)** | **[Senior Marketing Data Analyst](https://jobr.pro/job/31536607/senior-marketing-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Jakarta | On Site | Nov 02 |
-| **[Xiaomi](https://www.xiaomi.com/)** | **[Senior Data Analyst](https://jobr.pro/job/31520555/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | 新加坡 | On Site | Nov 01 |
-| **[Softgic](https://softgic.co/)** | **[Senior Data Analyst 1395](https://jobr.pro/job/31496127/senior-data-analyst-1395?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote | Remote | Nov 01 |
-| **[Meta](https://www.meta.com/)** | **[Data Analyst, Global Operations](https://jobr.pro/job/31490104/data-analyst-global-operations?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Austin, TX \| New York, NY | On Site | Nov 01 |
-| **[nybl](https://nybl.ai/)** | **[Data Analyst / Data Scientist (Remote)](https://jobr.pro/job/31501127/data-analyst-data-scientist-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Dubai, Dubai, United Arab Emirates | Remote | Nov 01 |
-| **[Playson](https://playson.com/)** | **[Senior Commercial Data Analyst](https://jobr.pro/job/31537813/senior-commercial-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote COLUMBIA/ARGENTINA/PERU | Remote | Nov 01 |
-| **[Dexis Consulting Group](https://dexisonline.com/)** | **[Senior Data Analyst, DOS](https://jobr.pro/job/31463483/senior-data-analyst-dos?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Washington, District of Columbia, United States | On Site | Nov 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 49 companies | Avg salary: 130k  
+**Current Stats:** 50 jobs | 10% remote | 48 companies | Avg salary: 116k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
