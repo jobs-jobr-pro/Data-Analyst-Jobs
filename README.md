@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Nov 04, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 05, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -48,6 +48,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[The University of Queensland](https://uq.edu.au/)** | **[Research Data Analyst](https://jobr.pro/job/31655386/research-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Herston Campus, Australia | On Site | Nov 04 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Crop Protection Innovation Management Senior Data Analyst](https://jobr.pro/job/31658716/crop-protection-innovation-management-senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | NA-US-IN-Indianapolis - 308, United States | On Site | Nov 04 |
 | **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[Data Analyst, Vigilance & Compliance Branch (VCB)](https://jobr.pro/job/31687139/data-analyst-vigilance-compliance-branch-vcb?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | BIOPOLIS (HELIOS BUILDING), Singapore | On Site | Nov 04 |
+| **[AIS - Advanced Info Services Plc.](https://www.ais.th/)** | **[Engineer (Data Analyst : Network Data Analytic Management)](https://jobr.pro/job/31691946/engineer-data-analyst-network-data-analytic-management?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | AIS 2, Thailand | On Site | Nov 04 |
 | **[bet365](https://www.bet365.com)** | **[Python Data Analyst](https://jobr.pro/job/31594326/python-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Denver, Colorado, United States | On Site | Nov 03 |
 | **[OMNI Consulting Solutions](https://omniconsultingsolutions.com/)** | **[Senior Data Analyst](https://jobr.pro/job/31600306/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Washington D.C, Virginia, United States | On Site | Nov 03 |
 | **[Swoop](https://www.swoop.com/)** | **[Data Analyst, MyHealthTeam](https://jobr.pro/job/31632532/data-analyst-myhealthteam?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote (United States) | Remote | Nov 03 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Medicom](https://medicom.com/)** | **[Research Data Analyst, Internship](https://jobr.pro/job/31632441/research-data-analyst-internship?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Raleigh, NC; Remote | Remote | Nov 03 |
 | **[Inovalon](https://www.inovalon.com/)** | **[Data Analyst](https://jobr.pro/job/31601016/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Minneapolis, MN | On Site | Nov 03 |
 | **[Inetum](https://www.inetum.com)** | **[Data Solution (Data Analyst)](https://jobr.pro/job/31594353/data-solution-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mexico City, CDMX, Mexico | On Site | Nov 03 |
-| **[Everience Benelux](https://www.everience.com)** | **[Data analyst H/F](https://jobr.pro/job/31594359/data-analyst-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Lyon, Auvergne-Rhône-Alpes, France | On Site | Nov 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 49 companies | Avg salary: 127k  
+**Current Stats:** 50 jobs | 12% remote | 49 companies | Avg salary: 134k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
