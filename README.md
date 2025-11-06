@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Nov 05, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 06, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -57,16 +57,16 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pinnacle](https://pinnaclereliability.com/)** | **[Reliability Data Analyst](https://jobr.pro/job/31748568/reliability-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hyderabad, IND (Office), India | On Site | Nov 05 |
 | **[Sanofi](https://www.sanofi.com/)** | **[Data Analyst](https://jobr.pro/job/31758754/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | chengdu, China | On Site | Nov 05 |
 | **[DigiOutsource](https://www.digioutsource.com/)** | **[Data Analyst](https://jobr.pro/job/31763489/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Cape Town, South Africa | On Site | Nov 05 |
+| **[Parexel](https://www.parexel.com/)** | **[Clinical Data Analyst Intern](https://jobr.pro/job/31773868/clinical-data-analyst-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Malaysia-Petaling Jaya | On Site | Nov 05 |
+| **[Deutsche Bank](https://www.db.com/)** | **[Data Analyst, GSA Data Divisional Office – GCOO](https://jobr.pro/job/31786965/data-analyst-gsa-data-divisional-office-gcoo?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mumbai Nirlon Knowledge Pk B1, India | On Site | Nov 05 |
 | **[Assurant](https://www.assurant.com/)** | **[Senior Business Unit Data Analyst (4+ Years in Writing Store Procedures + Solid Exp in SQL + Stakeholder Management Skill)](https://jobr.pro/job/31779702/senior-business-unit-data-analyst-4-years-in-writing-store-procedures-solid-exp-in-sql-stakeholder-management-skill?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bengaluru, India | On Site | Nov 05 |
 | **[Nasdaq](https://www.nasdaq.com/)** | **[Data Analyst in Trade Surveillance Operations](https://jobr.pro/job/31778707/data-analyst-in-trade-surveillance-operations?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Vilnius, Lithuania | On Site | Nov 05 |
 | **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Data Analyst – Provider Contract Administration](https://jobr.pro/job/31778869/data-analyst-provider-contract-administration-?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | NYP/Weill Cornell Medical Center, United States | On Site | Nov 05 |
 | **[Freightliner Group Ltd](https://www.freightliner.co.uk/)** | **[Engineering Data Analyst](https://jobr.pro/job/31780269/engineering-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Crewe - VMF, United Kingdom | On Site | Nov 05 |
-| **[Link Logistics](https://www.linklogistics.com/)** | **[Yardi Data Analyst](https://jobr.pro/job/31782975/yardi-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | PA - Fort Washington, United States | On Site | Nov 05 |
-| **[Veralto](https://www.veralto.com/)** | **[Master Data Analyst](https://jobr.pro/job/31779348/master-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | DEU - Remote, Germany | Remote | Nov 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 44 companies | Avg salary: 104k  
+**Current Stats:** 50 jobs | 4% remote | 44 companies | Avg salary: 108k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
