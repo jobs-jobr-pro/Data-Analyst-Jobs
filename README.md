@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Nov 08, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 08, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Deloitte](https://www.deloitte.com/)** | **[Experienced - Data Analyst - NextHub Bari](https://jobr.pro/job/32012135/experienced-data-analyst-nexthub-bari?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bari | On Site | Nov 08 |
 | **[Sanlam](https://www.sanlamcloud.co.za)** | **[Data Analyst](https://jobr.pro/job/31999816/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tygervalley, Western Cape, ZA | On Site | Nov 08 |
 | **[ENGIE](https://www.engie.com)** | **[Stage Data Analyst (H/F) - Lyon](https://jobr.pro/job/31997791/stage-data-analyst-hf-lyon?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Lyon, FR, 69006 | On Site | Nov 08 |
 | **[Bayer](https://www.bayer.com/)** | **[Senior Data Analyst](https://jobr.pro/job/31997306/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Warszawa, Mazowieckie, PL | On Site | Nov 08 |
@@ -31,9 +32,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TeleMed2U](https://www.telemed2u.com/)** | **[Data Analyst](https://jobr.pro/job/32003125/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Austin, TX | On Site | Nov 07 |
 | **[Flix](https://www.flixbus.com/)** | **[Commercial data analyst (m/f/d)](https://jobr.pro/job/31980341/commercial-data-analyst-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mexico City | On Site | Nov 07 |
 | **[Monks](https://www.monks.com/)** | **[DATA ANALYST](https://jobr.pro/job/31990055/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Brazil | On Site | Nov 07 |
+| **[Matrix Global](https://matrix-ifs.com/)** | **[Business / Data Analyst – QA Specialist](https://jobr.pro/job/32020750/business-data-analyst-qa-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Jersey City, NJ, US | On Site | Nov 07 |
 | **[Multiverse](https://multiverse.io)** | **[Learning Data Analyst](https://jobr.pro/job/31984535/learning-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London | Remote | Nov 07 |
 | **[Archer](https://www.archer.com/)** | **[Supply Chain Data Analyst](https://jobr.pro/job/31991156/supply-chain-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Jose, California, United States | On Site | Nov 07 |
+| **[StandardAero](https://standardaero.com/)** | **[Pricing Data Analyst](https://jobr.pro/job/32010977/pricing-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Antonio, TX, United States | On Site | Nov 07 |
 | **[Commercial Services Group](https://www.commercialservices.org.uk)** | **[Systems Management Data Analyst](https://jobr.pro/job/32008636/systems-management-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | West Malling, United Kingdom | On Site | Nov 07 |
+| **[Sinclair Inc.](https://sbgi.net/)** | **[Senior Data Analyst, Growth](https://jobr.pro/job/32014764/senior-data-analyst-growth?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Seattle, WA, United States | On Site | Nov 07 |
 | **[Tabby](https://tabby.ai)** | **[Senior Data Analyst, Customer Experience](https://jobr.pro/job/31995738/senior-data-analyst-customer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote/Portugal | Remote | Nov 07 |
 | **[Experian](https://www.experian.com/)** | **[Data Analyst - Remote](https://jobr.pro/job/31971038/data-analyst-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United States, UNITED STATES, United States | Remote | Nov 07 |
 | **[World Wide Technology](https://www.wwt.com/)** | **[Sr. Data Analyst - Marketing Analytics](https://jobr.pro/job/31948783/sr-data-analyst-marketing-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Costa Rica | On Site | Nov 07 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Ocado Group](https://www.ocadogroup.com/)** | **[Supply Chain Data Analyst](https://jobr.pro/job/31981349/supply-chain-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hatfield, United Kingdom | On Site | Nov 07 |
 | **[Ocado Group](https://www.ocadogroup.com/)** | **[Junior Data Analyst - Supply Chain](https://jobr.pro/job/31981347/junior-data-analyst-supply-chain?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hatfield, United Kingdom | On Site | Nov 07 |
 | **[ALTEN](https://www.alten.com/)** | **[Data Analyst](https://jobr.pro/job/31925466/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France | On Site | Nov 07 |
-| **[Inetum](https://www.inetum.com)** | **[Business Data Analyst](https://jobr.pro/job/31986834/business-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Lisbon, Lisbon, Portugal | On Site | Nov 07 |
-| **[The Exploration Company](https://www.exploration.space/)** | **[Propulsion Data Analyst](https://jobr.pro/job/31983703/propulsion-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bordeaux, France | On Site | Nov 07 |
-| **[OP Financial Group](https://www.op.fi/)** | **[Data Analyst, Pohjola Vakuutus, Helsinki tai Tampere](https://jobr.pro/job/31908763/data-analyst-pohjola-vakuutus-helsinki-tai-tampere?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Helsinki, FI | On Site | Nov 07 |
-| **[Bayer](https://www.bayer.com/)** | **[Production Research Data Analyst](https://jobr.pro/job/31905536/production-research-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Lichtenburg, North West, ZA | On Site | Nov 07 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 45 companies | Avg salary: 128k  
+**Current Stats:** 50 jobs | 14% remote | 46 companies | Avg salary: 127k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
