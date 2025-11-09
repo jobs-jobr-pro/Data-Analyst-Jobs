@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Nov 09, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 09, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -21,8 +21,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bayer](https://www.bayer.com/)** | **[Senior Data Analyst](https://jobr.pro/job/31997306/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Warszawa, Mazowieckie, PL | On Site | Nov 08 |
 | **[Baseten](https://www.baseten.co/)** | **[Data Analyst](https://jobr.pro/job/31983651/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco | On Site | Nov 08 |
 | **[Supermicro](https://www.supermicro.com)** | **[Data Analyst](https://jobr.pro/job/31988213/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Jose, California, United States | On Site | Nov 08 |
-| **[Razer](https://www.razer.com/)** | **[Lead Data Analyst](https://jobr.pro/job/32038360/lead-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Shanghai, China | On Site | Nov 08 |
 | **[IQVIA](https://www.iqvia.com/)** | **[Lab Data Analyst](https://jobr.pro/job/32042797/lab-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bangalore, India | On Site | Nov 08 |
+| **[Razer](https://www.razer.com/)** | **[Lead Data Analyst](https://jobr.pro/job/32038360/lead-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Shanghai, China | On Site | Nov 08 |
 | **[HubSpot](https://www.hubspot.com/)** | **[Senior Data Analyst, Partner Analytics](https://jobr.pro/job/31986933/senior-data-analyst-partner-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - USA | Remote | Nov 07 |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Senior Data Analyst](https://jobr.pro/job/31965881/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | 新加坡 | On Site | Nov 07 |
 | **[Toast](https://pos.toasttab.com/)** | **[Staff Data Analyst, Operations](https://jobr.pro/job/31986386/staff-data-analyst-operations?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote, US | Remote | Nov 07 |
