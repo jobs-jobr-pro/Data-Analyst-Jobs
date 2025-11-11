@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Nov 11, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 11, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[LegalAndGeneral](https://www.legalandgeneral.com)** | **[Asset Data Analyst](https://jobr.pro/job/32125473/asset-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London, United Kingdom | On Site | Nov 10 |
+| **[Visa](https://visa.com)** | **[Senior Finance Data Analyst](https://jobr.pro/job/32125475/senior-finance-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Austin, TX, United States | On Site | Nov 10 |
+| **[Devoteam](https://www.devoteam.com/)** | **[Energy & Utilities \| Business Data Analyst](https://jobr.pro/job/32125476/energy-utilities-business-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Lisboa, Lisboa, Portugal | On Site | Nov 10 |
 | **[Talan](https://talan.com)** | **[Sr. Business Analyst / Data Analyst](https://jobr.pro/job/32069919/sr-business-analyst-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Warsaw, Masovian Voivodeship, Poland | Remote | Nov 10 |
 | **[Paymentology](https://www.paymentology.com/)** | **[Senior Revenue Data Analyst - Europe](https://jobr.pro/job/32078600/senior-revenue-data-analyst-europe?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Lisbon, Lisbon, PT | On Site | Nov 10 |
 | **[WithSecure](https://www.withsecure.com)** | **[Senior Data Analyst – AI-Enabled Insights](https://jobr.pro/job/32084170/senior-data-analyst-ai-enabled-insights?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Helsinki | On Site | Nov 10 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Deloitte](https://www.deloitte.com/)** | **[Experienced - Data Analyst - NextHub Bari](https://jobr.pro/job/32012135/experienced-data-analyst-nexthub-bari?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bari | On Site | Nov 08 |
 | **[City of New York](https://www.nyc.gov)** | **[Data Analyst, Bureau of Mental Health](https://jobr.pro/job/32053607/data-analyst-bureau-of-mental-health?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Long Island City, NY, United States | On Site | Nov 08 |
 | **[Sanlam](https://www.sanlamcloud.co.za)** | **[Data Analyst](https://jobr.pro/job/31999816/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tygervalley, Western Cape, ZA | On Site | Nov 08 |
-| **[ENGIE](https://www.engie.com)** | **[Stage Data Analyst (H/F) - Lyon](https://jobr.pro/job/31997791/stage-data-analyst-hf-lyon?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Lyon, FR, 69006 | On Site | Nov 08 |
-| **[Bayer](https://www.bayer.com/)** | **[Senior Data Analyst](https://jobr.pro/job/31997306/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Warszawa, Mazowieckie, PL | On Site | Nov 08 |
-| **[Baseten](https://www.baseten.co/)** | **[Data Analyst](https://jobr.pro/job/31983651/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco | On Site | Nov 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 45 companies | Avg salary: 127k  
+**Current Stats:** 50 jobs | 14% remote | 45 companies | Avg salary: 124k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
