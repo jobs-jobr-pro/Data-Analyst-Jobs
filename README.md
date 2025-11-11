@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Nov 10, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 11, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -24,6 +24,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Computershare](https://www.computershare.com/)** | **[Research and Data Analyst (Adelaide)](https://jobr.pro/job/32074008/research-and-data-analyst-adelaide?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Adelaide, Australia | On Site | Nov 10 |
 | **[EisnerAmper](https://www.eisneramper.com/)** | **[Human Resources Senior Data Analyst](https://jobr.pro/job/32054161/human-resources-senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bangalore, India | On Site | Nov 10 |
 | **[KiwiRail](https://www.kiwirail.co.nz)** | **[Senior People Data Analyst - Fixed Term 12 Months](https://jobr.pro/job/32054856/senior-people-data-analyst-fixed-term-12-months?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Auckland, KiwiRail Holdings Ltd, NZ, 1010 | On Site | Nov 10 |
+| **[Clearwater Analytics](https://www.clearwateranalytics.com/)** | **[Financial Data Analyst](https://jobr.pro/job/32116401/financial-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Noida Office, India | On Site | Nov 10 |
+| **[Stryker](https://www.stryker.com/)** | **[Master Data Analyst (1-year Fixed Term)](https://jobr.pro/job/32111384/master-data-analyst-1-year-fixed-term?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Costa Rica, Heredia San Antonio Business Park | On Site | Nov 10 |
+| **[Voya Financial](https://www.voya.com/)** | **[Senior Data Analyst – End User Transformation Services (EUTS) – Business Intelligence & Reporting](https://jobr.pro/job/32110769/senior-data-analyst-end-user-transformation-services-euts-business-intelligence-reporting?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | NY-New York, 200 Park Ave 15th Floor, United States | On Site | Nov 10 |
+| **[Dave & Buster's](https://www.daveandbusters.com/)** | **[Analyst/Jr Data Analyst, Marketing](https://jobr.pro/job/32110215/analystjr-data-analyst-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | CORP0000 - SSC, United States | On Site | Nov 10 |
 | **[Zoom](https://www.zoom.com/)** | **[Data Analyst](https://jobr.pro/job/32051625/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote (IND), India | Remote | Nov 10 |
 | **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst II Visualization](https://jobr.pro/job/32078144/data-analyst-ii-visualization?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-MO, United States | Remote | Nov 10 |
 | **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst III - HEDIS, Power BI](https://jobr.pro/job/32078139/data-analyst-iii-hedis-power-bi?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-MO, United States | Remote | Nov 10 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ENGIE](https://www.engie.com)** | **[Stage Data Analyst (H/F) - Lyon](https://jobr.pro/job/31997791/stage-data-analyst-hf-lyon?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Lyon, FR, 69006 | On Site | Nov 08 |
 | **[Bayer](https://www.bayer.com/)** | **[Senior Data Analyst](https://jobr.pro/job/31997306/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Warszawa, Mazowieckie, PL | On Site | Nov 08 |
 | **[Baseten](https://www.baseten.co/)** | **[Data Analyst](https://jobr.pro/job/31983651/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco | On Site | Nov 08 |
-| **[Supermicro](https://www.supermicro.com)** | **[Data Analyst](https://jobr.pro/job/31988213/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Jose, California, United States | On Site | Nov 08 |
-| **[IQVIA](https://www.iqvia.com/)** | **[Lab Data Analyst](https://jobr.pro/job/32042797/lab-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bangalore, India | On Site | Nov 08 |
-| **[Razer](https://www.razer.com/)** | **[Lead Data Analyst](https://jobr.pro/job/32038360/lead-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Shanghai, China | On Site | Nov 08 |
-| **[HubSpot](https://www.hubspot.com/)** | **[Senior Data Analyst, Partner Analytics](https://jobr.pro/job/31986933/senior-data-analyst-partner-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - USA | Remote | Nov 07 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 45 companies | Avg salary: 132k  
+**Current Stats:** 50 jobs | 14% remote | 45 companies | Avg salary: 127k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
