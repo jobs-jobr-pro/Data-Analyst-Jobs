@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Nov 11, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 12, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -43,10 +43,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[MX Technologies](https://mx.com/)** | **[Senior Data Analyst](https://jobr.pro/job/32174737/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Chennai, Tamil Nadu, India | On Site | Nov 11 |
 | **[University of Louisville](https://louisville.edu/)** | **[Data Analyst III](https://jobr.pro/job/32180803/data-analyst-iii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Health Sciences Center, United States | On Site | Nov 11 |
 | **[Southwest Airlines](https://www.southwest.com/)** | **[Sr Facilities Data Analyst](https://jobr.pro/job/32194995/sr-facilities-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | TX-Headquarters-HDQ, United States | On Site | Nov 11 |
+| **[Fidelity Investments](https://www.fidelity.com/)** | **[Senior IT Data Analyst](https://jobr.pro/job/32230284/senior-it-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Parkmore East Business Park, Galway Ireland | On Site | Nov 11 |
 | **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst III SQL, SSRS](https://jobr.pro/job/32212909/data-analyst-iii-sql-ssrs?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-NC, United States | Remote | Nov 11 |
 | **[Helios Technologies](https://www.heliostechnologies.com)** | **[Data Analyst](https://jobr.pro/job/32219601/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Enovation Controls, LLC - Tulsa, OK, 74146 | On Site | Nov 11 |
 | **[Hong Leong Bank Berhad](https://www.hlb.com.my/)** | **[Executive, Personal Financial Services (Junior Product Data Analyst, Credit Card and Personal Loan)](https://jobr.pro/job/32217816/executive-personal-financial-services-junior-product-data-analyst-credit-card-and-personal-loan?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | HLT-Hong Leong Tower, Malaysia | On Site | Nov 11 |
-| **[Fidelity Investments](https://www.fidelity.com/)** | **[Senior IT Data Analyst](https://jobr.pro/job/32230284/senior-it-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Parkmore East Business Park, Galway Ireland | On Site | Nov 11 |
+| **[ING](https://www.ing.com/)** | **[WB Model Data Analyst](https://jobr.pro/job/32234262/wb-model-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | HBP (Amsterdam - Haarlerbergpark), Netherlands | On Site | Nov 11 |
+| **[Citi](https://www.citigroup.com/)** | **[Mainframe Data Analyst](https://jobr.pro/job/32231389/mainframe-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | PLOT NO-1, S.NO. 77, India | On Site | Nov 11 |
+| **[Western Union](https://www.westernunion.com/)** | **[Data Analyst, Fraud](https://jobr.pro/job/32231011/data-analyst-fraud?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Santa Ana - Parque Empresarial, Costa Rica | On Site | Nov 11 |
+| **[VSP Vision](https://www.vspvision.com/)** | **[Senior Technical Data Analyst](https://jobr.pro/job/32230643/senior-technical-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote CA - R1, United States | Remote | Nov 11 |
 | **[Figure](https://www.figure.com/)** | **[Principal Data Analyst](https://jobr.pro/job/32156113/principal-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote | Remote | Nov 10 |
 | **[Mission Lane](https://www.missionlane.com/)** | **[Senior Data Analyst, Product Analytics](https://jobr.pro/job/32144184/senior-data-analyst-product-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote, United States | Remote | Nov 10 |
 | **[Array](https://array.com/)** | **[Senior Data Analyst](https://jobr.pro/job/32141985/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - USA or Canada | Remote | Nov 10 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[n8n](https://n8n.io/)** | **[Senior Marketing Data Analyst](https://jobr.pro/job/32150671/senior-marketing-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Berlin Office | On Site | Nov 10 |
 | **[New Relic](https://newrelic.com/)** | **[Senior Data Analyst - Finance](https://jobr.pro/job/32157559/senior-data-analyst-finance?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Portland, Oregon, USA | Remote | Nov 10 |
 | **[Stuart](https://stuart.com)** | **[Product Data Analyst](https://jobr.pro/job/32143216/product-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Barcelona | On Site | Nov 10 |
-| **[Obie](https://www.obieinsurance.com/)** | **[Data Analyst](https://jobr.pro/job/32173296/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Chicago, IL; United States | Remote | Nov 10 |
-| **[Interbank](https://interbank.pe/)** | **[DATA ANALYST DE RISK ANALYTICS](https://jobr.pro/job/32183679/data-analyst-de-risk-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | LIMA, Peru | On Site | Nov 10 |
-| **[Coupang](https://www.coupang.com/)** | **[Senior Data Analyst](https://jobr.pro/job/32157215/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bengaluru | On Site | Nov 10 |
-| **[Coupang](https://www.coupang.com/)** | **[Staff Data Analyst](https://jobr.pro/job/32157218/staff-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bengaluru | On Site | Nov 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 48 companies | Avg salary: 152k  
+**Current Stats:** 50 jobs | 16% remote | 49 companies | Avg salary: 153k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
