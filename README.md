@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Nov 12, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 13, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -50,6 +50,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Barclays](https://home.barclays/)** | **[Workday Data Analyst](https://jobr.pro/job/32297285/workday-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Nov 12 |
 | **[Barclays](https://home.barclays/)** | **[Data Analyst](https://jobr.pro/job/32297217/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Gera Commerzone SEZ, Pune, India | On Site | Nov 12 |
 | **[Weekday](https://www.weekday.works)** | **[Data Analyst Engineer](https://jobr.pro/job/32288590/data-analyst-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bengaluru, Karnataka, India | On Site | Nov 12 |
+| **[RTX](https://www.rtx.com/)** | **[DT Data Analyst – HW/ SW Model Management (ServiceNow Platform)](https://jobr.pro/job/32326263/dt-data-analyst-hw-sw-model-management-servicenow-platform?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | 1st Flr, Wing B, North Gate Phase-II, Modern Asset, Sy.No.2/2, Venkatala Village, Yelahanka Hobli, Bangalore – 560064, Karnataka, India | On Site | Nov 12 |
+| **[Stryker](https://www.stryker.com/)** | **[Data Analyst](https://jobr.pro/job/32321853/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Costa Rica, Heredia San Antonio Business Park | On Site | Nov 12 |
+| **[Humana](https://www.humana.com/)** | **[Associate, Data Analyst, Mktg Audience](https://jobr.pro/job/32323705/associate-data-analyst-mktg-audience?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote US, United States | Remote | Nov 12 |
+| **[Humana](https://www.humana.com/)** | **[Sr Data Analyst](https://jobr.pro/job/32323682/sr-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote US, United States | Remote | Nov 12 |
+| **[Guidehouse](https://www.guidehouse.com/)** | **[Assistant Manager Data Analyst](https://jobr.pro/job/32323406/assistant-manager-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | GH Office: Chennai, India (TRIL) | On Site | Nov 12 |
 | **[Dataiku](https://www.dataiku.com/)** | **[Marketing Data Analyst](https://jobr.pro/job/32241647/marketing-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United States, Remote | Remote | Nov 11 |
 | **[Strive Health](https://strivehealth.com/)** | **[Data Analyst](https://jobr.pro/job/32248485/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Denver, CO; Washington, D.C. | On Site | Nov 11 |
 | **[SimplePractice](https://www.simplepractice.com/)** | **[Data Analyst II (hybrid)](https://jobr.pro/job/32250956/data-analyst-ii-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hybrid - Mexico | On Site | Nov 11 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zócalo Health](https://www.zocalo.health/)** | **[Data Analyst - Nov 2025](https://jobr.pro/job/32247666/data-analyst-nov-2025?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote | Remote | Nov 11 |
 | **[Natixis in Portugal](https://www.natixis.com)** | **[Senior Data Analyst (French Speaker)](https://jobr.pro/job/32235228/senior-data-analyst-french-speaker?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Lisbon, Lisbon, Portugal | On Site | Nov 11 |
 | **[DHL Supply Chain](https://www.dhl.com/)** | **[Business Data Analyst I](https://jobr.pro/job/32222086/business-data-analyst-i?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mechanicsburg, PA, US | On Site | Nov 11 |
-| **[Polymath Ventures](https://polymathv.com/)** | **[Engagement and Data Analyst](https://jobr.pro/job/32243170/engagement-and-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mexico | On Site | Nov 11 |
-| **[Orion Innovation](https://www.orioninc.com/)** | **[Data Analyst](https://jobr.pro/job/32248396/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mexico, Mexico | On Site | Nov 11 |
-| **[AHEAD](https://www.ahead.com/)** | **[Data Analyst](https://jobr.pro/job/32246163/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Libertyville, Illinois | On Site | Nov 11 |
-| **[Datadog](https://www.datadoghq.com/)** | **[Enablement Operations Data Analyst - NYC](https://jobr.pro/job/32246416/enablement-operations-data-analyst-nyc?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York, New York, USA | On Site | Nov 11 |
-| **[Superbet](https://www.superbet.com/)** | **[Commercial Data Analyst](https://jobr.pro/job/32251604/commercial-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Spain | On Site | Nov 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 48 companies | Avg salary: 119k  
+**Current Stats:** 50 jobs | 16% remote | 47 companies | Avg salary: 114k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
