@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Nov 15, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 15, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,12 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ADP](https://www.adp.com/)** | **[Data Analyst](https://jobr.pro/job/32584017/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tunis, tun-tn, Tunisia | On Site | Nov 15 |
 | **[Worldline](https://www.worldline.com)** | **[Stage - Data Analyst (F/H)](https://jobr.pro/job/32526169/stage-data-analyst-fh?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Noyelles Les Seclin, 59, FR | On Site | Nov 15 |
 | **[Impiricus](https://impiricus.com/)** | **[Data Analyst](https://jobr.pro/job/32511602/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco Bay Area, Atlanta, GA, New York, NY, or Remote | Remote | Nov 15 |
 | **[Peek Travel Inc.](https://www.peek.com/)** | **[Data Analyst - Product, BI and AI](https://jobr.pro/job/32523733/data-analyst-product-bi-and-ai?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mexico | Remote | Nov 14 |
 | **[TG Natural Resources LLC](https://tgnr.com/)** | **[Upstream Operations Data Analyst](https://jobr.pro/job/32550128/upstream-operations-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Carthage, TX, US | On Site | Nov 14 |
 | **[DOC Services, Inc.](https://docservices.com/)** | **[Data Analyst](https://jobr.pro/job/32549674/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Fort Mill, SC, US | On Site | Nov 14 |
 | **[Omada Health](https://www.omadahealth.com/)** | **[Senior Workforce Management Data Analyst](https://jobr.pro/job/32522054/senior-workforce-management-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote, USA | Remote | Nov 14 |
+| **[Plymouth Rock Assurance](https://www.plymouthrock.com/)** | **[Customer Service Data Analyst](https://jobr.pro/job/32583934/customer-service-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Woodbridge, NJ, United States | On Site | Nov 14 |
 | **[Latitude](https://www.latitudeinc.net)** | **[Data Analyst (Efforts to Outcomes Experience)](https://jobr.pro/job/32515235/data-analyst-efforts-to-outcomes-experience?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Baltimore, MD | On Site | Nov 14 |
 | **[Potawatomi Federal Solutions, LLC](https://www.potawatomifs.com/)** | **[Data Analyst, Senior](https://jobr.pro/job/32543928/data-analyst-senior?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | VA, US | On Site | Nov 14 |
 | **[Webselenese](https://www.webselenese.com/)** | **[Data Analyst – Brands & Subscription](https://jobr.pro/job/32570148/data-analyst-brands-subscription?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 14 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[RWS Group](https://www.rws.com/)** | **[Data Analyst](https://jobr.pro/job/32452425/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote, Romania | Remote | Nov 14 |
 | **[Initiate Government Solutions, LLC.](https://www.initiatesolutions.com/)** | **[Data Analyst - Probability and Statistical Methods](https://jobr.pro/job/32457741/data-analyst-probability-and-statistical-methods?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Washington, DC, US | Remote | Nov 14 |
 | **[Endeavour Group](https://endeavourgroup.com.au)** | **[Data Analyst - 6m FTC](https://jobr.pro/job/32442700/data-analyst-6m-ftc?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Richmond, VIC, Australia | On Site | Nov 14 |
-| **[Experian](https://www.experian.com/)** | **[Senior Data Analyst - Remote](https://jobr.pro/job/32418582/senior-data-analyst-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United States, UNITED STATES, United States | Remote | Nov 14 |
-| **[Monks](https://www.monks.com/)** | **[Data Analyst](https://jobr.pro/job/32425133/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Brazil | On Site | Nov 14 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 48 companies | Avg salary: 120k  
+**Current Stats:** 50 jobs | 20% remote | 49 companies | Avg salary: 115k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
