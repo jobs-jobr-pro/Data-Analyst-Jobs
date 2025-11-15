@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Nov 15, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 15, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Le Groupement Les Mousquetaires](https://www.mousquetaires.com/)** | **[DATA ANALYST (H/F)](https://jobr.pro/job/32507176/data-analyst-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Vert-le-Grand, IDF, France | On Site | Nov 14 |
 | **[DHL Supply Chain](https://www.dhl.com/)** | **[Business Data Analyst I](https://jobr.pro/job/32497107/business-data-analyst-i?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Westerville, OH, US | On Site | Nov 14 |
 | **[Span](https://www.span.eu/)** | **[Data Analyst](https://jobr.pro/job/32489630/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Zagreb, Croatia (Hybrid) | On Site | Nov 14 |
 | **[Rakuten Viber](https://www.viber.com/)** | **[Senior Data Analyst- Dating](https://jobr.pro/job/32478525/senior-data-analyst-dating?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kyiv, Kyiv, UA | On Site | Nov 14 |
@@ -60,13 +61,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Moog Inc.](https://www.moog.com/)** | **[Hardware Asset Data Analyst](https://jobr.pro/job/32502727/hardware-asset-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bangalore MITC, India | On Site | Nov 14 |
 | **[RTX](https://www.rtx.com/)** | **[Data Analyst (Onsite)](https://jobr.pro/job/32506328/data-analyst-onsite?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | PW147: PW OKC Campus 8120 S. Air Depot Blvd , Oklahoma City, OK, 73135 USA, United States | On Site | Nov 14 |
 | **[University of Chicago](https://www.uchicago.edu/)** | **[Data Analyst](https://jobr.pro/job/32506645/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hyde Park Campus, United States | On Site | Nov 14 |
-| **[EBANX](https://ebanx.com/)** | **[Mid Data Analyst \| Affirmative Job Opening for Diverse Talent](https://jobr.pro/job/32423707/mid-data-analyst-affirmative-job-opening-for-diverse-talent?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Curitiba or São Paulo \| On-site | On Site | Nov 13 |
-| **[Wilshire Advisors LLC](https://www.wilshire.com)** | **[Senior Financial Data Analyst](https://jobr.pro/job/32418588/senior-financial-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Conshohocken, PA, United States | On Site | Nov 13 |
-| **[Chime](https://www.chime.com/)** | **[Senior Data Analyst, Trust & Safety](https://jobr.pro/job/32433043/senior-data-analyst-trust-safety?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco, CA | Remote | Nov 13 |
+| **[Procter & Gamble](https://pg.com/)** | **[Digital Consumer Data Analyst Internship (m/f/x)](https://jobr.pro/job/32506951/digital-consumer-data-analyst-internship-mfx?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | MADRID GENERAL OFFICE, Spain | On Site | Nov 14 |
+| **[Gartner](https://www.gartner.com/)** | **[Data Analyst](https://jobr.pro/job/32510669/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Gurgaon - Cyber Park, India | On Site | Nov 14 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 48 companies | Avg salary: 137k  
+**Current Stats:** 50 jobs | 10% remote | 48 companies | Avg salary: 128k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
