@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Nov 17, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 17, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -53,7 +53,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Wise](https://wise.com)** | **[Lead Data Analyst - Finance & Treasury](https://jobr.pro/job/32525815/lead-data-analyst-finance-treasury?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London, United Kingdom | On Site | Nov 14 |
 | **[Cube Global](https://cube.global)** | **[Data Analyst](https://jobr.pro/job/32520002/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London | Remote | Nov 14 |
 | **[Aston Martin Lagonda](https://www.astonmartin.com/)** | **[Senior Performance Data Analyst](https://jobr.pro/job/32456283/senior-performance-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Gaydon, Warwickshire | On Site | Nov 14 |
-| **[Keyrus](https://keyrus.com/)** | **[Data analyst H/F/NB](https://jobr.pro/job/32460297/data-analyst-hfnb?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bordeaux, France | On Site | Nov 14 |
+| **[Keyrus](https://keyrus.com/)** | **[Data analyst H/F/NB](https://jobr.pro/job/32466127/data-analyst-hfnb?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bordeaux, France | On Site | Nov 14 |
 | **[FareHarbor](https://fareharbor.com/)** | **[Marketing Data Analyst II](https://jobr.pro/job/32522142/marketing-data-analyst-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Amsterdam | On Site | Nov 14 |
 | **[NEXTON](https://www.nexton-consulting.com/)** | **[Data analyst confirmé H/F](https://jobr.pro/job/32464950/data-analyst-confirme-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris, IDF, France | On Site | Nov 14 |
 | **[The Centers](https://www.thecentersohio.org/)** | **[Data Analyst; Quality, Compliance & Informatics](https://jobr.pro/job/32477208/data-analyst-quality-compliance-informatics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Cleveland, OH, 44103, US | Remote | Nov 14 |
