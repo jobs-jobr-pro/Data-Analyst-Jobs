@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Nov 19, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 19, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,8 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Ubisoft](https://www.ubisoft.com/)** | **[Data Analyst Intern](https://jobr.pro/job/32735839/data-analyst-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | São Paulo, SP, Brazil | On Site | Nov 18 |
 | **[ECS](https://ecstech.com/)** | **[ServiceNow Business Data Analyst](https://jobr.pro/job/32717730/servicenow-business-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Arlington, VA, United States | On Site | Nov 18 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com/)** | **[Data Analyst](https://jobr.pro/job/32719482/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Boston, MA, United States | On Site | Nov 18 |
+| **[Inetum](https://www.inetum.com)** | **[Data Analyst](https://jobr.pro/job/32735850/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Lisbon, Lisbon, Portugal | On Site | Nov 18 |
 | **[Stellantis](https://www.stellantis.com/)** | **[Stage : Data Analyst sur modules de connectivités (Radio / 5G / WiFi / V2X / GNSS)](https://jobr.pro/job/32728290/stage-data-analyst-sur-modules-de-connectivites-radio-5g-wifi-v2x-gnss?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Europe, France, Franche-Comté, Doubs (25) | On Site | Nov 18 |
 | **[Stony Brook University](https://www.stonybrook.edu/)** | **[Faculty Data Analyst](https://jobr.pro/job/32700048/faculty-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US-NY-Stony Brook | On Site | Nov 18 |
 | **[UT Southwestern Medical Center](https://www.utsouthwestern.edu/)** | **[Data Analyst - Surgical Services](https://jobr.pro/job/32698972/data-analyst-surgical-services?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Texas-Dallas-5323 Harry Hines Blvd | On Site | Nov 18 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[UBS](https://www.ubs.com/)** | **[Data Analyst (Technical)](https://jobr.pro/job/32701796/data-analyst-technical?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mumbai, Pune, India | On Site | Nov 18 |
 | **[Origin Energy](https://www.originenergy.com.au)** | **[Meter Data Analyst](https://jobr.pro/job/32674012/meter-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Melbourne, VIC, AU, 3000 | On Site | Nov 18 |
 | **[DMV IT Service](https://www.dmvitservice.com/)** | **[Principal Data Analyst(SQL,Excel)](https://jobr.pro/job/32680510/principal-data-analystsqlexcel?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Minneapolis, Minnesota, United States - Remote | Remote | Nov 18 |
-| **[DMV IT Service](https://www.dmvitservice.com/)** | **[Data Analyst IV](https://jobr.pro/job/32680508/data-analyst-iv?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Chicago, Illinois, United States | On Site | Nov 18 |
-| **[INGOT](https://www.ingot.io/)** | **[Data Analyst - ING342](https://jobr.pro/job/32678680/data-analyst-ing342?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - Dubai, UAE, United Arab Emirates | Remote | Nov 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 44 companies | Avg salary: 115k  
+**Current Stats:** 50 jobs | 2% remote | 45 companies | Avg salary: 115k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
