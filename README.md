@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Nov 24, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 24, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[DKB \| Deutsche Kreditbank AG](https://www.dkb.de)** | **[Werkstudent*in / Data Analyst*in - Fokus Fraud Detection](https://jobr.pro/job/33063671/werkstudentin-data-analystin-fokus-fraud-detection?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Berlin, BE, DE | On Site | Nov 24 |
+| **[Sia](https://www.sia-partners.com)** | **[Data Analyst](https://jobr.pro/job/33067803/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mumbai, Maharashtra, India | On Site | Nov 24 |
+| **[Voodoo](https://www.voodoo.io/)** | **[Data Analyst - Gear Fight](https://jobr.pro/job/33063725/data-analyst-gear-fight?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris | On Site | Nov 23 |
+| **[Trendyol](https://www.trendyol.com/)** | **[Marketplace Data Analyst](https://jobr.pro/job/33063195/marketplace-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Istanbul / Maslak | On Site | Nov 23 |
+| **[Trafilea](https://www.trafilea.com/)** | **[Senior Data Analyst (SQL/NoSQL, Python)](https://jobr.pro/job/33061682/senior-data-analyst-sqlnosql-python?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote job | Remote | Nov 23 |
+| **[Brainstack](https://www.brainstack.team/)** | **[Data Analyst (Billing)](https://jobr.pro/job/33061368/data-analyst-billing?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote job | Remote | Nov 23 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov/)** | **[TxDMV - Data Analyst (Remote in Texas)](https://jobr.pro/job/33042146/txdmv-data-analyst-remote-in-texas?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Texas | Remote | Nov 22 |
 | **[Children's National Hospital](https://www.childrensnational.org/)** | **[Senior Data Analyst](https://jobr.pro/job/33042086/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | District of Columbia-Washington | On Site | Nov 22 |
 | **[Syntax](https://www.syntaxindices.com)** | **[Data Analyst Intern](https://jobr.pro/job/33011514/data-analyst-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York City | On Site | Nov 22 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Renesas Electronics](https://www.renesas.com)** | **[Senior HR Data Analyst](https://jobr.pro/job/33003622/senior-hr-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Austin, TEXAS, United States | On Site | Nov 21 |
 | **[Rydge](https://kpmg.com)** | **[HR Data Analyst F/H - CDD](https://jobr.pro/job/33003623/hr-data-analyst-fh-cdd?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Courbevoie, France | On Site | Nov 21 |
 | **[Fiverr](https://www.fiverr.com)** | **[Business Data Analyst](https://jobr.pro/job/32976943/business-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Nov 21 |
-| **[Bandwidth](https://www.bandwidth.com/)** | **[Fraud Data Analyst Intern - Summer 2026](https://jobr.pro/job/33011007/fraud-data-analyst-intern-summer-2026?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Raleigh, NC | On Site | Nov 21 |
-| **[Fig Financial](https://fig.ca/)** | **[Intermediate Data Analyst](https://jobr.pro/job/33009045/intermediate-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toronto, Ontario | On Site | Nov 21 |
-| **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov/)** | **[TDI - Data Analyst II](https://jobr.pro/job/32968875/tdi-data-analyst-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Texas-Austin | On Site | Nov 21 |
-| **[IEEE](https://www.ieee.org/)** | **[Temporary Contracts Data Analyst](https://jobr.pro/job/32968391/temporary-contracts-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United States-New Jersey-Piscataway | On Site | Nov 21 |
-| **[J.D. Irving, Limited](https://www.jdirving.com/)** | **[Systems Data Analyst](https://jobr.pro/job/32964834/systems-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Saint John, NB, Canada | On Site | Nov 21 |
-| **[SHEIN](https://shein.com/)** | **[Senior Data Analyst I](https://jobr.pro/job/32961050/senior-data-analyst-i?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Türkiye | On Site | Nov 21 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 48 companies | Avg salary: 135k  
+**Current Stats:** 50 jobs | 22% remote | 49 companies | Avg salary: 135k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
