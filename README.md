@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Nov 25, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 26, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -52,21 +52,21 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Dexcom](https://www.dexcom.com/)** | **[Senior Performance Data Analyst - Healthcare - Bracknell](https://jobr.pro/job/33195711/senior-performance-data-analyst-healthcare-bracknell?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bracknell, United Kingdom | On Site | Nov 25 |
 | **[PwC](https://www.pwc.com/)** | **[Data Engineering / Data Analyst \| CDD \| H/F](https://jobr.pro/job/33182246/data-engineering-data-analyst-cdd-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris - Crystal Park, France | On Site | Nov 25 |
 | **[Telia](https://www.teliacompany.com/)** | **[Business Data Analyst](https://jobr.pro/job/33176411/business-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Vilnius, Lithuania | On Site | Nov 25 |
-| **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Data Analyst Senior](https://jobr.pro/job/33195946/data-analyst-senior?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Charlotte, NC - 2709 Water Ridge Pkwy, United States | On Site | Nov 25 |
 | **[CrowdStrike](https://www.crowdstrike.com/)** | **[Sr. Data Analyst - Data Science (Remote)](https://jobr.pro/job/33187382/sr-data-analyst-data-science-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | USA CA Remote, United States | Remote | Nov 25 |
+| **[Maersk](https://www.maersk.com/)** | **[Data Analyst Warehouse (LOCATION: PHILIPPSBURG)](https://jobr.pro/job/33198943/data-analyst-warehouse-location-philippsburg?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | DEFRM10 - Frankfurt Am Main - Hanauer Landstrasse 304a, Frankfurt am Main, Germany | On Site | Nov 25 |
+| **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Data Analyst Senior](https://jobr.pro/job/33195946/data-analyst-senior?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Charlotte, NC - 2709 Water Ridge Pkwy, United States | On Site | Nov 25 |
+| **[Vanguard](https://www.vanguard.com/)** | **[Data Analyst, Specialist](https://jobr.pro/job/33198197/data-analyst-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Malvern, PA, United States | On Site | Nov 25 |
+| **[Unilever](https://www.unilever.com/)** | **[Data Analyst](https://jobr.pro/job/33198394/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Cu Chi, Vietnam | On Site | Nov 25 |
+| **[KeyBank](https://www.key.com/)** | **[Digital Data Analyst](https://jobr.pro/job/33196979/digital-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | 4910 Tiedeman Road, Brooklyn, OH, United States | Remote | Nov 25 |
 | **[RELEX Solutions](https://www.relexsolutions.com/careers/)** | **[Business Analyst / Data Analyst - RELEX North America](https://jobr.pro/job/33126029/business-analyst-data-analyst-relex-north-america?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Atlanta, GA, United States; Boston, United States; East Coast, United States; Los Angeles, CA, United States; Minneapolis, United States; New York, United States; San Francisco, United States; West Coast, United States | On Site | Nov 24 |
 | **[Highwire](https://www.highwire.com/)** | **[Data Analyst](https://jobr.pro/job/33148644/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Burlington, MA | On Site | Nov 24 |
 | **[Reserv](https://www.reserv.com)** | **[Sr. Data Analyst](https://jobr.pro/job/33126856/sr-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote · Atlanta, Georgia, United States | Remote | Nov 24 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Data Analyst II- Trust & Safety](https://jobr.pro/job/33119880/data-analyst-ii-trust-safety?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Chicago, IL, US; Remote, IL, US | Remote | Nov 24 |
 | **[Black Duck Software, Inc.](https://www.blackduck.com/)** | **[Marketing Data Analyst](https://jobr.pro/job/33119936/marketing-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Burlington, MA | On Site | Nov 24 |
-| **[TMS, LLC](https://www.linktms.com/)** | **[Senior Data Analyst (AWS & Quicksight) \|8+ Years \|Remote](https://jobr.pro/job/33115530/senior-data-analyst-aws-quicksight-8-years-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote, OR, United States | Remote | Nov 24 |
-| **[P&S Transportation](https://www.pstrans.com)** | **[Data Analyst Warehouse](https://jobr.pro/job/33115620/data-analyst-warehouse?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Columbus, IN, United States | On Site | Nov 24 |
-| **[Virginia Department of Transportation](https://www.vdot.virginia.gov/)** | **[08169 - Business Data Analyst](https://jobr.pro/job/33159426/08169-business-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Charlottesville, VA, United States | On Site | Nov 24 |
-| **[Datavant](https://www.datavant.com/)** | **[Sr. Data Analyst - US Remote](https://jobr.pro/job/33130075/sr-data-analyst-us-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - United States | Remote | Nov 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 44 companies | Avg salary: 108k  
+**Current Stats:** 50 jobs | 18% remote | 44 companies | Avg salary: 107k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
