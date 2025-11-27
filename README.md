@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Nov 27, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 27, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,7 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Vericast](https://vericast.com)** | **[Data Analyst - Marketing Analytics & Digital Insights (Remote)](https://jobr.pro/job/33287041/data-analyst-marketing-analytics-digital-insights-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Antonio, TX, United States | Remote | Nov 26 |
 | **[Conservice](https://www.conservice.com/)** | **[Data Analyst](https://jobr.pro/job/33268915/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Logan, UT, United States | On Site | Nov 26 |
+| **[Visa](https://visa.com)** | **[Senior Finance Data Analyst](https://jobr.pro/job/33287047/senior-finance-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Austin, TX, United States | On Site | Nov 26 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov/)** | **[Data Analyst for Educator Savings Accounts and Virtual Schools (Data Analyst IV)](https://jobr.pro/job/33252657/data-analyst-for-educator-savings-accounts-and-virtual-schools-data-analyst-iv?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Texas-Austin | On Site | Nov 26 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Data Analyst Lead](https://jobr.pro/job/33250388/data-analyst-lead?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IN-AP-Hyderabad | On Site | Nov 26 |
 | **[UCLA Health](https://www.uclahealth.org/)** | **[Business Systems and Institutional Data Analyst](https://jobr.pro/job/33249408/business-systems-and-institutional-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Flexible Hybrid | On Site | Nov 26 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Kaizen Gaming](https://kaizengaming.com/)** | **[Data Analyst (Data Self-Service)](https://jobr.pro/job/33217839/data-analyst-data-self-service?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Athens, Greece | On Site | Nov 25 |
 | **[Peak Power](https://www.peakpowerenergy.com/)** | **[Data Analyst](https://jobr.pro/job/33234663/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toronto, Canada | On Site | Nov 25 |
 | **[Ruby Labs](https://rubylabs.com/)** | **[Junior Data Analyst](https://jobr.pro/job/33212523/junior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Czech Republic | Remote | Nov 25 |
-| **[Anteriad](https://anteriad.com/)** | **[Marketing Data Analyst](https://jobr.pro/job/33205100/marketing-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote- US | Remote | Nov 25 |
-| **[Cabify](https://www.cabify.com/)** | **[Senior Data Analyst](https://jobr.pro/job/33205029/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Madrid | On Site | Nov 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 46 companies | Avg salary: 129k  
+**Current Stats:** 50 jobs | 18% remote | 46 companies | Avg salary: 140k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
