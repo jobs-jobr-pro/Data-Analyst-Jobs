@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Nov 28, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 29, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -20,7 +20,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[bet365](https://www.bet365.com)** | **[Data Analyst](https://jobr.pro/job/33381741/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Stoke-on-Trent, England, United Kingdom | On Site | Nov 28 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Data Analyst @Thessaloniki](https://jobr.pro/job/33381441/data-analyst-thessaloniki?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Thessaloniki | On Site | Nov 28 |
 | **[IKEA](https://www.ikea.com/)** | **[(Senior) Data Analyst, Data & Analytics, Group Digital - Madrid](https://jobr.pro/job/33381012/senior-data-analyst-data-analytics-group-digital-madrid?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Sebastián de los Reyes | On Site | Nov 28 |
-| **[Keyrus](https://keyrus.com/)** | **[Data analyst H/F/NB](https://jobr.pro/job/33378992/data-analyst-hfnb?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bordeaux, France | On Site | Nov 28 |
+| **[Keyrus](https://keyrus.com/)** | **[Data analyst H/F/NB](https://jobr.pro/job/33380707/data-analyst-hfnb?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bordeaux, France | On Site | Nov 28 |
 | **[Experian](https://www.experian.com/)** | **[Junior Data Analyst - Marketing Analytics](https://jobr.pro/job/33381749/junior-data-analyst-marketing-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Sofia, Bulgaria | On Site | Nov 28 |
 | **[ALTEN](https://www.alten.com/)** | **[Data Engineer / Data Analyst (secteur aéronautique)](https://jobr.pro/job/33381755/data-engineer-data-analyst-secteur-aeronautique?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toulouse, Occitanie, France | On Site | Nov 28 |
 | **[EcoVadis](https://ecovadis.com)** | **[Senior Product Data Analyst](https://jobr.pro/job/33381756/senior-product-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Barcelona, CT, Spain | On Site | Nov 28 |
@@ -28,13 +28,16 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Emerson](https://www.emerson.com/)** | **[Data Analyst](https://jobr.pro/job/33381667/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | CLUJ NAPOCA, CLUJ, Romania | On Site | Nov 28 |
 | **[Chainalysis](https://www.chainalysis.com/)** | **[Data Analyst, Investigations - India](https://jobr.pro/job/33366510/data-analyst-investigations-india?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New Delhi | Remote | Nov 28 |
 | **[Zip Co Limited](https://zip.co/)** | **[Data Analyst](https://jobr.pro/job/33362328/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Sydney | On Site | Nov 28 |
+| **[PwC](https://www.pwc.com/)** | **[Junior Data Analyst, Audit & Assurance (Nicosia or Limassol) (Ref: 686046WD)](https://jobr.pro/job/33385977/junior-data-analyst-audit-assurance-nicosia-or-limassol-ref-686046wd?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Nicosia - PwC Central, Cyprus | On Site | Nov 28 |
+| **[Watu](https://watuafrica.com/careers/)** | **[Senior Data Analyst](https://jobr.pro/job/33392589/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Nairobi, Nairobi | On Site | Nov 28 |
+| **[St Vincent's Health Australia](https://www.svha.org.au/)** | **[ICU - Data Analyst](https://jobr.pro/job/33401787/icu-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | VIC St Vincent's Hospital Melbourne - Building A (IPS), Australia | On Site | Nov 28 |
 | **[LexisNexis](https://www.lexisnexis.com/)** | **[Intermediate Data Analyst](https://jobr.pro/job/33376705/intermediate-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | South Africa - Cape Town | On Site | Nov 28 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Data Analyst - Data Operations](https://jobr.pro/job/33376375/data-analyst-data-operations?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | PH - MANILA AYALA TOWER ONE, Philippines | On Site | Nov 28 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Data Analyst](https://jobr.pro/job/33376366/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IN - BENGALURU PRIMECO UNION CITY, India | On Site | Nov 28 |
 | **[RELX](https://www.relx.com/)** | **[Intermediate Data Analyst](https://jobr.pro/job/33375251/intermediate-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | South Africa - Cape Town | On Site | Nov 28 |
-| **[PwC](https://www.pwc.com/)** | **[Junior Data Analyst, Audit & Assurance (Nicosia or Limassol) (Ref: 686046WD)](https://jobr.pro/job/33385977/junior-data-analyst-audit-assurance-nicosia-or-limassol-ref-686046wd?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Nicosia - PwC Central, Cyprus | On Site | Nov 28 |
-| **[Watu](https://watuafrica.com/careers/)** | **[Senior Data Analyst](https://jobr.pro/job/33392589/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Nairobi, Nairobi | On Site | Nov 28 |
-| **[St Vincent's Health Australia](https://www.svha.org.au/)** | **[ICU - Data Analyst](https://jobr.pro/job/33401787/icu-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | VIC St Vincent's Hospital Melbourne - Building A (IPS), Australia | On Site | Nov 28 |
+| **[Liberty Global](https://www.libertyglobal.com/)** | **[Data Analyst Lead](https://jobr.pro/job/33404926/data-analyst-lead?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | LG UK Bradford (37,5 hours per week), United Kingdom | On Site | Nov 28 |
+| **[Ofcom](https://ofcom.org.uk/)** | **[Data Analyst](https://jobr.pro/job/33405616/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Manchester, United Kingdom | On Site | Nov 28 |
+| **[CACI International Inc](https://www.caci.com/)** | **[Data Analyst](https://jobr.pro/job/33405356/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | CXZ FORT MEADE MD (EAST CAMPUS ICC BUILDING), United States | On Site | Nov 28 |
 | **[MNP](https://www.mnp.ca)** | **[Human Capital Data Analyst](https://jobr.pro/job/33370392/human-capital-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Calgary, Alberta, Canada | On Site | Nov 27 |
 | **[UNSW](https://www.unsw.edu.au/)** | **[Data Analyst](https://jobr.pro/job/33377141/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Sydney, NSW | On Site | Nov 27 |
 | **[AVISIA](https://www.avisia.fr/)** | **[Data Analyst confirmé(e) H/F - Nantes](https://jobr.pro/job/33362268/data-analyst-confirmee-hf-nantes?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | NANTES, Pays de la Loire, France | On Site | Nov 27 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[MR DIY Philippines](https://www.mrdiy.com/ph/)** | **[Data Analyst](https://jobr.pro/job/33375808/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Marikina, Metro Manila, Philippines | On Site | Nov 27 |
 | **[Glovo](https://glovoapp.com/)** | **[Data Analyst - Partner Operations Performance (They/She/He)](https://jobr.pro/job/33363605/data-analyst-partner-operations-performance-theyshehe?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Barcelona, Spain (Hybrid) | On Site | Nov 27 |
 | **[Apparel Group](https://www.apparelgroup.com/)** | **[Data Analyst](https://jobr.pro/job/33324416/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United Arab Emirates | On Site | Nov 27 |
-| **[Bosch Group](https://www.bosch.com)** | **[Data Analyst (Semiconductor)](https://jobr.pro/job/33326329/data-analyst-semiconductor?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Seberang Perai Selatan, Penang, Malaysia | On Site | Nov 27 |
-| **[Second Foundation](https://www.second-foundation.eu/)** | **[Billing & Data Analyst / Energy](https://jobr.pro/job/33366499/billing-data-analyst-energy?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Prague, Czech Republic | On Site | Nov 27 |
-| **[Liebherr Group](https://www.liebherr.com)** | **[Business Data Analyst](https://jobr.pro/job/33310389/business-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Adelaide, AU | On Site | Nov 27 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 46 companies | Avg salary: 94k  
+**Current Stats:** 50 jobs | 4% remote | 46 companies | Avg salary: 137k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
