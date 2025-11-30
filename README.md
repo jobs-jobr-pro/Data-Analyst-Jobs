@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Nov 29, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 30, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -16,6 +16,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[BAE Systems](https://www.baesystems.com/)** | **[Data Analyst – Supply Chain](https://jobr.pro/job/33425774/data-analyst-supply-chain?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | GB-ENG-CMA-Barrow-in-Furness | On Site | Nov 29 |
 | **[Koninklijke BAM Groep](https://www.bam.com/)** | **[Data Analyst](https://jobr.pro/job/33417582/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London, GB | On Site | Nov 29 |
 | **[Gartner](https://www.gartner.com/)** | **[Data Analyst](https://jobr.pro/job/33406971/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Gurgaon - Cyber Park, India | On Site | Nov 29 |
+| **[Santander](https://www.santander.com/)** | **[SCUK Capital Data Analyst](https://jobr.pro/job/33441790/scuk-capital-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Redhill Consumer Finance, United Kingdom | On Site | Nov 29 |
 | **[Computershare](https://www.computershare.com/)** | **[Finance Data Analyst, Commercial Finance](https://jobr.pro/job/33428163/finance-data-analyst-commercial-finance?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toronto, Canada | On Site | Nov 28 |
 | **[J.D. Irving, Limited](https://www.jdirving.com/)** | **[Senior Finance Data Analyst](https://jobr.pro/job/33423722/senior-finance-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Dieppe, NB, Canada | On Site | Nov 28 |
 | **[Adyen](https://www.adyen.com/)** | **[Data Analyst - Regulatory](https://jobr.pro/job/33409333/data-analyst-regulatory?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Sao Jose dos Campos | On Site | Nov 28 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[S&P Global](https://www.spglobal.com/)** | **[Data Analyst - Data Operations](https://jobr.pro/job/33376375/data-analyst-data-operations?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | PH - MANILA AYALA TOWER ONE, Philippines | On Site | Nov 28 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Data Analyst](https://jobr.pro/job/33376366/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IN - BENGALURU PRIMECO UNION CITY, India | On Site | Nov 28 |
 | **[RELX](https://www.relx.com/)** | **[Intermediate Data Analyst](https://jobr.pro/job/33375251/intermediate-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | South Africa - Cape Town | On Site | Nov 28 |
-| **[bp](https://www.bp.com/)** | **[Master Data Analyst](https://jobr.pro/job/33412144/master-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IN: Pune Yerwada Commerzone Campus, India | On Site | Nov 28 |
 
 ---
 
