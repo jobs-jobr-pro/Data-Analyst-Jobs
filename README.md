@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Dec 01, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 01, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ALDI Stores Australia](https://www.aldicareers.com.au)** | **[Forecasting & Data Analyst](https://jobr.pro/job/33442897/forecasting-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Minchinbury, NSW, Australia | On Site | Nov 30 |
 | **[BAE Systems](https://www.baesystems.com/)** | **[Data Analyst – Supply Chain](https://jobr.pro/job/33425774/data-analyst-supply-chain?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | GB-ENG-CMA-Barrow-in-Furness | On Site | Nov 29 |
 | **[Koninklijke BAM Groep](https://www.bam.com/)** | **[Data Analyst](https://jobr.pro/job/33417582/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London, GB | On Site | Nov 29 |
 | **[Gartner](https://www.gartner.com/)** | **[Data Analyst](https://jobr.pro/job/33406971/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Gurgaon - Cyber Park, India | On Site | Nov 29 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[LexisNexis](https://www.lexisnexis.com/)** | **[Intermediate Data Analyst](https://jobr.pro/job/33376705/intermediate-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | South Africa - Cape Town | On Site | Nov 28 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Data Analyst - Data Operations](https://jobr.pro/job/33376375/data-analyst-data-operations?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | PH - MANILA AYALA TOWER ONE, Philippines | On Site | Nov 28 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Data Analyst](https://jobr.pro/job/33376366/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IN - BENGALURU PRIMECO UNION CITY, India | On Site | Nov 28 |
-| **[RELX](https://www.relx.com/)** | **[Intermediate Data Analyst](https://jobr.pro/job/33375251/intermediate-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | South Africa - Cape Town | On Site | Nov 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 45 companies | Avg salary: 137k  
+**Current Stats:** 50 jobs | 8% remote | 45 companies | Avg salary: 144k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
