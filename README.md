@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Dec 03, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 03, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -37,6 +37,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Allianz](https://www.allianz.com/)** | **[Data Analyst - Health](https://jobr.pro/job/33618748/data-analyst-health?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Brisbane, QLD, AU, 4000 | On Site | Dec 03 |
 | **[Accenture](https://www.accenture.com/)** | **[Data Analyst especializado en Adobe Analytics y Analítica Digital](https://jobr.pro/job/33656017/data-analyst-especializado-en-adobe-analytics-y-analitica-digital?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Madrid, Torre Chamartin, Spain | On Site | Dec 03 |
 | **[Circle K](https://www.circlek.com/)** | **[Data Analyst - Enterprise & BI Reporting](https://jobr.pro/job/33655711/data-analyst-enterprise-bi-reporting?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Support Office India | On Site | Dec 03 |
+| **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst III SQL, SSRS](https://jobr.pro/job/33657305/data-analyst-iii-sql-ssrs?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-NC, United States | Remote | Dec 03 |
+| **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst III Healthcare Analytics](https://jobr.pro/job/33657266/data-analyst-iii-healthcare-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-NY, United States | Remote | Dec 03 |
+| **[Frost](https://www.frostbank.com/)** | **[Data Analyst II](https://jobr.pro/job/33658499/data-analyst-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Antonio, TX - One Frost, United States | On Site | Dec 03 |
+| **[LSEG](https://www.lseg.com/)** | **[Data Analyst](https://jobr.pro/job/33657163/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | POL-Gdynia-3T Office Park, Tower C, Poland | On Site | Dec 03 |
 | **[Match Group](https://mtch.com/)** | **[Staff Data Analyst](https://jobr.pro/job/33598912/staff-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Vancouver, British Columbia | On Site | Dec 02 |
 | **[Community Health Systems](https://www.chs.net/)** | **[Data Analyst Sr](https://jobr.pro/job/33638593/data-analyst-sr?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United States | On Site | Dec 02 |
 | **[fairlife, LLC](https://fairlife.com/)** | **[Operations Data Analyst](https://jobr.pro/job/33612719/operations-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Coopersville, Michigan, United States | On Site | Dec 02 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Communix](https://www.getcomunix.com/)** | **[Senior Business Data Analyst](https://jobr.pro/job/33562909/senior-business-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 02 |
 | **[Incode](https://incode.com/)** | **[Machine Learning Data Analyst](https://jobr.pro/job/33610139/machine-learning-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Serbia | On Site | Dec 02 |
 | **[Graphcore](https://www.graphcore.ai/)** | **[Supply Chain Data Analyst](https://jobr.pro/job/33599171/supply-chain-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hsinchu City, Hsinchu City, Taiwan; 臺北市, Taipei, Taiwan | On Site | Dec 02 |
-| **[Everience Benelux](https://www.everience.com)** | **[Data Analyst Junior / Confirmé (Pôle Centre d'Excellence)](https://jobr.pro/job/33591395/data-analyst-junior-confirme-pole-centre-dexcellence?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Lyon, Auvergne-Rhône-Alpes, France | On Site | Dec 02 |
-| **[EXL](https://www.exlservice.com/)** | **[Data Analyst](https://jobr.pro/job/33555913/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | India | On Site | Dec 02 |
-| **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov/)** | **[SAS Programmer/Data Analyst (Programmer IV)](https://jobr.pro/job/33553621/sas-programmerdata-analyst-programmer-iv?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Texas-Austin | On Site | Dec 02 |
-| **[IRCA Group](https://www.irca.eu)** | **[Data Analyst Supply Chain](https://jobr.pro/job/33597310/data-analyst-supply-chain?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Verona, Italy | On Site | Dec 02 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 47 companies | Avg salary: 127k  
+**Current Stats:** 50 jobs | 18% remote | 46 companies | Avg salary: 129k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
