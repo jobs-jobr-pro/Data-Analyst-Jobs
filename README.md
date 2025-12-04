@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Dec 04, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 04, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -29,6 +29,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bosch Group](https://www.bosch.com)** | **[\[SX/EIT-MM\] Intern Technical Support (Data Intelligence, Data analyst)](https://jobr.pro/job/33671960/sxeit-mm-intern-technical-support-data-intelligence-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Ho Chi Minh, Vietnam | On Site | Dec 04 |
 | **[Magyar Telekom Nyrt.](https://www.telekom.hu/)** | **[Data Analyst](https://jobr.pro/job/33677188/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Budapest, Hungary | On Site | Dec 04 |
 | **[The University of Queensland](https://uq.edu.au/)** | **[Data Analyst](https://jobr.pro/job/33677961/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | St Lucia Campus, Australia | On Site | Dec 04 |
+| **[Clarivate](https://www.clarivate.com/)** | **[Healthcare Research & Data Analyst](https://jobr.pro/job/33701540/healthcare-research-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | R29-Tokyo, Japan | On Site | Dec 04 |
+| **[H.B. Fuller](https://www.hbfuller.com/)** | **[Data Analyst Intern](https://jobr.pro/job/33709270/data-analyst-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | PRT-Mindelo, Portugal | On Site | Dec 04 |
+| **[Kalahari Resorts & Conventions](https://www.kalahariresorts.com/)** | **[Resort - Business Data Analyst](https://jobr.pro/job/33691204/resort-business-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Wisconsin Dells, WI, United States | On Site | Dec 03 |
 | **[INHAUS](https://inhausrh.com/)** | **[Data Analyst \| Cabify](https://jobr.pro/job/33668212/data-analyst-cabify?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Madrid, Spain | On Site | Dec 03 |
 | **[Derex Technologies](https://www.derextech.com)** | **[Data Analyst](https://jobr.pro/job/33671979/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Washington, DC, United States | On Site | Dec 03 |
 | **[At Home](https://www.athome.com/)** | **[Senior Marketing Data Analyst](https://jobr.pro/job/33678594/senior-marketing-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Coppell, TX, United States | On Site | Dec 03 |
@@ -60,9 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[S&P Global](https://www.spglobal.com/)** | **[Data Analyst - Bank Rates](https://jobr.pro/job/33663209/data-analyst-bank-rates?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | PH - MANILA AYALA TOWER ONE, Philippines | On Site | Dec 03 |
 | **[Accenture](https://www.accenture.com/)** | **[Data Analyst especializado en Adobe Analytics y Analítica Digital](https://jobr.pro/job/33656017/data-analyst-especializado-en-adobe-analytics-y-analitica-digital?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Madrid, Torre Chamartin, Spain | On Site | Dec 03 |
 | **[Circle K](https://www.circlek.com/)** | **[Data Analyst - Enterprise & BI Reporting](https://jobr.pro/job/33655711/data-analyst-enterprise-bi-reporting?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Support Office India | On Site | Dec 03 |
-| **[Smith+Nephew](https://www.smith-nephew.com/)** | **[GBS Material Master Data Analyst](https://jobr.pro/job/33664109/gbs-material-master-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IND - GBS-Pune-Kharadi, India | On Site | Dec 03 |
-| **[TransUnion](https://www.transunion.com/)** | **[Data Analyst Internship - Summer 2026](https://jobr.pro/job/33664085/data-analyst-internship-summer-2026?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Chicago - 555 West Adams St, United States | On Site | Dec 03 |
-| **[LSEG](https://www.lseg.com/)** | **[Data Analyst](https://jobr.pro/job/33657163/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | POL-Gdynia-3T Office Park, Tower C, Poland | On Site | Dec 03 |
 
 ---
 
