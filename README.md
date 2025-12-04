@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Dec 03, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 04, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -41,6 +41,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Centene Corporation](https://www.centene.com/)** | **[Data Analyst III Healthcare Analytics](https://jobr.pro/job/33657266/data-analyst-iii-healthcare-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-NY, United States | Remote | Dec 03 |
 | **[Frost](https://www.frostbank.com/)** | **[Data Analyst II](https://jobr.pro/job/33658499/data-analyst-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Antonio, TX - One Frost, United States | On Site | Dec 03 |
 | **[LSEG](https://www.lseg.com/)** | **[Data Analyst](https://jobr.pro/job/33657163/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | POL-Gdynia-3T Office Park, Tower C, Poland | On Site | Dec 03 |
+| **[Vanguard](https://www.vanguard.com/)** | **[Data Analyst, Specialist](https://jobr.pro/job/33661583/data-analyst-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | USA - 2 West Liberty Boulevard, United States | On Site | Dec 03 |
+| **[Vanguard](https://www.vanguard.com/)** | **[Digital Data Analyst](https://jobr.pro/job/33661581/digital-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toronto, CAN, Canada | On Site | Dec 03 |
+| **[Vanguard](https://www.vanguard.com/)** | **[Lead Data Analyst - Digital Analytics](https://jobr.pro/job/33661584/lead-data-analyst-digital-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Malvern, PA, United States | On Site | Dec 03 |
 | **[Match Group](https://mtch.com/)** | **[Staff Data Analyst](https://jobr.pro/job/33598912/staff-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Vancouver, British Columbia | On Site | Dec 02 |
 | **[Community Health Systems](https://www.chs.net/)** | **[Data Analyst Sr](https://jobr.pro/job/33638593/data-analyst-sr?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United States | On Site | Dec 02 |
 | **[fairlife, LLC](https://fairlife.com/)** | **[Operations Data Analyst](https://jobr.pro/job/33612719/operations-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Coopersville, Michigan, United States | On Site | Dec 02 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[OpenPayd](https://www.openpayd.com/)** | **[Data Analyst](https://jobr.pro/job/33598397/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London | On Site | Dec 02 |
 | **[Fortune Brands Innovations](https://www.fbin.com/)** | **[Senior Supply Chain Data Analyst](https://jobr.pro/job/33591380/senior-supply-chain-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Deerfield, ILLINOIS, United States | On Site | Dec 02 |
 | **[GitLab](https://about.gitlab.com/)** | **[Senior Marketing Data Analyst](https://jobr.pro/job/33597589/senior-marketing-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote, Americas | Remote | Dec 02 |
-| **[Communix](https://www.getcomunix.com/)** | **[Senior Business Data Analyst](https://jobr.pro/job/33562909/senior-business-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 02 |
-| **[Incode](https://incode.com/)** | **[Machine Learning Data Analyst](https://jobr.pro/job/33610139/machine-learning-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Serbia | On Site | Dec 02 |
-| **[Graphcore](https://www.graphcore.ai/)** | **[Supply Chain Data Analyst](https://jobr.pro/job/33599171/supply-chain-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hsinchu City, Hsinchu City, Taiwan; 臺北市, Taipei, Taiwan | On Site | Dec 02 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 46 companies | Avg salary: 129k  
+**Current Stats:** 50 jobs | 18% remote | 44 companies | Avg salary: 129k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
