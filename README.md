@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Dec 06, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 06, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ECS](https://ecstech.com/)** | **[Data Analyst](https://jobr.pro/job/33889217/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | ARLINGTON, VA, United States | On Site | Dec 06 |
 | **[UT Southwestern Medical Center](https://www.utsouthwestern.edu/)** | **[Senior Department Data Analyst, Graduate School Dean's Office](https://jobr.pro/job/33872648/senior-department-data-analyst-graduate-school-deans-office?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Texas-Dallas-5323 Harry Hines Blvd | On Site | Dec 06 |
 | **[TikTok](https://www.tiktok.com/)** | **[Senior Data Analyst (Multiple Positions)](https://jobr.pro/job/33870668/senior-data-analyst-multiple-positions?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Seattle, Washington, United States | On Site | Dec 06 |
 | **[TikTok](https://www.tiktok.com/)** | **[Data Analyst (Multiple Positions)](https://jobr.pro/job/33870665/data-analyst-multiple-positions?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Seattle, Washington, United States | On Site | Dec 06 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Payoneer](https://www.payoneer.com)** | **[Treasury Data Analyst](https://jobr.pro/job/33841418/treasury-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bangalore, India | On Site | Dec 05 |
 | **[Quince](https://www.quince.com/)** | **[Senior Data Analyst - Growth (Performance Marketing)](https://jobr.pro/job/33851701/senior-data-analyst-growth-performance-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 05 |
 | **[Cision](https://www.cision.com/)** | **[Data Analyst](https://jobr.pro/job/33852577/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - India | Remote | Dec 05 |
-| **[ENGIE](https://www.engie.com)** | **[Intern, Water Treatment Services Data Analyst](https://jobr.pro/job/33770694/intern-water-treatment-services-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IOWA CITY, US, 52242 | On Site | Dec 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 42 companies | Avg salary: 125k  
+**Current Stats:** 50 jobs | 14% remote | 42 companies | Avg salary: 128k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
