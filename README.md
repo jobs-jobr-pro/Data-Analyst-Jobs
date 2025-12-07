@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Dec 07, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 07, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -25,8 +25,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Grant Thornton](https://www.grantthornton.com/)** | **[Funds Technology – Data Analyst Manager/ Assistant Manager/ Senior Consultant](https://jobr.pro/job/33870724/funds-technology-data-analyst-manager-assistant-manager-senior-consultant?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Belfast, United Kingdom | On Site | Dec 06 |
 | **[Collective Health](https://collectivehealth.com/)** | **[Senior Healthcare Claims Data Analyst, Enterprise Analytics](https://jobr.pro/job/33838700/senior-healthcare-claims-data-analyst-enterprise-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco, CA \| Lehi, UT \| Plano, TX | On Site | Dec 06 |
 | **[St. Louis Community College](https://stlcc.edu/)** | **[Research & Data Analyst](https://jobr.pro/job/33865304/research-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Forest Park Campus | On Site | Dec 06 |
-| **[KONE](https://www.kone.com/)** | **[KBS Data Analyst](https://jobr.pro/job/33899289/kbs-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Chennai ITEC/KBS, India | On Site | Dec 06 |
 | **[Walmart](https://careers.walmart.com/)** | **[(USA) Senior, Data Analyst](https://jobr.pro/job/33899667/usa-senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | (USA) SUNNYVALE TECH CORNERS BLDG 6 CA SUNNYVALE Home Office, United States | On Site | Dec 06 |
+| **[KONE](https://www.kone.com/)** | **[KBS Data Analyst](https://jobr.pro/job/33899289/kbs-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Chennai ITEC/KBS, India | On Site | Dec 06 |
 | **[Roblox](https://www.roblox.com/)** | **[Data Analyst, Support Programs - Support Operations](https://jobr.pro/job/33840951/data-analyst-support-programs-support-operations?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Mateo, CA, United States | On Site | Dec 05 |
 | **[Brandon J. Broderick](https://www.brandonjbroderick.com/)** | **[Data Analyst](https://jobr.pro/job/33844017/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hackensack, NJ | On Site | Dec 05 |
 | **[Grant Thornton](https://www.grantthornton.com/)** | **[Funds Technology Data Analyst – Advisory - Manager/ Assistant Manager/ Senior Consultant](https://jobr.pro/job/33870742/funds-technology-data-analyst-advisory-manager-assistant-manager-senior-consultant?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Dublin, Ireland | On Site | Dec 05 |
