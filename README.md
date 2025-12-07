@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Dec 07, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 07, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -26,6 +26,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Collective Health](https://collectivehealth.com/)** | **[Senior Healthcare Claims Data Analyst, Enterprise Analytics](https://jobr.pro/job/33838700/senior-healthcare-claims-data-analyst-enterprise-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco, CA \| Lehi, UT \| Plano, TX | On Site | Dec 06 |
 | **[St. Louis Community College](https://stlcc.edu/)** | **[Research & Data Analyst](https://jobr.pro/job/33865304/research-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Forest Park Campus | On Site | Dec 06 |
 | **[KONE](https://www.kone.com/)** | **[KBS Data Analyst](https://jobr.pro/job/33899289/kbs-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Chennai ITEC/KBS, India | On Site | Dec 06 |
+| **[Walmart](https://careers.walmart.com/)** | **[(USA) Senior, Data Analyst](https://jobr.pro/job/33899667/usa-senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | (USA) SUNNYVALE TECH CORNERS BLDG 6 CA SUNNYVALE Home Office, United States | On Site | Dec 06 |
 | **[Roblox](https://www.roblox.com/)** | **[Data Analyst, Support Programs - Support Operations](https://jobr.pro/job/33840951/data-analyst-support-programs-support-operations?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Mateo, CA, United States | On Site | Dec 05 |
 | **[Brandon J. Broderick](https://www.brandonjbroderick.com/)** | **[Data Analyst](https://jobr.pro/job/33844017/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hackensack, NJ | On Site | Dec 05 |
 | **[Grant Thornton](https://www.grantthornton.com/)** | **[Funds Technology Data Analyst – Advisory - Manager/ Assistant Manager/ Senior Consultant](https://jobr.pro/job/33870742/funds-technology-data-analyst-advisory-manager-assistant-manager-senior-consultant?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Dublin, Ireland | On Site | Dec 05 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[City of New York](https://www.nyc.gov)** | **[DATA ANALYST](https://jobr.pro/job/33853302/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York City, NY, United States | On Site | Dec 05 |
 | **[Cobden & Carter International](https://www.cobdenandcarter.com/)** | **[Internal Auditor Data Analyst](https://jobr.pro/job/33864759/internal-auditor-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Makati, Metro Manila, Philippines | On Site | Dec 05 |
 | **[Payoneer](https://www.payoneer.com)** | **[Treasury Data Analyst](https://jobr.pro/job/33841418/treasury-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bangalore, India | On Site | Dec 05 |
-| **[Quince](https://www.quince.com/)** | **[Senior Data Analyst - Growth (Performance Marketing)](https://jobr.pro/job/33851701/senior-data-analyst-growth-performance-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 05 |
 
 ---
 
