@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Dec 10, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 10, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -14,7 +14,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Michelin](https://www.michelin.com/)** | **[Logistics Data Analyst](https://jobr.pro/job/34036826/logistics-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | MICHELIN ROH CO LTD, Thailand | On Site | Dec 10 |
+| **[ALTEN](https://www.alten.com/)** | **[Data Engineer / Data Analyst (secteur aéronautique)](https://jobr.pro/job/34040650/data-engineer-data-analyst-secteur-aeronautique?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toulouse, Occitanie, France | On Site | Dec 09 |
+| **[NEXTON](https://www.nexton-consulting.com/)** | **[Data analyst Alteryx / PowerBI H/F](https://jobr.pro/job/34040651/data-analyst-alteryx-powerbi-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris, IDF, France | On Site | Dec 09 |
+| **[NielsenIQ](https://nielseniq.com)** | **[Data Analyst](https://jobr.pro/job/34040655/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Stockport, MAN, United Kingdom | On Site | Dec 09 |
 | **[Tyto Athene](https://gotyto.com/)** | **[Data Analyst - Internal Audit Services](https://jobr.pro/job/34017857/data-analyst-internal-audit-services?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Morristown, NJ, United States | On Site | Dec 09 |
+| **[IntegriChain](https://www.integrichain.com)** | **[Senior Channel Data Analyst](https://jobr.pro/job/34040666/senior-channel-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Pune, MH, India | On Site | Dec 09 |
+| **[IQ-EQ](https://iqeq.com)** | **[Business Data Analyst](https://jobr.pro/job/34040670/business-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Port Louis, Mauritius | On Site | Dec 09 |
+| **[Believe](https://www.believe.com)** | **[Data Analyst Intern (H/F/N)](https://jobr.pro/job/34040672/data-analyst-intern-hfn?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris, France | On Site | Dec 09 |
+| **[LGC Group](https://www.lgcgroup.com)** | **[Data Analyst - Healthcare](https://jobr.pro/job/34040676/data-analyst-healthcare?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Twickenham, England, United Kingdom | On Site | Dec 09 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Databricks with Data Analyst](https://jobr.pro/job/34001887/databricks-with-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IN-TN-Chennai | On Site | Dec 09 |
 | **[Bouygues Telecom](https://www.bouyguestelecom.fr/)** | **[Data analyst F/H](https://jobr.pro/job/34029130/data-analyst-fh?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | France | On Site | Dec 09 |
 | **[bet365](https://www.bet365.com)** | **[Senior Data Analyst, Regulatory Data](https://jobr.pro/job/34000143/senior-data-analyst-regulatory-data?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Stoke-on-Trent, England, United Kingdom | On Site | Dec 09 |
@@ -52,21 +59,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Leidos](https://www.leidos.com/)** | **[Visual Data Analyst/Designer](https://jobr.pro/job/34032258/visual-data-analystdesigner?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | 9630 Joint Base Langley Eustis VA, United States | On Site | Dec 09 |
 | **[Humana](https://www.humana.com/)** | **[Sr Data Analyst](https://jobr.pro/job/34038668/sr-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote US, United States | Remote | Dec 09 |
 | **[Guidehouse](https://www.guidehouse.com/)** | **[Data Analyst](https://jobr.pro/job/34038396/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Client Office: Norfolk, VA, United States | On Site | Dec 09 |
-| **[Institutional Shareholder Services](https://www.issgovernance.com/)** | **[Junior Data Analyst - Governance Data (Open to New Graduates)](https://jobr.pro/job/34036626/junior-data-analyst-governance-data-open-to-new-graduates?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Manila, Philippines | On Site | Dec 09 |
 | **[RTX](https://www.rtx.com/)** | **[Data Analyst (Onsite)](https://jobr.pro/job/34039751/data-analyst-onsite?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | PW147: PW OKC Campus 8120 S. Air Depot Blvd , Oklahoma City, OK, 73135 USA, United States | On Site | Dec 09 |
 | **[ING](https://www.ing.com/)** | **[Data Analyst IV](https://jobr.pro/job/34039669/data-analyst-iv?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bruxelles Avenue Marnix (ING), Belgium | On Site | Dec 09 |
-| **[CereCore](https://cerecore.net/)** | **[Reporting Data Analyst](https://jobr.pro/job/34013617/reporting-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote, United States | Remote | Dec 08 |
-| **[Trace3](https://www.trace3.com/)** | **[Lead, Data Analyst](https://jobr.pro/job/33957119/lead-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Fremont, CA | On Site | Dec 08 |
-| **[Outset Medical](https://www.outsetmedical.com/)** | **[Sales Enablement Data Analyst](https://jobr.pro/job/33964818/sales-enablement-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tijuana, Mexico | On Site | Dec 08 |
-| **[Westpac](https://www.westpac.com.au/)** | **[Senior Data Analyst](https://jobr.pro/job/34003192/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Sydney, NSW, Australia | On Site | Dec 08 |
-| **[Mobile Rehab Australia](https://mobilerehab.com.au/)** | **[Data Analyst](https://jobr.pro/job/34015914/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Stafford, Queensland 4053, Australia | On Site | Dec 08 |
-| **[Gympass](https://www.gympass.com/)** | **[Senior Data Analyst \| Data Insights](https://jobr.pro/job/33971800/senior-data-analyst-data-insights?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Brazil (Remote) | Remote | Dec 08 |
-| **[Shields Health Solutions](https://shieldshealthsolutions.com)** | **[Associate Data Analyst](https://jobr.pro/job/33969883/associate-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Stoughton, MA | On Site | Dec 08 |
-| **[Checkr](https://checkr.com/)** | **[Data Analyst, Supply Chain](https://jobr.pro/job/33957997/data-analyst-supply-chain?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Denver, Colorado, United States; San Francisco, California, United States | On Site | Dec 08 |
+| **[Gartner](https://www.gartner.com/)** | **[Sr Data Analyst](https://jobr.pro/job/34045096/sr-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Gurgaon - Cyber Park, India | On Site | Dec 09 |
+| **[Amazon.com](https://www.amazon.com/)** | **[ICQA Data Analyst, Fulfilment Centre Inventory Control and Quality Assurance](https://jobr.pro/job/34045566/icqa-data-analyst-fulfilment-centre-inventory-control-and-quality-assurance?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Istanbul, TUR | On Site | Dec 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 47 companies | Avg salary: 138k  
+**Current Stats:** 50 jobs | 2% remote | 47 companies | Avg salary: 142k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
