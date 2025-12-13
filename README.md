@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Dec 13, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 13, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,8 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Trupanion](https://trupanion.com/)** | **[Senior Data Analyst](https://jobr.pro/job/34294189/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Seattle, United States | On Site | Dec 12 |
 | **[DHL Supply Chain](https://www.dhl.com/)** | **[Business Data Analyst I](https://jobr.pro/job/34282093/business-data-analyst-i?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Middletown, PA, US | On Site | Dec 12 |
 | **[Conservice](https://www.conservice.com/)** | **[Offshore - Data Analyst (Remote Philippines)](https://jobr.pro/job/34280405/offshore-data-analyst-remote-philippines?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Manila, PHL-NCR, Philippines | Remote | Dec 12 |
+| **[NEXTON](https://www.nexton-consulting.com/)** | **[Data Analyst Senior H/F](https://jobr.pro/job/34294222/data-analyst-senior-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris, IDF, France | On Site | Dec 12 |
+| **[ALTEN](https://www.alten.com/)** | **[Data Engineer / Data Analyst (secteur aéronautique)](https://jobr.pro/job/34294226/data-engineer-data-analyst-secteur-aeronautique?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toulouse, Occitanie, France | On Site | Dec 12 |
+| **[Scalian](https://www.scalian.com)** | **[Data Analyst (H/F)](https://jobr.pro/job/34294232/data-analyst-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Montpellier, France | On Site | Dec 12 |
+| **[LGC Group](https://www.lgcgroup.com)** | **[Data Analyst - Healthcare](https://jobr.pro/job/34294594/data-analyst-healthcare?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Twickenham, England, United Kingdom | On Site | Dec 12 |
 | **[Getinz](https://www.getinz.com/)** | **[Data Analyst – Business & Data Mapping - GAPD - Jeddah](https://jobr.pro/job/34262274/data-analyst-business-data-mapping-gapd-jeddah?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Makkah Province, Jeddah, Saudi Arabia | On Site | Dec 12 |
 | **[Accor](https://www.accor.com/)** | **[Revenue Data Analyst](https://jobr.pro/job/34254671/revenue-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Phu Quoc, Vietnam | On Site | Dec 12 |
 | **[Sana Commerce](https://www.sana-commerce.com)** | **[Senior Data Analyst](https://jobr.pro/job/34254673/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Dubai, Dubai, United Arab Emirates | On Site | Dec 12 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CI&T](https://ciandt.com/)** | **[\[Job - 26388\] Senior Data Analyst, Colombia](https://jobr.pro/job/34216770/job-26388-senior-data-analyst-colombia?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Colombia | On Site | Dec 11 |
 | **[CI&T](https://ciandt.com/)** | **[\[Job - 26388\] Senior Data Analyst, Brazil](https://jobr.pro/job/34216769/job-26388-senior-data-analyst-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Brazil | On Site | Dec 11 |
 | **[Stripe](https://stripe.com/en-ch)** | **[Financial Data Analyst, Payments Health](https://jobr.pro/job/34215638/financial-data-analyst-payments-health?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toronto | On Site | Dec 11 |
-| **[UNSW](https://www.unsw.edu.au/)** | **[Data Analyst – Research Quality & Ranking](https://jobr.pro/job/34245316/data-analyst-research-quality-ranking?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Sydney, NSW | On Site | Dec 11 |
-| **[SimplePractice](https://www.simplepractice.com/)** | **[Business Intelligence Data Analyst (Mexico City - Hybrid)](https://jobr.pro/job/34218783/business-intelligence-data-analyst-mexico-city-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mexico City, Mexico | On Site | Dec 11 |
-| **[SimplePractice](https://www.simplepractice.com/)** | **[Business Intelligence Data Analyst (Hybrid)](https://jobr.pro/job/34218782/business-intelligence-data-analyst-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mexico City | On Site | Dec 11 |
-| **[DLH Corporation](https://www.dlhcorp.com/)** | **[Data Analyst , Associate (R, Power BI, SAS) (Job 1223)](https://jobr.pro/job/34222953/data-analyst-associate-r-power-bi-sas-job-1223?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Atlanta, Georgia | On Site | Dec 11 |
-| **[Ivalua](https://www.ivalua.com/)** | **[Stage de fin d’études - SRE Data Analyst F/H](https://jobr.pro/job/34214684/stage-de-fin-detudes-sre-data-analyst-fh?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Massy - France | On Site | Dec 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 44 companies | Avg salary: 120k  
+**Current Stats:** 50 jobs | 12% remote | 45 companies | Avg salary: 120k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
