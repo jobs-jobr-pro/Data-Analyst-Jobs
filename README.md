@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Dec 17, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 17, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -18,6 +18,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AJ Bell](https://www.ajbell.co.uk)** | **[Data Analyst – Growth Marketing (D2C)](https://jobr.pro/job/34533960/data-analyst-growth-marketing-d2c?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London - Hybrid, England, United Kingdom | Remote | Dec 17 |
 | **[SMG Swiss Marketplace Group](https://www.swissmarketplace.group)** | **[Data Analyst (fixed-term contract)](https://jobr.pro/job/34533967/data-analyst-fixed-term-contract?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Belgrade, Serbia | On Site | Dec 17 |
 | **[Thalia Bücher GmbH](https://www.thalia.de)** | **[Data Analyst Catalogue (m/w/d)](https://jobr.pro/job/34533971/data-analyst-catalogue-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Münster, NRW, Germany | On Site | Dec 17 |
+| **[Africa Global Logistics](https://www.aglgroup.com/)** | **[Apprenti Data Analyst H/F](https://jobr.pro/job/34565323/apprenti-data-analyst-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Afrique, République du Congo, POINTE NOIRE | On Site | Dec 17 |
 | **[Le Groupement Les Mousquetaires](https://www.mousquetaires.com/)** | **[Data Analyst F/H](https://jobr.pro/job/34533974/data-analyst-fh?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Vert-le-Grand, IDF, France | On Site | Dec 17 |
 | **[ALTEN](https://www.alten.com/)** | **[Data Analyst (H/F)](https://jobr.pro/job/34533986/data-analyst-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Fes, Fez-Meknès, Morocco | On Site | Dec 17 |
 | **[eClerx](https://eclerx.com/)** | **[Data Analyst](https://jobr.pro/job/34531742/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Singapore | On Site | Dec 17 |
@@ -27,11 +28,21 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SGL Carbon](https://www.sglcarbon.com)** | **[Operations & Quality Data Analyst (m/w/d)](https://jobr.pro/job/34497545/operations-quality-data-analyst-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bonn, NW, DE, 53170 | On Site | Dec 17 |
 | **[Culture Amp](https://www.cultureamp.com/)** | **[Data Analyst](https://jobr.pro/job/34491688/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Sydney | On Site | Dec 17 |
 | **[Philips](https://www.philips.com/)** | **[Data Analyst](https://jobr.pro/job/34522207/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bangalore–Embassy Business Hub, India | On Site | Dec 17 |
+| **[S&P Global](https://www.spglobal.com/)** | **[Data Analyst, ESG](https://jobr.pro/job/34558177/data-analyst-esg?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | PH - MANILA AYALA TOWER ONE, Philippines | On Site | Dec 17 |
 | **[The Back Room](https://thebackroomop.com/)** | **[Senior Data Analyst (Tableau)](https://jobr.pro/job/34533865/senior-data-analyst-tableau?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Philippines - Remote | Remote | Dec 17 |
 | **[Julius Baer](https://www.juliusbaer.com/)** | **[CRO Data Analyst](https://jobr.pro/job/34549608/cro-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Singapore | On Site | Dec 17 |
+| **[Unilever](https://www.unilever.com/)** | **[Mirai- Data Analyst](https://jobr.pro/job/34550731/mirai-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | UniOps Bangalore Centre, India | On Site | Dec 17 |
+| **[OCBC Bank](https://www.ocbc.com/)** | **[Data Analyst - MGR](https://jobr.pro/job/34557647/data-analyst-mgr?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | SGP-Head Office, Singapore | On Site | Dec 17 |
+| **[PwC](https://www.pwc.com/)** | **[Operations and Change Management - Data Analyst Off-Cycle Internship (Jul - Dec 26)](https://jobr.pro/job/34567798/operations-and-change-management-data-analyst-off-cycle-internship-jul-dec-26?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Singapore - Marina One | On Site | Dec 17 |
 | **[Uni Systems](https://www.unisystems.com)** | **[Data Analyst](https://jobr.pro/job/34532949/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Braine-l'Alleud, Wallonia, Belgium | On Site | Dec 17 |
 | **[Abbott](https://www.abbott.com/)** | **[Data Analyst (m/f/d)](https://jobr.pro/job/34545437/data-analyst-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Germany - Neustadt am Rübenberge : 210 | On Site | Dec 17 |
-| **[Unilever](https://www.unilever.com/)** | **[Mirai- Data Analyst](https://jobr.pro/job/34550731/mirai-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | UniOps Bangalore Centre, India | On Site | Dec 17 |
+| **[PwC](https://www.pwc.com/)** | **[Junior Data Analyst (Pénzügyi fókusszal)](https://jobr.pro/job/34567745/junior-data-analyst-penzugyi-fokusszal?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Budapest - 78 Bajcsy-Zsilinszky, Hungary | On Site | Dec 17 |
+| **[Sanofi](https://www.sanofi.com/)** | **[iCare Insights, Data Analyst](https://jobr.pro/job/34567285/icare-insights-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Cambridge, United States | On Site | Dec 17 |
+| **[FirstRand Corporate Centre](https://www.firstrand.co.za/)** | **[Data Analyst](https://jobr.pro/job/34566879/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | JAT Building, 420 Av 25 de Setembro, Maputo, 1101, Mozambique | On Site | Dec 17 |
+| **[IQVIA](https://www.iqvia.com/)** | **[Digital Media Data Delivery - Data Analyst, Healthcare Marketing](https://jobr.pro/job/34566252/digital-media-data-delivery-data-analyst-healthcare-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bangalore, India | On Site | Dec 17 |
+| **[IQVIA](https://www.iqvia.com/)** | **[Associate Director, Data Analyst](https://jobr.pro/job/34566171/associate-director-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Rosemont, IL, United States of America | On Site | Dec 17 |
+| **[Labcorp](https://www.labcorp.com/)** | **[Senior Data Analyst](https://jobr.pro/job/34553432/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | USA - Remote - Massachusetts, United States | Remote | Dec 17 |
+| **[S&P Global](https://www.spglobal.com/)** | **[Data Analyst](https://jobr.pro/job/34558125/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IN - HYDERABAD SKYVIEW, India | On Site | Dec 17 |
 | **[Stripe](https://stripe.com/en-ch)** | **[GTM OPs, Data Analyst](https://jobr.pro/job/34506521/gtm-ops-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mexico | On Site | Dec 16 |
 | **[PatientPoint](https://www.patientpoint.com/)** | **[Sr Data Analyst](https://jobr.pro/job/34492153/sr-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Cincinnati, Ohio, United States | On Site | Dec 16 |
 | **[AvidXchange](https://www.avidxchange.com/)** | **[Enterprise Data Analyst](https://jobr.pro/job/34496983/enterprise-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Charlotte, North Carolina, United States | On Site | Dec 16 |
@@ -52,21 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sunco.com](https://www.sunco.com/)** | **[Data Analyst (Senior Level Experience)](https://jobr.pro/job/34519585/data-analyst-senior-level-experience?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote (Philippines) | Remote | Dec 16 |
 | **[Ingenio](https://www.ingenio.com/)** | **[Senior Data Analyst](https://jobr.pro/job/34491970/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Barges \| Israel | On Site | Dec 16 |
 | **[Magic](https://getmagic.com/)** | **[Technical Data Analyst - Freelance, Remote](https://jobr.pro/job/34512174/technical-data-analyst-freelance-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Global+ | Remote | Dec 16 |
-| **[Rydge](https://kpmg.com)** | **[Consultant Data / Data Analyst F/H](https://jobr.pro/job/34488604/consultant-data-data-analyst-fh?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Courbevoie, France | On Site | Dec 16 |
-| **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov/)** | **[GLO - Data Governance Lead (Data Analyst V)](https://jobr.pro/job/34451374/glo-data-governance-lead-data-analyst-v?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Texas-Austin | On Site | Dec 16 |
-| **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov/)** | **[TCOLE - Data Analyst V](https://jobr.pro/job/34451338/tcole-data-analyst-v?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Texas-Austin | On Site | Dec 16 |
-| **[Enlight Renewable Energy](https://enlightenergy.co.il/)** | **[EMS Data Analyst](https://jobr.pro/job/34460880/ems-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Rosh HaAyin, IL | On Site | Dec 16 |
-| **[Cummins](https://www.cummins.com/)** | **[Placement Student- Packaging and Logistics Data Analyst](https://jobr.pro/job/34442049/placement-student-packaging-and-logistics-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Daventry, Northamptonshire, United Kingdom | On Site | Dec 16 |
-| **[Klépierre](https://www.klepierre.com/)** | **[Stage - Data Analyst H/F](https://jobr.pro/job/34446764/stage-data-analyst-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris, Ile-de-France, France | On Site | Dec 16 |
-| **[Smith's Group](https://www.smiths.com)** | **[Data Analyst](https://jobr.pro/job/34447814/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bengaluru, KA, India | On Site | Dec 16 |
-| **[LGC Group](https://www.lgcgroup.com)** | **[Senior HR Data Analyst](https://jobr.pro/job/34447815/senior-hr-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London, England, United Kingdom | On Site | Dec 16 |
-| **[Pagaya](https://pagaya.com/)** | **[Senior Data Analyst](https://jobr.pro/job/34497341/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv, Israel | On Site | Dec 16 |
-| **[GeoComply](https://www.geocomply.com/)** | **[Senior Data Analyst, Anti-spoofing Operation](https://jobr.pro/job/34494225/senior-data-analyst-anti-spoofing-operation?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Ho Chi Minh, Vietnam | On Site | Dec 16 |
-| **[Artefact](https://www.artefact.com/)** | **[Junior Data Analyst (m/f/d)](https://jobr.pro/job/34496278/junior-data-analyst-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | 9th arrondissement of Paris, 75009, Paris, France | On Site | Dec 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 49 companies | Avg salary: 100k  
+**Current Stats:** 50 jobs | 18% remote | 47 companies | Avg salary: 121k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
