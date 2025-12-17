@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Dec 17, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 17, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Ubisoft](https://www.ubisoft.com/)** | **[Data Analyst - Marketing Analytics](https://jobr.pro/job/34488582/data-analyst-marketing-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris, IDF, France | On Site | Dec 16 |
+| **[Natixis in Portugal](https://www.natixis.com)** | **[Data Analyst (French Speaker) \| BPCE-SI](https://jobr.pro/job/34488583/data-analyst-french-speaker-bpce-si?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Portugal, Portugal | On Site | Dec 16 |
+| **[METRO/MAKRO](https://www.metroag.de/)** | **[Data analyst supply chain F/H](https://jobr.pro/job/34488594/data-analyst-supply-chain-fh?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Nanterre, IDF, France | On Site | Dec 16 |
+| **[Entain](https://www.entaingroup.com)** | **[Third Party Risk Management - Data Analyst](https://jobr.pro/job/34488595/third-party-risk-management-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Gibraltar, Gibraltar | On Site | Dec 16 |
+| **[ALTEN](https://www.alten.com/)** | **[Data Analyst (H/F)](https://jobr.pro/job/34488603/data-analyst-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris, IDF, France | On Site | Dec 16 |
+| **[Rydge](https://kpmg.com)** | **[Consultant Data / Data Analyst F/H](https://jobr.pro/job/34488604/consultant-data-data-analyst-fh?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Courbevoie, France | On Site | Dec 16 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov/)** | **[GLO - Data Governance Lead (Data Analyst V)](https://jobr.pro/job/34451374/glo-data-governance-lead-data-analyst-v?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Texas-Austin | On Site | Dec 16 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov/)** | **[TCOLE - Data Analyst V](https://jobr.pro/job/34451338/tcole-data-analyst-v?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Texas-Austin | On Site | Dec 16 |
 | **[Enlight Renewable Energy](https://enlightenergy.co.il/)** | **[EMS Data Analyst](https://jobr.pro/job/34460880/ems-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Rosh HaAyin, IL | On Site | Dec 16 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Trustly](https://www.trustly.net/)** | **[Staff Data Analyst](https://jobr.pro/job/34407967/staff-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Vitória, Espírito Santo | On Site | Dec 15 |
 | **[Nassau Financial Group](https://www.nfg.com/)** | **[2026 Intern - IT Data Analyst](https://jobr.pro/job/34429580/2026-intern-it-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hartford, Connecticut, United States | On Site | Dec 15 |
 | **[Fetch](https://fetch.com/)** | **[Senior Data Analyst, User Analytics & Insights](https://jobr.pro/job/34419875/senior-data-analyst-user-analytics-insights?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United States (Remote) | Remote | Dec 15 |
-| **[Software Mind](https://softwaremind.com)** | **[\[8TR\] Data Analyst](https://jobr.pro/job/34418682/8tr-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San José, San José Province, Costa Rica | On Site | Dec 15 |
-| **[CI&T](https://ciandt.com/)** | **[\[Job-26500\] Sênior Data Analyst, Brazil](https://jobr.pro/job/34406151/job-26500-senior-data-analyst-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Brazil | On Site | Dec 15 |
-| **[CORSAIR](https://www.corsair.com/)** | **[Cost Accounting Intern - Data Analyst](https://jobr.pro/job/34443597/cost-accounting-intern-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Milpitas, CA, United States | On Site | Dec 15 |
-| **[Brightspeed](https://brightspeed.com)** | **[Senior GIS & Data Analyst](https://jobr.pro/job/34402870/senior-gis-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Charlotte, NC, United States | On Site | Dec 15 |
-| **[Artefact](https://www.artefact.com/)** | **[Senior Data Analyst](https://jobr.pro/job/34410014/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | 9th arrondissement of Paris, 75009, Paris, France | On Site | Dec 15 |
-| **[Traba](https://traba.work/)** | **[Senior Data Analyst - Founding Team](https://jobr.pro/job/34413002/senior-data-analyst-founding-team?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York City, NY | On Site | Dec 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 48 companies | Avg salary: 118k  
+**Current Stats:** 50 jobs | 8% remote | 48 companies | Avg salary: 120k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
