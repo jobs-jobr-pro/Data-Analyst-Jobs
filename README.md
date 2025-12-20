@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Dec 20, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 20, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -16,7 +16,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[International Labour Organization](https://www.ilo.org/)** | **[Data Analyst Officer](https://jobr.pro/job/34752298/data-analyst-officer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Damascus, SY | On Site | Dec 20 |
 | **[Bertelsmann](https://www.bertelsmann.com/)** | **[Junior Data Analyst](https://jobr.pro/job/34744318/junior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Louisville, KY, US, KY 40219 | On Site | Dec 20 |
 | **[Terna S.p.A.](https://www.terna.it)** | **[Metering Data Analyst](https://jobr.pro/job/34739115/metering-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Roma, Lazio, IT, 00138 | On Site | Dec 20 |
+| **[T3W Business Solutions, Inc.](https://t3w.com/)** | **[Data Analyst](https://jobr.pro/job/34762969/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Arlington, VA, US | On Site | Dec 20 |
 | **[Encora](https://www.encora.com/)** | **[Senior Data Analyst](https://jobr.pro/job/34742313/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Peru | On Site | Dec 19 |
+| **[Coherent Corp.](https://www.coherent.com/)** | **[Manufacturing Data Analyst](https://jobr.pro/job/34764157/manufacturing-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Easton, PA, United States | On Site | Dec 19 |
 | **[Hims & Hers](https://www.hims.com/)** | **[Sr. Data Analyst, Marketing](https://jobr.pro/job/34739991/sr-data-analyst-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US Remote | Remote | Dec 19 |
 | **[Airbnb](https://www.airbnb.com/)** | **[Business Data Analyst (12 Month FTC)](https://jobr.pro/job/34748809/business-data-analyst-12-month-ftc?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris, France | On Site | Dec 19 |
 | **[GMO](https://www.gmo.com/)** | **[Research Data Analyst](https://jobr.pro/job/34737259/research-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Boston, MA | On Site | Dec 19 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Coupang](https://www.coupang.jobs/)** | **[Senior, Data Analyst (Audit Automation & Data Analytics)](https://jobr.pro/job/34662603/senior-data-analyst-audit-automation-data-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Seoul, South Korea | On Site | Dec 19 |
 | **[SBT Global](https://www.sbtglobal.com)** | **[Data Analyst (Korean Bilingual)](https://jobr.pro/job/34662428/data-analyst-korean-bilingual?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Irvine, CA, United States | On Site | Dec 19 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Data Analyst – TS/SCI required](https://jobr.pro/job/34702137/data-analyst-tssci-required?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | USA MD Annapolis Junction - 2711 Technology Drive, Annapolis Junction, MD (MDC246), United States | On Site | Dec 19 |
-| **[LSEG](https://www.lseg.com/)** | **[Data Analyst](https://jobr.pro/job/34705597/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IND-Bangalore-TowerE,RMZ Infin, India | On Site | Dec 19 |
-| **[ING](https://www.ing.com/)** | **[Data Analyst (GenAI)](https://jobr.pro/job/34697956/data-analyst-genai?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Istanbul (VADI ISTANBUL PARK), Türkiye | On Site | Dec 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 47 companies | Avg salary: 130k  
+**Current Stats:** 50 jobs | 20% remote | 47 companies | Avg salary: 115k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
