@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Dec 19, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 20, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -41,13 +41,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[S&P Global](https://www.spglobal.com/)** | **[Data Analyst - Data Operations](https://jobr.pro/job/34706663/data-analyst-data-operations?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IN - HYDERABAD SKYVIEW, India | On Site | Dec 19 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Data Analyst](https://jobr.pro/job/34706612/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IN - BENGALURU PRIMECO UNION CITY, India | On Site | Dec 19 |
 | **[World Vision](https://www.wvi.org/)** | **[Child Data Analyst](https://jobr.pro/job/34690708/child-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | AP Antique 3, Philippines | On Site | Dec 19 |
+| **[SimCorp](https://www.simcorp.com/)** | **[Lead Financial Data Analyst](https://jobr.pro/job/34727056/lead-financial-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toronto, Canada | On Site | Dec 19 |
 | **[Genworth](https://www.genworth.com/)** | **[Data Analyst](https://jobr.pro/job/34726917/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Richmond, Virginia, United States | On Site | Dec 19 |
 | **[European Molecular Biology Laboratory (EMBL)](https://www.embl.org/)** | **[Genomic Data Analyst Project Lead](https://jobr.pro/job/34715893/genomic-data-analyst-project-lead?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hinxton, United Kingdom | On Site | Dec 19 |
 | **[European Molecular Biology Laboratory (EMBL)](https://www.embl.org/)** | **[Genomic Data Analyst](https://jobr.pro/job/34715891/genomic-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hinxton, United Kingdom | On Site | Dec 19 |
 | **[Airbus](https://www.airbus.com/)** | **[Airbus Atlantic - Data Analyst spécialisé en Prompt Engineering (All Gender)](https://jobr.pro/job/34715217/airbus-atlantic-data-analyst-specialise-en-prompt-engineering-all-gender?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Colomiers Skypark (ex-Stelia), France | On Site | Dec 19 |
 | **[Levi Strauss & Co.](https://www.levistrauss.com/)** | **[Sr Data Analyst](https://jobr.pro/job/34719287/sr-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Warsaw, Poland | On Site | Dec 19 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Associate Data Analyst - Mobility](https://jobr.pro/job/34722527/associate-data-analyst-mobility?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US - CA - 815 CAMARILLO SPRINGS ROAD, United States | On Site | Dec 19 |
-| **[SimCorp](https://www.simcorp.com/)** | **[Lead Financial Data Analyst](https://jobr.pro/job/34727056/lead-financial-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toronto, Canada | On Site | Dec 19 |
+| **[Shell](https://www.shell.com/)** | **[Senior Data Analyst - T&S Data Ops](https://jobr.pro/job/34729511/senior-data-analyst-ts-data-ops?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Dela Rosa - Street office, Philippines | On Site | Dec 19 |
+| **[Accenture](https://www.accenture.com/)** | **[Business/Data Analyst Industry X](https://jobr.pro/job/34729304/businessdata-analyst-industry-x?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Brussels, Picard 11, Belgium | On Site | Dec 19 |
 | **[Aurora Innovation](https://aurora.tech/)** | **[Staff Data Analyst, People Analytics](https://jobr.pro/job/34664835/staff-data-analyst-people-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco, California | On Site | Dec 18 |
 | **[Strata Decision Technology](https://www.stratadecision.com/)** | **[Data Analyst](https://jobr.pro/job/34667459/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Chicago, IL | On Site | Dec 18 |
 | **[Cribl](https://cribl.io/)** | **[Data Analyst](https://jobr.pro/job/34661348/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - United States | Remote | Dec 18 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Amalgamated Bank](https://www.amalgamatedbank.com/)** | **[Data Analyst](https://jobr.pro/job/34677844/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York, NY, US | On Site | Dec 18 |
 | **[Wilshire Advisors LLC](https://www.wilshire.com)** | **[Data Analyst – Finance Systems (NetSuite)](https://jobr.pro/job/34666954/data-analyst-finance-systems-netsuite?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London, England, United Kingdom | On Site | Dec 18 |
 | **[Geotab](https://www.geotab.com/)** | **[Senior Financial Data Analyst (Revenue Focused)](https://jobr.pro/job/34657593/senior-financial-data-analyst-revenue-focused?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Oakville, Ontario - Canada | On Site | Dec 18 |
-| **[Tulip Interfaces](https://tulip.co)** | **[GTM Operations Data Analyst](https://jobr.pro/job/34657119/gtm-operations-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv, Israel | On Site | Dec 18 |
-| **[Barbaricum](https://barbaricum.com/)** | **[Data Analyst](https://jobr.pro/job/34654451/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Omaha, NE | On Site | Dec 18 |
 
 ---
 
