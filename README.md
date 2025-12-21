@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Dec 21, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 21, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Avery Dennison](https://www.averydennison.com/)** | **[Data Analyst](https://jobr.pro/job/34799990/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Nhà Bè, Thành phố Hồ Chí Minh, Vietnam | On Site | Dec 20 |
 | **[DataBank Holdings Ltd.](https://www.databank.com/)** | **[Marketing Data Analyst (Remote)](https://jobr.pro/job/34787986/marketing-data-analyst-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Dallas, TX, US | Remote | Dec 20 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov/)** | **[OAG - Data & Information Services \| Data Analyst VI \| 26-0203](https://jobr.pro/job/34771537/oag-data-information-services-data-analyst-vi-26-0203?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Texas-Austin | On Site | Dec 20 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Data Analyst](https://jobr.pro/job/34770865/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IN-AP-Hyderabad | On Site | Dec 20 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pleo](https://www.pleo.io/)** | **[Staff Fullstack Data Analyst - Tracking specialist](https://jobr.pro/job/34742372/staff-fullstack-data-analyst-tracking-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Madrid, Spain, London, United Kingdom, Copenhagen, Denmark | Remote | Dec 19 |
 | **[Sanlam](https://www.sanlamcloud.co.za)** | **[Data Analyst](https://jobr.pro/job/34679007/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Johannesburg, Gauteng, ZA | On Site | Dec 19 |
 | **[Emory University](https://www.emory.edu/)** | **[Data Analyst](https://jobr.pro/job/34738690/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Atlanta, GA, United States | On Site | Dec 19 |
-| **[University of Cincinnati](https://www.uc.edu)** | **[Research Data Analyst, Ohio Cyber Range Institute, School of Information Technology, CECH](https://jobr.pro/job/34659197/research-data-analyst-ohio-cyber-range-institute-school-of-information-technology-cech?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Cincinnati, OH, US, 45221 | On Site | Dec 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 47 companies | Avg salary: 110k  
+**Current Stats:** 50 jobs | 22% remote | 47 companies | Avg salary: 113k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
