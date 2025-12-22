@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Dec 22, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 22, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,9 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[femtasy](https://femtasy.com/)** | **[Senior Data Analyst (f/d/m)](https://jobr.pro/job/34811257/senior-data-analyst-fdm?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Berlin, Germany | Remote | Dec 21 |
+| **[Capgemini](https://www.capgemini.com/)** | **[FBS Data Analyst-PowerBI](https://jobr.pro/job/34808510/fbs-data-analyst-powerbi?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mexico - Remote | Remote | Dec 21 |
 | **[Voodoo](https://www.voodoo.io/)** | **[Data Analyst - Gear Fight](https://jobr.pro/job/34802275/data-analyst-gear-fight?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris | On Site | Dec 21 |
 | **[Avery Dennison](https://www.averydennison.com/)** | **[Data Analyst](https://jobr.pro/job/34799990/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Nhà Bè, Thành phố Hồ Chí Minh, Vietnam | On Site | Dec 20 |
 | **[DataBank Holdings Ltd.](https://www.databank.com/)** | **[Marketing Data Analyst (Remote)](https://jobr.pro/job/34787986/marketing-data-analyst-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Dallas, TX, US | Remote | Dec 20 |
+| **[Alaan](https://www.alaan.com/)** | **[Data Analyst](https://jobr.pro/job/34809308/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Dubai, United Arab Emirates | On Site | Dec 20 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov/)** | **[OAG - Data & Information Services \| Data Analyst VI \| 26-0203](https://jobr.pro/job/34771537/oag-data-information-services-data-analyst-vi-26-0203?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Texas-Austin | On Site | Dec 20 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Data Analyst](https://jobr.pro/job/34770865/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IN-AP-Hyderabad | On Site | Dec 20 |
 | **[City of New York](https://www.nyc.gov)** | **[Lead OMB Data Analyst](https://jobr.pro/job/34804045/lead-omb-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York City, NY, United States | On Site | Dec 20 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Devoteam](https://www.devoteam.com/)** | **[Senior Data Analyst Power BI / Business Analyst Data F/H](https://jobr.pro/job/34695255/senior-data-analyst-power-bi-business-analyst-data-fh?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Lyon, Auvergne-Rhône-Alpes, France | On Site | Dec 19 |
 | **[EXL](https://www.exlservice.com/)** | **[Lead Assistant Manager-Data Management and Analytics-Data Ops/Data Analyst](https://jobr.pro/job/34700374/lead-assistant-manager-data-management-and-analytics-data-opsdata-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Gurugram, Haryana, India | On Site | Dec 19 |
 | **[Mistral AI](https://mistral.ai)** | **[Data Analyst](https://jobr.pro/job/34735521/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris | On Site | Dec 19 |
-| **[Coupang](https://www.coupang.jobs/)** | **[\[Ads Sales Strategy & Ops\] Staff Data Analyst](https://jobr.pro/job/34738700/ads-sales-strategy-ops-staff-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Shanghai, China | On Site | Dec 19 |
-| **[Lesaffre](https://www.lesaffre.com/)** | **[Stage Data Analyst - Lesaffre Baking Center (H/F) 6 mois](https://jobr.pro/job/34695272/stage-data-analyst-lesaffre-baking-center-hf-6-mois?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Marcq-en-Barœul, Hauts-de-France, France | On Site | Dec 19 |
-| **[Pleo](https://www.pleo.io/)** | **[Staff Fullstack Data Analyst - Tracking specialist](https://jobr.pro/job/34742372/staff-fullstack-data-analyst-tracking-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Madrid, Spain, London, United Kingdom, Copenhagen, Denmark | Remote | Dec 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 47 companies | Avg salary: 113k  
+**Current Stats:** 50 jobs | 24% remote | 47 companies | Avg salary: 113k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
