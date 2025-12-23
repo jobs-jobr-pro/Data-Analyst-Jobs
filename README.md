@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Dec 22, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 23, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -39,6 +39,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Institutional Shareholder Services](https://www.issgovernance.com/)** | **[ESG Junior Data Analyst](https://jobr.pro/job/34816139/esg-junior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Manila - ANE T1, Philippines | On Site | Dec 22 |
 | **[AirAsia](https://www.airasia.com/)** | **[Flight Data Analyst](https://jobr.pro/job/34820632/flight-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kuala Lumpur - RedQ, Malaysia | On Site | Dec 22 |
 | **[AirAsia](https://www.airasia.com/)** | **[Senior Data Analyst](https://jobr.pro/job/34820617/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kuala Lumpur - RedQ, Malaysia | On Site | Dec 22 |
+| **[Barings](https://www.barings.com/)** | **[Performance Data Analyst](https://jobr.pro/job/34842411/performance-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US - MA - BOSTON - 10 FAN PIER BLVD, United States | On Site | Dec 22 |
+| **[US Acute Care Solutions](https://www.usacs.com/)** | **[Business/Data Analyst](https://jobr.pro/job/34840384/businessdata-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Virtual OH, United States | Remote | Dec 22 |
+| **[University of Chicago](https://www.uchicago.edu/)** | **[Data Analyst](https://jobr.pro/job/34841352/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hyde Park Campus, United States | On Site | Dec 22 |
 | **[Kubota](https://www.kubotausa.com/)** | **[Data Analyst](https://jobr.pro/job/34820750/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Grapevine, TX, US | On Site | Dec 21 |
 | **[Soft Space](https://www.softspace.com.my/)** | **[Data Analyst](https://jobr.pro/job/34831890/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kuala Lumpur, Malaysia | On Site | Dec 21 |
 | **[femtasy](https://femtasy.com/)** | **[Senior Data Analyst (f/d/m)](https://jobr.pro/job/34811257/senior-data-analyst-fdm?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Berlin, Germany | Remote | Dec 21 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Encora](https://www.encora.com/)** | **[Senior Data Analyst](https://jobr.pro/job/34742313/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Peru | On Site | Dec 19 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Manufacturing Data Analyst](https://jobr.pro/job/34764157/manufacturing-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Easton, PA, United States | On Site | Dec 19 |
 | **[Hims & Hers](https://www.hims.com/)** | **[Sr. Data Analyst, Marketing](https://jobr.pro/job/34739991/sr-data-analyst-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US Remote | Remote | Dec 19 |
-| **[Airbnb](https://www.airbnb.com/)** | **[Business Data Analyst (12 Month FTC)](https://jobr.pro/job/34748809/business-data-analyst-12-month-ftc?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris, France | On Site | Dec 19 |
-| **[GMO](https://www.gmo.com/)** | **[Research Data Analyst](https://jobr.pro/job/34737259/research-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Boston, MA | On Site | Dec 19 |
-| **[Privia Health](https://www.priviahealth.com/)** | **[Sr. Technical ACO Data Analyst](https://jobr.pro/job/34731136/sr-technical-aco-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote, USA, United States | Remote | Dec 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 45 companies | Avg salary: 88k  
+**Current Stats:** 50 jobs | 18% remote | 45 companies | Avg salary: 90k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
