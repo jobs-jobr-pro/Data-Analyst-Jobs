@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Dec 23, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 23, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -15,6 +15,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Synovus](https://www.synovus.com/)** | **[Senior Data Analyst/Databricks Developer](https://jobr.pro/job/34828843/senior-data-analystdatabricks-developer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Roswell, GA, United States | On Site | Dec 22 |
 | **[Synovus](https://www.synovus.com/)** | **[Lead Data Analyst (Engineer)](https://jobr.pro/job/34828842/lead-data-analyst-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Roswell, GA, United States | On Site | Dec 22 |
+| **[LegalAndGeneral](https://www.legalandgeneral.com)** | **[Asset Data Analyst](https://jobr.pro/job/34843248/asset-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London, England, United Kingdom | On Site | Dec 22 |
+| **[Devoteam](https://www.devoteam.com/)** | **[DATA Analyst finance H/F](https://jobr.pro/job/34843194/data-analyst-finance-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Marseille, Provence-Alpes-Côte d'Azur, France | On Site | Dec 22 |
+| **[H&M Group](https://hmgroup.com/)** | **[Senior Data Analyst BI](https://jobr.pro/job/34843254/senior-data-analyst-bi?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Stockholm, Stockholms län, Sweden | On Site | Dec 22 |
 | **[Trullion](https://trullion.com/)** | **[Product Data Analyst](https://jobr.pro/job/34822073/product-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 22 |
 | **[RedTown, LLC](https://www.redtown.net/)** | **[Stage Data Analyst/Data Scientist H/F](https://jobr.pro/job/34837526/stage-data-analystdata-scientist-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | France 06 - Le Bar sur Loup (siège social) | On Site | Dec 22 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Reference Data Analyst](https://jobr.pro/job/34819341/reference-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hyderabad, Telangana, India | On Site | Dec 22 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Terna S.p.A.](https://www.terna.it)** | **[Metering Data Analyst](https://jobr.pro/job/34739115/metering-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Roma, Lazio, IT, 00138 | On Site | Dec 20 |
 | **[T3W Business Solutions, Inc.](https://t3w.com/)** | **[Data Analyst](https://jobr.pro/job/34762969/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Arlington, VA, US | On Site | Dec 20 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Data Analyst Internship/Co-Op - Summer 2026](https://jobr.pro/job/34805676/velocity-data-analyst-internshipco-op-summer-2026?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toronto, ON, CA | On Site | Dec 20 |
-| **[Encora](https://www.encora.com/)** | **[Senior Data Analyst](https://jobr.pro/job/34742313/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Peru | On Site | Dec 19 |
-| **[Coherent Corp.](https://www.coherent.com/)** | **[Manufacturing Data Analyst](https://jobr.pro/job/34764157/manufacturing-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Easton, PA, United States | On Site | Dec 19 |
-| **[Hims & Hers](https://www.hims.com/)** | **[Sr. Data Analyst, Marketing](https://jobr.pro/job/34739991/sr-data-analyst-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US Remote | Remote | Dec 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 45 companies | Avg salary: 90k  
+**Current Stats:** 50 jobs | 16% remote | 44 companies | Avg salary: 81k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
