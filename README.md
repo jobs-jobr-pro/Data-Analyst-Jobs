@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Dec 26, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 26, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[TriNet](https://www.trinet.com/)** | **[Data Analyst](https://jobr.pro/job/35020417/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hyderabad, Telangana, India | On Site | Dec 26 |
+| **[Seekho](https://seekho.in/)** | **[Data Analyst Founder Office](https://jobr.pro/job/35018707/data-analyst-founder-office?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 26 |
 | **[Voyantis](https://www.voyantis.ai/)** | **[Experienced Data Analyst](https://jobr.pro/job/35005926/experienced-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 25 |
 | **[AXA](https://www.axa.com/)** | **[Data Analyst - Power BI (H/F)](https://jobr.pro/job/35002125/data-analyst-power-bi-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | FRANCE-92-HAU-NANTERRE | On Site | Dec 25 |
 | **[UT Southwestern Medical Center](https://www.utsouthwestern.edu/)** | **[Population Science Data Analyst I, School of Public Health](https://jobr.pro/job/35001968/population-science-data-analyst-i-school-of-public-health?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Texas-Dallas-5323 Harry Hines Blvd | On Site | Dec 25 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[DDB España](https://www.ddb.es/)** | **[Data Analyst Jr](https://jobr.pro/job/34932736/data-analyst-jr?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Barcelona | On Site | Dec 23 |
 | **[Datavant](https://www.datavant.com/)** | **[Sr. Data Analyst - US Remote](https://jobr.pro/job/34928247/sr-data-analyst-us-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - United States | Remote | Dec 23 |
 | **[Redis](https://redis.io/)** | **[Data Analyst](https://jobr.pro/job/34929320/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | India | On Site | Dec 23 |
-| **[Ulbrich Stainless Steels & Special Metals, Inc.](https://www.Ulbrich.com)** | **[Power BI Developer/Data Analyst](https://jobr.pro/job/34921839/power-bi-developerdata-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | North Haven, CT, United States | On Site | Dec 23 |
-| **[Overwolf](https://www.overwolf.com/)** | **[Data Analyst Lead – Outplayed](https://jobr.pro/job/34894918/data-analyst-lead-outplayed?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Ramat Gan, Israel, IL | On Site | Dec 23 |
 
 ---
 
