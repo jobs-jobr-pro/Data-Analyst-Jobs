@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Dec 26, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 26, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -16,6 +16,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NielsenIQ](https://nielseniq.com)** | **[Data Analyst - English Speaking](https://jobr.pro/job/35020866/data-analyst-english-speaking?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bangkok, 10, Thailand | On Site | Dec 26 |
 | **[TriNet](https://www.trinet.com/)** | **[Data Analyst](https://jobr.pro/job/35020417/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hyderabad, Telangana, India | On Site | Dec 26 |
 | **[Seekho](https://seekho.in/)** | **[Data Analyst Founder Office](https://jobr.pro/job/35018707/data-analyst-founder-office?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 26 |
+| **[CHARLES & KEITH GROUP](https://www.charleskeith.co.th/th)** | **[SENIOR / DATA ANALYST](https://jobr.pro/job/35028444/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Charles & Keith Group HQ, Singapore | On Site | Dec 26 |
+| **[Soft Space](https://www.softspace.com.my/)** | **[Data Analyst](https://jobr.pro/job/35028640/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kuala Lumpur, Malaysia | On Site | Dec 25 |
 | **[Voyantis](https://www.voyantis.ai/)** | **[Experienced Data Analyst](https://jobr.pro/job/35005926/experienced-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 25 |
 | **[AXA](https://www.axa.com/)** | **[Data Analyst - Power BI (H/F)](https://jobr.pro/job/35002125/data-analyst-power-bi-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | FRANCE-92-HAU-NANTERRE | On Site | Dec 25 |
 | **[UT Southwestern Medical Center](https://www.utsouthwestern.edu/)** | **[Population Science Data Analyst I, School of Public Health](https://jobr.pro/job/35001968/population-science-data-analyst-i-school-of-public-health?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Texas-Dallas-5323 Harry Hines Blvd | On Site | Dec 25 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Hello Heart](https://www.helloheart.com/)** | **[Machine Learning Data Analyst](https://jobr.pro/job/34923967/machine-learning-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv, Israel | On Site | Dec 23 |
 | **[Sleep Country Canada](https://www.sleepcountry.ca)** | **[Data Analyst](https://jobr.pro/job/34962771/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toronto, ON, Canada | On Site | Dec 23 |
 | **[Sleep Country Canada](https://www.sleepcountry.ca)** | **[Data Analyst, Operations](https://jobr.pro/job/34962772/data-analyst-operations?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toronto, ON, Canada | On Site | Dec 23 |
-| **[DDB España](https://www.ddb.es/)** | **[Data Analyst Jr](https://jobr.pro/job/34932736/data-analyst-jr?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Barcelona | On Site | Dec 23 |
-| **[Datavant](https://www.datavant.com/)** | **[Sr. Data Analyst - US Remote](https://jobr.pro/job/34928247/sr-data-analyst-us-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - United States | Remote | Dec 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 44 companies | Avg salary: 128k  
+**Current Stats:** 50 jobs | 18% remote | 45 companies | Avg salary: 125k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
