@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Dec 27, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 27, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -32,6 +32,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CHARLES & KEITH GROUP](https://www.charleskeith.co.th/th)** | **[SENIOR / DATA ANALYST](https://jobr.pro/job/35028444/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Charles & Keith Group HQ, Singapore | On Site | Dec 26 |
 | **[Seekho](https://seekho.in/)** | **[Data Analyst Founder Office](https://jobr.pro/job/35018707/data-analyst-founder-office?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 26 |
 | **[Pacific Gas and Electric Company](https://www.pge.com)** | **[Operations Data Analyst, Principal](https://jobr.pro/job/35037856/operations-data-analyst-principal?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Dublin, CA, US, 94568 | On Site | Dec 26 |
+| **[Unilever](https://www.unilever.com/)** | **[Data Analyst](https://jobr.pro/job/35057116/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Factory - Costa Rica | On Site | Dec 26 |
 | **[Soft Space](https://www.softspace.com.my/)** | **[Data Analyst](https://jobr.pro/job/35028640/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kuala Lumpur, Malaysia | On Site | Dec 25 |
 | **[Voyantis](https://www.voyantis.ai/)** | **[Experienced Data Analyst](https://jobr.pro/job/35005926/experienced-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 25 |
 | **[AXA](https://www.axa.com/)** | **[Data Analyst - Power BI (H/F)](https://jobr.pro/job/35002125/data-analyst-power-bi-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | FRANCE-92-HAU-NANTERRE | On Site | Dec 25 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[Manager (Data Analyst – Goods & Services Tax Division)](https://jobr.pro/job/34928873/manager-data-analyst-goods-services-tax-division?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | RH, Singapore | On Site | Dec 24 |
 | **[SCHOTT](https://www.schott.com/)** | **[Data Analyst (IT) - Magang](https://jobr.pro/job/34939631/data-analyst-it-magang?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bekasi, JB, ID | On Site | Dec 24 |
 | **[Gunvor Group](https://gunvorgroup.com/)** | **[BI Data Analyst](https://jobr.pro/job/34956575/bi-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London, United Kingdom | On Site | Dec 24 |
-| **[MarketStar](https://www.marketstar.com/)** | **[Data Analyst](https://jobr.pro/job/34970735/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | MarketStar Bangalore India | On Site | Dec 24 |
 
 ---
 
