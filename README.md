@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Dec 29, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 29, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -15,6 +15,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Coupang](https://www.coupang.com/)** | **[Data Analyst, TW Logistics](https://jobr.pro/job/35063076/data-analyst-tw-logistics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Taipei, Taiwan | On Site | Dec 29 |
 | **[NTT DATA](https://nttdata.com)** | **[Business Analyst/Data Analyst PMO](https://jobr.pro/job/35066290/business-analystdata-analyst-pmo?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bangalore, KA, IN | On Site | Dec 29 |
+| **[TD](https://www.td.com/)** | **[Intern/Co-Op - Treasury Data Analyst](https://jobr.pro/job/35069855/internco-op-treasury-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | TD Centre - TD Tower - 66 Wellington Street West, Toronto, Ontario, Canada | On Site | Dec 29 |
+| **[Crimson Education](https://www.crimsoneducation.org)** | **[Data Analyst](https://jobr.pro/job/35074223/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Gangnam-gu, South Korea | On Site | Dec 28 |
 | **[Master-Works](https://master-works.sa)** | **[Data Analyst](https://jobr.pro/job/35066413/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Dammam, Eastern Province, Saudi Arabia | On Site | Dec 28 |
 | **[HOLYWATER](https://www.holywater.tech/)** | **[Middle Data Analyst (Marketing)](https://jobr.pro/job/35064380/middle-data-analyst-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kyiv, Ukraine | Remote | Dec 28 |
 | **[Appier](https://www.appier.com/)** | **[Data Analyst / Senior Data Analyst (Enterprise Solution)](https://jobr.pro/job/35059298/data-analyst-senior-data-analyst-enterprise-solution?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Taipei, Taiwan | On Site | Dec 28 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Deloitte](https://www.deloitte.com/)** | **[Junior - Categorie Protette - Data Analyst Milano/Cagliari](https://jobr.pro/job/34957086/junior-categorie-protette-data-analyst-milanocagliari?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Cagliari, Milano | On Site | Dec 24 |
 | **[TikTok](https://www.tiktok.com/)** | **[Data Analyst Project Intern (TikTok Shop - Search) - 2026 Start (BS/MS)](https://jobr.pro/job/34956303/data-analyst-project-intern-tiktok-shop-search-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Singapore, Singapore | On Site | Dec 24 |
 | **[Rize](https://rize.sa)** | **[Data Analyst](https://jobr.pro/job/34999684/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Riyadh, Saudi Arabia | On Site | Dec 24 |
-| **[Google](https://www.google.com/)** | **[Principal Data Analyst, Trust and Safety, Search](https://jobr.pro/job/34952799/principal-data-analyst-trust-and-safety-search?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Seattle, WA, USA | On Site | Dec 24 |
-| **[EMCD](https://emcd.io/)** | **[Data Analyst (HR&Support)](https://jobr.pro/job/34997920/data-analyst-hrsupport?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tbilisi, Georgia | On Site | Dec 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 45 companies | Avg salary: 135k  
+**Current Stats:** 50 jobs | 8% remote | 46 companies | Avg salary: 116k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
