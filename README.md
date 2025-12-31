@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Dec 30, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 31, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -26,6 +26,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Kimberly-Clark](https://www.kimberly-clark.com/)** | **[Master Data, Analyst III](https://jobr.pro/job/35121444/master-data-analyst-iii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Costa Rica -Prindisa | On Site | Dec 30 |
 | **[PwC](https://www.pwc.com/)** | **[Resource Planning Data Analyst](https://jobr.pro/job/35143266/resource-planning-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bangkok - Bangkok City Tower, Thailand | On Site | Dec 30 |
 | **[ING](https://www.ing.com/)** | **[Data Analyst Business Lending with a passion for sustainability](https://jobr.pro/job/35142879/data-analyst-business-lending-with-a-passion-for-sustainability?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | ACT (Amsterdam - Acanthus), Netherlands | On Site | Dec 30 |
+| **[Aggreko](https://www.aggreko.com/)** | **[Data Analyst](https://jobr.pro/job/35160342/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Pune Office, India | On Site | Dec 30 |
 | **[Achievers](https://www.achievers.com/)** | **[Data Analyst](https://jobr.pro/job/35107387/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toronto | On Site | Dec 29 |
 | **[ASM Research](https://www.asmr.com/)** | **[Financial Data Analyst](https://jobr.pro/job/35149327/financial-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Washington, DC, United States | On Site | Dec 29 |
 | **[Turner & Townsend](https://www.turnerandtownsend.com)** | **[Data Analyst - Asset Management](https://jobr.pro/job/35102648/data-analyst-asset-management?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York, New York, United States | On Site | Dec 29 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Soft Space](https://www.softspace.com.my/)** | **[Data Analyst](https://jobr.pro/job/35092630/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kuala Lumpur, Malaysia | On Site | Dec 28 |
 | **[Crimson Education](https://www.crimsoneducation.org)** | **[Data Analyst](https://jobr.pro/job/35074223/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Gangnam-gu, South Korea | On Site | Dec 28 |
 | **[Master-Works](https://master-works.sa)** | **[Data Analyst](https://jobr.pro/job/35066413/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Dammam, Eastern Province, Saudi Arabia | On Site | Dec 28 |
-| **[HOLYWATER](https://www.holywater.tech/)** | **[Middle Data Analyst (Marketing)](https://jobr.pro/job/35064380/middle-data-analyst-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kyiv, Ukraine | Remote | Dec 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 47 companies | Avg salary: 96k  
+**Current Stats:** 50 jobs | 6% remote | 47 companies | Avg salary: 96k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
