@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2025
 
-<sub><small>Last updated: Dec 31, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 31, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Senior Data Analyst](https://jobr.pro/job/35155774/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | 新加坡 | On Site | Dec 30 |
+| **[Lingraphica](https://www.aphasia.com)** | **[Sr. Data Analyst](https://jobr.pro/job/35162076/sr-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Princeton, NJ, United States | On Site | Dec 30 |
 | **[Children's National Hospital](https://www.childrensnational.org/)** | **[Data Analyst (20 hrs/wk) Adolescent Medicine](https://jobr.pro/job/35136312/data-analyst-20-hrswk-adolescent-medicine?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | District of Columbia-Washington | On Site | Dec 30 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Data Analyst](https://jobr.pro/job/35134859/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IN-TN-Chennai | On Site | Dec 30 |
 | **[Stony Brook University](https://www.stonybrook.edu/)** | **[Data Analyst](https://jobr.pro/job/35134353/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US-NY-Commack | On Site | Dec 30 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AAA](https://www.aaa.com/)** | **[Digital Data Analyst](https://jobr.pro/job/35099897/digital-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Administrative Offices (AO) - 1000, United States | On Site | Dec 29 |
 | **[Soft Space](https://www.softspace.com.my/)** | **[Data Analyst](https://jobr.pro/job/35092630/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kuala Lumpur, Malaysia | On Site | Dec 28 |
 | **[Crimson Education](https://www.crimsoneducation.org)** | **[Data Analyst](https://jobr.pro/job/35074223/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Gangnam-gu, South Korea | On Site | Dec 28 |
-| **[Master-Works](https://master-works.sa)** | **[Data Analyst](https://jobr.pro/job/35066413/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Dammam, Eastern Province, Saudi Arabia | On Site | Dec 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 47 companies | Avg salary: 96k  
+**Current Stats:** 50 jobs | 6% remote | 47 companies | Avg salary: 97k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
