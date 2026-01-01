@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2026
 
-<sub><small>Last updated: Jan 01, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Jan 01, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[DHL Supply Chain](https://www.dhl.com/)** | **[Business Data Analyst II](https://jobr.pro/job/35206849/business-data-analyst-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Groveport, OH, US | On Site | Dec 31 |
+| **[Dailymotion](https://www.dailymotion.com/)** | **[Data Analyst - Internship](https://jobr.pro/job/35213470/data-analyst-internship?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Issy-les-Moulineaux, IDF, France | On Site | Dec 31 |
 | **[Great Place To Work Middle East](https://greatplacetowork.me/)** | **[Data Analyst](https://jobr.pro/job/35197015/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Cairo, Egypt | Remote | Dec 31 |
 | **[North Country Healthcare](https://northcountryhealth.org/)** | **[Data Analyst (Full Time)](https://jobr.pro/job/35206172/data-analyst-full-time?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Lancaster, NH, United States | On Site | Dec 31 |
 | **[Grip Security](https://www.grip.security/)** | **[Operational Data Analyst](https://jobr.pro/job/35200872/operational-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 31 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Aggreko](https://www.aggreko.com/)** | **[Data Analyst](https://jobr.pro/job/35160342/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Pune Office, India | On Site | Dec 30 |
 | **[Achievers](https://www.achievers.com/)** | **[Data Analyst](https://jobr.pro/job/35107387/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toronto | On Site | Dec 29 |
 | **[ASM Research](https://www.asmr.com/)** | **[Financial Data Analyst](https://jobr.pro/job/35149327/financial-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Washington, DC, United States | On Site | Dec 29 |
-| **[Turner & Townsend](https://www.turnerandtownsend.com)** | **[Data Analyst - Asset Management](https://jobr.pro/job/35102648/data-analyst-asset-management?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York, New York, United States | On Site | Dec 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 46 companies | Avg salary: 108k  
+**Current Stats:** 50 jobs | 14% remote | 46 companies | Avg salary: 107k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
