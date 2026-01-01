@@ -1,9 +1,9 @@
 <!-- prettier-ignore-start -->
-# Data analyst Jobs 2025
+# Data analyst Jobs 2026
 
-<sub><small>Last updated: Dec 31, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 01, 2026 at 00:30 UTC</small></sub>
 
-This repository collects curated **Data analyst opportunities in 2025**.  
+This repository collects curated **Data analyst opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
 
 Visit [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs) — **you choose the job, we handle the paperwork**.  
@@ -27,6 +27,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Solventum](https://www.solventum.com/)** | **[Finance Master Data Analyst (m/f/x)*](https://jobr.pro/job/35200666/finance-master-data-analyst-mfx?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | PL, WROCLAW, Poland | On Site | Dec 31 |
 | **[Magna International](https://www.magna.com/)** | **[Category Data Analyst](https://jobr.pro/job/35197440/category-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | 750 TOWER DR, TROY, MI 48098, USA, United States | On Site | Dec 31 |
 | **[Eli Lilly and Company](https://www.lilly.com/)** | **[Engineer - Automation Engineering – Control System Data Analyst](https://jobr.pro/job/35209660/engineer-automation-engineering-control-system-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US: Lebanon IN Lilly Medicine Foundry, United States | On Site | Dec 31 |
+| **[Ryan Specialty](https://ryanspecialty.com/)** | **[Data Analyst](https://jobr.pro/job/35212080/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Chicago - Illinois - Wacker, United States | On Site | Dec 31 |
+| **[Salesforce](https://www.salesforce.com/)** | **[Employee Data Analyst](https://jobr.pro/job/35210046/employee-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | India - Hyderabad | On Site | Dec 31 |
 | **[Xometry](https://www.xometry.com/)** | **[Data Analyst - LATAM](https://jobr.pro/job/35165357/data-analyst-latam?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | São Paulo, Brazil | Remote | Dec 30 |
 | **[Cayaba Care](https://cayabacare.com/)** | **[Sr. Data Analyst - Remote](https://jobr.pro/job/35169220/sr-data-analyst-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote | Remote | Dec 30 |
 | **[Avertium](https://www.avertium.com/)** | **[Data Analyst Intern \| CyberSecurity](https://jobr.pro/job/35164295/data-analyst-intern-cybersecurity?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Guadalajara, Mexico | On Site | Dec 30 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Achievers](https://www.achievers.com/)** | **[Data Analyst](https://jobr.pro/job/35107387/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toronto | On Site | Dec 29 |
 | **[ASM Research](https://www.asmr.com/)** | **[Financial Data Analyst](https://jobr.pro/job/35149327/financial-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Washington, DC, United States | On Site | Dec 29 |
 | **[Turner & Townsend](https://www.turnerandtownsend.com)** | **[Data Analyst - Asset Management](https://jobr.pro/job/35102648/data-analyst-asset-management?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York, New York, United States | On Site | Dec 29 |
-| **[SOMFY Group](https://www.somfy-group.com/)** | **[Data Analyst Expérimenté (H/F)](https://jobr.pro/job/35102653/data-analyst-experimente-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Annecy, Auvergne-Rhône-Alpes, France | On Site | Dec 29 |
-| **[Simera](https://simera.io/)** | **[Data Analyst – LLM Automation & Scoring (Ops)](https://jobr.pro/job/35140763/data-analyst-llm-automation-scoring-ops?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco, United States of America | On Site | Dec 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 46 companies | Avg salary: 109k  
+**Current Stats:** 50 jobs | 14% remote | 46 companies | Avg salary: 108k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
