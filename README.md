@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2026
 
-<sub><small>Last updated: Jan 01, 2026 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Jan 01, 2026 at 16:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,9 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Textron Systems](https://www.textronsystems.com/)** | **[2026 Internship - Quality Assurance Data Analyst](https://jobr.pro/job/35235979/2026-internship-quality-assurance-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US-Kansas-Wichita | On Site | Jan 01 |
+| **[Texas Department of Transportation](https://www.txdot.gov/)** | **[Data Analyst I - V - Bridge Division](https://jobr.pro/job/35234504/data-analyst-i-v-bridge-division?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Stassney Hq - Main 6230 East Stassney Lane Austin 78744 | On Site | Jan 01 |
+| **[Simera](https://simera.io/)** | **[Data Analyst – LLM Automation & Scoring (Remote)](https://jobr.pro/job/35238630/data-analyst-llm-automation-scoring-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco, United States of America | Remote | Jan 01 |
 | **[Deutsche Bank](https://www.db.com/)** | **[Test Data Analyst, Vice President](https://jobr.pro/job/35230943/test-data-analyst-vice-president?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Pune - Business Bay, India | On Site | Jan 01 |
 | **[QuinStreet](https://www.quinstreet.com/)** | **[Senior Data Analyst](https://jobr.pro/job/35222938/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United States | Remote | Dec 31 |
 | **[Modernize](https://modernize.com/)** | **[Senior Data Analyst](https://jobr.pro/job/35215023/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United States | Remote | Dec 31 |
+| **[Sotera Health](https://soterahealth.com/)** | **[Operational Excellence Data Analyst](https://jobr.pro/job/35236072/operational-excellence-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mexico | On Site | Dec 31 |
 | **[DHL Supply Chain](https://www.dhl.com/)** | **[Business Data Analyst II](https://jobr.pro/job/35206849/business-data-analyst-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Groveport, OH, US | On Site | Dec 31 |
 | **[Dailymotion](https://www.dailymotion.com/)** | **[Data Analyst - Internship](https://jobr.pro/job/35213470/data-analyst-internship?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Issy-les-Moulineaux, IDF, France | On Site | Dec 31 |
 | **[Wise](https://wise.com)** | **[Senior Data Analyst - CRM](https://jobr.pro/job/35219949/senior-data-analyst-crm?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London, United Kingdom | On Site | Dec 31 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Wise](https://wise.com)** | **[Lead Data Analyst - Risk and Controls](https://jobr.pro/job/35170293/lead-data-analyst-risk-and-controls?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London, United Kingdom | On Site | Dec 30 |
 | **[Wise](https://wise.com)** | **[Senior Data Analyst - Finance & Treasury](https://jobr.pro/job/35170295/senior-data-analyst-finance-treasury?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London, United Kingdom | On Site | Dec 30 |
 | **[Wise](https://wise.com)** | **[Lead Data Analyst - Finance & Treasury](https://jobr.pro/job/35170298/lead-data-analyst-finance-treasury?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London, United Kingdom | On Site | Dec 30 |
-| **[Coupang](https://www.coupang.com/)** | **[Staff Data Analyst (Retail Systems Analytics)](https://jobr.pro/job/35165330/staff-data-analyst-retail-systems-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Seoul, South Korea | On Site | Dec 30 |
-| **[NielsenIQ](https://nielseniq.com)** | **[Data Analyst - English & Thai Speaking](https://jobr.pro/job/35112237/data-analyst-english-thai-speaking?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bangkok, 10, Thailand | On Site | Dec 30 |
-| **[Antino](https://www.antino.com/)** | **[Data Analyst](https://jobr.pro/job/35140718/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Haryana, Gurugram, India | On Site | Dec 30 |
-| **[Voodoo](https://www.voodoo.io/)** | **[Data Analyst - Gear Fight](https://jobr.pro/job/35165015/data-analyst-gear-fight?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris | On Site | Dec 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 45 companies | Avg salary: 107k  
+**Current Stats:** 50 jobs | 16% remote | 45 companies | Avg salary: 107k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
