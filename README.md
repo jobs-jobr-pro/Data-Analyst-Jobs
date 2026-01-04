@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2026
 
-<sub><small>Last updated: Jan 03, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 04, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,12 +13,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Conservice](https://www.conservice.com/)** | **[Offshore - Data Analyst (Remote Philippines)](https://jobr.pro/job/35305778/offshore-data-analyst-remote-philippines?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Manila, PHL-NCR, Philippines | Remote | Jan 03 |
+| **[Synovus](https://www.synovus.com/)** | **[Senior Data Analyst/Databricks Developer](https://jobr.pro/job/35303136/senior-data-analystdatabricks-developer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Roswell, GA, United States | On Site | Jan 03 |
+| **[Synovus](https://www.synovus.com/)** | **[Lead Data Analyst (Engineer)](https://jobr.pro/job/35303134/lead-data-analyst-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Roswell, GA, United States | On Site | Jan 03 |
+| **[Jackson Hewitt](https://www.jacksonhewitt.com/)** | **[Data Analyst](https://jobr.pro/job/35305754/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Santa Fe, NM, US | On Site | Jan 03 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Data Analyst](https://jobr.pro/job/35295123/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | USA NC Jacksonville - Camp Lejeune (NCC008), United States | On Site | Jan 03 |
 | **[Achieve](https://www.achieve.com)** | **[Senior Financial Data Analyst](https://jobr.pro/job/35279639/senior-financial-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tempe, AZ, United States | Remote | Jan 02 |
 | **[Solace](https://www.solace.health/)** | **[Data Analyst](https://jobr.pro/job/35275711/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United States | On Site | Jan 02 |
 | **[New York Family Dentistry](https://newyorkfamilydentistry.com/)** | **[Data Analyst](https://jobr.pro/job/35294537/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Zone, Philippines | On Site | Jan 02 |
 | **[Applaudo Studios](https://applaudostudios.com)** | **[Data Analyst (Azure)](https://jobr.pro/job/35277366/data-analyst-azure?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Lima, Callao Region, Peru | On Site | Jan 02 |
 | **[Buxton](https://www.buxtonco.com/)** | **[Data Analyst](https://jobr.pro/job/35289010/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote (United States) | Remote | Jan 02 |
+| **[Jackson Hewitt](https://www.jacksonhewitt.com/)** | **[Tax Data Analyst](https://jobr.pro/job/35305873/tax-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Roanoke, TX, US | On Site | Jan 02 |
 | **[Augment Code](https://www.augmentcode.com/)** | **[Product Data Analyst](https://jobr.pro/job/35271617/product-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Palo Alto, California, United States | On Site | Jan 02 |
 | **[ShipBob](https://www.shipbob.com/)** | **[Senior Supply Chain Data Analyst](https://jobr.pro/job/35272604/senior-supply-chain-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - India | Remote | Jan 02 |
 | **[Encora](https://www.encora.com/)** | **[Senior Data Analyst](https://jobr.pro/job/35281257/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Peru | On Site | Jan 02 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[DHL Supply Chain](https://www.dhl.com/)** | **[Business Data Analyst II](https://jobr.pro/job/35206849/business-data-analyst-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Groveport, OH, US | On Site | Dec 31 |
 | **[Dailymotion](https://www.dailymotion.com/)** | **[Data Analyst - Internship](https://jobr.pro/job/35213470/data-analyst-internship?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Issy-les-Moulineaux, IDF, France | On Site | Dec 31 |
 | **[Wise](https://wise.com)** | **[Senior Data Analyst - CRM](https://jobr.pro/job/35219949/senior-data-analyst-crm?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London, United Kingdom | On Site | Dec 31 |
-| **[Great Place To Work Middle East](https://greatplacetowork.me/)** | **[Data Analyst](https://jobr.pro/job/35197015/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Cairo, Egypt | Remote | Dec 31 |
-| **[North Country Healthcare](https://northcountryhealth.org/)** | **[Data Analyst (Full Time)](https://jobr.pro/job/35206172/data-analyst-full-time?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Lancaster, NH, United States | On Site | Dec 31 |
-| **[Grip Security](https://www.grip.security/)** | **[Operational Data Analyst](https://jobr.pro/job/35200872/operational-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 31 |
-| **[IVIX](https://www.ivix.ai/)** | **[Senior RnD Data Analyst](https://jobr.pro/job/35201060/senior-rnd-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 31 |
-| **[Natixis in Portugal](https://www.natixis.com)** | **[Data Analyst (French Speaker) \| BPCE SI](https://jobr.pro/job/35192694/data-analyst-french-speaker-bpce-si?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Portugal, Portugal | On Site | Dec 31 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 49 companies | Avg salary: 107k  
+**Current Stats:** 50 jobs | 16% remote | 47 companies | Avg salary: 107k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
