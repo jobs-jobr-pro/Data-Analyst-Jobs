@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2026
 
-<sub><small>Last updated: Jan 19, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Jan 19, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Wix](https://www.wix.com/)** | **[Business Data Analyst - Inbound Marketing](https://jobr.pro/job/36294325/business-data-analyst-inbound-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv, Israel | On Site | Jan 18 |
 | **[Marshall Health Network](https://marshallhealthnetwork.org/)** | **[MHN Data Analyst](https://jobr.pro/job/36284931/mhn-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Huntington, WV, United States | On Site | Jan 17 |
 | **[Deloitte](https://www.deloitte.com/)** | **[AI & Data Analyst](https://jobr.pro/job/36268586/ai-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York, New York, United States; San Francisco, California, United States | On Site | Jan 17 |
 | **[TotalEnergies](https://totalenergies.com/)** | **[Data Analyst Débutant - H/F](https://jobr.pro/job/36268495/data-analyst-debutant-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | PAU-CSTJF(FRA), PAU, France | On Site | Jan 17 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[FCC Cross-Platform Data Analyst (Policy & Referral Strategy) - Global Payment](https://jobr.pro/job/36188791/fcc-cross-platform-data-analyst-policy-referral-strategy-global-payment?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Singapore, Singapore | On Site | Jan 16 |
 | **[Wego](https://www.wego.com/)** | **[Data Analyst](https://jobr.pro/job/36185617/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kuala Lumpur, Malaysia | On Site | Jan 16 |
 | **[Keyrus](https://keyrus.com/)** | **[Data analyst H/F/NB](https://jobr.pro/job/36186085/data-analyst-hfnb?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bordeaux, France | On Site | Jan 16 |
-| **[Certify](https://www.certifyos.com/)** | **[Senior Data Analyst](https://jobr.pro/job/36146551/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Pune | On Site | Jan 16 |
 
 ---
 
