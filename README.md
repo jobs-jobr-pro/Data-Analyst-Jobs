@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2026
 
-<sub><small>Last updated: Jan 19, 2026 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Jan 19, 2026 at 12:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,7 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Binance](https://www.binance.com/)** | **[Binance Accelerator Program - Data Analyst](https://jobr.pro/job/36298026/binance-accelerator-program-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Asia | On Site | Jan 19 |
+| **[Gameloft](https://www.gameloft.com)** | **[Senior Game Data Analyst](https://jobr.pro/job/36303876/senior-game-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Ho Chi Minh City, Ho Chi Minh City, Vietnam | On Site | Jan 19 |
+| **[Anduril](https://www.anduril.com/)** | **[Data Analyst, Corporate Operations](https://jobr.pro/job/36296219/data-analyst-corporate-operations?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Costa Mesa, California, United States | On Site | Jan 18 |
 | **[Wix](https://www.wix.com/)** | **[Business Data Analyst - Inbound Marketing](https://jobr.pro/job/36294325/business-data-analyst-inbound-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv, Israel | On Site | Jan 18 |
+| **[Padlet](https://padlet.com/)** | **[Senior Data Analyst](https://jobr.pro/job/36300764/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Singapore | On Site | Jan 18 |
+| **[Susquehanna International Group](https://www.sig.com/)** | **[Exchange Fee Data Analyst \| Experienced Hire](https://jobr.pro/job/36300461/exchange-fee-data-analyst-experienced-hire?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bala Cynwyd (Philadelphia Area), PA, United States | On Site | Jan 18 |
+| **[Syarah](https://syarah.com/)** | **[Data Analyst](https://jobr.pro/job/36306336/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Amman, Amman Governorate, Jordan | On Site | Jan 18 |
 | **[Marshall Health Network](https://marshallhealthnetwork.org/)** | **[MHN Data Analyst](https://jobr.pro/job/36284931/mhn-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Huntington, WV, United States | On Site | Jan 17 |
 | **[Deloitte](https://www.deloitte.com/)** | **[AI & Data Analyst](https://jobr.pro/job/36268586/ai-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York, New York, United States; San Francisco, California, United States | On Site | Jan 17 |
 | **[TotalEnergies](https://totalenergies.com/)** | **[Data Analyst Débutant - H/F](https://jobr.pro/job/36268495/data-analyst-debutant-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | PAU-CSTJF(FRA), PAU, France | On Site | Jan 17 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Chicago Public Schools](https://www.cps.edu/)** | **[Senior Data Analyst](https://jobr.pro/job/36193812/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Central-42 West Madison Street (Access and Enrollment) | On Site | Jan 16 |
 | **[Abhyaz](https://www.abhyaz.com/)** | **[Data Analyst Intern](https://jobr.pro/job/36193111/data-analyst-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote | Remote | Jan 16 |
 | **[Virtusa](https://www.virtusa.com/)** | **[Data Analyst](https://jobr.pro/job/36192798/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IN-TN-Chennai | On Site | Jan 16 |
-| **[Deliveroo](https://deliveroo.co.uk/)** | **[Commercial Excellence - Data Analyst](https://jobr.pro/job/36236945/commercial-excellence-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Manchester - Main Office | On Site | Jan 16 |
-| **[BAE Systems](https://www.baesystems.com/)** | **[Lead PMO Data Analyst](https://jobr.pro/job/36190080/lead-pmo-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | GB-ENG-LAN-Preston | On Site | Jan 16 |
-| **[iFood](https://www.ifood.com.br/)** | **[Data Analyst Senior](https://jobr.pro/job/36226328/data-analyst-senior?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Brasil | On Site | Jan 16 |
-| **[TikTok](https://www.tiktok.com/)** | **[FCC Cross-Platform Data Analyst (Policy & Referral Strategy) - Global Payment](https://jobr.pro/job/36188791/fcc-cross-platform-data-analyst-policy-referral-strategy-global-payment?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Singapore, Singapore | On Site | Jan 16 |
-| **[Wego](https://www.wego.com/)** | **[Data Analyst](https://jobr.pro/job/36185617/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kuala Lumpur, Malaysia | On Site | Jan 16 |
-| **[Keyrus](https://keyrus.com/)** | **[Data analyst H/F/NB](https://jobr.pro/job/36186085/data-analyst-hfnb?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bordeaux, France | On Site | Jan 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 49 companies | Avg salary: 109k  
+**Current Stats:** 50 jobs | 14% remote | 49 companies | Avg salary: 113k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
