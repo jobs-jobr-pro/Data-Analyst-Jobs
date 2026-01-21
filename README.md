@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2026
 
-<sub><small>Last updated: Jan 21, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Jan 21, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -59,9 +59,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Encora](https://www.encora.com/)** | **[Data Analyst](https://jobr.pro/job/36341770/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Makati, Makati, Philippines | On Site | Jan 20 |
 | **[MongoDB](https://www.mongodb.com/)** | **[Senior Data Analyst II](https://jobr.pro/job/36357680/senior-data-analyst-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | India | Remote | Jan 20 |
 | **[MassMutual](https://www.massmutual.com/)** | **[Sr Data Analyst](https://jobr.pro/job/36370010/sr-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hyderabad - BSR IT - SEZ - Block 1, India | On Site | Jan 20 |
-| **[Mavenir](https://mavenir.com/)** | **[Security Data Analyst](https://jobr.pro/job/36369307/security-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Brno, Czech Republic, Czechia | On Site | Jan 20 |
-| **[CapitaLand](https://www.capitaland.com/)** | **[Intern, Product Management (Data Analyst)](https://jobr.pro/job/36372394/intern-product-management-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Ascott Centre for Excellence, Singapore | On Site | Jan 20 |
 | **[ResMed](https://www.resmed.com/)** | **[Data Analyst, Software Lifecycle Management](https://jobr.pro/job/36365659/data-analyst-software-lifecycle-management?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | SG Galaxis, Singapore | On Site | Jan 20 |
+| **[CapitaLand](https://www.capitaland.com/)** | **[Intern, Product Management (Data Analyst)](https://jobr.pro/job/36372394/intern-product-management-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Ascott Centre for Excellence, Singapore | On Site | Jan 20 |
+| **[Mavenir](https://mavenir.com/)** | **[Security Data Analyst](https://jobr.pro/job/36369307/security-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Brno, Czech Republic, Czechia | On Site | Jan 20 |
 | **[Hunter Communications](https://hunterfiber.com/)** | **[Data Analyst](https://jobr.pro/job/36370404/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Central Point, OR, US | On Site | Jan 19 |
 
 ---
