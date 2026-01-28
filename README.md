@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2026
 
-<sub><small>Last updated: Jan 28, 2026 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Jan 28, 2026 at 08:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,9 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Fazz](https://fazz.com/)** | **[Data Analyst](https://jobr.pro/job/36871509/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Jakarta, Jakarta, Indonesia | On Site | Jan 28 |
+| **[Daymark Health](https://www.daymarkhealth.com/)** | **[Senior Data Analyst](https://jobr.pro/job/36872634/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Boston or NYC | On Site | Jan 27 |
 | **[University of Auckland](https://www.auckland.ac.nz/)** | **[Data Analyst Specialist](https://jobr.pro/job/36868745/data-analyst-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Auckland, Auckland, New Zealand | On Site | Jan 27 |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Senior Data Analyst](https://jobr.pro/job/36858210/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | 新加坡 | On Site | Jan 27 |
+| **[Chime](https://www.chime.com/)** | **[Senior Data Analyst, Credit Risk](https://jobr.pro/job/36871589/senior-data-analyst-credit-risk?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco, CA | Remote | Jan 27 |
 | **[EJ](https://www.ejco.com/)** | **[Financial Data Analyst](https://jobr.pro/job/36845694/financial-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | East Jordan, MI, United States | On Site | Jan 27 |
+| **[Wargaming](https://wargaming.com/)** | **[Senior Game Data Analyst (World of Tanks)(m/f/i)](https://jobr.pro/job/36872036/senior-game-data-analyst-world-of-tanksmfi?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Warsaw | On Site | Jan 27 |
 | **[Epassi](https://www.epassi.com/)** | **[Senior Business Intelligence Data Analyst - Power BI (f/m/d)](https://jobr.pro/job/36850321/senior-business-intelligence-data-analyst-power-bi-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bremen; Hamburg; Helsinki | On Site | Jan 27 |
 | **[NBCUniversal](https://www.nbcunicareers.com)** | **[Data Analyst, Data Asset Management](https://jobr.pro/job/36868767/data-analyst-data-asset-management?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York, NEW YORK, United States | On Site | Jan 27 |
 | **[DRS RADA Technologies](https://www.drsrada.com/)** | **[Junior Data Analyst](https://jobr.pro/job/36841166/junior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Netanya, Center District, IL | On Site | Jan 27 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bupa](https://www.bupa.com/)** | **[Technical & Data Analyst](https://jobr.pro/job/36834669/technical-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Central London, United Kingdom | On Site | Jan 27 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Data Analyst - Transcripts APAC (Mandarin Workflow)](https://jobr.pro/job/36829057/data-analyst-transcripts-apac-mandarin-workflow?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | MY - PENANG 38 JALAN SULTAN AHMAD SHAH - LOTS 3.02 7.01 & 9.01, Malaysia | On Site | Jan 27 |
 | **[Euromonitor](https://www.euromonitor.com/)** | **[Data Analyst](https://jobr.pro/job/36834261/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Vilnius, Vilnius City Municipality, Lithuania | On Site | Jan 27 |
-| **[MillerKnoll](https://www.millerknoll.com/)** | **[Sustainability Data Analyst](https://jobr.pro/job/36855954/sustainability-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bengaluru - IBU Cunningham Road, India | On Site | Jan 27 |
-| **[Elsevier](https://www.elsevier.com/)** | **[Senior Data Analyst I 1225-CH-237](https://jobr.pro/job/36835673/senior-data-analyst-i-1225-ch-237?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IND - Home Based - Chennai, India | Remote | Jan 27 |
-| **[Cosmos Sport S.A.](https://www.cosmossport.gr)** | **[Data Analyst](https://jobr.pro/job/36827744/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Athens, Attica, Greece | On Site | Jan 27 |
-| **[RELX](https://www.relx.com/)** | **[Senior Data Analyst I 1225-CH-237](https://jobr.pro/job/36833480/senior-data-analyst-i-1225-ch-237?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IND - Home Based - Chennai, India | Remote | Jan 27 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 43 companies | Avg salary: 96k  
+**Current Stats:** 50 jobs | 6% remote | 43 companies | Avg salary: 108k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
