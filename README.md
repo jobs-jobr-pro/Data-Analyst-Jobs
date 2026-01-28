@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2026
 
-<sub><small>Last updated: Jan 28, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Jan 28, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[University of Auckland](https://www.auckland.ac.nz/)** | **[Data Analyst Specialist](https://jobr.pro/job/36868745/data-analyst-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Auckland, Auckland, New Zealand | On Site | Jan 27 |
+| **[Xiaomi](https://www.xiaomi.com/)** | **[Senior Data Analyst](https://jobr.pro/job/36858210/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | 新加坡 | On Site | Jan 27 |
+| **[EJ](https://www.ejco.com/)** | **[Financial Data Analyst](https://jobr.pro/job/36845694/financial-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | East Jordan, MI, United States | On Site | Jan 27 |
+| **[Epassi](https://www.epassi.com/)** | **[Senior Business Intelligence Data Analyst - Power BI (f/m/d)](https://jobr.pro/job/36850321/senior-business-intelligence-data-analyst-power-bi-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bremen; Hamburg; Helsinki | On Site | Jan 27 |
+| **[NBCUniversal](https://www.nbcunicareers.com)** | **[Data Analyst, Data Asset Management](https://jobr.pro/job/36868767/data-analyst-data-asset-management?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York, NEW YORK, United States | On Site | Jan 27 |
+| **[DRS RADA Technologies](https://www.drsrada.com/)** | **[Junior Data Analyst](https://jobr.pro/job/36841166/junior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Netanya, Center District, IL | On Site | Jan 27 |
+| **[Epassi](https://www.epassi.com/)** | **[Senior Data Analyst - Power BI (f/m/d)](https://jobr.pro/job/36850323/senior-data-analyst-power-bi-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bremen; Hamburg | On Site | Jan 27 |
 | **[Akkodis](https://www.akkodis.com/)** | **[Data Analyst](https://jobr.pro/job/36855594/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Europe, Belgium | On Site | Jan 27 |
 | **[Sportradar](https://sportradar.com/)** | **[Senior Data Analyst](https://jobr.pro/job/36829119/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Athens, Greece | On Site | Jan 27 |
 | **[TikTok](https://www.tiktok.com/)** | **[Strategy & Insight Data Analyst Graduate (TikTok Shop - Governance & Experience) - 2026 Start (BS/MS)](https://jobr.pro/job/36827458/strategy-insight-data-analyst-graduate-tiktok-shop-governance-experience-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London, England, United Kingdom | On Site | Jan 27 |
@@ -56,17 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Elsevier](https://www.elsevier.com/)** | **[Senior Data Analyst I 1225-CH-237](https://jobr.pro/job/36835673/senior-data-analyst-i-1225-ch-237?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IND - Home Based - Chennai, India | Remote | Jan 27 |
 | **[Cosmos Sport S.A.](https://www.cosmossport.gr)** | **[Data Analyst](https://jobr.pro/job/36827744/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Athens, Attica, Greece | On Site | Jan 27 |
 | **[RELX](https://www.relx.com/)** | **[Senior Data Analyst I 1225-CH-237](https://jobr.pro/job/36833480/senior-data-analyst-i-1225-ch-237?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IND - Home Based - Chennai, India | Remote | Jan 27 |
-| **[S&P Global](https://www.spglobal.com/)** | **[Data Analyst](https://jobr.pro/job/36846752/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IN - BENGALURU PRIMECO UNION CITY, India | On Site | Jan 27 |
-| **[MarketStar](https://www.marketstar.com/)** | **[Senior Data Analyst](https://jobr.pro/job/36851472/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | MarketStar Bangalore India | On Site | Jan 27 |
-| **[AirAsia](https://www.airasia.com/)** | **[Intern, Data Analyst](https://jobr.pro/job/36843078/intern-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kuala Lumpur - RedQ, Malaysia | On Site | Jan 27 |
-| **[Wingie Enuygun Group](https://www.enuygun.com/)** | **[Senior Data Analyst](https://jobr.pro/job/36755609/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | İstanbul, İstanbul, Turkey | On Site | Jan 26 |
-| **[Absa Group](https://www.absa.africa/)** | **[Specialist Data Analyst](https://jobr.pro/job/36760986/specialist-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Absa 270 Republic Road, South Africa | On Site | Jan 26 |
-| **[Euronext](https://www.euronext.com/)** | **[Equity Continental Sales Data Analyst Intern](https://jobr.pro/job/36760928/equity-continental-sales-data-analyst-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris, France | On Site | Jan 26 |
-| **[Rabobank](https://www.rabobank.com/)** | **[Intern Data Analyst](https://jobr.pro/job/36752960/intern-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Utrecht Croeselaan 18, Netherlands | On Site | Jan 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 42 companies | Avg salary: 95k  
+**Current Stats:** 50 jobs | 8% remote | 43 companies | Avg salary: 96k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
