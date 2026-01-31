@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2026
 
-<sub><small>Last updated: Jan 31, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Jan 31, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,8 +13,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Sia](https://www.sia-partners.com)** | **[Consultant(e) Senior Data Analyst](https://jobr.pro/job/37120193/consultante-senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris, IDF, France | On Site | Jan 30 |
 | **[Pacific Bells](https://pacificbells.com/)** | **[CRA Data Analyst](https://jobr.pro/job/37103865/cra-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Miami Lakes, FL, United States | On Site | Jan 30 |
+| **[Devoteam](https://www.devoteam.com/)** | **[Senior Data Analyst F/H](https://jobr.pro/job/37120199/senior-data-analyst-fh?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Montpellier, Occitanie, France | On Site | Jan 30 |
+| **[Scalian](https://www.scalian.com)** | **[Data Analyst confirmé - H/F](https://jobr.pro/job/37120200/data-analyst-confirme-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Montpellier, France | On Site | Jan 30 |
+| **[JACOBS DOUWE EGBERTS](https://www.jacobsdouweegberts.com)** | **[Digital Data Analyst](https://jobr.pro/job/37120209/digital-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Utrecht, UT, Netherlands | On Site | Jan 30 |
+| **[SGS](https://sgs.com)** | **[Global LIMS DQM Master Data Analyst](https://jobr.pro/job/37120210/global-lims-dqm-master-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bogotá, Bogotá, Colombia | On Site | Jan 30 |
+| **[ABOUT YOU SE & Co. KG](https://www.aboutyou.de)** | **[(Junior) Data Analyst (m/f/d) - Supply Data Solutions](https://jobr.pro/job/37120214/junior-data-analyst-mfd-supply-data-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hamburg, HH, Germany | On Site | Jan 30 |
 | **[L'Union sociale pour l'habitat](https://www.union-habitat.org/)** | **[Un(e) Alternant(e) en Data Analyst CRM & Data H/F](https://jobr.pro/job/37110139/une-alternante-en-data-analyst-crm-data-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | France, Ile-de-France, Paris (75) | On Site | Jan 30 |
+| **[Sia](https://www.sia-partners.com)** | **[Data Analyst](https://jobr.pro/job/37120220/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Amsterdam, Netherlands | On Site | Jan 30 |
 | **[Parvana](https://www.parvana.co.uk)** | **[Data Analyst](https://jobr.pro/job/37091575/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Johannesburg, South Africa | On Site | Jan 30 |
 | **[TikTok](https://www.tiktok.com/)** | **[FCC Cross-Platform Data Analyst - Global Payment](https://jobr.pro/job/37083846/fcc-cross-platform-data-analyst-global-payment?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Jose, California, United States | On Site | Jan 30 |
 | **[Yum! Brands](https://www.yum.com/)** | **[Supply Chain Data Analyst](https://jobr.pro/job/37086163/supply-chain-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Woking, Surrey, United Kingdom | On Site | Jan 30 |
@@ -56,17 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Achieve](https://www.achieve.com)** | **[HR Data Analyst](https://jobr.pro/job/37061394/hr-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Mateo, CA, United States | Remote | Jan 29 |
 | **[Omada Health](https://www.omadahealth.com/)** | **[Senior Data Analyst, B2B Analytics](https://jobr.pro/job/37038807/senior-data-analyst-b2b-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote, USA | Remote | Jan 29 |
 | **[Chess.com](https://www.chess.com/)** | **[Data Analyst, Growth & Monetization - ChessKid](https://jobr.pro/job/37071428/data-analyst-growth-monetization-chesskid?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote (United States/Canada) | Remote | Jan 29 |
-| **[Nearform](https://www.nearform.com/)** | **[Senior Data Analyst (Fixed-term, USA, Remote)](https://jobr.pro/job/37045839/senior-data-analyst-fixed-term-usa-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Permanent | Remote | Jan 29 |
-| **[Planned Parenthood of Wisconsin, Inc.](https://www.plannedparenthood.org/)** | **[Data Analyst](https://jobr.pro/job/37045714/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Milwaukee, Wisconsin | On Site | Jan 29 |
-| **[Inovalon](https://www.inovalon.com/)** | **[Data Analyst](https://jobr.pro/job/37045019/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote- United States | Remote | Jan 29 |
-| **[VB Group](https://www.vbtravelgroup.com/)** | **[Data Analyst](https://jobr.pro/job/37063183/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Oviedo | On Site | Jan 29 |
-| **[AEG](https://www.aegworldwide.com/)** | **[Sr Partnership Data Analyst](https://jobr.pro/job/37040234/sr-partnership-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Los Angeles, CA | On Site | Jan 29 |
-| **[Anrok](https://anrok.com/)** | **[Data Analyst](https://jobr.pro/job/37047255/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco | On Site | Jan 29 |
-| **[84.51°](https://www.8451.com/)** | **[Senior Operations Data Analyst (P4517)](https://jobr.pro/job/37044348/senior-operations-data-analyst-p4517?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Cincinnati, OH; Chicago, IL | On Site | Jan 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 46 companies | Avg salary: 111k  
+**Current Stats:** 50 jobs | 14% remote | 46 companies | Avg salary: 121k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
