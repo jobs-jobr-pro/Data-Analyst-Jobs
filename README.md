@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2026
 
-<sub><small>Last updated: Jan 30, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 31, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -36,18 +36,21 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[LexisNexis](https://www.lexisnexis.com/)** | **[Global Operations Data Analyst III](https://jobr.pro/job/37082048/global-operations-data-analyst-iii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | South Africa - Cape Town | On Site | Jan 30 |
 | **[LexisNexis](https://www.lexisnexis.com/)** | **[Global Operations Senior Data Analyst I](https://jobr.pro/job/37082044/global-operations-senior-data-analyst-i?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | South Africa - Cape Town | On Site | Jan 30 |
 | **[Bowens](https://www.bowens.com.au/)** | **[Data Analyst (Hardware)](https://jobr.pro/job/37082426/data-analyst-hardware?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Support Office, Australia | On Site | Jan 30 |
-| **[Absa Group](https://www.absa.africa/)** | **[Junior Specialist: Data Analyst](https://jobr.pro/job/37101781/junior-specialist-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Absa Towers West, South Africa | On Site | Jan 30 |
-| **[Centene Corporation](https://www.centene.com/)** | **[IT Data Analyst II](https://jobr.pro/job/37108638/it-data-analyst-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-MO, United States | Remote | Jan 30 |
-| **[Centene Corporation](https://www.centene.com/)** | **[IT Data Analyst II SQL](https://jobr.pro/job/37108636/it-data-analyst-ii-sql?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-MI, United States | Remote | Jan 30 |
-| **[Syneos Health](https://www.syneoshealth.com/)** | **[Data Analyst I](https://jobr.pro/job/37112751/data-analyst-i?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IND-Hyderabad, India | On Site | Jan 30 |
 | **[Workhuman](https://www.workhuman.com/)** | **[People Data Analyst](https://jobr.pro/job/37108225/people-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Ireland | On Site | Jan 30 |
 | **[Vanguard](https://www.vanguard.com/)** | **[Sr Data Analyst (Marketing Analytics)](https://jobr.pro/job/37104777/sr-data-analyst-marketing-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Malvern, PA, United States | On Site | Jan 30 |
 | **[Covestro](https://www.covestro.com/)** | **[Intern, Supply Chain Data Analyst](https://jobr.pro/job/37113596/intern-supply-chain-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hong Kong | On Site | Jan 30 |
 | **[Stryker](https://www.stryker.com/)** | **[Data Analyst Intern](https://jobr.pro/job/37103981/data-analyst-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kwazulu-Natal, Pinetown 2 Underwood Road, South Africa | On Site | Jan 30 |
+| **[Absa Group](https://www.absa.africa/)** | **[Junior Specialist: Data Analyst](https://jobr.pro/job/37101781/junior-specialist-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Absa Towers West, South Africa | On Site | Jan 30 |
+| **[Centene Corporation](https://www.centene.com/)** | **[IT Data Analyst II](https://jobr.pro/job/37108638/it-data-analyst-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-MO, United States | Remote | Jan 30 |
+| **[Centene Corporation](https://www.centene.com/)** | **[IT Data Analyst II SQL](https://jobr.pro/job/37108636/it-data-analyst-ii-sql?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-MI, United States | Remote | Jan 30 |
+| **[Syneos Health](https://www.syneoshealth.com/)** | **[Data Analyst I](https://jobr.pro/job/37112751/data-analyst-i?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IND-Hyderabad, India | On Site | Jan 30 |
+| **[Caterpillar Inc.](https://www.caterpillar.com/)** | **[Lead Data Analyst](https://jobr.pro/job/37104676/lead-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kosice, Slovakia | On Site | Jan 30 |
 | **[Amentum](https://www.amentum.com/)** | **[Data Analyst](https://jobr.pro/job/37105615/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | GBR-Bridgwater-EDF NNB Hinkley Point C (040GB), United Kingdom | On Site | Jan 30 |
 | **[Sentara Health](https://www.sentara.com/)** | **[Lead Healthcare Data Analyst - Remote](https://jobr.pro/job/37110871/lead-healthcare-data-analyst-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Sentara Centre Pointe, United States | Remote | Jan 30 |
 | **[Thales](https://www.thalesgroup.com/)** | **[STAGE – Data Analyst & Amélioration Continue – (H/F)](https://jobr.pro/job/37110292/stage-data-analyst-amelioration-continue-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Cannes, France | On Site | Jan 30 |
-| **[Caterpillar Inc.](https://www.caterpillar.com/)** | **[Lead Data Analyst](https://jobr.pro/job/37104676/lead-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kosice, Slovakia | On Site | Jan 30 |
+| **[Lowe Rental](https://www.lowerental.com/)** | **[Supply Chain Data Analyst](https://jobr.pro/job/37117552/supply-chain-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | CHELTENHAM, Gloucestershire, GB | On Site | Jan 30 |
+| **[Cleveland Clinic](https://www.clevelandclinic.org/)** | **[Data Analyst](https://jobr.pro/job/37118662/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Cleveland Clinic Main Campus, United States | On Site | Jan 30 |
+| **[TaskUs](https://www.taskus.com/)** | **[HRIS Data Analyst-2](https://jobr.pro/job/37119163/hris-data-analyst-2?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | PHL - Pasig City - Phoenix, Philippines | On Site | Jan 30 |
 | **[UNICEF](https://www.unicef.org/)** | **[Safe Online Data Analyst and Reports Writer, EVAC - Safe Online, NYHQ, remote. Req# 590702](https://jobr.pro/job/37076633/safe-online-data-analyst-and-reports-writer-evac-safe-online-nyhq-remote-req-590702?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Headquarters, United States | Remote | Jan 29 |
 | **[Encora](https://www.encora.com/)** | **[Data Analyst](https://jobr.pro/job/37059904/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mexico | On Site | Jan 29 |
 | **[Achieve](https://www.achieve.com)** | **[HR Data Analyst](https://jobr.pro/job/37061394/hr-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Mateo, CA, United States | Remote | Jan 29 |
@@ -60,9 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AEG](https://www.aegworldwide.com/)** | **[Sr Partnership Data Analyst](https://jobr.pro/job/37040234/sr-partnership-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Los Angeles, CA | On Site | Jan 29 |
 | **[Anrok](https://anrok.com/)** | **[Data Analyst](https://jobr.pro/job/37047255/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco | On Site | Jan 29 |
 | **[84.51°](https://www.8451.com/)** | **[Senior Operations Data Analyst (P4517)](https://jobr.pro/job/37044348/senior-operations-data-analyst-p4517?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Cincinnati, OH; Chicago, IL | On Site | Jan 29 |
-| **[Contentsquare](https://www.contentsquare.com/)** | **[Staff Product Data Analyst](https://jobr.pro/job/37046036/staff-product-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Barcelona | On Site | Jan 29 |
-| **[Canvas Worldwide](https://www.canvasworldwide.com)** | **[Senior Data Analyst](https://jobr.pro/job/37039289/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York, NY | On Site | Jan 29 |
-| **[Spry Methods](https://www.sprymethods.com/)** | **[Cyber Data Analyst](https://jobr.pro/job/37046589/cyber-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Washington, DC | On Site | Jan 29 |
 
 ---
 
