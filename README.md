@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2026
 
-<sub><small>Last updated: Jan 31, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Feb 01, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -20,6 +20,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zipline](https://www.flyzipline.com/)** | **[Data Analyst](https://jobr.pro/job/37125390/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | South San Francisco, California, USA | On Site | Jan 31 |
 | **[OCT Consulting, LLC](https://www.octconsulting.com/careers)** | **[Knowledge Management & Data Analyst (0043)](https://jobr.pro/job/37158495/knowledge-management-data-analyst-0043?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Washington, District of Columbia, United States | On Site | Jan 31 |
 | **[LV Petroleum](https://lvpetroleum.net/)** | **[Data Analyst](https://jobr.pro/job/37149159/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United States - Remote | Remote | Jan 31 |
+| **[KION Group](https://www.kiongroup.com/)** | **[Senior Data Analyst](https://jobr.pro/job/37189167/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Grand Rapids, MI, United States, United States | On Site | Jan 31 |
 | **[AEVEX Aerospace](https://aevex.com/)** | **[Data Analyst - Growth Operations](https://jobr.pro/job/37124339/data-analyst-growth-operations?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Huntsville, Alabama, United States | On Site | Jan 30 |
 | **[Toast](https://pos.toasttab.com/)** | **[Senior Data Analyst, Consumer](https://jobr.pro/job/37137757/senior-data-analyst-consumer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Boston, MA | On Site | Jan 30 |
 | **[Kendo](https://kendobrands.com/)** | **[Internship, Supply Chain Data Analyst](https://jobr.pro/job/37178305/internship-supply-chain-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco, CA, United States | On Site | Jan 30 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Rippling](https://www.rippling.com/)** | **[Senior Fraud Risk Data Analyst](https://jobr.pro/job/37153849/senior-fraud-risk-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bangalore, India | On Site | Jan 30 |
 | **[Telent](https://telent.com/)** | **[Data Analyst](https://jobr.pro/job/37079208/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Warwickshire, United Kingdom | On Site | Jan 30 |
 | **[Keyrus](https://keyrus.com/)** | **[Data analyst H/F/NB](https://jobr.pro/job/37083315/data-analyst-hfnb?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bordeaux, France | On Site | Jan 30 |
-| **[United Infrastructure](https://unitedinfrastructure.com)** | **[Payroll Data Analyst](https://jobr.pro/job/37086233/payroll-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Great Sankey, England, United Kingdom | On Site | Jan 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 48 companies | Avg salary: 120k  
+**Current Stats:** 50 jobs | 12% remote | 48 companies | Avg salary: 121k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
