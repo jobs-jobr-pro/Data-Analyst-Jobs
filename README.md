@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2026
 
-<sub><small>Last updated: Feb 04, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Feb 04, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,12 +13,26 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Xiaomi](https://www.xiaomi.com/)** | **[Xiaomi EV - Senior Strategic Trend Analyst](https://jobr.pro/job/37417074/xiaomi-ev-senior-strategic-trend-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | 慕尼黑 | On Site | Feb 04 |
+| **[Revecore](https://revecore.com/)** | **[Underpayment Analyst](https://jobr.pro/job/37411644/underpayment-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote, United States | Remote | Feb 04 |
+| **[Perdoceo Education](https://www.perdoceoed.com/)** | **[Shared Services Analyst](https://jobr.pro/job/37411607/shared-services-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote, United States | Remote | Feb 04 |
+| **[Associa](https://www.associaonline.com/)** | **[Systems and Integration Analyst](https://jobr.pro/job/37411156/systems-and-integration-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Richardson, TX, United States | On Site | Feb 04 |
+| **[Associa](https://www.associaonline.com/)** | **[Financial Analyst](https://jobr.pro/job/37411149/financial-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York CIty, NY, United States | On Site | Feb 04 |
+| **[Valiant Integrated Services](https://www.onevaliant.com/)** | **[Logistics Analyst](https://jobr.pro/job/37410561/logistics-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kingstowne, VA, United States | On Site | Feb 04 |
+| **[Audubon Companies](https://auduboncompanies.com/)** | **[Inspection Data Analyst](https://jobr.pro/job/37410298/inspection-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Houston, TX, United States | On Site | Feb 04 |
+| **[World Wide Technology](https://www.wwt.com/)** | **[Lead Data Scientist](https://jobr.pro/job/37409827/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - Nationwide, United States | Remote | Feb 04 |
+| **[DHL Supply Chain](https://www.dhl.com/)** | **[Business Data Analyst II](https://jobr.pro/job/37407899/business-data-analyst-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Langley, BC, CA | On Site | Feb 04 |
+| **[Valley National Bank](https://www.valley.com/)** | **[Head of Consumer & SMB Data Analytics](https://jobr.pro/job/37407570/head-of-consumer-smb-data-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Morristown, NJ, United States | On Site | Feb 04 |
+| **[Convey Health Solutions](https://conveyhealthsolutions.com/)** | **[Lead Data Engineer](https://jobr.pro/job/37406254/lead-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Fort Lauderdale, FL, United States | On Site | Feb 04 |
+| **[Central Bank](https://www.centralbank.net/)** | **[Loan Review Analyst](https://jobr.pro/job/37405924/loan-review-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Jefferson City, MO, United States | On Site | Feb 04 |
 | **[OMNI.PRO](https://omni.pro/)** | **[Sales Operations Analyst](https://jobr.pro/job/37404728/sales-operations-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Híbrido (Bogota , Bogota, Colombia) | On Site | Feb 04 |
 | **[Tendencys Innovations](https://tendencys.com/)** | **[Training Analyst Jr](https://jobr.pro/job/37404616/training-analyst-jr?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | 64060, Monterrey, Monterrey, Mexico | On Site | Feb 04 |
 | **[Remitee](https://business.remitee.com/)** | **[Cybersecurity Analyst](https://jobr.pro/job/37404496/cybersecurity-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Teletrabajo | Remote | Feb 04 |
 | **[Nike](https://www.nike.com/)** | **[Finance Analyst, Global Margin Planning](https://jobr.pro/job/37404439/finance-analyst-global-margin-planning?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Beaverton, OR, US | On Site | Feb 04 |
 | **[Factorial](https://factorialhr.com/)** | **[Strategy Analyst/Associate](https://jobr.pro/job/37404353/strategy-analystassociate?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | 08005, Barcelona, Barcelona, España | On Site | Feb 04 |
+| **[MAGNITUDE](https://magnitude.fr/)** | **[Data Analyst Junior](https://jobr.pro/job/37413611/data-analyst-junior?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Puteaux, Hauts-de-Seine, Île-de-France, FR | On Site | Feb 04 |
 | **[Jemena](https://www.jemena.com.au/)** | **[Reporting & Insight Analyst – Finance](https://jobr.pro/job/37404093/reporting-insight-analyst-finance?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Melbourne, VIC, AU | On Site | Feb 04 |
+| **[Postcode Lottery Group](https://www.postcodelotterygroup.com/)** | **[Junior Data Analist](https://jobr.pro/job/37406245/junior-data-analist?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Amsterdam | On Site | Feb 04 |
 | **[ASSYST](https://www.assyst.net/)** | **[Healthcare EDI Analyst](https://jobr.pro/job/37405251/healthcare-edi-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Baltimore, MD | On Site | Feb 04 |
 | **[Earnix](https://earnix.com/)** | **[Analytics Functionality Analyst](https://jobr.pro/job/37400982/analytics-functionality-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Feb 04 |
 | **[ZIM](https://www.zim.com/)** | **[Cash Flow Analyst](https://jobr.pro/job/37401833/cash-flow-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Haifa, Haifa District, IL | On Site | Feb 04 |
@@ -26,6 +40,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Global-e](https://www.global-e.com/)** | **[Financial Operations Analyst - Student Position](https://jobr.pro/job/37400993/financial-operations-analyst-student-position?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Petah-Tikva, IL | On Site | Feb 04 |
 | **[Parvana](https://www.parvana.co.uk)** | **[Data Analyst](https://jobr.pro/job/37396528/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Cape Town, South Africa | On Site | Feb 04 |
 | **[Mesh](https://www.mesh.ai/)** | **[Data Entry Manager](https://jobr.pro/job/37396210/data-entry-manager?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Haryana, Gurugram, India | On Site | Feb 04 |
+| **[Schibsted](https://schibsted.com/)** | **[Data Manager for Content Data](https://jobr.pro/job/37406412/data-manager-for-content-data?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Oslo; Stockholm | On Site | Feb 04 |
 | **[Dragonfli Group](https://www.dragonfligroup.com)** | **[Cyber Threat Analyst](https://jobr.pro/job/37401551/cyber-threat-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Washington, DC, US | Remote | Feb 04 |
 | **[ASSYST](https://www.assyst.net/)** | **[Product Support Analyst](https://jobr.pro/job/37405253/product-support-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Austin, TX | On Site | Feb 04 |
 | **[AgileEngine](https://agileengine.com/)** | **[Data Steward ID48002](https://jobr.pro/job/37393721/data-steward-id48002?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bratislava, Slovakia | On Site | Feb 04 |
@@ -48,25 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bupa](https://www.bupa.com.au/)** | **[Business Assurance Testing Analyst](https://jobr.pro/job/37388674/business-assurance-testing-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Melbourne Office (33X) | On Site | Feb 04 |
 | **[UCLA Health](https://www.uclahealth.org/)** | **[Epic Cadence Analyst - Hybrid](https://jobr.pro/job/37388524/epic-cadence-analyst-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Flexible Hybrid | Remote | Feb 04 |
 | **[UCLA Health](https://www.uclahealth.org/)** | **[Environment Analyst](https://jobr.pro/job/37388519/environment-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Flexible Hybrid | Remote | Feb 04 |
-| **[Bloomberg](https://www.bloomberg.com/)** | **[BloombergNEF - Administrative & Data Analyst Contractor (10-Month Contract)](https://jobr.pro/job/37388268/bloombergnef-administrative-data-analyst-contractor-10-month-contract?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York | On Site | Feb 04 |
-| **[Bloomberg](https://www.bloomberg.com/)** | **[Senior Software Engineer / SRE - Real-time Data](https://jobr.pro/job/37388260/senior-software-engineer-sre-real-time-data?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London | On Site | Feb 04 |
-| **[Bloomberg](https://www.bloomberg.com/)** | **[Enterprise Data Sales Representative (EDSR), Hong Kong](https://jobr.pro/job/37388258/enterprise-data-sales-representative-edsr-hong-kong?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hong Kong | On Site | Feb 04 |
-| **[Penske](https://www.gopenske.com/)** | **[Supply Chain Analyst](https://jobr.pro/job/37397188/supply-chain-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Dearborn, MI, United States | On Site | Feb 04 |
-| **[University of Iowa Health Care](https://uihealthcare.org/)** | **[Lead Vizient Data Analyst/Business Intelligence Architect](https://jobr.pro/job/37388255/lead-vizient-data-analystbusiness-intelligence-architect?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Iowa City | On Site | Feb 04 |
-| **[Citco](https://www.citco.com/)** | **[Sr. Data Engineer - BI](https://jobr.pro/job/37397271/sr-data-engineer-bi?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Telangana, India | On Site | Feb 04 |
-| **[ManTech](https://www.mantech.com/)** | **[Senior Information Security Analyst](https://jobr.pro/job/37387827/senior-information-security-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | USA-VA-Virginia Beach | On Site | Feb 04 |
-| **[ManTech](https://www.mantech.com/)** | **[Data Engineer](https://jobr.pro/job/37387820/data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | USA-VA-Herndon | On Site | Feb 04 |
-| **[Navy Exchange Service Command (NEXCOM)](https://www.mynavyexchange.com/)** | **[SECURITY ANALYST (INFOSEC - LEVEL IV)](https://jobr.pro/job/37387757/security-analyst-infosec-level-iv?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United States-Virginia-Virginia Beach | On Site | Feb 04 |
-| **[Syngenta Group](https://www.syngenta.com)** | **[Global Head - Finance Data & Reporting COE](https://jobr.pro/job/37387245/global-head-finance-data-reporting-coe?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Pune, MAHĀRĀSHTRA, India | On Site | Feb 04 |
-| **[BAE Systems](https://www.baesystems.com/)** | **[Operational Requirements Analyst](https://jobr.pro/job/37386996/operational-requirements-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | GB-ENG-SRY-New Malden | On Site | Feb 04 |
-| **[BAE Systems](https://www.baesystems.com/)** | **[Manufacturing Data Analyst](https://jobr.pro/job/37386976/manufacturing-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | GB-ENG-LAN-Samlesbury | On Site | Feb 04 |
-| **[Deloitte](https://www.deloitte.com/)** | **[Treasury Analyst](https://jobr.pro/job/37386573/treasury-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York, New York, United States | On Site | Feb 04 |
-| **[Deloitte](https://www.deloitte.com/)** | **[Journeyman Defensive Cyber Analyst \| Yokosuka, Japan](https://jobr.pro/job/37386271/journeyman-defensive-cyber-analyst-yokosuka-japan?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Arlington/Rosslyn, Virginia, United States | On Site | Feb 04 |
-| **[Deloitte](https://www.deloitte.com/)** | **[Law Enforcement Support Analyst](https://jobr.pro/job/37386222/law-enforcement-support-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Los Angeles, California, United States | On Site | Feb 04 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 40 companies | Avg salary: 146k  
+**Current Stats:** 50 jobs | 14% remote | 45 companies | Avg salary: 136k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
