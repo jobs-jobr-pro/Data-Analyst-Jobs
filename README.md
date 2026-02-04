@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2026
 
-<sub><small>Last updated: Feb 03, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Feb 04, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -14,6 +14,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Gartner](https://www.gartner.com/)** | **[Lead Security Analyst](https://jobr.pro/job/37299178/lead-security-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | North Sydney - 40 Mount, Australia | On Site | Feb 04 |
+| **[NN Group](https://www.nn-group.com/)** | **[Data Engineer](https://jobr.pro/job/37335674/data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | The Hague - Haagse Poort - Low Rise, Netherlands | On Site | Feb 04 |
+| **[S&P Global](https://www.spglobal.com/)** | **[Data Analyst, Data Operations](https://jobr.pro/job/37330665/data-analyst-data-operations?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | IN - AHMEDABAD, India | On Site | Feb 04 |
+| **[S&P Global](https://www.spglobal.com/)** | **[Sales Specialist, Capital IQ Solutions and Data Feeds, ASEAN](https://jobr.pro/job/37330703/sales-specialist-capital-iq-solutions-and-data-feeds-asean?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | SG - SINGAPORE 12 MARINA BOULEVARD, Singapore | On Site | Feb 04 |
 | **[XPENG](https://www.xiaopeng.com/)** | **[Data Scientist](https://jobr.pro/job/37328662/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | 深圳、上海、北京、中国香港 | On Site | Feb 03 |
 | **[ADP](https://www.adp.com/)** | **[Lead Data Scientist](https://jobr.pro/job/37321831/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Roseland, NJ, United States | On Site | Feb 03 |
 | **[Revecore](https://revecore.com/)** | **[Underpayment Analyst](https://jobr.pro/job/37321534/underpayment-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote, United States | Remote | Feb 03 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov/)** | **[DPS - DLD - License Analyst, HQ Ops - 0171](https://jobr.pro/job/37297320/dps-dld-license-analyst-hq-ops-0171?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Texas-Austin | On Site | Feb 03 |
 | **[American Express](https://www.americanexpress.com/)** | **[Analyst, Compliance (18-month Cross Train)](https://jobr.pro/job/37297085/analyst-compliance-18-month-cross-train?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Canada-Ontario-Toronto | On Site | Feb 03 |
 | **[IEEE](https://www.ieee.org/)** | **[Sr Procurement Operations Analyst](https://jobr.pro/job/37296891/sr-procurement-operations-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United States-New Jersey-Piscataway | On Site | Feb 03 |
-| **[IEEE](https://www.ieee.org/)** | **[Treasury Analyst (E2393)](https://jobr.pro/job/37296886/treasury-analyst-e2393?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United States-New Jersey-Piscataway | On Site | Feb 03 |
-| **[State of Ohio](https://ohio.gov/)** | **[Senior Data Integration Lead (Software Development Specialist 3)](https://jobr.pro/job/37296727/senior-data-integration-lead-software-development-specialist-3?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United States of America-OHIO-Franklin County-Columbus | On Site | Feb 03 |
-| **[Copper Quail Global](https://cquail.com/)** | **[Senior Financial Analyst](https://jobr.pro/job/37296704/senior-financial-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Cape Town, South Africa | On Site | Feb 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 40 companies | Avg salary: 99k  
+**Current Stats:** 50 jobs | 28% remote | 40 companies | Avg salary: 94k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
