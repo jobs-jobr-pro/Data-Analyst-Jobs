@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2026
 
-<sub><small>Last updated: Feb 05, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Feb 06, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Gartner](https://www.gartner.com/)** | **[Data Analyst](https://jobr.pro/job/37509143/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Gurgaon - Cyber Park, India | On Site | Feb 06 |
+| **[Gartner](https://www.gartner.com/)** | **[Data Analyst (Quant/Qual Problem Solving, SQL, Excel, Databricks)](https://jobr.pro/job/37509142/data-analyst-quantqual-problem-solving-sql-excel-databricks?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Gurgaon - Cyber Park, India | On Site | Feb 06 |
 | **[ADP](https://www.adp.com/)** | **[Sr. Analyst, Operations Strategy](https://jobr.pro/job/37502042/sr-analyst-operations-strategy?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Florham Park, NJ, United States | On Site | Feb 05 |
 | **[ADP](https://www.adp.com/)** | **[Data Scientist Development Program](https://jobr.pro/job/37502029/data-scientist-development-program?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Nanterre cedex, fra-fr, France | On Site | Feb 05 |
 | **[ADP](https://www.adp.com/)** | **[Director Sales & Marketing Data Quality Transformation](https://jobr.pro/job/37502020/director-sales-marketing-data-quality-transformation?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Roseland, NJ, United States | On Site | Feb 05 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Genpact](https://www.genpact.com/)** | **[Lead Consultant - AI / Data Annotator](https://jobr.pro/job/37482369/lead-consultant-ai-data-annotator?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Philippines-Quezon City | On Site | Feb 05 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov/)** | **[TCEQ - Systems Analyst IV (TCEQ Employees Only))](https://jobr.pro/job/37482320/tceq-systems-analyst-iv-tceq-employees-only?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Texas-Austin | On Site | Feb 05 |
 | **[Children's National Hospital](https://www.childrensnational.org/)** | **[Benefits Analyst](https://jobr.pro/job/37482179/benefits-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Maryland-Silver Spring | On Site | Feb 05 |
-| **[American Express](https://www.americanexpress.com/)** | **[Senior Analyst-Treasury](https://jobr.pro/job/37482122/senior-analyst-treasury?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US-New York-New York | On Site | Feb 05 |
-| **[Aga Khan University](https://www.aku.edu/)** | **[Programmer Analyst (Data Management Unit), Paediatrics & Child Health -MC](https://jobr.pro/job/37481920/programmer-analyst-data-management-unit-paediatrics-child-health-mc?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Pakistan | On Site | Feb 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 36 companies | Avg salary: 79k  
+**Current Stats:** 50 jobs | 4% remote | 35 companies | Avg salary: 76k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, tableau, power bi  
