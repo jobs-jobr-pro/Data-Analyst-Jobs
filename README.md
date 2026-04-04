@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2026
 
-<sub><small>Last updated: Apr 03, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Apr 04, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
