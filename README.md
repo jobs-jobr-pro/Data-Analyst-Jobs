@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data analyst Jobs 2026
 
-<sub><small>Last updated: Apr 04, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Apr 05, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Data analyst opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,15 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Hormel Foods](https://www.hormel.com/)** | **[Data Analyst/Associate Data Engineer - IT (Austin, MN/Willmar, MN/Eden Prairie, MN)](https://jobr.pro/job/40225255/data-analystassociate-data-engineer-it-austin-mnwillmar-mneden-prairie-mn?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Austin, MN, United States | On Site | Apr 03 |
 | **[PwC](https://www.pwc.com/)** | **[Alternance Assistant Data Engineering / Data Analyst - F/H](https://jobr.pro/job/40190131/alternance-assistant-data-engineering-data-analyst-fh?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris - Crystal Park, France | On Site | Mar 31 |
 | **[IRIUM Portugal](https://www.irium.pt/)** | **[Data Engineer / Data Analyst](https://jobr.pro/job/40183123/data-engineer-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Lisboa, Lisboa | On Site | Mar 30 |
 | **[Airbus](https://www.airbus.com/)** | **[ALT 2026 - Apprenti Data Analyst ou Data Scientist - Assurance Qualité A320 (F/H)](https://jobr.pro/job/40182892/alt-2026-apprenti-data-analyst-ou-data-scientist-assurance-qualite-a320-fh?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toulouse - Saint-Martin, France | On Site | Mar 30 |
-| **[Xenit](https://xenit.se/)** | **[Senior Data Engineer/Data Analyst](https://jobr.pro/job/40181258/senior-data-engineerdata-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Malmo, Sweden | On Site | Mar 29 |
-| **[Free2move](https://www.free2move.com)** | **[Data Analyst / Data Scientist Intern – ENG –](https://jobr.pro/job/40181189/data-analyst-data-scientist-intern-eng-?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris, France | On Site | Mar 29 |
 
 ---
 
-**Current Stats:** 5 jobs | 0% remote | 5 companies | Avg salary: Not specified  
+**Current Stats:** 4 jobs | 0% remote | 4 companies | Avg salary: 104k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
