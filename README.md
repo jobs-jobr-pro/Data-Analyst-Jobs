@@ -1,9 +1,9 @@
 <!-- prettier-ignore-start -->
-# Data analyst Jobs 2026
+# Data Analyst Jobs — 2026
 
-<sub><small>Last updated: Apr 07, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Apr 08, 2026 at 13:00 UTC</small></sub>
 
-This repository collects curated **Data analyst opportunities in 2026**.  
+This repository collects curated **Data Analyst job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
 
 Visit [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs) — **you choose the job, we handle the paperwork**.  
@@ -13,12 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Insify](https://www.insify.nl/)** | **[Data Analyst / Analytics Engineer](https://jobr.pro/job/40248256/data-analyst-analytics-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Amsterdam | On Site | Apr 06 |
 | **[Weekday](https://www.weekday.works)** | **[Data Analyst / Data Scientist](https://jobr.pro/job/40229213/data-analyst-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | India - Remote | Remote | Apr 05 |
 | **[Hormel Foods](https://www.hormel.com/)** | **[Data Analyst/Associate Data Engineer - IT (Austin, MN/Willmar, MN/Eden Prairie, MN)](https://jobr.pro/job/40225255/data-analystassociate-data-engineer-it-austin-mnwillmar-mneden-prairie-mn?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Austin, MN, United States | On Site | Apr 03 |
 
 ---
 
-**Current Stats:** 2 jobs | 50% remote | 2 companies | Avg salary: 652k  
+**Current Stats:** 3 jobs | 33% remote | 3 companies | Avg salary: 652k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
@@ -26,11 +27,11 @@ _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
 
-This repository tracks current Data analyst positions from companies across different industries, updated daily.
+This repository tracks **Data Analyst positions** from companies across different industries, updated daily.
 
 **What makes this useful:**
 
-- Fresh Data analyst positions aggregated from multiple job boards
+- Fresh **Data Analyst positions** aggregated from multiple job boards
 - Daily updates mean you see opportunities as soon as they're posted
 - Mix of remote, hybrid, and on-site positions from various company sizes
 - Direct links to apply on company career pages
@@ -47,7 +48,7 @@ This repository tracks current Data analyst positions from companies across diff
 
 ## For Recruiters
 
-This repository gets consistent traffic from Data analyst professionals actively job searching. The audience is pre-qualified and specifically interested in Data analyst opportunities.
+This repository gets consistent traffic from **Data Analyst professionals** actively job searching. The audience is pre-qualified and specifically interested in **Data Analyst opportunities**.
 
 This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs). If you find any issues or have suggestions, please contact us at hello@jobr.pro.
 
