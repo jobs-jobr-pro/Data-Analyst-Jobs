@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Analyst Jobs — 2026
 
-<sub><small>Last updated: Apr 10, 2026 at 13:01 UTC</small></sub>
+<sub><small>Last updated: Apr 11, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Data Analyst job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,14 +13,16 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[TreviPay](https://www.trevipay.com/)** | **[Data Analyst / Analytics Engineer](https://jobr.pro/job/40281791/data-analyst-analytics-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Jose, Costa Rica | On Site | Apr 10 |
+| **[ING](https://www.ing.com/)** | **[Data Analyst with strong Data Scientist skills](https://jobr.pro/job/40277338/data-analyst-with-strong-data-scientist-skills?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | CDR (Amsterdam - Cedar), Netherlands | On Site | Apr 10 |
+| **[ING Nederland](https://www.ing.com/)** | **[Data Analyst with strong Data Scientist skills](https://jobr.pro/job/40281284/data-analyst-with-strong-data-scientist-skills?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | CDR (Amsterdam - Cedar), Netherlands | On Site | Apr 10 |
 | **[Decathlon Digital](https://www.decathlon.com/)** | **[Senior Data Analyst & Analytics Engineer - Franchise (H/F)](https://jobr.pro/job/40268839/senior-data-analyst-analytics-engineer-franchise-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Lille - Btwin Village, Nord, France | On Site | Apr 09 |
 | **[Insify](https://www.insify.nl/)** | **[Data Analyst / Analytics Engineer](https://jobr.pro/job/40248256/data-analyst-analytics-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Amsterdam | On Site | Apr 06 |
 | **[Weekday](https://www.weekday.works)** | **[Data Analyst / Data Scientist](https://jobr.pro/job/40229213/data-analyst-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | India - Remote | Remote | Apr 05 |
-| **[Hormel Foods](https://www.hormel.com/)** | **[Data Analyst/Associate Data Engineer - IT (Austin, MN/Willmar, MN/Eden Prairie, MN)](https://jobr.pro/job/40225255/data-analystassociate-data-engineer-it-austin-mnwillmar-mneden-prairie-mn?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Austin, MN, United States | On Site | Apr 03 |
 
 ---
 
-**Current Stats:** 4 jobs | 25% remote | 4 companies | Avg salary: 652k  
+**Current Stats:** 6 jobs | 17% remote | 6 companies | Avg salary: 1200k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
