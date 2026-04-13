@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Analyst Jobs — 2026
 
-<sub><small>Last updated: Apr 12, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Apr 13, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Data Analyst job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -17,11 +17,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ING Nederland](https://www.ing.com/)** | **[Data Analyst with strong Data Scientist skills](https://jobr.pro/job/40281284/data-analyst-with-strong-data-scientist-skills?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | CDR (Amsterdam - Cedar), Netherlands | On Site | Apr 10 |
 | **[ING](https://www.ing.com/)** | **[Data Analyst with strong Data Scientist skills](https://jobr.pro/job/40273351/data-analyst-with-strong-data-scientist-skills?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | CDR (Amsterdam - Cedar), Netherlands | On Site | Apr 10 |
 | **[Decathlon Digital](https://www.decathlon.com/)** | **[Senior Data Analyst & Analytics Engineer - Franchise (H/F)](https://jobr.pro/job/40268839/senior-data-analyst-analytics-engineer-franchise-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Lille - Btwin Village, Nord, France | On Site | Apr 09 |
-| **[Insify](https://www.insify.nl/)** | **[Data Analyst / Analytics Engineer](https://jobr.pro/job/40248256/data-analyst-analytics-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Amsterdam | On Site | Apr 06 |
 
 ---
 
-**Current Stats:** 5 jobs | 0% remote | 5 companies | Avg salary: Not specified  
+**Current Stats:** 4 jobs | 0% remote | 4 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
