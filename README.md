@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Analyst Jobs — 2026
 
-<sub><small>Last updated: Apr 24, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Apr 25, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Data Analyst job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[CI&T - Technology Transformation Specialists](https://ciandt.com)** | **[\[Job - 28996\] Senior Data Analyst, Brazil](https://jobr.pro/job/40490175/job-28996-senior-data-analyst-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Brazil | On Site | Apr 24 |
+| **[PlayStation Global]()** | **[Sr. Portfolio Data Analyst](https://jobr.pro/job/40487588/sr-portfolio-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United States, San Mateo, CA | On Site | Apr 24 |
+| **[MongoDB](https://mongodb.com)** | **[Senior Data Analyst II, Product](https://jobr.pro/job/40487507/senior-data-analyst-ii-product?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Austin | On Site | Apr 24 |
+| **[Unknown Company](https://jobgether.com)** | **[Data Analyst - Revenue Ops](https://jobr.pro/job/40487815/data-analyst-revenue-ops?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US | On Site | Apr 24 |
+| **[Unknown Company](https://jobgether.com)** | **[Senior Data Analyst (Marketing Experience)](https://jobr.pro/job/40488015/senior-data-analyst-marketing-experience?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Israel | On Site | Apr 24 |
+| **[AKQA](https://akqa.com)** | **[Data Analyst](https://jobr.pro/job/40485829/data-analyst-?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Johannesburg | On Site | Apr 24 |
+| **[Find a Patient Advocate Covered by Insurance \| Solace](https://www.solace.health/)** | **[Data Analyst - Customer Experience](https://jobr.pro/job/40486793/data-analyst-customer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United States | Remote | Apr 24 |
+| **[Zipline]()** | **[Data Analyst](https://jobr.pro/job/40491215/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | South San Francisco, California, USA | On Site | Apr 23 |
 | **[Zipline](https://www.flyzipline.com/)** | **[Systems Engineering Data Analyst](https://jobr.pro/job/40483120/systems-engineering-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kigali, Rwanda | On Site | Apr 23 |
 | **[RTB House](https://rtbhouse.com)** | **[Senior Data Analyst](https://jobr.pro/job/40473598/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Brazil | On Site | Apr 23 |
 | **[RTB House](https://rtbhouse.com)** | **[Data Analyst](https://jobr.pro/job/40473597/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Brazil | On Site | Apr 23 |
@@ -33,6 +41,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Unknown Company](https://jobgether.com)** | **[Senior Data Analyst, Risk Adjustment](https://jobr.pro/job/40471241/senior-data-analyst-risk-adjustment?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US | On Site | Apr 21 |
 | **[Unknown Company](https://jobgether.com)** | **[Senior Data Analyst (Remote Work)](https://jobr.pro/job/40471238/senior-data-analyst-remote-work?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Minnesota | Remote | Apr 21 |
 | **[xAI](https://x.ai)** | **[Data Analyst - Physical Infrastructure](https://jobr.pro/job/40451342/data-analyst-physical-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Memphis, TN | On Site | Apr 20 |
+| **[CI&T - Technology Transformation Specialists](https://ciandt.com)** | **[\[Job - 28976\] Senior Data Analyst](https://jobr.pro/job/40490173/job-28976-senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Brazil | On Site | Apr 20 |
 | **[Unknown Company](https://jobgether.com)** | **[Sr. Data Analyst](https://jobr.pro/job/40471982/sr-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US | On Site | Apr 20 |
 | **[Unknown Company](https://jobgether.com)** | **[Principal Data Analyst, Product](https://jobr.pro/job/40470042/principal-data-analyst-product?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Spain | On Site | Apr 20 |
 | **[Ensono](https://ensono.com)** | **[Data Analyst – Operations](https://jobr.pro/job/40443751/data-analyst-operations?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Pune, India | On Site | Apr 20 |
@@ -41,20 +50,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[GFiber]()** | **[Data Analyst](https://jobr.pro/job/40448047/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote | Remote | Apr 20 |
 | **[Unknown Company](https://jobgether.com)** | **[Remote Sr. Data Analyst](https://jobr.pro/job/40470866/remote-sr-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Illinois | Remote | Apr 20 |
 | **[Unknown Company](https://jobgether.com)** | **[Remote Marketing Data Analyst](https://jobr.pro/job/40470652/remote-marketing-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Pennsylvania | Remote | Apr 20 |
-| **[Unknown Company](https://jobgether.com)** | **[Remote Sr. BI Data Analyst](https://jobr.pro/job/40470862/remote-sr-bi-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Idaho | Remote | Apr 18 |
-| **[Unknown Company](https://jobgether.com)** | **[Lead BI Data Analyst - remote](https://jobr.pro/job/40469458/lead-bi-data-analyst-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Florida | Remote | Apr 18 |
-| **[Unknown Company](https://jobgether.com)** | **[Remote BI Data Analyst](https://jobr.pro/job/40470413/remote-bi-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | California | Remote | Apr 18 |
-| **[Unknown Company](https://jobgether.com)** | **[Sr. BI Data Analyst (Remote)](https://jobr.pro/job/40471929/sr-bi-data-analyst-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Connecticut | Remote | Apr 18 |
-| **[Unknown Company](https://jobgether.com)** | **[Senior BI Data Analyst - REMOTE](https://jobr.pro/job/40471165/senior-bi-data-analyst-remote?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Arizona | Remote | Apr 18 |
-| **[Applied Intuition](https://appliedintuition.com)** | **[People Data Analyst](https://jobr.pro/job/40414984/people-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Sunnyvale, California, United States | On Site | Apr 17 |
-| **[Konrad]()** | **[Senior Data Analyst](https://jobr.pro/job/40416717/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toronto | On Site | Apr 17 |
-| **[Aurora Innovation](https://aurorainnovation.com)** | **[Senior Data Analyst, Workforce Strategy](https://jobr.pro/job/40428510/senior-data-analyst-workforce-strategy?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Dallas, Texas | On Site | Apr 17 |
-| **[Valtech](https://valtech.com)** | **[Data Analyst - Adobe Analytics](https://jobr.pro/job/40412174/data-analyst-adobe-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Argentina - Remote | Remote | Apr 17 |
-| **[Konrad]()** | **[Data Analyst](https://jobr.pro/job/40416711/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San José, Costa Rica | On Site | Apr 17 |
 
 ---
 
-**Current Stats:** 38 jobs | 47% remote | 13 companies | Avg salary: Not specified  
+**Current Stats:** 37 jobs | 35% remote | 14 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
