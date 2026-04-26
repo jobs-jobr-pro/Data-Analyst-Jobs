@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Analyst Jobs — 2026
 
-<sub><small>Last updated: Apr 25, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Apr 26, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Data Analyst job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -20,8 +20,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Unknown Company](https://jobgether.com)** | **[Senior Data Analyst (Marketing Experience)](https://jobr.pro/job/40488015/senior-data-analyst-marketing-experience?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Israel | On Site | Apr 24 |
 | **[AKQA](https://akqa.com)** | **[Data Analyst](https://jobr.pro/job/40485829/data-analyst-?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Johannesburg | On Site | Apr 24 |
 | **[Find a Patient Advocate Covered by Insurance \| Solace](https://www.solace.health/)** | **[Data Analyst - Customer Experience](https://jobr.pro/job/40486793/data-analyst-customer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United States | Remote | Apr 24 |
-| **[Zipline]()** | **[Data Analyst](https://jobr.pro/job/40491215/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | South San Francisco, California, USA | On Site | Apr 23 |
 | **[Zipline](https://www.flyzipline.com/)** | **[Systems Engineering Data Analyst](https://jobr.pro/job/40483120/systems-engineering-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kigali, Rwanda | On Site | Apr 23 |
+| **[Zipline]()** | **[Data Analyst](https://jobr.pro/job/40491215/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | South San Francisco, California, USA | On Site | Apr 23 |
 | **[RTB House](https://rtbhouse.com)** | **[Senior Data Analyst](https://jobr.pro/job/40473598/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Brazil | On Site | Apr 23 |
 | **[RTB House](https://rtbhouse.com)** | **[Data Analyst](https://jobr.pro/job/40473597/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Brazil | On Site | Apr 23 |
 | **[Unknown Company](https://jobgether.com)** | **[Senior Clinical Data Analyst](https://jobr.pro/job/40471191/senior-clinical-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US | On Site | Apr 23 |
