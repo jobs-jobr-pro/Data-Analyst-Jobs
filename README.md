@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Analyst Jobs — 2026
 
-<sub><small>Last updated: May 09, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 10, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Data Analyst job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Similarweb](https://similarweb.com)** | **[Data Engineer](https://jobr.pro/job/40701381/data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv-Yafo | On Site | May 10 |
+| **[Power Digital](https://powerdigitalmarketing.com)** | **[AI Data Engineer](https://jobr.pro/job/40697408/ai-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - United States | Remote | May 09 |
+| **[JioStar](https://jiostar.com)** | **[Sr Data Scientist - GenAI](https://jobr.pro/job/40694113/sr-data-scientist-genai?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bengaluru | On Site | May 09 |
+| **[Capco](https://capcomfcu.org)** | **[Technical Business Analyst](https://jobr.pro/job/40694727/technical-business-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | India - Bengaluru | On Site | May 09 |
 | **[Dun & Bradstreet](https://dnb.com)** | **[Senior Data Engineer-AI (R-19035)](https://jobr.pro/job/40689921/senior-data-engineer-ai-r-19035?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Shanghai - China | On Site | May 09 |
 | **[BJAK](https://bjak.my/en/about-us)** | **[Data Engineer](https://jobr.pro/job/40689120/data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Malaysia | On Site | May 09 |
 | **[Archer](https://archerreview.com)** | **[Sr Staff Engineer, Data Infrastructure](https://jobr.pro/job/40690967/sr-staff-engineer-data-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Jose, California, United States | On Site | May 09 |
@@ -28,7 +32,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[LIGHTFEATHER IO LLC]()** | **[Senior Technical ServiceNow Business Analyst - Secret Cleared](https://jobr.pro/job/40688930/senior-technical-servicenow-business-analyst-secret-cleared?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United States | On Site | May 08 |
 | **[LIGHTFEATHER IO LLC]()** | **[Senior ServiceNow Business Analyst](https://jobr.pro/job/40688927/senior-servicenow-business-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United States | On Site | May 08 |
 | **[Accenture Federal Services](https://accenture.com)** | **[Data Architect](https://jobr.pro/job/40684584/data-architect?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Arlington, VA | On Site | May 08 |
-| **[Scribd, Inc.](https://scribdinc.com)** | **[Senior AI Data Engineer](https://jobr.pro/job/40687616/senior-ai-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco | On Site | May 08 |
+| **[Scribd, Inc.](https://scribdinc.com)** | **[Senior AI Data Engineer](https://jobr.pro/job/40688504/senior-ai-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco | On Site | May 08 |
 | **[StackAdapt](https://stackadapt.com)** | **[Staff II Software Engineer, Data Ingestion](https://jobr.pro/job/40684604/staff-ii-software-engineer-data-ingestion?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Alberta, Canada; British Columbia; Canada; Ontario; Toronto; United States; Vancouver | On Site | May 08 |
 | **[Airbnb](https://airbnb.com)** | **[Machine Learning Engineer, Relevance and Personalization](https://jobr.pro/job/40685071/machine-learning-engineer-relevance-and-personalization?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United States | On Site | May 08 |
 | **[Faire](https://faire.com)** | **[Staff Machine Learning Platform Engineer](https://jobr.pro/job/40684743/staff-machine-learning-platform-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kitchener-Waterloo, ON; Toronto, ON | On Site | May 08 |
@@ -55,18 +59,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Braze](https://braze.com)** | **[Senior Sales Data Analyst](https://jobr.pro/job/40681986/senior-sales-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | São Paulo | On Site | May 08 |
 | **[Kunai](https://kuna.io)** | **[Senior Data Engineer](https://jobr.pro/job/40688359/senior-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - United States | Remote | May 08 |
 | **[Pelmorex](https://pelmorex.com)** | **[Senior Data Engineer - Hybrid](https://jobr.pro/job/40684399/senior-data-engineer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Oakville, Canada | On Site | May 08 |
-| **[Unity Technologies](https://unitytec.com)** | **[Machine Learning Engineer, Offline Infrastructure (Entry-Level / New Grad PhD)](https://jobr.pro/job/40685237/machine-learning-engineer-offline-infrastructure-entry-level-new-grad-phd?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bellevue, WA, USA | On Site | May 08 |
+| **[Unity Technologies](https://unitytec.com)** | **[Machine Learning Engineer, Offline Infrastructure (Entry-Level / New Grad PhD)](https://jobr.pro/job/40685236/machine-learning-engineer-offline-infrastructure-entry-level-new-grad-phd?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco, CA, USA | On Site | May 08 |
 | **[Match Group](https://mtch.com)** | **[Machine Learning Engineer, Trust & Safety](https://jobr.pro/job/40681796/machine-learning-engineer-trust-safety?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York, New York | On Site | May 08 |
 | **[FanDuel](https://fanduel.com)** | **[Sr. Data Governance Analyst](https://jobr.pro/job/40689651/sr-data-governance-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Atlanta, Georgia, United States | On Site | May 08 |
 | **[Everlaw](https://everlaw.com)** | **[Data Analyst](https://jobr.pro/job/40689083/data-analyst-?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Oakland, California, United States | On Site | May 08 |
-| **[Checkout](https://www.checkout.com/)** | **[Data Analyst, Financial Crime Compliance](https://jobr.pro/job/40680742/data-analyst-financial-crime-compliance?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London | On Site | May 08 |
-| **[Encora](https://encora.com)** | **[Lead Data Engineer](https://jobr.pro/job/40680758/lead-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Colombia | On Site | May 08 |
-| **[Okta](https://okta.com)** | **[Principal Software Engineer, AI (Web & Data)](https://jobr.pro/job/40680972/principal-software-engineer-ai-web-data?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toronto, Ontario, Canada | On Site | May 08 |
-| **[Encora](https://encora.com)** | **[Senior Data Analyst](https://jobr.pro/job/40680780/senior-data-analyst-?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bolivia | On Site | May 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 39 companies | Avg salary: 8.76923927885553e+149k  
+**Current Stats:** 50 jobs | 22% remote | 40 companies | Avg salary: 9.12000885000975e+143k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
