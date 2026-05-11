@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Analyst Jobs — 2026
 
-<sub><small>Last updated: May 10, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 11, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Data Analyst job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,7 +13,19 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Coupang](https://coupang.com)** | **[Senior Data Analyst(First Mile Experience)](https://jobr.pro/job/40712958/senior-data-analystfirst-mile-experience?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Seoul, South Korea | On Site | May 11 |
+| **[Airwallex SG](https://www.airwallex.com)** | **[Staff Data Scientist, Algorithm - Financial Markets](https://jobr.pro/job/40706433/staff-data-scientist-algorithm-financial-markets?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US - San Francisco | Remote | May 11 |
+| **[Unison Group](https://unisonindia.com)** | **[Business Analyst](https://jobr.pro/job/40713149/business-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia | On Site | May 11 |
+| **[Unison Group](https://unisonindia.com)** | **[Data engineer (Azure Databricks)](https://jobr.pro/job/40713154/data-engineer-azure-databricks?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bengaluru, Karnataka, India | On Site | May 11 |
+| **[Rightmove Careers]()** | **[Senior Business Analyst](https://jobr.pro/job/40704399/senior-business-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London, UK | On Site | May 10 |
+| **[Lendbuzz](https://lendbuzz.com)** | **[Data Engineer](https://jobr.pro/job/40705050/data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv | On Site | May 10 |
+| **[Referrals Only]()** | **[Senior Business Analyst](https://jobr.pro/job/40703851/senior-business-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Gurgaon, India | On Site | May 10 |
+| **[JMA Wireless](https://jmawireless.com)** | **[Lead Business Systems Analyst (SAP)](https://jobr.pro/job/40702017/lead-business-systems-analyst-sap?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Syracuse, NY | On Site | May 10 |
+| **[Similarweb](https://similarweb.com)** | **[Senior Data Engineer ( Data Collection)](https://jobr.pro/job/40704765/-senior-data-engineer-data-collection?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv-Yafo | On Site | May 10 |
 | **[Similarweb](https://similarweb.com)** | **[Data Engineer](https://jobr.pro/job/40701381/data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv-Yafo | On Site | May 10 |
+| **[Adf Medical Services Inc]()** | **[Data Analyst](https://jobr.pro/job/40713268/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toronto, Ontario, Canada | Remote | May 10 |
+| **[Xenon7](https://xenon.bot)** | **[Senior Business Analyst - Banking](https://jobr.pro/job/40709003/senior-business-analyst-banking?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New Cairo City, Cairo Governorate, Egypt | On Site | May 10 |
+| **[Adf Medical Services Inc]()** | **[Data Analyst-Part time](https://jobr.pro/job/40713273/data-analyst-part-time?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Washington, District of Columbia, United States | Remote | May 10 |
 | **[Power Digital](https://powerdigitalmarketing.com)** | **[AI Data Engineer](https://jobr.pro/job/40697408/ai-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - United States | Remote | May 09 |
 | **[JioStar](https://jiostar.com)** | **[Sr Data Scientist - GenAI](https://jobr.pro/job/40694113/sr-data-scientist-genai?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bengaluru | On Site | May 09 |
 | **[Capco](https://capcomfcu.org)** | **[Technical Business Analyst](https://jobr.pro/job/40694727/technical-business-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | India - Bengaluru | On Site | May 09 |
@@ -23,6 +35,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zscaler](https://zscaler.com)** | **[Senior Specialist Sales Engineer - Data Security, Commercial](https://jobr.pro/job/40686240/senior-specialist-sales-engineer-data-security-commercial?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - USA | Remote | May 09 |
 | **[Zscaler](https://zscaler.com)** | **[Principal Specialist Sales Engineer - Data Security, SLED/Healthcare](https://jobr.pro/job/40686239/principal-specialist-sales-engineer-data-security-sledhealthcare?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - USA | Remote | May 09 |
 | **[CHAOS Industries](https://chaosinc.com)** | **[Data Scientist: Mission Engineering](https://jobr.pro/job/40691223/data-scientist-mission-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hawthorne, California, United States | On Site | May 08 |
+| **[Sono Bello](https://sonobello.com)** | **[Data Engineer](https://jobr.pro/job/40702673/data-engineer-?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | WA - Bellevue | On Site | May 08 |
 | **[Hunter Douglas](https://hunterdouglas.com)** | **[AI Data Scientist](https://jobr.pro/job/40686896/ai-data-scientist-?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Broomfield, CO, United States | On Site | May 08 |
 | **[Openai](https://openai.com/)** | **[People Data Scientist](https://jobr.pro/job/40686445/people-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco | Remote | May 08 |
 | **[PlayStation Global]()** | **[Senior Game Data Analyst](https://jobr.pro/job/40687603/senior-game-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United Kingdom, Remote | Remote | May 08 |
@@ -50,23 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Amplitude](https://amplitude.com)** | **[Senior Data Scientist](https://jobr.pro/job/40689252/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco, CA | On Site | May 08 |
 | **[Radiant](https://www.radiantnuclear.com/)** | **[Staff DevOps Engineer, Enterprise Data](https://jobr.pro/job/40686923/staff-devops-engineer-enterprise-data?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | El Segundo, CA | On Site | May 08 |
 | **[Konrad](https://kas.de)** | **[Senior Data Engineer](https://jobr.pro/job/40688538/senior-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toronto | On Site | May 08 |
-| **[Agile Defense](https://agiledefense.com)** | **[Data Scientist](https://jobr.pro/job/40682367/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Falls Church, VA | On Site | May 08 |
-| **[Faire](https://faire.com)** | **[Senior Business Intelligence Analyst](https://jobr.pro/job/40684741/senior-business-intelligence-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York City, NY; San Francisco, CA | On Site | May 08 |
-| **[LG Electronics](https://lg.com)** | **[Business Analyst](https://jobr.pro/job/40682500/business-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Englewood Cliffs, NJ | On Site | May 08 |
-| **[Electrosoft](https://electrosoftbd.com)** | **[Data Analyst II](https://jobr.pro/job/40683313/data-analyst-ii?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Atlanta, GA | On Site | May 08 |
-| **[arsys EN](https://arsys.es)** | **[Backend Engineer - ERP Systems & Data Migration (AI-Enhanced Role)(f/m/d)](https://jobr.pro/job/40690972/-backend-engineer-erp-systems-data-migration-ai-enhanced-rolefmd?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Carrer de la Llacuna 161, 08018 Barcelona | On Site | May 08 |
-| **[arsys EN](https://arsys.es)** | **[Backend Engineer - ERP Systems & Data Migration (AI-Enhanced Role)](https://jobr.pro/job/40690971/backend-engineer-erp-systems-data-migration-ai-enhanced-role?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Avenida de las Cortes Valencianas 58, 46015 Valencia | On Site | May 08 |
-| **[Braze](https://braze.com)** | **[Senior Sales Data Analyst](https://jobr.pro/job/40681986/senior-sales-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | São Paulo | On Site | May 08 |
-| **[Kunai](https://kuna.io)** | **[Senior Data Engineer](https://jobr.pro/job/40688359/senior-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - United States | Remote | May 08 |
-| **[Pelmorex](https://pelmorex.com)** | **[Senior Data Engineer - Hybrid](https://jobr.pro/job/40684399/senior-data-engineer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Oakville, Canada | On Site | May 08 |
-| **[Unity Technologies](https://unitytec.com)** | **[Machine Learning Engineer, Offline Infrastructure (Entry-Level / New Grad PhD)](https://jobr.pro/job/40685236/machine-learning-engineer-offline-infrastructure-entry-level-new-grad-phd?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco, CA, USA | On Site | May 08 |
-| **[Match Group](https://mtch.com)** | **[Machine Learning Engineer, Trust & Safety](https://jobr.pro/job/40681796/machine-learning-engineer-trust-safety?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York, New York | On Site | May 08 |
-| **[FanDuel](https://fanduel.com)** | **[Sr. Data Governance Analyst](https://jobr.pro/job/40689651/sr-data-governance-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Atlanta, Georgia, United States | On Site | May 08 |
-| **[Everlaw](https://everlaw.com)** | **[Data Analyst](https://jobr.pro/job/40689083/data-analyst-?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Oakland, California, United States | On Site | May 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 40 companies | Avg salary: 9.12000885000975e+143k  
+**Current Stats:** 50 jobs | 26% remote | 40 companies | Avg salary: 1.1904768809534667e+121k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
