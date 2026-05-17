@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Analyst Jobs — 2026
 
-<sub><small>Last updated: May 16, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 17, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Data Analyst job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -36,6 +36,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Capco]()** | **[Business Analyst-Data](https://jobr.pro/job/40797375/business-analyst-data?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | India - Bengaluru | On Site | May 15 |
 | **[Box]()** | **[Sales Data Management Analyst](https://jobr.pro/job/40796196/sales-data-management-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tokyo, Japan | On Site | May 15 |
 | **[Mable]()** | **[Senior Analyst, Data & Insights](https://jobr.pro/job/40799047/senior-analyst-data-insights?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Sydney | On Site | May 15 |
+| **[Zero100]()** | **[Senior Analyst, Data & Insights](https://jobr.pro/job/40816743/senior-analyst-data-insights?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London, England, United Kingdom | On Site | May 15 |
 | **[Centorrino Technologies]()** | **[Data Analyst](https://jobr.pro/job/40797072/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Essendon, Victoria, Australia | On Site | May 15 |
 | **[Industrial Electric Manufacturing]()** | **[Data Analyst - Switchgear](https://jobr.pro/job/40791299/data-analyst-switchgear?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Surrey, British Columbia, Canada | On Site | May 14 |
 | **[Ruby Labs]()** | **[Senior Data Analyst](https://jobr.pro/job/40793912/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Serbia | Remote | May 14 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Analytic Services Inc]()** | **[Financial Data Analyst](https://jobr.pro/job/40760434/financial-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Alexandria, VA | On Site | May 13 |
 | **[Kyivstar]()** | **[Big Data Analyst](https://jobr.pro/job/40761167/big-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | All | Remote | May 13 |
 | **[Surfshark]()** | **[Senior Marketing Data Analyst](https://jobr.pro/job/40761193/senior-marketing-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Vilnius | On Site | May 13 |
-| **[SKELAR Platform]()** | **[Data Analyst](https://jobr.pro/job/40760513/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kyiv | On Site | May 13 |
 
 ---
 
