@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Analyst Jobs — 2026
 
-<sub><small>Last updated: May 17, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 18, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Data Analyst job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[WPP Media]()** | **[Stagiair(e) Data Analyst](https://jobr.pro/job/40832372/stagiaire-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Eindhoven, The Netherlands | On Site | May 18 |
+| **[Match Group]()** | **[Data Analyst (Tinder Seoul)](https://jobr.pro/job/40830991/data-analyst-tinder-seoul?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Seoul, South Korea | On Site | May 18 |
+| **[Pavago]()** | **[Financial & Data Analyst](https://jobr.pro/job/40828111/financial-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kenya | Remote | May 17 |
+| **[Eram Talent]()** | **[Data Analyst - Operational Excellence & Compliance (Oil & Gas)](https://jobr.pro/job/40825470/data-analyst-operational-excellence-compliance-oil-gas?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Dhahran, Eastern Province, Saudi Arabia | On Site | May 17 |
 | **[Upstart]()** | **[Staff Data Analyst](https://jobr.pro/job/40811473/staff-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United States \| Remote | Remote | May 15 |
 | **[IronMountain Solutions]()** | **[System and Technical Data Analyst](https://jobr.pro/job/40811010/system-and-technical-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Huntsville, AL | On Site | May 15 |
 | **[Agile Defense]()** | **[Tactical Data link (TDL) Test & Evaluation Analyst - Intermediate](https://jobr.pro/job/40806831/tactical-data-link-tdl-test-evaluation-analyst-intermediate?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Fort Huachuca, AZ | On Site | May 15 |
@@ -59,17 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Dun & Bradstreet]()** | **[Analyst II, Data Quality (R-19245)](https://jobr.pro/job/40764793/analyst-ii-data-quality-r-19245?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hyderabad - India | On Site | May 13 |
 | **[CI&T]()** | **[\[Job-29149\] Senior Data Analyst, Brazil (Mulheres)](https://jobr.pro/job/40770010/job-29149-senior-data-analyst-brazil-mulheres?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Brazil | Remote | May 13 |
 | **[Dun & Bradstreet]()** | **[Analyst, Data Quality (R-19243)](https://jobr.pro/job/40764794/analyst-data-quality-r-19243?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hyderabad - India | On Site | May 13 |
-| **[Stripe]()** | **[Staff Data Analyst](https://jobr.pro/job/40766810/staff-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | US | On Site | May 13 |
-| **[Analytic Services Inc]()** | **[Financial Data Analyst](https://jobr.pro/job/40760434/financial-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Alexandria, VA | On Site | May 13 |
-| **[Kyivstar]()** | **[Big Data Analyst](https://jobr.pro/job/40761167/big-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | All | Remote | May 13 |
-| **[Surfshark]()** | **[Senior Marketing Data Analyst](https://jobr.pro/job/40761193/senior-marketing-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Vilnius | On Site | May 13 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 41 companies | Avg salary: 1.6730778076932963e+72k  
+**Current Stats:** 50 jobs | 38% remote | 40 companies | Avg salary: 1.8125009583344043e+66k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** visualization  
+**Trending Skills:** excel, visualization  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
