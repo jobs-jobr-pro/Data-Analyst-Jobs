@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Analyst Jobs — 2026
 
-<sub><small>Last updated: May 20, 2026 at 15:43 UTC</small></sub>
+<sub><small>Last updated: May 20, 2026 at 16:53 UTC</small></sub>
 
 This repository collects curated **Data Analyst job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Scopely](https://scopely.com)** | **[Senior Data Analyst, CRM - Monopoly GO!](https://jobr.pro/job/40865246/senior-data-analyst-crm-monopoly-go?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | ES - Barcelona, Spain | On Site | May 20 |
+| **[Satispay Jobs](https://www.satispay.com/it-it/)** | **[Data Analyst - Analytics Engineering](https://jobr.pro/job/40866125/data-analyst-analytics-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Milan, Italy | Remote | May 20 |
 | **[B2spin](https://www.b2spin.com/)** | **[Data Analyst](https://jobr.pro/job/40865735/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Malta Office | Remote | May 20 |
 | **[AMBOSS](https://www.amboss.com/int)** | **[Junior Data Analyst](https://jobr.pro/job/40864453/junior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Berlin | Remote | May 20 |
 | **[Capco](https://capco.com)** | **[Data Analyst](https://jobr.pro/job/40861911/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | India - Bengaluru; India - Gurugram | On Site | May 20 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Agile Defense](https://agiledefense.com)** | **[Tactical Data link (TDL) Test & Evaluation Analyst - Intermediate](https://jobr.pro/job/40806831/tactical-data-link-tdl-test-evaluation-analyst-intermediate?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Fort Huachuca, AZ | On Site | May 15 |
 | **[Solana%20foundation]()** | **[Senior Data Analyst](https://jobr.pro/job/40805629/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-International | Remote | May 15 |
 | **[Solana Foundation](https://solana.org)** | **[Senior Data Analyst](https://jobr.pro/job/40805601/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote-International | Remote | May 15 |
-| **[9th Way Insignia](https://9thwayinsignia.com/)** | **[Data Analyst](https://jobr.pro/job/40813777/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Washington, District of Columbia, United States | On Site | May 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 47 companies | Avg salary: 9.500075000115001e+50k  
+**Current Stats:** 50 jobs | 30% remote | 47 companies | Avg salary: 1.0555638889016666e+45k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** excel, visualization  
