@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Analyst Jobs — 2026
 
-<sub><small>Last updated: May 23, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 24, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Data Analyst job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -17,6 +17,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Calendly](https://calendly.com)** | **[Senior Data Analyst, Reporting](https://jobr.pro/job/40908552/senior-data-analyst-reporting?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote | Remote | May 22 |
 | **[Hayden AI](http://www.hayden.ai)** | **[Data Analyst](https://jobr.pro/job/40910893/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco HQ Office | Remote | May 22 |
 | **[Centria Autism](https://centriahealthcare.com)** | **[Clinical Data Analyst](https://jobr.pro/job/40902965/clinical-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Farmington Hills, Michigan, United States | On Site | May 22 |
+| **[SAMO C](https://junior.io)** | **[Data Analyst - London](https://jobr.pro/job/40912943/data-analyst-london?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London | On Site | May 22 |
 | **[Veepee](https://veepee.com)** | **[Lead Analyste Data Marketing - H/F/X](https://jobr.pro/job/40903401/lead-analyste-data-marketing-hfx?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Saint-Denis | On Site | May 22 |
 | **[Bolt Technology](https://bolttechnology.in)** | **[Senior Data Analyst, Bolt Food](https://jobr.pro/job/40901842/senior-data-analyst-bolt-food?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tallinn, Estonia | On Site | May 22 |
 | **[SimplePractice](https://simplepractice.com)** | **[Senior Data Analyst, Strategic Health Analytics](https://jobr.pro/job/40901708/senior-data-analyst-strategic-health-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mexico City | On Site | May 22 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[STACK IT Recruitment](https://stackitrecruitment.com)** | **[Data & Reporting Analyst](https://jobr.pro/job/40890371/data-reporting-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toronto, Ontario, Canada | On Site | May 21 |
 | **[Intellectsoft](https://intellectsoft.net)** | **[Strong Middle Data Analyst / BI Developer (IR-522)](https://jobr.pro/job/40886771/strong-middle-data-analyst-bi-developer-ir-522?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Ukraine | Remote | May 21 |
 | **[Calendly](https://calendly.com)** | **[Senior Data Analyst, Product](https://jobr.pro/job/40881123/senior-data-analyst-product?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote | Remote | May 20 |
-| **[Acrisure Innovation](https://acrisureinnovation.com)** | **[Data Analyst, Customer Success](https://jobr.pro/job/40877607/data-analyst-customer-success?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Austin, TX | On Site | May 20 |
 
 ---
 
