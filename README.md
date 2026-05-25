@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Analyst Jobs — 2026
 
-<sub><small>Last updated: May 24, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 25, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Data Analyst job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Wargaming](https://wargaming.net/en)** | **[Data Analyst](https://jobr.pro/job/40924251/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Nicosia | On Site | May 25 |
+| **[Flix](https://www.flixbus.com)** | **[Commercial Data Analyst](https://jobr.pro/job/40921510/commercial-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mexico City | On Site | May 24 |
+| **[Nium](https://www.niuminc.com)** | **[Data Analyst – Risk & Compliance](https://jobr.pro/job/40919018/data-analyst-risk-compliance?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bangalore | On Site | May 24 |
 | **[GoFasti](https://www.gofasti.com)** | **[1097- Data Analyst](https://jobr.pro/job/40912382/1097-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote | Remote | May 23 |
 | **[Calendly](https://calendly.com)** | **[Senior Data Analyst, Reporting](https://jobr.pro/job/40908552/senior-data-analyst-reporting?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote | Remote | May 22 |
 | **[Hayden AI](http://www.hayden.ai)** | **[Data Analyst](https://jobr.pro/job/40910893/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco HQ Office | Remote | May 22 |
@@ -32,6 +35,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AutoTrader.ca](https://autotrader.ca)** | **[Senior Marketing Data Analyst (m/f/d)](https://jobr.pro/job/40904445/senior-marketing-data-analyst-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toronto, ON (Canada) | On Site | May 22 |
 | **[Coda](https://coda.io/)** | **[Senior Data Analyst](https://jobr.pro/job/40897451/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bangkok, Thailand | On Site | May 22 |
 | **[Alaska Boreal Canopy Adventures](https://alaskaborealcanopy.com)** | **[ERP Data Analyst](https://jobr.pro/job/40895209/erp-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Riverside, California | On Site | May 22 |
+| **[SkyCell AG](http://www.skycell.ch)** | **[Senior Data Analyst (m/f/d)](https://jobr.pro/job/40924576/senior-data-analyst-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | India | Remote | May 22 |
 | **[Prophix](https://prophix.com)** | **[Data Analyst](https://jobr.pro/job/40909663/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Perth, Western Australia, Australia | On Site | May 22 |
 | **[Kooner Fleet Management Solutions](http://koonerfms.com)** | **[Senior Data Analyst (2008)](https://jobr.pro/job/40908836/senior-data-analyst-2008?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Sacramento, California, United States | On Site | May 22 |
 | **[Resource Innovations](https://www.resource-innovations.com/)** | **[Data Analyst](https://jobr.pro/job/40908397/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | St. Louis, Missouri, United States | Remote | May 22 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Financial Times](https://financialtimesdaily.com)** | **[Data Analyst - FT Specialist](https://jobr.pro/job/40885158/data-analyst-ft-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Sofia | On Site | May 21 |
 | **[Fender](https://www.fendersmaze.com)** | **[Business Application Analyst - Master Data](https://jobr.pro/job/40879592/business-application-analyst-master-data?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Ensenada, Mexico | On Site | May 21 |
 | **[Natera](https://natera.com)** | **[Floater Phlebotomist Data Entry Analyst - Fairfax, VA - Temp](https://jobr.pro/job/40875884/floater-phlebotomist-data-entry-analyst-fairfax-va-temp?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Fairfax, VA | On Site | May 21 |
-| **[Evidence Action](https://www.evidenceaction.org/)** | **[Consultant Analyst - Data Analysis, QA & Capacity Building](https://jobr.pro/job/40890728/consultant-analyst-data-analysis-qa-capacity-building?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Abuja, Federal Capital Territory, Nigeria | On Site | May 21 |
-| **[STACK IT Recruitment](https://stackitrecruitment.com)** | **[Data & Reporting Analyst](https://jobr.pro/job/40890371/data-reporting-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Toronto, Ontario, Canada | On Site | May 21 |
-| **[Intellectsoft](https://intellectsoft.net)** | **[Strong Middle Data Analyst / BI Developer (IR-522)](https://jobr.pro/job/40886771/strong-middle-data-analyst-bi-developer-ir-522?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Ukraine | Remote | May 21 |
-| **[Calendly](https://calendly.com)** | **[Senior Data Analyst, Product](https://jobr.pro/job/40881123/senior-data-analyst-product?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote | Remote | May 20 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 45 companies | Avg salary: 1.200010178058e+108k  
+**Current Stats:** 50 jobs | 24% remote | 46 companies | Avg salary: 1.3333446422866668e+97k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python  
