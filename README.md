@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Analyst Jobs — 2026
 
-<sub><small>Last updated: May 31, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Jun 01, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Data Analyst job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Pencil](https://trypencil.com/)** | **[Data Analyst - Contract](https://jobr.pro/job/41000375/data-analyst-contract?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | EMEA | On Site | Jun 01 |
+| **[Octal Philippines Inc.](https://octaltech.net/)** | **[Data Analyst](https://jobr.pro/job/41000564/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Taguig, Metro Manila, Philippines | On Site | Jun 01 |
+| **[ConnectPrep](https://www.connectprep.com/)** | **[Data Analyst Internship](https://jobr.pro/job/40999276/data-analyst-internship?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Boston, Massachusetts, United States | Remote | May 31 |
 | **[New Relic](https://newrelic.com/)** | **[Data Analyst, People Analytics](https://jobr.pro/job/40987232/data-analyst-people-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Atlanta, Georgia, USA; Portland, Oregon, USA | On Site | May 29 |
 | **[Coastal Community Bank](https://www.coastalbank.com/)** | **[Senior Data Analyst](https://jobr.pro/job/40986912/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote | Remote | May 29 |
 | **[Accelerate ‎Your Digital Transformation](https://www.truelogic.io)** | **[Marketing Data Analyst - Growth Marketing & Data Analytics](https://jobr.pro/job/40984941/marketing-data-analyst-growth-marketing-data-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Uruguay | Remote | May 29 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[The New York Times](https://nytimes.com)** | **[Senior Analyst, Data & Insights, Growth (Conversion)](https://jobr.pro/job/40957320/senior-analyst-data-insights-growth-conversion?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York, NY | On Site | May 28 |
 | **[CertiK](https://www.certik.com/)** | **[Senior Data Analyst](https://jobr.pro/job/40965150/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York, New York | On Site | May 28 |
 | **[Carta](https://carta.com)** | **[Data Operations Analyst](https://jobr.pro/job/40963134/data-operations-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Sandy, UT | On Site | May 28 |
-| **[Sapsol Technologies Inc](https://sapsol.com/)** | **[Data Analyst](https://jobr.pro/job/40971799/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Winnipeg, Manitoba, Canada | On Site | May 28 |
-| **[Qode](http://qode.world)** | **[Junior Business & Data Analyst](https://jobr.pro/job/40969189/junior-business-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Florida, Florida, United States | On Site | May 28 |
-| **[Capgemini](https://capgemini.com)** | **[FBS - Data Marketing Analyst (Mid Level)](https://jobr.pro/job/40968787/fbs-data-marketing-analyst-mid-level?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mexico | Remote | May 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 32% remote | 46 companies | Avg salary: 6.736849874324888e+103k  
+**Current Stats:** 50 jobs | 32% remote | 47 companies | Avg salary: 6.736849874324888e+103k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, power bi  
