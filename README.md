@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Analyst Jobs — 2026
 
-<sub><small>Last updated: Jun 06, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Jun 07, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Data Analyst job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Counterpart Health](https://counterparthealth.com)** | **[Data Analyst, Value-Based Care Analytics](https://jobr.pro/job/41066408/data-analyst-value-based-care-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - USA | Remote | Jun 06 |
+| **[Clover Health](https://www.cloverhealth.com/)** | **[Data Analyst, Value-Based Care Analytics](https://jobr.pro/job/41066051/data-analyst-value-based-care-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - USA | Remote | Jun 06 |
+| **[Counterpart Health](https://counterparthealth.com)** | **[Data Analyst, Clinical Data Effectiveness](https://jobr.pro/job/41066407/data-analyst-clinical-data-effectiveness?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - USA | Remote | Jun 06 |
+| **[Clover Health](https://www.cloverhealth.com/)** | **[Data Analyst, Clinical Data Effectiveness](https://jobr.pro/job/41066050/data-analyst-clinical-data-effectiveness?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - USA | Remote | Jun 06 |
 | **[Zipline](https://ziplinelogistics.com/)** | **[Business Data Analyst](https://jobr.pro/job/41058663/business-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | South San Francisco, California, USA | On Site | Jun 05 |
 | **[Scopely](https://scopely.com)** | **[Senior Data Analyst](https://jobr.pro/job/41055771/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | ES - Barcelona, Spain; ES - Seville, Spain | On Site | Jun 05 |
 | **[Rocket Money](https://rocketmoney.com)** | **[Senior Data Analyst, Growth Marketing](https://jobr.pro/job/41063787/senior-data-analyst-growth-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco, CA, Washington, D.C., New York City, N.Y., Detroit, MI, Phoenix, AZ, Miami, FL, Denver, CO. | On Site | Jun 05 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Intertek](https://www.intertek.com/)** | **[Data & BI Analyst](https://jobr.pro/job/41041999/data-bi-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Sofia, Sofia City Province, Bulgaria | Remote | Jun 04 |
 | **[International Centre for Integrated Mountain Development](https://www.icimod.org/)** | **[Air Quality Analyst - Data and Modelling](https://jobr.pro/job/41036940/air-quality-analyst-data-and-modelling?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kathmandu, Bagmati Province, Nepal | On Site | Jun 04 |
 | **[Octal Philippines Inc.](https://octaltech.net/)** | **[Data Analyst](https://jobr.pro/job/41035325/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Taguig, Metro Manila, Philippines | On Site | Jun 04 |
-| **[Adyen](https://www.adyen.com)** | **[Senior Data Analyst](https://jobr.pro/job/41032572/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | San Francisco | On Site | Jun 03 |
-| **[Nozomi Networks](https://nozominetworks.com)** | **[Revenue Operations Data Analyst](https://jobr.pro/job/41034506/revenue-operations-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Canada | On Site | Jun 03 |
-| **[Commure](https://www.commure.com)** | **[Data Operations Analyst, India Ops](https://jobr.pro/job/41033701/data-operations-analyst-india-ops?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Gurugram, India | On Site | Jun 03 |
-| **[Inter Carreiras](https://inter.co/)** | **[DATA ANALYST \| LEGAL I - LITIGATION & EFFICIENCY](https://jobr.pro/job/41033549/data-analyst-legal-i-litigation-efficiency?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Belo Horizonte, MG | On Site | Jun 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 44% remote | 46 companies | Avg salary: 9.642870000016786e+74k  
+**Current Stats:** 50 jobs | 52% remote | 44 companies | Avg salary: 7.352948529417648e+92k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
