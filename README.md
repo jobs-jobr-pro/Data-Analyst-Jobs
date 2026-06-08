@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Analyst Jobs — 2026
 
-<sub><small>Last updated: Jun 08, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 08, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Data Analyst job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Consumer Edge](https://consumeredge.com)** | **[Data Analyst - Consumer Datasets](https://jobr.pro/job/41069620/data-analyst-consumer-datasets?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York City (remote; east coast preferred) | Remote | Jun 07 |
 | **[SimplePractice](https://simplepractice.com)** | **[Senior Data Analyst, Strategic Health Analytics](https://jobr.pro/job/41069330/senior-data-analyst-strategic-health-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mexico City | On Site | Jun 07 |
 | **[SimplePractice](https://simplepractice.com)** | **[Data Analyst II (Hybrid)](https://jobr.pro/job/41069328/data-analyst-ii-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mexico City | On Site | Jun 07 |
 | **[Counterpart Health](https://counterparthealth.com)** | **[Data Analyst, Value-Based Care Analytics](https://jobr.pro/job/41066408/data-analyst-value-based-care-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - USA | Remote | Jun 06 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Mable](https://mable.com.au)** | **[Senior Data Analyst](https://jobr.pro/job/41036168/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Sydney | On Site | Jun 04 |
 | **[Egon Zehnder](https://www.egonzehnder.com)** | **[Data Operation Analyst Analyst (German)](https://jobr.pro/job/41049823/data-operation-analyst-analyst-german?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Gurugram, Haryana, India | On Site | Jun 04 |
 | **[Pavago](https://www.pavago.co)** | **[Financial & Data Analyst](https://jobr.pro/job/41046431/financial-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mexico | Remote | Jun 04 |
-| **[Intertek](https://www.intertek.com/)** | **[Data & BI Analyst](https://jobr.pro/job/41041999/data-bi-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Sofia, Sofia City Province, Bulgaria | Remote | Jun 04 |
 
 ---
 
-**Current Stats:** 50 jobs | 52% remote | 43 companies | Avg salary: 5.193424474211184e+105k  
+**Current Stats:** 50 jobs | 52% remote | 43 companies | Avg salary: 4.7500493375325055e+110k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
