@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Analyst Jobs — 2026
 
-<sub><small>Last updated: Jun 13, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 13, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Data Analyst job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Instawork](https://www.instawork.com)** | **[Data Operations Analyst Intern](https://jobr.pro/job/41185737/data-operations-analyst-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bengaluru, Karnataka, India | On Site | Jun 13 |
 | **[SmithRx](https://smithrx.com)** | **[PBM Data Analyst](https://jobr.pro/job/41181533/pbm-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote | Remote | Jun 12 |
 | **[Judi Health](https://judi.health)** | **[Analyst, Data Exchange - Eligibility](https://jobr.pro/job/41181238/analyst-data-exchange-eligibility?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote | Remote | Jun 12 |
 | **[Despegar](https://www.despegar.com.ar)** | **[Ssr Trainer Assistant - (Data Analyst)](https://jobr.pro/job/41178660/ssr-trainer-assistant-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bogota | On Site | Jun 12 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[K.L. Scott & Associates](https://klscottassociates.com)** | **[Data Analyst](https://jobr.pro/job/41173388/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Washington, D.C. | On Site | Jun 11 |
 | **[K.L. Scott & Associates](https://klscottassociates.com)** | **[Senior Data Analyst](https://jobr.pro/job/41173390/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Washington, D.C. | On Site | Jun 11 |
 | **[Scalian](https://www.scalian.com)** | **[Data Analyst - Business Intelligence](https://jobr.pro/job/41154541/data-analyst-business-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Madrid, , Spain | Remote | Jun 11 |
-| **[Expeditors](https://expeditors.com)** | **[NASA Qaulity Data Analyst (Customer Onsite)](https://jobr.pro/job/41155720/nasa-qaulity-data-analyst-customer-onsite?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Ellenwood, GA, United States | On Site | Jun 11 |
 
 ---
 
