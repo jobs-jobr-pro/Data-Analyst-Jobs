@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Analyst Jobs — 2026
 
-<sub><small>Last updated: Jun 13, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 13, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Data Analyst job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -37,6 +37,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AccorCorpo]()** | **[Sustainable Performance Data Analyst (F/H/X)](https://jobr.pro/job/41169452/sustainable-performance-data-analyst-fhx?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Issy-les-Moulineaux, IDF, France | Remote | Jun 12 |
 | **[Seccl](https://seccl.tech)** | **[Information security & data protection analyst](https://jobr.pro/job/41182036/information-security-data-protection-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Edinburgh | Remote | Jun 12 |
 | **[Bosch Group](https://www.bosch.com)** | **[Data Analyst (w/m/div.) - Commerical Excellence](https://jobr.pro/job/41169526/data-analyst-wmdiv-commerical-excellence?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | München, BY, Germany | On Site | Jun 12 |
+| **[Oxylabs](https://oxylabs.io)** | **[Data Analyst](https://jobr.pro/job/41184342/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Vilnius | On Site | Jun 12 |
 | **[WNS Global Services]()** | **[REF101597D_2026252498 - Data Analyst - Python/Pandas/ Power BI - 2 to 4 years experience](https://jobr.pro/job/41168639/ref101597d2026252498-data-analyst-pythonpandas-power-bi-2-to-4-years-experience?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Pune, MH, India | On Site | Jun 12 |
 | **[Hostinger](https://www.hostinger.com)** | **[Product Data Analyst \| EU based/Remote](https://jobr.pro/job/41172991/product-data-analyst-eu-basedremote?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Poland | Remote | Jun 12 |
 | **[Capco](https://capco.com)** | **[Data Quality Data Analyst (She/ He/ They)](https://jobr.pro/job/41170609/data-quality-data-analyst-she-he-they?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Poland | On Site | Jun 12 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[K.L. Scott & Associates](https://klscottassociates.com)** | **[Senior Data Analyst](https://jobr.pro/job/41173390/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Washington, D.C. | On Site | Jun 11 |
 | **[Scalian](https://www.scalian.com)** | **[Data Analyst - Business Intelligence](https://jobr.pro/job/41154541/data-analyst-business-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Madrid, , Spain | Remote | Jun 11 |
 | **[Expeditors](https://expeditors.com)** | **[NASA Qaulity Data Analyst (Customer Onsite)](https://jobr.pro/job/41155720/nasa-qaulity-data-analyst-customer-onsite?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Ellenwood, GA, United States | On Site | Jun 11 |
-| **[Align Communications]()** | **[Data Center Project Analyst](https://jobr.pro/job/41161080/data-center-project-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Phoenix, Arizona | On Site | Jun 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 44% remote | 44 companies | Avg salary: 1.2100013500098674e+52k  
+**Current Stats:** 50 jobs | 44% remote | 44 companies | Avg salary: 1.1000012272816977e+57k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, power bi, pandas  
