@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Analyst Jobs — 2026
 
-<sub><small>Last updated: Jun 15, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 15, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Data Analyst job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,12 +13,24 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Tieto](https://www.tieto.com)** | **[Data Analyst Python and SQL - Tieto Tech Consulting (m/f/d)](https://jobr.pro/job/41195506/data-analyst-python-and-sql-tieto-tech-consulting-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Sofia, , Bulgaria | Remote | Jun 15 |
+| **[Inetum](https://www.inetum.com)** | **[Data Analyst](https://jobr.pro/job/41195136/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Lisbon, Lisbon, Portugal | Remote | Jun 15 |
+| **[NielsenIQ](https://nielseniq.com)** | **[Senior Data Operations Analyst - SO](https://jobr.pro/job/41195051/senior-data-operations-analyst-so?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Vadodara, GJ, India | On Site | Jun 15 |
+| **[Woven by Toyota](https://woven.toyota)** | **[Data Analyst, Hydrogen Ecosystem Solutions](https://jobr.pro/job/41195704/data-analyst-hydrogen-ecosystem-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tokyo | On Site | Jun 15 |
+| **[Smiths Group](https://www.smiths.com)** | **[Data Analyst](https://jobr.pro/job/41195152/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Birmingham, England, United Kingdom | On Site | Jun 15 |
+| **[Continental Group Sector ContiTech](https://www.continental-industry.com)** | **[Internal Audit Data Analyst](https://jobr.pro/job/41195653/internal-audit-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Szeged, Csongrád megye, Hungary | Remote | Jun 15 |
+| **[ixigo](https://ixigo.com)** | **[Data Analyst](https://jobr.pro/job/41195622/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Gurugram/ Bengaluru, , India | On Site | Jun 15 |
+| **[zooplus SE](https://careers.zooplus.com)** | **[Senior Data Analyst (All Genders)](https://jobr.pro/job/41194281/senior-data-analyst-all-genders?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Munich, , Germany | Remote | Jun 15 |
+| **[NielsenIQ](https://nielseniq.com)** | **[Senior Data Operations Analyst (Python & SQL)](https://jobr.pro/job/41194291/senior-data-operations-analyst-python-sql?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Chennai, TN, India | On Site | Jun 15 |
+| **[Primark](https://www.primark.com)** | **[Ethical Trade Data Analyst](https://jobr.pro/job/41195374/ethical-trade-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Reading, , United Kingdom | Remote | Jun 15 |
+| **[monday.com](https://monday.com)** | **[Business / Data Analysts](https://jobr.pro/job/41194657/business-data-analysts?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv | Remote | Jun 15 |
+| **[NielsenIQ](https://nielseniq.com)** | **[Senior Data Ops Analyst](https://jobr.pro/job/41194294/senior-data-ops-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Beijing, BJ, China | On Site | Jun 15 |
 | **[NielsenIQ](https://nielseniq.com)** | **[Data Operations Analyst](https://jobr.pro/job/41192970/data-operations-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Subang Jaya, 10, Malaysia | On Site | Jun 15 |
 | **[Grab](https://grab.careers)** | **[Data Analyst Associate](https://jobr.pro/job/41192807/data-analyst-associate?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Jakarta, , Indonesia | On Site | Jun 15 |
+| **[Freebridge Community Housing](https://freebridge.org.uk)** | **[Research and Data Analyst (FTC)](https://jobr.pro/job/41195397/research-and-data-analyst-ftc?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | King's Lynn, England, United Kingdom | On Site | Jun 15 |
 | **[Rentokil Initial](https://careers.rentokil-initial.com)** | **[Sales Data Analyst / Sales Admin](https://jobr.pro/job/41192858/sales-data-analyst-sales-admin?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Ho Chi Minh City, Ho Chi Minh, Vietnam | On Site | Jun 15 |
 | **[monday.com](https://monday.com)** | **[Senior Business Data Analyst, Customer Business](https://jobr.pro/job/41192326/senior-business-data-analyst-customer-business?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv | Remote | Jun 14 |
 | **[monday.com](https://monday.com)** | **[Senior Data Analyst](https://jobr.pro/job/41192328/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv | Remote | Jun 14 |
-| **[monday.com](https://monday.com)** | **[Business / Data Analysts](https://jobr.pro/job/41190856/business-data-analysts?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv | Remote | Jun 14 |
 | **[LEAP Legal Software](https://leap.us)** | **[Junior Data Quality Analyst](https://jobr.pro/job/41191418/junior-data-quality-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London, England, United Kingdom | On Site | Jun 14 |
 | **[Instawork](https://www.instawork.com)** | **[Data Operations Analyst Intern](https://jobr.pro/job/41185737/data-operations-analyst-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bengaluru, Karnataka, India | On Site | Jun 13 |
 | **[nomic](https://www.nomic.bio)** | **[Data Analyst](https://jobr.pro/job/41187248/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Montreal | On Site | Jun 13 |
@@ -51,22 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Capco](https://capco.com)** | **[Data Quality Data Analyst (She/ He/ They)](https://jobr.pro/job/41170609/data-quality-data-analyst-she-he-they?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Poland | On Site | Jun 12 |
 | **[Veolia Environnement SA](https://www.veolia.com)** | **[ALTERNANT-E DATA ANALYST H/F](https://jobr.pro/job/41168738/alternant-e-data-analyst-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Saint-Maurice, IDF, France | On Site | Jun 12 |
 | **[Tieto](https://www.tieto.com)** | **[Data Analyst Python and SQL](https://jobr.pro/job/41168827/data-analyst-python-and-sql?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Sofia, , Bulgaria | Remote | Jun 12 |
-| **[HelloFresh](https://www.hellofresh.com)** | **[Marketing Data Analyst](https://jobr.pro/job/41169132/marketing-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Warszawa, Masovian Voivodeship, Poland | On Site | Jun 12 |
-| **[Scott Logic](https://scottlogic.com)** | **[Senior Data Analyst](https://jobr.pro/job/41168396/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bristol | On Site | Jun 12 |
-| **[Experian](https://www.experian.com)** | **[Data Tooling Analyst](https://jobr.pro/job/41168721/data-tooling-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Nottingham, , United Kingdom | On Site | Jun 12 |
-| **[Rydge](https://www.rydge.fr/)** | **[Superviseur Business Intelligence - Data Analyst F/H](https://jobr.pro/job/41166740/superviseur-business-intelligence-data-analyst-fh?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | La Défense, , France | Remote | Jun 12 |
-| **[Sia](https://fra01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.sia-partners.com%2Ffr%2Fnous-rejoindre%2Flife&amp;data=05%7C02%7Cemilie.quach%40sia-partners.com%7Cc2f28c18f6e244434b0208de2dd76b4a%7Caf1bbf3d7aa34e3f8173c8889d944e6a%7C0%7C0%7C638998600512276945%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=h3zqHfdGJunK2hcDg0KZen3iQX5J1qm%2BsU6tLAknOvM%3D&amp;reserved=0)** | **[Knowledge Analyst – Data Curation & Classification](https://jobr.pro/job/41165426/knowledge-analyst-data-curation-classification?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Mumbai, MUMBAI, India | On Site | Jun 12 |
-| **[Delivery Hero](https://www.talabat.com/uae)** | **[Senior Data Analyst (Finance)](https://jobr.pro/job/41164685/senior-data-analyst-finance?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia | Remote | Jun 12 |
-| **[Alpaca](https://alpacapacks.com)** | **[Data Analyst](https://jobr.pro/job/41165927/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - Americas | Remote | Jun 12 |
-| **[Two95 International Inc.](http://two95intl.com)** | **[Data Analyst](https://jobr.pro/job/41167516/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia | On Site | Jun 12 |
-| **[PRISM+](https://prismhr.com)** | **[Data Analyst](https://jobr.pro/job/41167001/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Singapore, Singapore, Singapore | On Site | Jun 12 |
-| **[Unison Group](http://www.unisongroup.ca)** | **[Senior Informatica Consultant / Data Analyst Lead](https://jobr.pro/job/41166830/senior-informatica-consultant-data-analyst-lead?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia | On Site | Jun 12 |
-| **[Midi Health](https://joinmidi.com)** | **[Data Analyst, Growth](https://jobr.pro/job/41165044/data-analyst-growth?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hybrid - Palo Alto | On Site | Jun 11 |
-| **[MineSense](https://minesense.com)** | **[Mining Data Analyst](https://jobr.pro/job/41160141/mining-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Santiago | On Site | Jun 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 42% remote | 43 companies | Avg salary: 1.3444459444554084e+46k  
+**Current Stats:** 50 jobs | 46% remote | 40 companies | Avg salary: 1.3444459444554084e+46k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, excel, power bi, pandas  
