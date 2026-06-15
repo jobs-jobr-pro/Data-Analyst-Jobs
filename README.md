@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Analyst Jobs — 2026
 
-<sub><small>Last updated: Jun 14, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 15, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Data Analyst job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[monday.com](https://monday.com)** | **[Business / Data Analysts](https://jobr.pro/job/41190856/business-data-analysts?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv | Remote | Jun 14 |
+| **[LEAP Legal Software](https://leap.us)** | **[Junior Data Quality Analyst](https://jobr.pro/job/41191418/junior-data-quality-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London, England, United Kingdom | On Site | Jun 14 |
 | **[Instawork](https://www.instawork.com)** | **[Data Operations Analyst Intern](https://jobr.pro/job/41185737/data-operations-analyst-intern?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bengaluru, Karnataka, India | On Site | Jun 13 |
 | **[nomic](https://www.nomic.bio)** | **[Data Analyst](https://jobr.pro/job/41187248/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Montreal | On Site | Jun 13 |
 | **[SmithRx](https://smithrx.com)** | **[PBM Data Analyst](https://jobr.pro/job/41181533/pbm-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote | Remote | Jun 12 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Forge Global](https://forgeglobal.com)** | **[Senior Data Analyst](https://jobr.pro/job/41166821/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York, New York, United States | On Site | Jun 11 |
 | **[DLH](https://dlhinc.com)** | **[Research Analyst (Non-Data) (Job 1370)](https://jobr.pro/job/41159156/research-analyst-non-data-job-1370?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United States - Remote | Remote | Jun 11 |
 | **[Utility Warehouse](https://uw.co.uk/)** | **[Data Analyst - Customer Operations](https://jobr.pro/job/41153247/data-analyst-customer-operations?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London, England, United Kingdom | Remote | Jun 11 |
-| **[K.L. Scott & Associates](https://klscottassociates.com)** | **[Data Analyst](https://jobr.pro/job/41173388/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Washington, D.C. | On Site | Jun 11 |
 
 ---
 
