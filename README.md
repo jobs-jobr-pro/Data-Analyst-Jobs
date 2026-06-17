@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Analyst Jobs — 2026
 
-<sub><small>Last updated: Jun 17, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 17, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Data Analyst job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,12 +13,16 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Bosch Group](https://www.bosch.com)** | **[Data Analyst (f/m/div.)](https://jobr.pro/job/41226488/data-analyst-fmdiv?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Ovar, , Portugal | Remote | Jun 17 |
+| **[ASSYST, Inc.](https://www.assyst.net)** | **[Senior Master Data Management (MDM) Solutions Analyst](https://jobr.pro/job/41227973/senior-master-data-management-mdm-solutions-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Austin, TX | On Site | Jun 16 |
 | **[Industrial Electric Manufacturing]()** | **[Production Data Analyst](https://jobr.pro/job/41222375/production-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Jacksonville, Florida, United States | On Site | Jun 16 |
+| **[Monster Energy](https://monsterenergy.com)** | **[Junior SAP Data Analyst](https://jobr.pro/job/41229490/junior-sap-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | USA - Corona, CA | On Site | Jun 16 |
 | **[Levels Technologies](https://www.levels.tech)** | **[Senior Data Analyst](https://jobr.pro/job/41220335/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London | On Site | Jun 16 |
 | **[ib vogt GmbH](https://www.ibvogt.com)** | **[Business Analyst, Data & AI (m/f/d)](https://jobr.pro/job/41218121/business-analyst-data-ai-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Berlin, Berlin, Germany | Remote | Jun 16 |
 | **[ASSYSTEM](https://www.assystem.com)** | **[Data Analyst - Expert PowerPlatform H/F](https://jobr.pro/job/41218377/data-analyst-expert-powerplatform-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Marseille, Provence-Alpes-Côte d'Azur, France | On Site | Jun 16 |
 | **[Ubisoft](https://ubisoft.com)** | **[Sr. Data Analyst, Marketing Analytics](https://jobr.pro/job/41217992/sr-data-analyst-marketing-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Montreal, QC, Canada | On Site | Jun 16 |
 | **[The Trade Desk](https://thetradedesk.com)** | **[Data Support Analyst I](https://jobr.pro/job/41217851/data-support-analyst-i?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York | On Site | Jun 16 |
+| **[Fanatics Betting & Gaming]()** | **[Senior Data Analyst - FMX](https://jobr.pro/job/41229696/senior-data-analyst-fmx?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London, England, United Kingdom | On Site | Jun 16 |
 | **[NEXTON](https://www.nexton.com)** | **[Data Engineer / Data Analyst H/F](https://jobr.pro/job/41216184/data-engineer-data-analyst-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris, IDF, France | Remote | Jun 16 |
 | **[Delivery Hero](https://www.talabat.com)** | **[Junior Data Analyst Global HQ](https://jobr.pro/job/41216122/junior-data-analyst-global-hq?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Barcelona, , Spain | Remote | Jun 16 |
 | **[Delivery Hero](https://www.talabat.com)** | **[Data Analyst I Logistics Global HQ](https://jobr.pro/job/41216123/data-analyst-i-logistics-global-hq?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Barcelona, , Spain | Remote | Jun 16 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NBCUniversal](https://www.nbcunicareers.com)** | **[Sr Business Solutions Data Analyst](https://jobr.pro/job/41198233/sr-business-solutions-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Universal City, CALIFORNIA, United States | On Site | Jun 15 |
 | **[Polymarket](https://polymarket.com)** | **[Staff Data Analyst](https://jobr.pro/job/41210427/staff-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York | On Site | Jun 15 |
 | **[APEXX Global](https://apexx.global)** | **[Business Analyst, Data & Reporting](https://jobr.pro/job/41209464/business-analyst-data-reporting?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Pune | Remote | Jun 15 |
-| **[Equinox](http://careers.equinox.com)** | **[Senior Analyst / Manager of Data & Analytics](https://jobr.pro/job/41197233/senior-analyst-manager-of-data-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | New York, NY, United States | On Site | Jun 15 |
-| **[Intuitive](https://www.intuitive.com)** | **[Contingent Research Data Analyst, HEOR](https://jobr.pro/job/41196868/contingent-research-data-analyst-heor?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Taipei, TAIWAN, Taiwan | Remote | Jun 15 |
-| **[NielsenIQ](https://nielseniq.com)** | **[Data Operations Analyst](https://jobr.pro/job/41196771/data-operations-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Sofia, 23, Bulgaria | On Site | Jun 15 |
-| **[Inetum](https://www.inetum.com)** | **[Data Analyst Confirmé H/F](https://jobr.pro/job/41196775/data-analyst-confirme-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Rennes, Brittany, France | Remote | Jun 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 54% remote | 42 companies | Avg salary: 6.071491643372145e+74k  
+**Current Stats:** 50 jobs | 52% remote | 44 companies | Avg salary: 5.6429178577735774e+73k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python  
