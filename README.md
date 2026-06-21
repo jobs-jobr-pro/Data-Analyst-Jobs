@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Analyst Jobs — 2026
 
-<sub><small>Last updated: Jun 21, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 21, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Data Analyst job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Cuscal](https://www.cuscal.com)** | **[Reporting & Data Analyst, People & Culture](https://jobr.pro/job/41307524/reporting-data-analyst-people-culture?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Sydney, NSW, Australia | Remote | Jun 21 |
 | **[SGS](https://sgs.com)** | **[Sr. Health & Benefits Data Analyst](https://jobr.pro/job/41291074/sr-health-benefits-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Redmond, WA, United States | Remote | Jun 19 |
 | **[Blend360](https://www.blend360.com)** | **[Data Analysts / QA](https://jobr.pro/job/41289746/data-analysts-qa?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Buenos Aires, Buenos Aires, Argentina | On Site | Jun 19 |
 | **[Natixis in Portugal](https://www.natixis.com)** | **[CRM Analyst - Data Quality/ Surveillance \| Risk](https://jobr.pro/job/41291067/crm-analyst-data-quality-surveillance-risk?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Porto, Porto, Portugal | Remote | Jun 19 |
@@ -35,7 +36,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NielsenIQ](https://nielseniq.com)** | **[Principal Data Operations Analyst](https://jobr.pro/job/41281251/principal-data-operations-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Kuala Lumpur, 14, Malaysia | On Site | Jun 19 |
 | **[Grab](https://grab.careers)** | **[Senior Associate Data Analyst](https://jobr.pro/job/41279380/senior-associate-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Jakarta, , Indonesia | On Site | Jun 19 |
 | **[NielsenIQ](https://nielseniq.com)** | **[Data Operations Analyst](https://jobr.pro/job/41281255/data-operations-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Subang Jaya, 10, Malaysia | On Site | Jun 19 |
-| **[Cuscal](https://www.cuscal.com)** | **[Reporting & Data Analyst, People & Culture](https://jobr.pro/job/41277611/reporting-data-analyst-people-culture?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Sydney, NSW, Australia | On Site | Jun 19 |
 | **[Qualitas](https://www.qualitasglobal.com)** | **[Data & AI Analyst](https://jobr.pro/job/41279108/data-ai-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Melbourne | On Site | Jun 19 |
 | **[OrganOx](https://organox.com)** | **[Senior Data Quality Analyst](https://jobr.pro/job/41295576/senior-data-quality-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Indianapolis, Indiana, United States | Remote | Jun 19 |
 | **[Nuvei](https://www.nuvei.com)** | **[Data and Operations Analyst](https://jobr.pro/job/41293078/data-and-operations-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bogotá, Bogota, Colombia | On Site | Jun 19 |
@@ -66,7 +66,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 45 companies | Avg salary: 2.9166693000019996e+30k  
+**Current Stats:** 50 jobs | 40% remote | 45 companies | Avg salary: 2.9166693000019996e+30k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
