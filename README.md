@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Analyst Jobs — 2026
 
-<sub><small>Last updated: Jun 22, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 22, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Data Analyst job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Grab](https://grab.careers)** | **[Data Analyst](https://jobr.pro/job/41312056/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Petaling Jaya, , Malaysia | On Site | Jun 22 |
 | **[Cuscal](https://www.cuscal.com)** | **[Reporting & Data Analyst, People & Culture](https://jobr.pro/job/41307524/reporting-data-analyst-people-culture?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Sydney, NSW, Australia | Remote | Jun 21 |
 | **[Ninja](https://www.sharkninja.it)** | **[Data Analyst - Last Mile Performance](https://jobr.pro/job/41310841/data-analyst-last-mile-performance?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Riyadh, Riyadh Province, Saudi Arabia | On Site | Jun 21 |
 | **[ConnectPrep](https://www.connectprep.com)** | **[Data Analyst Internship](https://jobr.pro/job/41309886/data-analyst-internship?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Boston, Massachusetts, United States | Remote | Jun 21 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CreatorIQ](https://creatoriq.com)** | **[Managed Services Data Analyst](https://jobr.pro/job/41263847/managed-services-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Warsaw | On Site | Jun 18 |
 | **[Poland and Eastern Europe](https://www.reddit.com)** | **[Senior Data Analyst (Stockholm)](https://jobr.pro/job/41262072/senior-data-analyst-stockholm?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Sweden | On Site | Jun 18 |
 | **[Derex Technologies Inc](https://derextech.com)** | **[FHIR Data Analyst](https://jobr.pro/job/41259810/fhir-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Newark, NJ, United States | Remote | Jun 18 |
-| **[STOW Group](https://www.stow-group.com)** | **[HR Data Analyst](https://jobr.pro/job/41257742/hr-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Ovar, Aveiro, Portugal | On Site | Jun 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 42% remote | 45 companies | Avg salary: 2.9166693000019996e+30k  
+**Current Stats:** 50 jobs | 42% remote | 44 companies | Avg salary: 2.9166693000019996e+30k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
