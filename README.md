@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Analyst Jobs — 2026
 
-<sub><small>Last updated: Jun 27, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 27, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Data Analyst job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Delivery Hero](https://www.talabat.com)** | **[Data Sr. Analyst](https://jobr.pro/job/41450515/data-sr-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Buenos Aires, , Argentina | Remote | Jun 27 |
 | **[OCT Consulting, LLC](https://octconsulting.com)** | **[Junior Data Scientist / Sr Analyst (0030)](https://jobr.pro/job/41448643/junior-data-scientist-sr-analyst-0030?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | McLean, Virginia, United States | On Site | Jun 27 |
 | **[Versant](https://versanthealth.com)** | **[Equity Data Analyst, AI Platform](https://jobr.pro/job/41434622/equity-data-analyst-ai-platform?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Englewood Cliffs, NEW JERSEY, United States | Remote | Jun 26 |
 | **[Veolia Environnement SA](https://www.veolia.com)** | **[Meter Data Analyst](https://jobr.pro/job/41434734/meter-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hackensack, NJ, United States | On Site | Jun 26 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sika AG](https://www.sika.com)** | **[Analityk Danych Podstawowych (K/M) - Master Data Analyst](https://jobr.pro/job/41391340/analityk-danych-podstawowych-km-master-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Jun 25 |
 | **[Informa Group Plc.](https://www.informamarkets.com)** | **[Senior Finance Data Analyst](https://jobr.pro/job/41390313/senior-finance-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bengaluru, Karnataka, India | On Site | Jun 25 |
 | **[NECSWS](https://www.necsws.com)** | **[Data Analyst](https://jobr.pro/job/41389152/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hemel Hempstead, England, United Kingdom | Remote | Jun 25 |
-| **[Vonage](https://play.google.com)** | **[Business Data Analyst](https://jobr.pro/job/41390925/business-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Spain, remote | Remote | Jun 25 |
 
 ---
 
