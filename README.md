@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Analyst Jobs — 2026
 
-<sub><small>Last updated: Jun 27, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 27, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Data Analyst job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -15,8 +15,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Versant](https://versanthealth.com)** | **[Equity Data Analyst, AI Platform](https://jobr.pro/job/41434622/equity-data-analyst-ai-platform?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Englewood Cliffs, NEW JERSEY, United States | Remote | Jun 26 |
 | **[Veolia Environnement SA](https://www.veolia.com)** | **[Meter Data Analyst](https://jobr.pro/job/41434734/meter-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Hackensack, NJ, United States | On Site | Jun 26 |
+| **[Lumos](https://lumosity.com)** | **[Finance Data Analyst](https://jobr.pro/job/41440444/finance-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | United States of America (USA), Remote | Remote | Jun 26 |
 | **[Orion Innovation](https://www.orioninnovation.com)** | **[Data Analyst](https://jobr.pro/job/41434099/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Lawrence Township, New Jersey, United States | On Site | Jun 26 |
-| **[Forward%20financing]()** | **[Senior Data Analyst](https://jobr.pro/job/41434916/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - Alberta, Canada | Remote | Jun 26 |
+| **[Forward%20financing]()** | **[Senior Data Analyst](https://jobr.pro/job/41443719/senior-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote - Alberta, Canada | Remote | Jun 26 |
 | **[SmithRx](https://smithrx.com)** | **[Marketing Data Analyst](https://jobr.pro/job/41428784/marketing-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Remote | Remote | Jun 26 |
 | **[NEXTON](https://nexton.dev)** | **[Data analyst H/F](https://jobr.pro/job/41426970/data-analyst-hf?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Montpellier, Occitanie, France | On Site | Jun 26 |
 | **[Standard Bank Group](https://standardbank.com)** | **[Financial Data Analyst, Jersey](https://jobr.pro/job/41426598/financial-data-analyst-jersey?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Saint-Helier, St Helier, Jersey | On Site | Jun 26 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[itD Tech](https://itdtechnologie.com)** | **[Data Analyst IV (Product Lifecycle Management Analyst)-6221](https://jobr.pro/job/41389257/data-analyst-iv-product-lifecycle-management-analyst-6221?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Sunnyvale, CA | On Site | Jun 25 |
 | **[Ströer SE & Co. KGaA (Ströer Gruppe)](https://www.stroeer.de)** | **[Sales Data Analyst (w/m/d)](https://jobr.pro/job/41389235/sales-data-analyst-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Köln, NRW, Germany | On Site | Jun 25 |
 | **[Horizon Trading Solutions](https://www.horizontrading.io)** | **[Alternance - Financial Data Analyst (F/H)](https://jobr.pro/job/41388739/alternance-financial-data-analyst-fh?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Paris, Paris, France | On Site | Jun 25 |
-| **[Western Digital](https://www.westerndigital.com)** | **[Supply Chain Data Analyst](https://jobr.pro/job/41387857/supply-chain-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Amphoe Si Maha Phot, Prachin Buri, Thailand | On Site | Jun 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 30% remote | 46 companies | Avg salary: 6.250012000015834e+63k  
+**Current Stats:** 50 jobs | 32% remote | 46 companies | Avg salary: 6.250012000015834e+63k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
