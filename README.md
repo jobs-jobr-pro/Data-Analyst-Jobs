@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data Analyst Jobs — 2026
 
-<sub><small>Last updated: Jun 28, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 29, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Data Analyst job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Ashley Digital](https://residenthome.com)** | **[Data Solutions Analyst](https://jobr.pro/job/41461099/data-solutions-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Tel Aviv | On Site | Jun 28 |
 | **[Octal Philippines Inc.](https://octaltech.net)** | **[Data Analyst](https://jobr.pro/job/41458778/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Taguig City, National Capital Region, Philippines | On Site | Jun 28 |
 | **[Delivery Hero](https://www.talabat.com)** | **[Data Sr. Analyst](https://jobr.pro/job/41450515/data-sr-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Buenos Aires, , Argentina | Remote | Jun 27 |
 | **[OCT Consulting, LLC](https://octconsulting.com)** | **[Junior Data Scientist / Sr Analyst (0030)](https://jobr.pro/job/41448643/junior-data-scientist-sr-analyst-0030?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | McLean, Virginia, United States | On Site | Jun 27 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[HelloFresh](https://careers.hellofresh.com)** | **[Lead Data Analyst](https://jobr.pro/job/41395496/lead-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London, England, United Kingdom | On Site | Jun 25 |
 | **[Informa Group Plc.](https://www.informamarkets.com)** | **[Principal Analyst, Data Center](https://jobr.pro/job/41393300/principal-analyst-data-center?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | London, England, United Kingdom | Remote | Jun 25 |
 | **[Sika AG](https://www.sika.com)** | **[Analityk Danych Podstawowych (K/M) - Master Data Analyst](https://jobr.pro/job/41391340/analityk-danych-podstawowych-km-master-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Jun 25 |
-| **[Informa Group Plc.](https://www.informamarkets.com)** | **[Senior Finance Data Analyst](https://jobr.pro/job/41390313/senior-finance-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-data-analyst-jobs)** | Bengaluru, Karnataka, India | On Site | Jun 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 32% remote | 46 companies | Avg salary: 6.666716666792e+79k  
+**Current Stats:** 50 jobs | 32% remote | 47 companies | Avg salary: 6.666716666792e+79k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
